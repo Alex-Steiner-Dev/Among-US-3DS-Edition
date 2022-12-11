@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 1d41627f298923e4a8f3bd7eb4686dd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hat_arcane_goggles0002
+  - first:
+      213: 21300002
+    second: hat_arcane_enforcer0002
+  - first:
+      213: 21300004
+    second: hat_arcane_enforcer0001
+  - first:
+      213: 21300006
+    second: hat_arcane_Jayce0003
+  - first:
+      213: 21300008
+    second: hat_arcane_Heimerdinger0003
+  - first:
+      213: 21300010
+    second: hat_arcane_Heimerdinger0002
+  - first:
+      213: 21300012
+    second: hat_arcane_Vi0002
+  - first:
+      213: 21300014
+    second: hat_arcane_Jinx0004
+  - first:
+      213: 21300016
+    second: hat_arcane_Jinx0002
+  - first:
+      213: 21300018
+    second: hat_arcane_Heimerdinger0001
+  - first:
+      213: 21300020
+    second: hat_arcane_Jinx0001
+  - first:
+      213: 21300022
+    second: hat_arcane_chomper0002
+  - first:
+      213: 21300024
+    second: hat_arcane_goggles0003
+  - first:
+      213: 21300026
+    second: hat_arcane_caitlin0001
+  - first:
+      213: 21300028
+    second: hat_arcane_Jinx0003
+  - first:
+      213: 21300030
+    second: visor_arcane_heimerdinger0003
+  - first:
+      213: 21300032
+    second: visor_arcane_jinx0003
+  - first:
+      213: 21300034
+    second: visor_arcane_jinx0002
+  - first:
+      213: 21300036
+    second: hat_arcane_goggles0001
+  - first:
+      213: 21300038
+    second: hat_arcane_caitlin0003
+  - first:
+      213: 21300040
+    second: hat_arcane_Heimerdinger0004
+  - first:
+      213: 21300042
+    second: hat_arcane_Vi0001
+  - first:
+      213: 21300044
+    second: hat_arcane_Jayce0001
+  - first:
+      213: 21300046
+    second: hat_arcane_enforcer0003
+  - first:
+      213: 21300048
+    second: hat_arcane_Vi0003
+  - first:
+      213: 21300050
+    second: visor_arcane_heimerdinger0001
+  - first:
+      213: 21300052
+    second: hat_arcane_caitlin0002
+  - first:
+      213: 21300054
+    second: visor_arcane_jinx0001
+  - first:
+      213: 21300056
+    second: hat_arcane_chomper0003
+  - first:
+      213: 21300058
+    second: hat_arcane_chomper0001
+  - first:
+      213: 21300060
+    second: hat_arcane_Jayce0002
+  - first:
+      213: 21300062
+    second: hat_arcane_Vi0004
+  - first:
+      213: 21300064
+    second: visor_arcane_heimerdinger0002
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_arcane_goggles0002
+      rect:
+        serializedVersion: 2
+        x: 640.0761
+        y: 612.0761
+        width: 164.89713
+        height: 61.897133
+      alignment: 9
+      pivot: {x: 0.53320456, y: 0.531913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.52467, y: -22.024677}
+        - {x: -88.52467, y: 10.975323}
+        - {x: -26.524673, y: 30.975323}
+        - {x: 87.47533, y: 29.975323}
+        - {x: 79.47533, y: -6.0246773}
+        - {x: 15.475327, y: -35.024677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_enforcer0002
+      rect:
+        serializedVersion: 2
+        x: 264.0761
+        y: 747.0761
+        width: 166.89713
+        height: 161.89713
+      alignment: 9
+      pivot: {x: 0.5148314, y: 0.24042359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.52468, y: 25.975327}
+        - {x: -37.524677, y: 76.97532}
+        - {x: 0.4753189, y: 80.97533}
+        - {x: 98.47532, y: -37.024673}
+        - {x: 7.4753184, y: -84.02467}
+        - {x: -76.52468, y: -64.02467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_enforcer0001
+      rect:
+        serializedVersion: 2
+        x: 181.01291
+        y: 585.02673
+        width: 159.91096
+        height: 156.89713
+      alignment: 9
+      pivot: {x: 0.44391635, y: 0.42686102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.96839, y: 56.524704}
+        - {x: -13.968391, y: 78.524704}
+        - {x: 43.03161, y: 77.524704}
+        - {x: 88.03161, y: -67.475296}
+        - {x: -8.968391, y: -83.475296}
+        - {x: -82.96839, y: -29.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jayce0003
+      rect:
+        serializedVersion: 2
+        x: 282.0761
+        y: 492.0761
+        width: 128.89713
+        height: 85.89713
+      alignment: 9
+      pivot: {x: 0.5502364, y: 0.05732309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.4753265, y: -47.024677}
+        - {x: -61.524673, y: -39.024677}
+        - {x: -66.524666, y: -1.0246773}
+        - {x: -50.524673, y: 42.975323}
+        - {x: 5.4753265, y: 41.975315}
+        - {x: 75.47533, y: 17.975323}
+        - {x: 57.475327, y: -39.024677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Heimerdinger0003
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 900.0761
+        width: 242.89713
+        height: 115.89713
+      alignment: 9
+      pivot: {x: 0.5266587, y: 0.07699836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.52467, y: 51.975323}
+        - {x: 14.475327, y: 64.97533}
+        - {x: 58.475327, y: 49.975315}
+        - {x: 86.47532, y: 0.9753227}
+        - {x: 129.47533, y: -30.024677}
+        - {x: 62.475327, y: -58.024677}
+        - {x: -64.52467, y: -57.024677}
+        - {x: -128.52467, y: -30.024677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Heimerdinger0002
+      rect:
+        serializedVersion: 2
+        x: 691.02673
+        y: 884.02673
+        width: 197.93034
+        height: 137.89713
+      alignment: 9
+      pivot: {x: 0.59098196, y: 0.18110071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.99191, y: 25.024704}
+        - {x: -13.991913, y: 70.024704}
+        - {x: 19.008087, y: 47.024704}
+        - {x: 75.00809, y: 41.024704}
+        - {x: 104.00808, y: -18.975296}
+        - {x: 91.00808, y: -53.975296}
+        - {x: -17.991913, y: -68.975296}
+        - {x: -68.99191, y: -58.975296}
+        - {x: -100.991905, y: -42.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Vi0002
+      rect:
+        serializedVersion: 2
+        x: 492.0761
+        y: 953.0761
+        width: 188.89713
+        height: 69.84776
+      alignment: 9
+      pivot: {x: 0.56074905, y: 0.34251475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.52468, y: 34.000008}
+        - {x: 41.47532, y: 35.000004}
+        - {x: 79.47532, y: 18.000008}
+        - {x: 100.47532, y: -8.999992}
+        - {x: 80.47532, y: -33.999992}
+        - {x: -33.52468, y: -34.999992}
+        - {x: -105.52467, y: -29.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jinx0004
+      rect:
+        serializedVersion: 2
+        x: 681.0761
+        y: 683.0761
+        width: 178.84775
+        height: 194.87256
+      alignment: 9
+      pivot: {x: 0.4133342, y: 0.6615805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.499985, y: 73.48761}
+        - {x: 63.500015, y: 101.48761}
+        - {x: 98.500015, y: 21.48761}
+        - {x: 77.500015, y: -18.51239}
+        - {x: 52.500015, y: -24.51239}
+        - {x: 51.500008, y: 23.48761}
+        - {x: 23.500015, y: 39.48761}
+        - {x: -4.4999847, y: 39.48761}
+        - {x: -50.499985, y: 7.48761}
+        - {x: -55.49998, y: -91.51239}
+        - {x: -80.499985, y: -104.51239}
+        - {x: -90.499985, y: -74.51238}
+        - {x: -73.499985, y: -65.51239}
+        - {x: -72.499985, y: 42.48761}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jinx0002
+      rect:
+        serializedVersion: 2
+        x: 261.0761
+        y: 919.0761
+        width: 199.89713
+        height: 100.84776
+      alignment: 9
+      pivot: {x: 0.55990744, y: 0.56445366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.02467, y: 5.5000076}
+        - {x: -34.02467, y: 34.500008}
+        - {x: -53.024673, y: 53.500008}
+        - {x: 31.975325, y: 46.500004}
+        - {x: 117.97532, y: 4.5000076}
+        - {x: 28.975327, y: -58.499992}
+        - {x: -46.024673, y: -34.499992}
+        - {x: -60.024673, y: -2.4999924}
+        - {x: -100.02467, y: -16.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Heimerdinger0001
+      rect:
+        serializedVersion: 2
+        x: 813.02673
+        y: 479.0761
+        width: 173.97325
+        height: 147.84775
+      alignment: 9
+      pivot: {x: 0.59189135, y: 0.20239668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.01337, y: -39.999985}
+        - {x: -75.01337, y: 30.00002}
+        - {x: -21.013367, y: 75.000015}
+        - {x: 12.986633, y: 51.00002}
+        - {x: 62.986633, y: 46.00002}
+        - {x: 86.98663, y: 12.000011}
+        - {x: 86.98663, y: -39.999985}
+        - {x: 20.986633, y: -42.999985}
+        - {x: -34.013367, y: -83.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jinx0001
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 519.02673
+        width: 142.89713
+        height: 200.86436
+      alignment: 9
+      pivot: {x: 0.54531455, y: 0.6918762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.475319, y: 34.541084}
+        - {x: 17.475319, y: -25.458916}
+        - {x: -27.524681, y: -27.458916}
+        - {x: -41.52468, y: -116.458916}
+        - {x: -78.52468, y: -88.458916}
+        - {x: -58.52468, y: -51.458916}
+        - {x: -58.52468, y: 68.541084}
+        - {x: 8.475319, y: 106.541084}
+        - {x: 80.47532, y: 62.541084}
+        - {x: 68.47532, y: 42.541084}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_chomper0002
+      rect:
+        serializedVersion: 2
+        x: 902.02673
+        y: 352.02676
+        width: 119.9465
+        height: 114.89713
+      alignment: 9
+      pivot: {x: 0.47498897, y: 0.29568392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.999985, y: -23.47533}
+        - {x: -61.99998, y: 20.52467}
+        - {x: -14.999985, y: 57.52467}
+        - {x: 53.000015, y: 47.52467}
+        - {x: 60.000015, y: 3.5246677}
+        - {x: 50.00001, y: -59.47533}
+        - {x: 0.000015258789, y: -52.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_goggles0003
+      rect:
+        serializedVersion: 2
+        x: 902.0761
+        y: 837.0761
+        width: 114.84776
+        height: 87.89713
+      alignment: 9
+      pivot: {x: 0.54788953, y: 0.0673957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.499996, y: 34.975315}
+        - {x: -15.499996, y: 48.975323}
+        - {x: 52.500004, y: 36.975323}
+        - {x: 60.500004, y: -32.024677}
+        - {x: -18.499996, y: -52.024677}
+        - {x: -63.499996, y: -23.024677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_caitlin0001
+      rect:
+        serializedVersion: 2
+        x: 7.026751
+        y: 92.07612
+        width: 139.97325
+        height: 182.85344
+      alignment: 9
+      pivot: {x: 0.50704867, y: 0.41521713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.013374, y: 47.49716}
+        - {x: 12.986626, y: 93.49716}
+        - {x: 69.986626, y: 49.49716}
+        - {x: 69.986626, y: -17.502838}
+        - {x: -1.0133743, y: -22.502838}
+        - {x: -14.013373, y: -72.50284}
+        - {x: -56.013374, y: -104.50284}
+        - {x: -57.013374, y: -27.502838}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jinx0003
+      rect:
+        serializedVersion: 2
+        x: 603.0761
+        y: 368.0761
+        width: 142.84775
+        height: 231.89713
+      alignment: 9
+      pivot: {x: 0.55950403, y: 0.51714265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.499985, y: 95.97533}
+        - {x: -29.499985, y: 121.97533}
+        - {x: 21.500015, y: 71.975334}
+        - {x: 63.500015, y: 67.975334}
+        - {x: 73.500015, y: -122.024666}
+        - {x: 40.500015, y: -113.02466}
+        - {x: 42.500015, y: -19.024664}
+        - {x: 14.500015, y: 2.9753342}
+        - {x: -30.499985, y: -6.024665}
+        - {x: -38.499985, y: -35.024666}
+        - {x: -31.49998, y: -106.024666}
+        - {x: -51.49998, y: -126.024666}
+        - {x: -64.49998, y: -113.02466}
+        - {x: -59.499985, y: -46.024666}
+        - {x: -74.499985, y: 48.975334}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visor_arcane_heimerdinger0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 101
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5940594, y: -1.7857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.499996, y: -14}
+        - {x: -50.499996, y: 14}
+        - {x: 50.5, y: 14}
+        - {x: 50.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visor_arcane_jinx0003
+      rect:
+        serializedVersion: 2
+        x: 903.0761
+        y: 283.0761
+        width: 113.92388
+        height: 56.897125
+      alignment: 9
+      pivot: {x: 0.5786661, y: 0.22714485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.03805, y: 10.475327}
+        - {x: -53.03805, y: 33.475323}
+        - {x: -22.038052, y: 3.4753265}
+        - {x: 27.961948, y: 9.475327}
+        - {x: 56.96195, y: 36.475327}
+        - {x: 56.96195, y: -26.524673}
+        - {x: -44.038048, y: -32.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visor_arcane_jinx0002
+      rect:
+        serializedVersion: 2
+        x: 427.02676
+        y: 470.0761
+        width: 136.97325
+        height: 93.84776
+      alignment: 9
+      pivot: {x: 0.5838602, y: 0.45737785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.513386, y: 45.000004}
+        - {x: 68.48661, y: 49.000004}
+        - {x: 68.48661, y: -5.9999924}
+        - {x: 14.48661, y: -46.99999}
+        - {x: -71.51339, y: -45.999992}
+        - {x: -65.51339, y: 30.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_goggles0001
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 15.026751
+        width: 121.89713
+        height: 61.89713
+      alignment: 9
+      pivot: {x: 0.4341684, y: 0.27421707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.024685, y: -1.9753151}
+        - {x: -21.024685, y: 31.024685}
+        - {x: 55.975315, y: 30.024685}
+        - {x: 66.97531, y: -11.975315}
+        - {x: 5.975315, y: -9.975315}
+        - {x: -63.024685, y: -34.975315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_caitlin0003
+      rect:
+        serializedVersion: 2
+        x: 876.0761
+        y: 633.0761
+        width: 143.84775
+        height: 190.88097
+      alignment: 9
+      pivot: {x: 0.54866266, y: 0.34012762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.999985, y: 51.483406}
+        - {x: -17.999985, y: 98.483406}
+        - {x: 59.000015, y: 67.4834}
+        - {x: 75.000015, y: 5.483406}
+        - {x: 65.000015, y: -89.51659}
+        - {x: -12.999983, y: -98.516594}
+        - {x: -62.999985, y: -85.516594}
+        - {x: -76.999985, y: -0.51659584}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Heimerdinger0004
+      rect:
+        serializedVersion: 2
+        x: 19.02675
+        y: 290.0761
+        width: 78.96728
+        height: 43.847755
+      alignment: 9
+      pivot: {x: -0.20295432, y: 0.75086826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.510391, y: -32.99999}
+        - {x: -57.51039, y: 8.000011}
+        - {x: -14.510391, y: 22.000011}
+        - {x: 51.4896, y: 21.000011}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Vi0001
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 798.01294
+        width: 162.84775
+        height: 99.91097
+      alignment: 9
+      pivot: {x: 0.5706182, y: 0.33016455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.499992, y: 3.0315723}
+        - {x: -78.499985, y: 31.031574}
+        - {x: -34.499992, y: 25.031574}
+        - {x: -21.499992, y: 50.031567}
+        - {x: 35.500008, y: 49.031574}
+        - {x: 91.50001, y: 14.031574}
+        - {x: 67.5, y: -23.968426}
+        - {x: -49.499992, y: -52.968426}
+        - {x: -83.49999, y: -32.968426}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jayce0001
+      rect:
+        serializedVersion: 2
+        x: 896.0761
+        y: 938.0761
+        width: 115.84776
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.24048798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.999992, y: 14.50001}
+        - {x: -25.999992, y: 43.500008}
+        - {x: 49.000004, y: 38.500008}
+        - {x: 67, y: -6.4999924}
+        - {x: 34.000008, y: -27.499992}
+        - {x: 1.0000076, y: -13.499992}
+        - {x: -37.999992, y: -47.499992}
+        - {x: -55.999992, y: -29.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_enforcer0003
+      rect:
+        serializedVersion: 2
+        x: 754.0429
+        y: 337.0761
+        width: 137.93034
+        height: 119.91791
+      alignment: 9
+      pivot: {x: 0.5361916, y: 0.099433765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.99192, y: -26.035065}
+        - {x: 61.99192, y: -58.035065}
+        - {x: -41.008076, y: -61.035065}
+        - {x: -73.00808, y: -45.035065}
+        - {x: -57.00808, y: 18.964928}
+        - {x: 24.991919, y: 69.96493}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Vi0003
+      rect:
+        serializedVersion: 2
+        x: 461.02676
+        y: 676.0761
+        width: 165.89713
+        height: 108.84776
+      alignment: 9
+      pivot: {x: 0.40370342, y: 0.100359336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.975327, y: 31.500008}
+        - {x: 21.024673, y: 63.5}
+        - {x: 50.024673, y: 38.500008}
+        - {x: 88.02467, y: 36.5}
+        - {x: 62.024673, y: 6.5000076}
+        - {x: 82.024666, y: -29.499992}
+        - {x: 55.024673, y: -31.499992}
+        - {x: 54.024673, y: -56.499992}
+        - {x: 21.024673, y: -39.499992}
+        - {x: -95.97532, y: -40.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visor_arcane_heimerdinger0001
+      rect:
+        serializedVersion: 2
+        x: 288.0761
+        y: 401
+        width: 107.89713
+        height: 85
+      alignment: 9
+      pivot: {x: 0.2031925, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.024673, y: 42.5}
+        - {x: 51.975323, y: 42.5}
+        - {x: 51.975323, y: 14.5}
+        - {x: 20.975319, y: 6.5}
+        - {x: 67.97533, y: -16.5}
+        - {x: 28.975323, y: -42.5}
+        - {x: -40.024677, y: -42.5}
+        - {x: -60.024677, y: -22.5}
+        - {x: -33.024677, y: 2.500002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_caitlin0002
+      rect:
+        serializedVersion: 2
+        x: 489.0429
+        y: 796
+        width: 185.94418
+        height: 151.97325
+      alignment: 9
+      pivot: {x: 0.63974625, y: 0.375066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.015, y: 48.013367}
+        - {x: 55.985, y: 79.01337}
+        - {x: 95.985, y: 41.01337}
+        - {x: 79.985, y: -26.986626}
+        - {x: 9.985001, y: -75.986626}
+        - {x: -65.015, y: -75.986626}
+        - {x: -101.015, y: -39.986626}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visor_arcane_jinx0001
+      rect:
+        serializedVersion: 2
+        x: 136.07613
+        y: 19.07612
+        width: 137.84775
+        height: 56.847755
+      alignment: 9
+      pivot: {x: 0.36942115, y: 0.71988565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 23.500004}
+        - {x: 58, y: 29.500004}
+        - {x: 73, y: 6.500004}
+        - {x: 63, y: -23.499996}
+        - {x: -7, y: -29.499996}
+        - {x: -72, y: -3.4999962}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_chomper0003
+      rect:
+        serializedVersion: 2
+        x: 167.02675
+        y: 456.02676
+        width: 97.89713
+        height: 120.89713
+      alignment: 9
+      pivot: {x: 0.47982255, y: 0.14039403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.975313, y: 60.52467}
+        - {x: 20.024685, y: 61.524662}
+        - {x: 51.02468, y: -21.47533}
+        - {x: 34.024685, y: -59.47533}
+        - {x: -30.975315, y: -60.47533}
+        - {x: -53.975315, y: -21.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_chomper0001
+      rect:
+        serializedVersion: 2
+        x: 7.026751
+        y: 356.00598
+        width: 126.897125
+        height: 97.994026
+      alignment: 9
+      pivot: {x: 0.51201516, y: -0.040879853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.52469, y: -12.002995}
+        - {x: 57.52469, y: -43.002995}
+        - {x: -43.47531, y: -51.002995}
+        - {x: -69.47531, y: 0.99700165}
+        - {x: -26.475311, y: 48.997005}
+        - {x: 43.52469, y: 48.997005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Jayce0002
+      rect:
+        serializedVersion: 2
+        x: 16.07612
+        y: 734.0761
+        width: 146.89713
+        height: 57.897125
+      alignment: 9
+      pivot: {x: 0.5440807, y: 0.43048579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.475319, y: -35.024673}
+        - {x: -88.52468, y: -17.024673}
+        - {x: -20.524681, y: 29.975327}
+        - {x: 49.47532, y: 26.975327}
+        - {x: 86.47532, y: 4.9753265}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_arcane_Vi0004
+      rect:
+        serializedVersion: 2
+        x: 448.0761
+        y: 575.0761
+        width: 144.89713
+        height: 94.915306
+      alignment: 9
+      pivot: {x: 0.4825761, y: 0.22044802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.524673, y: 36.46624}
+        - {x: 18.475327, y: 49.46624}
+        - {x: 58.475327, y: 24.466238}
+        - {x: 77.47532, y: -8.533764}
+        - {x: 65.47533, y: -25.533764}
+        - {x: 15.475327, y: -17.533764}
+        - {x: -71.52467, y: -54.53376}
+        - {x: -72.52467, y: 11.466238}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visor_arcane_heimerdinger0002
+      rect:
+        serializedVersion: 2
+        x: 353.0761
+        y: 641.0429
+        width: 92.92388
+        height: 91.93034
+      alignment: 9
+      pivot: {x: 0.53725576, y: 0.53254557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.53805, y: 27.99192}
+        - {x: 46.461945, y: 54.991917}
+        - {x: 46.461945, y: -52.008076}
+        - {x: -48.53805, y: -35.00808}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hat_arcane_chomper0002: 21300022
+      hat_arcane_Heimerdinger0004: 21300040
+      hat_arcane_Jinx0002: 21300016
+      visor_arcane_jinx0001: 21300054
+      visor_arcane_heimerdinger0002: 21300064
+      hat_arcane_Jinx0001: 21300020
+      hat_arcane_chomper0001: 21300058
+      hat_arcane_Vi0002: 21300012
+      hat_arcane_Jayce0003: 21300006
+      hat_arcane_Heimerdinger0002: 21300010
+      visor_arcane_jinx0003: 21300032
+      hat_arcane_Jinx0003: 21300028
+      hat_arcane_Vi0001: 21300042
+      hat_arcane_enforcer0003: 21300046
+      hat_arcane_goggles0002: 21300000
+      hat_arcane_Heimerdinger0001: 21300018
+      hat_arcane_caitlin0001: 21300026
+      hat_arcane_enforcer0002: 21300002
+      visor_arcane_heimerdinger0003: 21300030
+      visor_arcane_heimerdinger0001: 21300050
+      hat_arcane_goggles0001: 21300036
+      hat_arcane_Vi0003: 21300048
+      visor_arcane_jinx0002: 21300034
+      hat_arcane_Jayce0002: 21300060
+      hat_arcane_Vi0004: 21300062
+      hat_arcane_Heimerdinger0003: 21300008
+      hat_arcane_Jinx0004: 21300014
+      hat_arcane_enforcer0001: 21300004
+      hat_arcane_caitlin0003: 21300038
+      hat_arcane_caitlin0002: 21300052
+      hat_arcane_chomper0003: 21300056
+      hat_arcane_goggles0003: 21300024
+      hat_arcane_Jayce0001: 21300044
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

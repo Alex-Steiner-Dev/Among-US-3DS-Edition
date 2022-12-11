@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: f25218fab6c0f3d4b9d385b0d0271ec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: records_bookBrown
+  - first:
+      213: 21300002
+    second: records_bookgreen
+  - first:
+      213: 21300004
+    second: records_filedivider
+  - first:
+      213: 21300006
+    second: records_folderplaced
+  - first:
+      213: 21300008
+    second: records_fileside
+  - first:
+      213: 21300010
+    second: records_shelfmain
+  - first:
+      213: 21300012
+    second: records_droorfront
+  - first:
+      213: 21300014
+    second: records_bookYello
+  - first:
+      213: 21300016
+    second: records_shelfback
+  - first:
+      213: 21300018
+    second: records_folder
+  - first:
+      213: 21300020
+    second: records_fileBG
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: records_bookBrown
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 594
+        width: 100
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -234.5}
+        - {x: -50, y: 234.5}
+        - {x: 50, y: 234.5}
+        - {x: 50, y: -234.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_bookgreen
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 583
+        width: 100
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -234.5}
+        - {x: -50, y: 234.5}
+        - {x: 50, y: 234.5}
+        - {x: 50, y: -234.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_filedivider
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1
+        width: 689
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -314.5, y: 89.5}
+        - {x: -344.5, y: 76.5}
+        - {x: -344.5, y: 114.5}
+        - {x: 344.5, y: 114.5}
+        - {x: 344.5, y: 74.5}
+        - {x: 313.5, y: 91.5}
+        - {x: 313.5, y: -114.5}
+        - {x: -314.5, y: -114.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_folderplaced
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 232
+        width: 627
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: 188.5}
+        - {x: 200.49998, y: 188.5}
+        - {x: 218.5, y: 177.5}
+        - {x: 313.5, y: 171.49998}
+        - {x: 313.5, y: -188.5}
+        - {x: -313.5, y: -188.5}
+        - {x: -313.5, y: 171.49998}
+        - {x: 49.499996, y: 172.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_fileside
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 117
+        width: 40
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.999998, y: -237.5}
+        - {x: -19.999998, y: 237.5}
+        - {x: 19.999998, y: 237.5}
+        - {x: 19.999998, y: -237.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_shelfmain
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 759
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -379.49997, y: -27.5}
+        - {x: -379.49997, y: 27.5}
+        - {x: 379.49997, y: 27.5}
+        - {x: 379.49997, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_droorfront
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 762
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -381, y: -205}
+        - {x: -381, y: 205}
+        - {x: 381, y: 205}
+        - {x: 381, y: -205}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_bookYello
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 594
+        width: 100
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -234.5}
+        - {x: -50, y: 234.5}
+        - {x: 50, y: 234.5}
+        - {x: 50, y: -234.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_shelfback
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 560
+        width: 759
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -379.49997, y: 251.49998}
+        - {x: -372.5, y: 251.49998}
+        - {x: -369.5, y: 239.5}
+        - {x: 365.5, y: 239.5}
+        - {x: 373.5, y: 247.49998}
+        - {x: 379.49997, y: 247.49998}
+        - {x: 379.49997, y: -251.49998}
+        - {x: -379.49997, y: -251.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_folder
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 232
+        width: 320
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 159.99998, y: -8}
+        - {x: 142, y: -127}
+        - {x: -159.99998, y: -127}
+        - {x: -159.99998, y: 113}
+        - {x: -140, y: 117.99999}
+        - {x: 7, y: 116}
+        - {x: 37, y: 127}
+        - {x: 111, y: 127}
+        - {x: 159.99998, y: 109}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: records_fileBG
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 611
+        width: 760
+        height: 452
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -380, y: 226}
+        - {x: 380, y: 226}
+        - {x: 380, y: 219}
+        - {x: 313, y: 216.99998}
+        - {x: 313, y: -226}
+        - {x: -333, y: -226}
+        - {x: -333, y: 216.99998}
+        - {x: -380, y: 219}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      records_folder: 21300018
+      records_bookBrown: 21300000
+      records_shelfback: 21300016
+      records_shelfmain: 21300010
+      records_fileBG: 21300020
+      records_folderplaced: 21300006
+      records_bookYello: 21300014
+      records_filedivider: 21300004
+      records_fileside: 21300008
+      records_droorfront: 21300012
+      records_bookgreen: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

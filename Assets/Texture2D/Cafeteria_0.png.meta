@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: d25d9c409b7bff3498298066253e5c12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: room_cafeteria
+  - first:
+      213: 21300002
+    second: panel_trashlever
+  - first:
+      213: 21300004
+    second: dropship_panel
+  - first:
+      213: 21300006
+    second: panel_emergencyButton
+  - first:
+      213: 21300008
+    second: electrical_caf
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: room_cafeteria
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 986
+        height: 989
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -307, y: 494.49997}
+        - {x: 232, y: 494.49997}
+        - {x: 475.99997, y: 250.49998}
+        - {x: 479.99997, y: 129.5}
+        - {x: 492.99997, y: 129.5}
+        - {x: 492.99997, y: -52.499996}
+        - {x: 479, y: -55.5}
+        - {x: 479, y: -239.5}
+        - {x: 260, y: -458.5}
+        - {x: 72.99999, y: -460.5}
+        - {x: 71, y: -494.49997}
+        - {x: 57, y: -494.49997}
+        - {x: 53.999996, y: -482.49997}
+        - {x: -66, y: -486.49997}
+        - {x: -66, y: -494.49997}
+        - {x: -79, y: -494.49997}
+        - {x: -83, y: -458.5}
+        - {x: -264, y: -458.5}
+        - {x: -475.99997, y: -246.49998}
+        - {x: -479.99997, y: -52.499996}
+        - {x: -492, y: -52.499996}
+        - {x: -492, y: -39.5}
+        - {x: -487, y: -36.499996}
+        - {x: -492.99997, y: 56.5}
+        - {x: -492.99997, y: 129.5}
+        - {x: -475, y: 133.49998}
+        - {x: -475, y: 326.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_trashlever
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 975
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -22.999998}
+        - {x: -14, y: 22.999998}
+        - {x: 14, y: 22.999998}
+        - {x: 14, y: -22.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropship_panel
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 949.0761
+        width: 80.92388
+        height: 70.89713
+      alignment: 9
+      pivot: {x: 0.49335104, y: 0.52080935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.53806, y: -24.524677}
+        - {x: -41.53806, y: 25.475323}
+        - {x: -0.53805923, y: 36.475323}
+        - {x: 40.46194, y: -4.5246773}
+        - {x: 40.46194, y: -21.524675}
+        - {x: 5.461941, y: -35.524677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_emergencyButton
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 898
+        width: 51
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -22.999998}
+        - {x: -25.5, y: 22.999998}
+        - {x: 25.5, y: 22.999998}
+        - {x: 25.5, y: -22.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electrical_caf
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 982
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -19.5}
+        - {x: -10.5, y: 19.5}
+        - {x: 10.5, y: 19.5}
+        - {x: 10.5, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      room_cafeteria: 21300000
+      panel_emergencyButton: 21300006
+      electrical_caf: 21300008
+      panel_trashlever: 21300002
+      dropship_panel: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1374 @@
+fileFormatVersion: 2
+guid: d80270697a253ac42af55b08be0a4b67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: photos_image0014
+  - first:
+      213: 21300002
+    second: photos_watergraphics0004
+  - first:
+      213: 21300004
+    second: photos_watergraphics0005
+  - first:
+      213: 21300006
+    second: photos_image0008
+  - first:
+      213: 21300008
+    second: photos_bucket
+  - first:
+      213: 21300010
+    second: photos_image0017
+  - first:
+      213: 21300012
+    second: photos_image0006
+  - first:
+      213: 21300014
+    second: photos_bucketfront
+  - first:
+      213: 21300016
+    second: photos_watergraphics0008
+  - first:
+      213: 21300018
+    second: photos_image0010
+  - first:
+      213: 21300020
+    second: photos_image0013
+  - first:
+      213: 21300022
+    second: photos_image0007
+  - first:
+      213: 21300024
+    second: photos_watergraphics0012
+  - first:
+      213: 21300026
+    second: photos_image0005
+  - first:
+      213: 21300028
+    second: photos_image0016
+  - first:
+      213: 21300030
+    second: photos_image0012
+  - first:
+      213: 21300032
+    second: photos_image0002
+  - first:
+      213: 21300034
+    second: photos_image0015
+  - first:
+      213: 21300036
+    second: photos_polaroid
+  - first:
+      213: 21300038
+    second: photos_image0018
+  - first:
+      213: 21300040
+    second: photos_image0009
+  - first:
+      213: 21300042
+    second: photos_image0011
+  - first:
+      213: 21300044
+    second: photos_image0003
+  - first:
+      213: 21300046
+    second: photos_image0004
+  - first:
+      213: 21300048
+    second: photos_watergraphics0003
+  - first:
+      213: 21300050
+    second: photos_watergraphics0001
+  - first:
+      213: 21300052
+    second: photos_watergraphics0002
+  - first:
+      213: 21300054
+    second: photos_watergraphics0010
+  - first:
+      213: 21300056
+    second: photos_watergraphics0009
+  - first:
+      213: 21300058
+    second: photos_watergraphics0006
+  - first:
+      213: 21300060
+    second: photos_image0019
+  - first:
+      213: 21300062
+    second: photos_watergraphics0007
+  - first:
+      213: 21300064
+    second: photos_watergraphics0011
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: photos_image0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0004
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 451
+        width: 320
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5046875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: -104.99999}
+        - {x: -81, y: -91.99999}
+        - {x: 30.999998, y: -91.99999}
+        - {x: 30.999998, y: -104.99999}
+      - - {x: 155, y: -76}
+        - {x: 155, y: -56}
+        - {x: 159.99998, y: -56}
+        - {x: 159.99998, y: -76}
+      - - {x: 3, y: -25}
+        - {x: 92, y: -22.999998}
+        - {x: 80.99999, y: -51}
+        - {x: 34.999996, y: -51}
+        - {x: -31, y: -35}
+      - - {x: 6, y: 11}
+        - {x: -83, y: 28}
+        - {x: -71.99999, y: 44}
+        - {x: 6, y: 39.999996}
+      - - {x: -31.999996, y: 68}
+        - {x: -31.999996, y: 79.99999}
+        - {x: 52, y: 79.99999}
+        - {x: 52, y: 68}
+      - - {x: -160, y: 87}
+        - {x: -160, y: 104.99999}
+        - {x: -146, y: 104.99999}
+        - {x: -146, y: 87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0005
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 451
+        width: 320
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5046875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: -104.99999}
+        - {x: -81, y: -91.99999}
+        - {x: 30.999998, y: -91.99999}
+        - {x: 30.999998, y: -104.99999}
+      - - {x: 155, y: -76}
+        - {x: 155, y: -56}
+        - {x: 159.99998, y: -56}
+        - {x: 159.99998, y: -76}
+      - - {x: 3, y: -25}
+        - {x: 92, y: -22.999998}
+        - {x: 80.99999, y: -51}
+        - {x: 34.999996, y: -51}
+        - {x: -31, y: -35}
+      - - {x: 6, y: 11}
+        - {x: -83, y: 28}
+        - {x: -71.99999, y: 44}
+        - {x: 6, y: 39.999996}
+      - - {x: -31.999996, y: 68}
+        - {x: -31.999996, y: 79.99999}
+        - {x: 52, y: 79.99999}
+        - {x: 52, y: 68}
+      - - {x: -160, y: 87}
+        - {x: -160, y: 104.99999}
+        - {x: -146, y: 104.99999}
+        - {x: -146, y: 87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0008
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 406
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_bucket
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 629
+        width: 374
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -187, y: -165}
+        - {x: -187, y: 196.99998}
+        - {x: 187, y: 196.99998}
+        - {x: 187, y: -168}
+        - {x: 158, y: -196.99998}
+        - {x: -155, y: -196.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0017
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 208
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0006
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 710
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_bucketfront
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 932
+        width: 374
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -187, y: 45.5}
+        - {x: -166, y: 45.5}
+        - {x: -159.99998, y: 35.5}
+        - {x: 157, y: 35.5}
+        - {x: 167, y: 45.5}
+        - {x: 187, y: 45.5}
+        - {x: 187, y: -10.5}
+        - {x: 163, y: -45.5}
+        - {x: -155, y: -45.5}
+        - {x: -187, y: -13.499999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0008
+      rect:
+        serializedVersion: 2
+        x: 378.05133
+        y: 723
+        width: 324.94867
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4968436, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.525665, y: -103.49999}
+        - {x: -83.525665, y: -90.49999}
+        - {x: 27.474335, y: -90.49999}
+        - {x: 27.474335, y: -103.49999}
+      - - {x: 162.47433, y: -32.5}
+        - {x: 162.47433, y: -85.5}
+        - {x: 150.47433, y: -73.5}
+      - - {x: 31.474335, y: -49.5}
+        - {x: -25.525663, y: -35.5}
+        - {x: -3.525665, y: -21.499998}
+        - {x: 83.474335, y: -27.5}
+        - {x: 83.474335, y: -49.5}
+      - - {x: 10.474334, y: 10.5}
+        - {x: -95.525665, y: 33.5}
+        - {x: -59.52566, y: 42.5}
+        - {x: 10.474334, y: 40.5}
+      - - {x: -35.525665, y: 70.5}
+        - {x: -35.525665, y: 80.5}
+        - {x: 50.474335, y: 80.5}
+        - {x: 50.474335, y: 70.5}
+      - - {x: -156.52567, y: 103.5}
+        - {x: -146.52567, y: 103.5}
+        - {x: -157.52567, y: 88.5}
+        - {x: -163.52567, y: 96.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0007
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 406
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 319
+        height: 206.94868
+      alignment: 9
+      pivot: {x: 0.4937304, y: 0.50737214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -103.474335}
+        - {x: -80.5, y: -91.47434}
+        - {x: 23.5, y: -91.47434}
+        - {x: 23.5, y: -103.474335}
+      - - {x: 159.5, y: -36.474342}
+        - {x: 159.5, y: -82.47434}
+        - {x: 148.5, y: -71.474335}
+      - - {x: -6.5, y: -25.47434}
+        - {x: 88.5, y: -24.474342}
+        - {x: 77.49999, y: -54.474342}
+        - {x: 31.499996, y: -49.474342}
+        - {x: 24.499998, y: -36.474342}
+        - {x: -46.5, y: -35.474342}
+      - - {x: -80.5, y: 40.525658}
+        - {x: -9.5, y: 40.525658}
+        - {x: -7.5, y: 27.525658}
+        - {x: 55.5, y: 21.525656}
+        - {x: -51.499996, y: 13.525658}
+        - {x: -30.5, y: 30.525658}
+        - {x: -80.5, y: 30.525658}
+      - - {x: -34.5, y: 70.52566}
+        - {x: -34.5, y: 80.52566}
+        - {x: 47.499996, y: 80.52566}
+        - {x: 47.499996, y: 70.52566}
+      - - {x: -143.5, y: 105.52566}
+        - {x: -158.5, y: 90.52566}
+        - {x: -159.5, y: 100.52565}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0005
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 663
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0016
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 103
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0012
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 313
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0002
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 815
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0015
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 208
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_polaroid
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 873
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -75}
+        - {x: -63, y: 75}
+        - {x: 63, y: 75}
+        - {x: 63, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0018
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 103
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0009
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 406
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0011
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 313
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0003
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 768
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0004
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 710
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0003
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 511
+        width: 323
+        height: 210
+      alignment: 9
+      pivot: {x: 0.50619197, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: -96}
+        - {x: 41.5, y: -91}
+        - {x: 23.499998, y: -104.99999}
+        - {x: -82.5, y: -104.99999}
+      - - {x: 156.5, y: -78}
+        - {x: 156.5, y: -53.999996}
+        - {x: 161.49998, y: -53.999996}
+        - {x: 161.49998, y: -78}
+      - - {x: 33.5, y: -52}
+        - {x: -61.5, y: -28}
+        - {x: 86.5, y: -28}
+        - {x: 86.5, y: -48.999996}
+      - - {x: -2.5, y: 45.999996}
+        - {x: 20.5, y: 9}
+        - {x: -113.5, y: 33}
+      - - {x: -33.5, y: 69}
+        - {x: -33.5, y: 79.99999}
+        - {x: 50.5, y: 79.99999}
+        - {x: 50.5, y: 69}
+      - - {x: -161.5, y: 85.99999}
+        - {x: -161.5, y: 104.99999}
+        - {x: -145.5, y: 104.99999}
+        - {x: -145.5, y: 85.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0001
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 511
+        width: 323
+        height: 210
+      alignment: 9
+      pivot: {x: 0.50619197, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: -96}
+        - {x: 41.5, y: -91}
+        - {x: 23.499998, y: -104.99999}
+        - {x: -82.5, y: -104.99999}
+      - - {x: 156.5, y: -78}
+        - {x: 156.5, y: -53.999996}
+        - {x: 161.49998, y: -53.999996}
+        - {x: 161.49998, y: -78}
+      - - {x: 33.5, y: -52}
+        - {x: -61.5, y: -28}
+        - {x: 86.5, y: -28}
+        - {x: 86.5, y: -48.999996}
+      - - {x: -2.5, y: 45.999996}
+        - {x: 20.5, y: 9}
+        - {x: -113.5, y: 33}
+      - - {x: -33.5, y: 69}
+        - {x: -33.5, y: 79.99999}
+        - {x: 50.5, y: 79.99999}
+        - {x: 50.5, y: 69}
+      - - {x: -161.5, y: 85.99999}
+        - {x: -161.5, y: 104.99999}
+        - {x: -145.5, y: 104.99999}
+        - {x: -145.5, y: 85.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0002
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 511
+        width: 323
+        height: 210
+      alignment: 9
+      pivot: {x: 0.50619197, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: -96}
+        - {x: 41.5, y: -91}
+        - {x: 23.499998, y: -104.99999}
+        - {x: -82.5, y: -104.99999}
+      - - {x: 156.5, y: -78}
+        - {x: 156.5, y: -53.999996}
+        - {x: 161.49998, y: -53.999996}
+        - {x: 161.49998, y: -78}
+      - - {x: 33.5, y: -52}
+        - {x: -61.5, y: -28}
+        - {x: 86.5, y: -28}
+        - {x: 86.5, y: -48.999996}
+      - - {x: -2.5, y: 45.999996}
+        - {x: 20.5, y: 9}
+        - {x: -113.5, y: 33}
+      - - {x: -33.5, y: 69}
+        - {x: -33.5, y: 79.99999}
+        - {x: 50.5, y: 79.99999}
+        - {x: 50.5, y: 69}
+      - - {x: -161.5, y: 85.99999}
+        - {x: -161.5, y: 104.99999}
+        - {x: -145.5, y: 104.99999}
+        - {x: -145.5, y: 85.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 319
+        height: 206.94868
+      alignment: 9
+      pivot: {x: 0.4937304, y: 0.50737214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -103.474335}
+        - {x: -80.5, y: -91.47434}
+        - {x: 23.5, y: -91.47434}
+        - {x: 23.5, y: -103.474335}
+      - - {x: 159.5, y: -36.474342}
+        - {x: 159.5, y: -82.47434}
+        - {x: 148.5, y: -71.474335}
+      - - {x: -6.5, y: -25.47434}
+        - {x: 88.5, y: -24.474342}
+        - {x: 77.49999, y: -54.474342}
+        - {x: 31.499996, y: -49.474342}
+        - {x: 24.499998, y: -36.474342}
+        - {x: -46.5, y: -35.474342}
+      - - {x: -80.5, y: 40.525658}
+        - {x: -9.5, y: 40.525658}
+        - {x: -7.5, y: 27.525658}
+        - {x: 55.5, y: 21.525656}
+        - {x: -51.499996, y: 13.525658}
+        - {x: -30.5, y: 30.525658}
+        - {x: -80.5, y: 30.525658}
+      - - {x: -34.5, y: 70.52566}
+        - {x: -34.5, y: 80.52566}
+        - {x: 47.499996, y: 80.52566}
+        - {x: 47.499996, y: 70.52566}
+      - - {x: -143.5, y: 105.52566}
+        - {x: -158.5, y: 90.52566}
+        - {x: -159.5, y: 100.52565}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0009
+      rect:
+        serializedVersion: 2
+        x: 378.05133
+        y: 723
+        width: 324.94867
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4968436, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.525665, y: -103.49999}
+        - {x: -83.525665, y: -90.49999}
+        - {x: 27.474335, y: -90.49999}
+        - {x: 27.474335, y: -103.49999}
+      - - {x: 162.47433, y: -32.5}
+        - {x: 162.47433, y: -85.5}
+        - {x: 150.47433, y: -73.5}
+      - - {x: 31.474335, y: -49.5}
+        - {x: -25.525663, y: -35.5}
+        - {x: -3.525665, y: -21.499998}
+        - {x: 83.474335, y: -27.5}
+        - {x: 83.474335, y: -49.5}
+      - - {x: 10.474334, y: 10.5}
+        - {x: -95.525665, y: 33.5}
+        - {x: -59.52566, y: 42.5}
+        - {x: 10.474334, y: 40.5}
+      - - {x: -35.525665, y: 70.5}
+        - {x: -35.525665, y: 80.5}
+        - {x: 50.474335, y: 80.5}
+        - {x: 50.474335, y: 70.5}
+      - - {x: -156.52567, y: 103.5}
+        - {x: -146.52567, y: 103.5}
+        - {x: -157.52567, y: 88.5}
+        - {x: -163.52567, y: 96.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0006
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 451
+        width: 320
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5046875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: -104.99999}
+        - {x: -81, y: -91.99999}
+        - {x: 30.999998, y: -91.99999}
+        - {x: 30.999998, y: -104.99999}
+      - - {x: 155, y: -76}
+        - {x: 155, y: -56}
+        - {x: 159.99998, y: -56}
+        - {x: 159.99998, y: -76}
+      - - {x: 3, y: -25}
+        - {x: 92, y: -22.999998}
+        - {x: 80.99999, y: -51}
+        - {x: 34.999996, y: -51}
+        - {x: -31, y: -35}
+      - - {x: 6, y: 11}
+        - {x: -83, y: 28}
+        - {x: -71.99999, y: 44}
+        - {x: 6, y: 39.999996}
+      - - {x: -31.999996, y: 68}
+        - {x: -31.999996, y: 79.99999}
+        - {x: 52, y: 79.99999}
+        - {x: 52, y: 68}
+      - - {x: -160, y: 87}
+        - {x: -160, y: 104.99999}
+        - {x: -146, y: 104.99999}
+        - {x: -146, y: 87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_image0019
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 346
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0007
+      rect:
+        serializedVersion: 2
+        x: 378.05133
+        y: 723
+        width: 324.94867
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4968436, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.525665, y: -103.49999}
+        - {x: -83.525665, y: -90.49999}
+        - {x: 27.474335, y: -90.49999}
+        - {x: 27.474335, y: -103.49999}
+      - - {x: 162.47433, y: -32.5}
+        - {x: 162.47433, y: -85.5}
+        - {x: 150.47433, y: -73.5}
+      - - {x: 31.474335, y: -49.5}
+        - {x: -25.525663, y: -35.5}
+        - {x: -3.525665, y: -21.499998}
+        - {x: 83.474335, y: -27.5}
+        - {x: 83.474335, y: -49.5}
+      - - {x: 10.474334, y: 10.5}
+        - {x: -95.525665, y: 33.5}
+        - {x: -59.52566, y: 42.5}
+        - {x: 10.474334, y: 40.5}
+      - - {x: -35.525665, y: 70.5}
+        - {x: -35.525665, y: 80.5}
+        - {x: 50.474335, y: 80.5}
+        - {x: 50.474335, y: 70.5}
+      - - {x: -156.52567, y: 103.5}
+        - {x: -146.52567, y: 103.5}
+        - {x: -157.52567, y: 88.5}
+        - {x: -163.52567, y: 96.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photos_watergraphics0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 319
+        height: 206.94868
+      alignment: 9
+      pivot: {x: 0.4937304, y: 0.50737214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -103.474335}
+        - {x: -80.5, y: -91.47434}
+        - {x: 23.5, y: -91.47434}
+        - {x: 23.5, y: -103.474335}
+      - - {x: 159.5, y: -36.474342}
+        - {x: 159.5, y: -82.47434}
+        - {x: 148.5, y: -71.474335}
+      - - {x: -6.5, y: -25.47434}
+        - {x: 88.5, y: -24.474342}
+        - {x: 77.49999, y: -54.474342}
+        - {x: 31.499996, y: -49.474342}
+        - {x: 24.499998, y: -36.474342}
+        - {x: -46.5, y: -35.474342}
+      - - {x: -80.5, y: 40.525658}
+        - {x: -9.5, y: 40.525658}
+        - {x: -7.5, y: 27.525658}
+        - {x: 55.5, y: 21.525656}
+        - {x: -51.499996, y: 13.525658}
+        - {x: -30.5, y: 30.525658}
+        - {x: -80.5, y: 30.525658}
+      - - {x: -34.5, y: 70.52566}
+        - {x: -34.5, y: 80.52566}
+        - {x: 47.499996, y: 80.52566}
+        - {x: 47.499996, y: 70.52566}
+      - - {x: -143.5, y: 105.52566}
+        - {x: -158.5, y: 90.52566}
+        - {x: -159.5, y: 100.52565}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      photos_image0011: 21300042
+      photos_watergraphics0002: 21300052
+      photos_polaroid: 21300036
+      photos_image0013: 21300020
+      photos_image0009: 21300040
+      photos_bucketfront: 21300014
+      photos_image0017: 21300010
+      photos_image0018: 21300038
+      photos_watergraphics0005: 21300004
+      photos_bucket: 21300008
+      photos_image0003: 21300044
+      photos_image0019: 21300060
+      photos_watergraphics0007: 21300062
+      photos_image0004: 21300046
+      photos_image0005: 21300026
+      photos_watergraphics0008: 21300016
+      photos_watergraphics0009: 21300056
+      photos_image0010: 21300018
+      photos_image0008: 21300006
+      photos_watergraphics0001: 21300050
+      photos_image0016: 21300028
+      photos_image0012: 21300030
+      photos_image0006: 21300012
+      photos_watergraphics0006: 21300058
+      photos_watergraphics0010: 21300054
+      photos_image0014: 21300000
+      photos_watergraphics0012: 21300024
+      photos_watergraphics0011: 21300064
+      photos_image0015: 21300034
+      photos_watergraphics0003: 21300048
+      photos_watergraphics0004: 21300002
+      photos_image0007: 21300022
+      photos_image0002: 21300032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

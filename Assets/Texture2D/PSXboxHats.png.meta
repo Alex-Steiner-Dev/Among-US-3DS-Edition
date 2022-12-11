@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: f2fec3d02365a8342964e5dc4fbcb585
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hat_xbox_MChief0002
+  - first:
+      213: 21300002
+    second: hat_xbox_MChief0003
+  - first:
+      213: 21300004
+    second: hat_xbox_MChief0001
+  - first:
+      213: 21300006
+    second: hat_PS_Ratchet0003
+  - first:
+      213: 21300008
+    second: hat_PS_Ratchet0001
+  - first:
+      213: 21300010
+    second: hat_PS_Ratchet0004
+  - first:
+      213: 21300012
+    second: hat_PS_Ratchet0002
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_xbox_MChief0002
+      rect:
+        serializedVersion: 2
+        x: 226.02675
+        y: 173.05132
+        width: 148.93697
+        height: 114.921936
+      alignment: 9
+      pivot: {x: 0.57053167, y: 0.17358465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.495224, y: 47.487717}
+        - {x: -11.495224, y: 57.487717}
+        - {x: 51.504776, y: 56.487717}
+        - {x: 78.504776, y: -42.512283}
+        - {x: 44.504776, y: -55.512283}
+        - {x: -30.495224, y: -58.512283}
+        - {x: -85.495224, y: -28.512283}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_xbox_MChief0003
+      rect:
+        serializedVersion: 2
+        x: 144.07613
+        y: 62.076122
+        width: 131.84775
+        height: 104.84776
+      alignment: 9
+      pivot: {x: 0.5530915, y: 0.19002673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 45.499996}
+        - {x: 24, y: 55.499996}
+        - {x: 59, y: 21.499992}
+        - {x: 73.99999, y: -38.500004}
+        - {x: 16, y: -53.500004}
+        - {x: -64, y: -46.500004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_xbox_MChief0001
+      rect:
+        serializedVersion: 2
+        x: 226.06836
+        y: 299.0761
+        width: 142.85551
+        height: 124.847755
+      alignment: 9
+      pivot: {x: 0.43352643, y: 0.6081318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.496117, y: 52.50001}
+        - {x: -12.496117, y: 69.50001}
+        - {x: 87.50388, y: 38.50001}
+        - {x: 60.503883, y: 11.500011}
+        - {x: 28.503883, y: 7.500012}
+        - {x: -0.49611664, y: -0.49998856}
+        - {x: 13.503881, y: -11.499987}
+        - {x: 58.503883, y: -1.4999876}
+        - {x: 71.50388, y: -41.49999}
+        - {x: 41.503883, y: -71.499985}
+        - {x: -39.496117, y: -41.49999}
+        - {x: -82.49611, y: 1.5000114}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0003
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 298.02676
+        width: 205.95857
+        height: 120.897125
+      alignment: 9
+      pivot: {x: 0.5193921, y: 0.16520853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.00603, y: 17.524673}
+        - {x: -103.00603, y: 64.524666}
+        - {x: -62.006035, y: 30.524673}
+        - {x: -15.006035, y: 23.524673}
+        - {x: 54.993965, y: 27.524673}
+        - {x: 108.99396, y: 72.52467}
+        - {x: 99.993965, y: 13.52467}
+        - {x: 60.993965, y: -62.475327}
+        - {x: 18.993965, y: -41.475327}
+        - {x: -43.006035, y: -42.475327}
+        - {x: -57.006035, y: -72.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0001
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 157.02675
+        width: 135.89713
+        height: 122.897125
+      alignment: 9
+      pivot: {x: 0.6399933, y: 0.28457338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0246887, y: -23.475311}
+        - {x: -26.975307, y: -72.47531}
+        - {x: -66.9753, y: 18.524689}
+        - {x: -67.97531, y: 65.52468}
+        - {x: -37.97531, y: 40.52468}
+        - {x: 65.02469, y: 14.524689}
+        - {x: 69.02469, y: -7.4753113}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0004
+      rect:
+        serializedVersion: 2
+        x: 291.0363
+        y: 65.02675
+        width: 83.92743
+        height: 94.89713
+      alignment: 9
+      pivot: {x: -0.09575279, y: 0.03133131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 0.5246849}
+        - {x: 14, y: 28.524677}
+        - {x: 45, y: 57.524685}
+        - {x: 39, y: 0.5246849}
+        - {x: 19, y: -37.475315}
+        - {x: -14, y: -53.475315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0002
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 3.0761204
+        width: 215.89713
+        height: 53.847755
+      alignment: 9
+      pivot: {x: 0.509378, y: 0.33286214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.9753, y: 22.000002}
+        - {x: 82.02468, y: 29.000002}
+        - {x: 113.02469, y: -1.9999981}
+        - {x: 20.024689, y: -26.999998}
+        - {x: -86.97531, y: -25.999998}
+        - {x: -110.97531, y: -1.9999981}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hat_PS_Ratchet0001: 21300008
+      hat_xbox_MChief0002: 21300000
+      hat_PS_Ratchet0003: 21300006
+      hat_PS_Ratchet0002: 21300012
+      hat_xbox_MChief0003: 21300002
+      hat_PS_Ratchet0004: 21300010
+      hat_xbox_MChief0001: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

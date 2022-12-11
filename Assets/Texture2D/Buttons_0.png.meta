@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: d0e68094c19d12744ad6ac37d51edcda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: roles_shapeshift_ability
+  - first:
+      213: 21300002
+    second: sabotage
+  - first:
+      213: 21300004
+    second: roles_vitals_ability
+  - first:
+      213: 21300006
+    second: button_skipVote
+  - first:
+      213: 21300008
+    second: roles_protect_ability
+  - first:
+      213: 21300010
+    second: roles_vent_ability
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roles_shapeshift_ability
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 558
+        width: 114.92388
+        height: 100.92388
+      alignment: 9
+      pivot: {x: 0.4996688, y: 0.38147563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.538063, y: -8.461941}
+        - {x: -57.538063, y: 20.53806}
+        - {x: -31.538063, y: 50.53806}
+        - {x: 22.461937, y: 49.53806}
+        - {x: 57.461937, y: 14.538057}
+        - {x: 57.461937, y: -25.46194}
+        - {x: 19.461937, y: -50.46194}
+        - {x: -40.538063, y: -50.46194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabotage
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 29.07612
+        width: 105.92388
+        height: 109.92388
+      alignment: 9
+      pivot: {x: 0.5090814, y: 0.49055657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.038063, y: 54.96194}
+        - {x: 52.961933, y: 54.96194}
+        - {x: 52.961933, y: -27.03806}
+        - {x: 12.961937, y: -53.03806}
+        - {x: -14.038063, y: -57.03806}
+        - {x: -53.038063, y: -52.03806}
+        - {x: -52.038063, y: 26.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_vitals_ability
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 579
+        width: 115
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: -40}
+        - {x: -57.5, y: 40}
+        - {x: 57.5, y: 40}
+        - {x: 57.5, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_skipVote
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 110
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -12.5}
+        - {x: -55, y: 12.5}
+        - {x: 55, y: 12.5}
+        - {x: 55, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_protect_ability
+      rect:
+        serializedVersion: 2
+        x: 230.07613
+        y: 336.02676
+        width: 109.92388
+        height: 111.97325
+      alignment: 9
+      pivot: {x: 0.4996537, y: 0.41950408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.038067, y: 22.98661}
+        - {x: -19.038067, y: 55.98661}
+        - {x: 15.961933, y: 55.98661}
+        - {x: 54.961933, y: 31.98661}
+        - {x: 54.961933, y: -28.01339}
+        - {x: 28.961933, y: -51.01339}
+        - {x: -14.038067, y: -62.013386}
+        - {x: -54.038063, y: -29.013388}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_vent_ability
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 110
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19883747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 22.53806}
+        - {x: -55, y: 35.53806}
+        - {x: 29, y: 36.538055}
+        - {x: 55, y: 1.5380592}
+        - {x: 55, y: -14.461941}
+        - {x: 29, y: -36.46194}
+        - {x: -55, y: -36.46194}
+        - {x: -55, y: -24.46194}
+        - {x: -39.999996, y: -6.461941}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      roles_vitals_ability: 21300004
+      roles_protect_ability: 21300008
+      roles_shapeshift_ability: 21300000
+      roles_vent_ability: 21300010
+      sabotage: 21300002
+      button_skipVote: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

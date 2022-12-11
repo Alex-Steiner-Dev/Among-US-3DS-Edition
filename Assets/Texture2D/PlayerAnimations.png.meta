@@ -1,0 +1,4980 @@
+fileFormatVersion: 2
+guid: 6d084e78b8994a0429582ba50d7623a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpawnGlow0036
+  - first:
+      213: 21300002
+    second: SpawnGlow0004
+  - first:
+      213: 21300004
+    second: Climbup0002
+  - first:
+      213: 21300006
+    second: SpawnGlow0035
+  - first:
+      213: 21300008
+    second: climbdown
+  - first:
+      213: 21300010
+    second: Climbup0007
+  - first:
+      213: 21300012
+    second: Spawn0047
+  - first:
+      213: 21300014
+    second: SpawnGlow0015
+  - first:
+      213: 21300016
+    second: Walk0005
+  - first:
+      213: 21300018
+    second: Spawn0017
+  - first:
+      213: 21300020
+    second: SpawnGlow0040
+  - first:
+      213: 21300022
+    second: Vent0007
+  - first:
+      213: 21300024
+    second: Spawn0040
+  - first:
+      213: 21300026
+    second: idleNoshadow
+  - first:
+      213: 21300028
+    second: SpawnGlow0016
+  - first:
+      213: 21300030
+    second: SpawnGlow0039
+  - first:
+      213: 21300032
+    second: SpawnGlow0053
+  - first:
+      213: 21300034
+    second: SpawnGlow0007
+  - first:
+      213: 21300036
+    second: SpawnGlow0021
+  - first:
+      213: 21300038
+    second: Spawn0011
+  - first:
+      213: 21300040
+    second: Walk0009
+  - first:
+      213: 21300042
+    second: Spawn0048
+  - first:
+      213: 21300044
+    second: SpawnGlow0023
+  - first:
+      213: 21300046
+    second: Spawn0055
+  - first:
+      213: 21300048
+    second: SpawnGlow0019
+  - first:
+      213: 21300050
+    second: SpawnGlow0029
+  - first:
+      213: 21300052
+    second: Spawn0049
+  - first:
+      213: 21300054
+    second: Walk0008
+  - first:
+      213: 21300056
+    second: Climbup0001
+  - first:
+      213: 21300058
+    second: Spawn0020
+  - first:
+      213: 21300060
+    second: SpawnGlow0032
+  - first:
+      213: 21300062
+    second: SpawnGlow0038
+  - first:
+      213: 21300064
+    second: Spawn0030
+  - first:
+      213: 21300066
+    second: empty
+  - first:
+      213: 21300068
+    second: Climbup0012
+  - first:
+      213: 21300070
+    second: SpawnGlow0003
+  - first:
+      213: 21300072
+    second: Spawn0027
+  - first:
+      213: 21300074
+    second: Spawn0008
+  - first:
+      213: 21300076
+    second: Climbup0011
+  - first:
+      213: 21300078
+    second: SpawnGlow0050
+  - first:
+      213: 21300080
+    second: SpawnGlow0055
+  - first:
+      213: 21300082
+    second: Spawn0044
+  - first:
+      213: 21300084
+    second: Spawn0032
+  - first:
+      213: 21300086
+    second: Spawn0050
+  - first:
+      213: 21300088
+    second: SpawnGlow0037
+  - first:
+      213: 21300090
+    second: Spawn0041
+  - first:
+      213: 21300092
+    second: Walk0006
+  - first:
+      213: 21300094
+    second: Spawn0043
+  - first:
+      213: 21300096
+    second: SpawnGlow0022
+  - first:
+      213: 21300098
+    second: SpawnGlow0002
+  - first:
+      213: 21300100
+    second: Spawn0045
+  - first:
+      213: 21300102
+    second: Walk0007
+  - first:
+      213: 21300104
+    second: Walk0002
+  - first:
+      213: 21300106
+    second: SpawnGlow0033
+  - first:
+      213: 21300108
+    second: Vent0002
+  - first:
+      213: 21300110
+    second: Vent0004
+  - first:
+      213: 21300112
+    second: Spawn0026
+  - first:
+      213: 21300114
+    second: idle
+  - first:
+      213: 21300116
+    second: Walk0003
+  - first:
+      213: 21300118
+    second: Vent0005
+  - first:
+      213: 21300120
+    second: SpawnGlow0049
+  - first:
+      213: 21300122
+    second: Spawn0023
+  - first:
+      213: 21300124
+    second: SpawnGlow0044
+  - first:
+      213: 21300126
+    second: SpawnGlow0041
+  - first:
+      213: 21300128
+    second: Spawn0018
+  - first:
+      213: 21300130
+    second: SpawnGlow0020
+  - first:
+      213: 21300132
+    second: Spawn0019
+  - first:
+      213: 21300134
+    second: SpawnGlow0005
+  - first:
+      213: 21300136
+    second: Spawn0029
+  - first:
+      213: 21300138
+    second: Spawn0034
+  - first:
+      213: 21300140
+    second: Spawn0001
+  - first:
+      213: 21300142
+    second: SpawnGlow0028
+  - first:
+      213: 21300144
+    second: Spawn0037
+  - first:
+      213: 21300146
+    second: Spawn0051
+  - first:
+      213: 21300148
+    second: SpawnGlow0030
+  - first:
+      213: 21300150
+    second: SpawnGlow0045
+  - first:
+      213: 21300152
+    second: SpawnGlow0048
+  - first:
+      213: 21300154
+    second: Spawn0024
+  - first:
+      213: 21300156
+    second: Spawn0009
+  - first:
+      213: 21300158
+    second: SpawnGlow0011
+  - first:
+      213: 21300160
+    second: Spawn0053
+  - first:
+      213: 21300162
+    second: SpawnGlow0043
+  - first:
+      213: 21300164
+    second: SpawnGlow0042
+  - first:
+      213: 21300166
+    second: SpawnGlow0034
+  - first:
+      213: 21300168
+    second: SpawnGlow0010
+  - first:
+      213: 21300170
+    second: Spawn0039
+  - first:
+      213: 21300172
+    second: Climbup0009
+  - first:
+      213: 21300174
+    second: SpawnGlow0031
+  - first:
+      213: 21300176
+    second: SpawnGlow0008
+  - first:
+      213: 21300178
+    second: Vent0003
+  - first:
+      213: 21300180
+    second: Spawn0007
+  - first:
+      213: 21300182
+    second: Spawn0042
+  - first:
+      213: 21300184
+    second: Climbup0004
+  - first:
+      213: 21300186
+    second: Spawn0033
+  - first:
+      213: 21300188
+    second: Climbup0008
+  - first:
+      213: 21300190
+    second: SpawnGlow0018
+  - first:
+      213: 21300192
+    second: Spawn0012
+  - first:
+      213: 21300194
+    second: Walk0004
+  - first:
+      213: 21300196
+    second: SpawnGlow0047
+  - first:
+      213: 21300198
+    second: Spawn0054
+  - first:
+      213: 21300200
+    second: Spawn0003
+  - first:
+      213: 21300202
+    second: Spawn0025
+  - first:
+      213: 21300204
+    second: Climbup0003
+  - first:
+      213: 21300206
+    second: SpawnGlow0051
+  - first:
+      213: 21300208
+    second: SpawnGlow0027
+  - first:
+      213: 21300210
+    second: Walk0001
+  - first:
+      213: 21300212
+    second: Spawn0046
+  - first:
+      213: 21300214
+    second: SpawnGlow0052
+  - first:
+      213: 21300216
+    second: SpawnGlow0046
+  - first:
+      213: 21300218
+    second: Spawn0013
+  - first:
+      213: 21300220
+    second: Spawn0015
+  - first:
+      213: 21300222
+    second: Climbup0013
+  - first:
+      213: 21300224
+    second: SpawnGlow0006
+  - first:
+      213: 21300226
+    second: Walk0011
+  - first:
+      213: 21300228
+    second: SpawnGlow0014
+  - first:
+      213: 21300230
+    second: Walk0012
+  - first:
+      213: 21300232
+    second: SpawnGlow0024
+  - first:
+      213: 21300234
+    second: Spawn0038
+  - first:
+      213: 21300236
+    second: Climbup0005
+  - first:
+      213: 21300238
+    second: Spawn0021
+  - first:
+      213: 21300240
+    second: SpawnGlow0026
+  - first:
+      213: 21300242
+    second: Spawn0052
+  - first:
+      213: 21300244
+    second: Spawn0014
+  - first:
+      213: 21300246
+    second: SpawnGlow0025
+  - first:
+      213: 21300248
+    second: Spawn0006
+  - first:
+      213: 21300250
+    second: Spawn0031
+  - first:
+      213: 21300252
+    second: Spawn0010
+  - first:
+      213: 21300254
+    second: Vent0006
+  - first:
+      213: 21300256
+    second: Spawn0036
+  - first:
+      213: 21300258
+    second: SpawnGlow0017
+  - first:
+      213: 21300260
+    second: Climbup0006
+  - first:
+      213: 21300262
+    second: SpawnGlow0012
+  - first:
+      213: 21300264
+    second: SpawnGlow0013
+  - first:
+      213: 21300266
+    second: Spawn0035
+  - first:
+      213: 21300268
+    second: Spawn0016
+  - first:
+      213: 21300270
+    second: Spawn0022
+  - first:
+      213: 21300272
+    second: SpawnGlow0054
+  - first:
+      213: 21300274
+    second: SpawnGlow0009
+  - first:
+      213: 21300276
+    second: Walk0010
+  - first:
+      213: 21300278
+    second: Vent0001
+  - first:
+      213: 21300280
+    second: Climbup0010
+  - first:
+      213: 21300282
+    second: Spawn0028
+  - first:
+      213: 21300284
+    second: SpawnGlow0001
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpawnGlow0036
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0004
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0002
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 778.0761
+        width: 199.92387
+        height: 314.84778
+      alignment: 9
+      pivot: {x: 0.52481914, y: 0.5158807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.038055, y: -18.5}
+        - {x: -57.03805, y: 34.5}
+        - {x: -29.038055, y: 56.5}
+        - {x: 35.961945, y: 55.5}
+        - {x: 64.961945, y: -45.5}
+        - {x: 52.961945, y: -105.5}
+        - {x: -22.038055, y: -159.5}
+        - {x: -75.038055, y: -150.5}
+        - {x: -107.03805, y: -118.5}
+        - {x: -94.038055, y: -64.5}
+      - - {x: 26.961945, y: 73.5}
+        - {x: 6.9619446, y: 147.5}
+        - {x: 77.961945, y: 159.5}
+        - {x: 99.961945, y: 137.5}
+        - {x: 99.961945, y: 65.5}
+        - {x: 56.96194, y: 59.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0035
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: climbdown
+      rect:
+        serializedVersion: 2
+        x: 213.05972
+        y: 1163.0762
+        width: 199.94028
+        height: 263.89713
+      alignment: 9
+      pivot: {x: 0.49734986, y: 0.513169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.97013, y: 84.975266}
+        - {x: 97.97014, y: 53.975266}
+        - {x: 62.970135, y: 0.97526574}
+        - {x: 53.97014, y: -126.024734}
+        - {x: -30.029861, y: -135.02473}
+        - {x: -59.02986, y: -125.024734}
+        - {x: -76.02986, y: 20.975266}
+        - {x: -103.029854, y: 63.97526}
+        - {x: -90.02986, y: 136.97525}
+        - {x: -23.029861, y: 124.97526}
+        - {x: -1.0298615, y: 95.97526}
+        - {x: 27.970137, y: 124.97526}
+        - {x: 90.97014, y: 137.97527}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0007
+      rect:
+        serializedVersion: 2
+        x: 260.0761
+        y: 1795.0267
+        width: 245.84775
+        height: 242.9465
+      alignment: 9
+      pivot: {x: 0.6057566, y: 0.6646454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.999985, y: -13.499981}
+        - {x: -113.999985, y: 14.500015}
+        - {x: -122.999985, y: 88.500015}
+        - {x: -102.999985, y: 130.50002}
+        - {x: -32.99998, y: 62.500015}
+        - {x: -6.9999847, y: 93.500015}
+        - {x: 55.000015, y: 101.500015}
+        - {x: 79.000015, y: 42.500015}
+        - {x: 116.000015, y: 16.500015}
+        - {x: 129.00002, y: -48.499985}
+        - {x: 50.000015, y: -127.499985}
+        - {x: 28.000015, y: -119.49997}
+        - {x: -32.99998, y: -70.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0047
+      rect:
+        serializedVersion: 2
+        x: 769.0761
+        y: 348.0761
+        width: 188.84775
+        height: 200.92387
+      alignment: 9
+      pivot: {x: 0.2855416, y: 0.1588855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.500008, y: -102.53805}
+        - {x: -53.49999, y: -58.538048}
+        - {x: -79.499985, y: -60.538048}
+        - {x: -99.499985, y: 25.461952}
+        - {x: -57.49999, y: 100.46195}
+        - {x: -4.4999886, y: 99.46195}
+        - {x: 47.50001, y: 75.46195}
+        - {x: 63.50001, y: -16.538048}
+        - {x: 106.5, y: -59.538048}
+        - {x: 75.500015, y: -89.53805}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0015
+      rect:
+        serializedVersion: 2
+        x: 660.0761
+        y: 758.02673
+        width: 193.92387
+        height: 204.89713
+      alignment: 9
+      pivot: {x: 0.8710835, y: 0.41471186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.961952, y: -104.475296}
+        - {x: -91.03805, y: -64.475296}
+        - {x: -101.03805, y: 25.5247}
+        - {x: -60.038048, y: 82.524704}
+        - {x: -26.03804, y: 104.524704}
+        - {x: 37.961952, y: 95.524704}
+        - {x: 72.96195, y: 52.524704}
+        - {x: 62.961952, y: -7.475297}
+        - {x: 96.96195, y: -30.475296}
+        - {x: 96.96195, y: -78.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0005
+      rect:
+        serializedVersion: 2
+        x: 1091.0762
+        y: 1381.0762
+        width: 150.89713
+        height: 180.84775
+      alignment: 9
+      pivot: {x: 0.5296578, y: 0.5746482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.52473, y: -16.500036}
+        - {x: -74.524734, y: 65.49996}
+        - {x: -1.524734, y: 94.49996}
+        - {x: 58.47526, y: 79.49996}
+        - {x: 75.475266, y: 42.49996}
+        - {x: 60.47526, y: -56.50004}
+        - {x: 76.475266, y: -84.50003}
+        - {x: -5.5247345, y: -91.50003}
+        - {x: -85.52473, y: -80.50004}
+        - {x: -51.524734, y: -49.50004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0017
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 579.02673
+        width: 185.92387
+        height: 194.89713
+      alignment: 9
+      pivot: {x: 0.8767029, y: 0.41033578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.038063, y: -98.475296}
+        - {x: -91.96194, y: -56.475296}
+        - {x: -92.96194, y: 35.5247}
+        - {x: -34.96193, y: 102.5247}
+        - {x: 52.038063, y: 87.5247}
+        - {x: 81.03806, y: -27.475296}
+        - {x: 96.03806, y: -40.475296}
+        - {x: 85.03806, y: -83.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0040
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0007
+      rect:
+        serializedVersion: 2
+        x: 770.0761
+        y: 22
+        width: 155.92387
+        height: 131.92387
+      alignment: 9
+      pivot: {x: 0.5382364, y: 1.3871636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.03803, y: -2.9619293}
+        - {x: -66.03804, y: 55.038063}
+        - {x: 6.96196, y: 68.03807}
+        - {x: 47.96196, y: 51.038063}
+        - {x: 77.96196, y: 3.038063}
+        - {x: 77.96196, y: -64.96194}
+        - {x: -60.03804, y: -65.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0040
+      rect:
+        serializedVersion: 2
+        x: 973.02673
+        y: 184.07613
+        width: 190.89713
+        height: 177.84775
+      alignment: 9
+      pivot: {x: 0.95325303, y: 0.34256196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.47528, y: 24.999996}
+        - {x: -70.475296, y: 84}
+        - {x: -14.475296, y: 88.99999}
+        - {x: 33.524708, y: 68}
+        - {x: 52.524704, y: 11.999996}
+        - {x: 88.524704, y: -12}
+        - {x: 101.524704, y: -45}
+        - {x: 42.524704, y: -89}
+        - {x: -67.475296, y: -78}
+        - {x: -86.475296, y: -36}
+        - {x: -96.475296, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoshadow
+      rect:
+        serializedVersion: 2
+        x: 964.0761
+        y: 570.0761
+        width: 153.84775
+        height: 195.84775
+      alignment: 9
+      pivot: {x: 0.52599984, y: 0.51021206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.999985, y: 29.000006}
+        - {x: -17.999985, y: 103.00001}
+        - {x: 54.000015, y: 89.00001}
+        - {x: 80.000015, y: 47.000008}
+        - {x: 59.000015, y: -84.99999}
+        - {x: -29.999985, y: -99.99999}
+        - {x: -70.999985, y: -58.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0016
+      rect:
+        serializedVersion: 2
+        x: 425.0761
+        y: 954.02673
+        width: 193.84775
+        height: 202.89713
+      alignment: 9
+      pivot: {x: 0.8662669, y: 0.41387114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.999985, y: 49.524696}
+        - {x: -31.999985, y: 104.524704}
+        - {x: 25.00002, y: 95.524704}
+        - {x: 71.000015, y: 56.524704}
+        - {x: 63.000015, y: -11.475296}
+        - {x: 94.000015, y: -26.475296}
+        - {x: 102.000015, y: -70.475296}
+        - {x: 25.00002, y: -107.475296}
+        - {x: -92.999985, y: -60.475292}
+        - {x: -97.999985, y: 5.524702}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0039
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0053
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0007
+      rect:
+        serializedVersion: 2
+        x: 1469.0762
+        y: 1820.0762
+        width: 212.84775
+        height: 220.84775
+      alignment: 9
+      pivot: {x: 0.8312225, y: 0.42075968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.499958, y: -114.500046}
+        - {x: -102.500046, y: -66.500046}
+        - {x: -109.500046, y: 35.49995}
+        - {x: -41.500046, y: 116.49994}
+        - {x: 34.499954, y: 104.499954}
+        - {x: 74.499954, y: 64.499954}
+        - {x: 75.499954, y: -8.500046}
+        - {x: 111.499954, y: -32.500046}
+        - {x: 100.499954, y: -86.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0021
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1182.0267
+        width: 180.92387
+        height: 190.89713
+      alignment: 9
+      pivot: {x: 0.8843498, y: 0.408457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.461937, y: 91.524704}
+        - {x: 0.53806305, y: 97.524704}
+        - {x: 60.538063, y: 67.524704}
+        - {x: 60.538063, y: 3.524704}
+        - {x: 100.53806, y: -56.475296}
+        - {x: 73.53806, y: -78.475296}
+        - {x: 15.538067, y: -97.47529}
+        - {x: -90.46192, y: -55.475296}
+        - {x: -90.46192, y: 31.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0011
+      rect:
+        serializedVersion: 2
+        x: 1841.0762
+        y: 1607.0762
+        width: 192.84775
+        height: 201.84775
+      alignment: 9
+      pivot: {x: 0.8655731, y: 0.4157779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.499954, y: -108.000046}
+        - {x: -92.500046, y: -59.000046}
+        - {x: -97.500046, y: -8.000046}
+        - {x: -90.500046, y: 39.999954}
+        - {x: -32.500046, y: 107.999954}
+        - {x: 27.499958, y: 93.999954}
+        - {x: 64.499954, y: 56.999954}
+        - {x: 76.499954, y: -8.000046}
+        - {x: 108.499954, y: -66.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0009
+      rect:
+        serializedVersion: 2
+        x: 1470.0762
+        y: 1584.0762
+        width: 158.84775
+        height: 228.84775
+      alignment: 9
+      pivot: {x: 0.50314736, y: 0.45411777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.500046, y: 14.499954}
+        - {x: -74.500046, y: 79.499954}
+        - {x: -19.500044, y: 114.499954}
+        - {x: 35.499954, y: 112.499954}
+        - {x: 75.499954, y: 63.499954}
+        - {x: 57.499954, y: -4.500046}
+        - {x: 80.49995, y: -54.500046}
+        - {x: 59.49995, y: -112.500046}
+        - {x: -20.500046, y: -116.50004}
+        - {x: -86.500046, y: -102.50004}
+        - {x: -58.500042, y: -81.500046}
+        - {x: 32.499954, y: -69.500046}
+        - {x: 13.499954, y: -45.500046}
+        - {x: -38.500046, y: -60.500046}
+        - {x: -70.500046, y: -40.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0048
+      rect:
+        serializedVersion: 2
+        x: 703.0761
+        y: 1573.0762
+        width: 184.84775
+        height: 209.84775
+      alignment: 9
+      pivot: {x: 0.2538516, y: 0.2617318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.49998, y: 100.999954}
+        - {x: -6.499981, y: 108.99994}
+        - {x: 51.500023, y: 72.999954}
+        - {x: 64.50002, y: -5.000046}
+        - {x: 106.50002, y: -71.000046}
+        - {x: 20.500023, y: -111.000046}
+        - {x: -50.49998, y: -54.000046}
+        - {x: -81.499985, y: -54.000046}
+        - {x: -97.499985, y: 53.999954}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0023
+      rect:
+        serializedVersion: 2
+        x: 207.07613
+        y: 2.0761204
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043653, y: 0.4104546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 91}
+        - {x: 2, y: 98.00001}
+        - {x: 51, y: 72.00001}
+        - {x: 65, y: 43.000004}
+        - {x: 55, y: -4.9999924}
+        - {x: 86, y: -28.999992}
+        - {x: 101, y: -67.99999}
+        - {x: 20, y: -95.99999}
+        - {x: -85, y: -57.999992}
+        - {x: -97, y: 22.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0055
+      rect:
+        serializedVersion: 2
+        x: 1679.0762
+        y: 607.03625
+        width: 153.84775
+        height: 192.96371
+      alignment: 9
+      pivot: {x: -0.013494978, y: 0.8030719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.000046, y: 43.481888}
+        - {x: -21.000046, y: 96.48189}
+        - {x: 24.999954, y: 96.48189}
+        - {x: 58.999954, y: 79.48189}
+        - {x: 80.99994, y: 44.481888}
+        - {x: 57.999954, y: -86.51811}
+        - {x: -32.000046, y: -99.51811}
+        - {x: -68.000046, y: -57.518112}
+        - {x: -79.000046, y: -14.518105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0019
+      rect:
+        serializedVersion: 2
+        x: 835.0761
+        y: 987.02673
+        width: 186.84775
+        height: 194.89713
+      alignment: 9
+      pivot: {x: 0.87731266, y: 0.41033578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.50002, y: -100.475296}
+        - {x: -97.499985, y: -53.475296}
+        - {x: -91.499985, y: 35.5247}
+        - {x: -33.499985, y: 105.524704}
+        - {x: 41.500015, y: 86.524704}
+        - {x: 63.500015, y: 51.524704}
+        - {x: 65.500015, y: -12.475296}
+        - {x: 88.500015, y: -29.475296}
+        - {x: 99.500015, y: -71.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0029
+      rect:
+        serializedVersion: 2
+        x: 1845.0762
+        y: 587.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0049
+      rect:
+        serializedVersion: 2
+        x: 1755.0762
+        y: 12.07612
+        width: 176.84775
+        height: 174.84775
+      alignment: 9
+      pivot: {x: 0.010878443, y: 0.88605016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.500046, y: 83.5}
+        - {x: 22.499954, y: 91.5}
+        - {x: 94.499954, y: 57.5}
+        - {x: 60.49994, y: -77.5}
+        - {x: -55.500046, y: -91.499985}
+        - {x: -86.500046, y: -36.5}
+        - {x: -88.500046, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0008
+      rect:
+        serializedVersion: 2
+        x: 430.0761
+        y: 270
+        width: 158.84775
+        height: 232.92387
+      alignment: 9
+      pivot: {x: 0.5031478, y: 0.4379113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.500015, y: 64.53806}
+        - {x: 57.500015, y: -1.461937}
+        - {x: 87.500015, y: -70.46194}
+        - {x: 63.500015, y: -83.46194}
+        - {x: 63.500015, y: -116.46194}
+        - {x: -71.499985, y: -116.46194}
+        - {x: -71.499985, y: -83.46194}
+        - {x: 40.50001, y: -83.46194}
+        - {x: 8.500015, y: -46.461937}
+        - {x: -38.499985, y: -58.461937}
+        - {x: -70.499985, y: -39.461937}
+        - {x: -80.499985, y: 11.538063}
+        - {x: -75.499985, y: 78.53806}
+        - {x: -19.499983, y: 114.53806}
+        - {x: 33.500015, y: 116.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0001
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 778.0761
+        width: 199.92387
+        height: 314.84778
+      alignment: 9
+      pivot: {x: 0.52481914, y: 0.5158807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.038055, y: -18.5}
+        - {x: -57.03805, y: 34.5}
+        - {x: -29.038055, y: 56.5}
+        - {x: 35.961945, y: 55.5}
+        - {x: 64.961945, y: -45.5}
+        - {x: 52.961945, y: -105.5}
+        - {x: -22.038055, y: -159.5}
+        - {x: -75.038055, y: -150.5}
+        - {x: -107.03805, y: -118.5}
+        - {x: -94.038055, y: -64.5}
+      - - {x: 26.961945, y: 73.5}
+        - {x: 6.9619446, y: 147.5}
+        - {x: 77.961945, y: 159.5}
+        - {x: 99.961945, y: 137.5}
+        - {x: 99.961945, y: 65.5}
+        - {x: 56.96194, y: 59.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0020
+      rect:
+        serializedVersion: 2
+        x: 1565.0762
+        y: 179.02675
+        width: 183.89713
+        height: 191.89713
+      alignment: 9
+      pivot: {x: 0.8859509, y: 0.41153952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.97527, y: -95.97531}
+        - {x: -89.02472, y: -57.97531}
+        - {x: -94.024734, y: 30.024689}
+        - {x: -33.024734, y: 104.02468}
+        - {x: 27.97527, y: 88.02468}
+        - {x: 61.975266, y: 54.02469}
+        - {x: 61.975266, y: -6.975312}
+        - {x: 95.975266, y: -41.97531}
+        - {x: 81.975266, y: -83.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0032
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 185.02675
+        width: 180.97325
+        height: 188.97325
+      alignment: 9
+      pivot: {x: 0.88963425, y: 0.41261527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.486618, y: 93.486626}
+        - {x: 17.513378, y: 94.486626}
+        - {x: 66.513374, y: 50.486618}
+        - {x: 55.513374, y: -1.5133753}
+        - {x: 102.513374, y: -48.513374}
+        - {x: 68.513374, y: -82.513374}
+        - {x: 13.513374, y: -95.513374}
+        - {x: -89.48661, y: -54.513374}
+        - {x: -90.486626, y: 41.486626}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0038
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0030
+      rect:
+        serializedVersion: 2
+        x: 1230.0762
+        y: 789.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 89, y: -107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.49999237}
+        - {x: 0.5, y: 0.49999237}
+        - {x: 0.5, y: -0.5000076}
+        - {x: -0.5, y: -0.5000076}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0012
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 1441.0267
+        width: 245.84775
+        height: 284.94647
+      alignment: 9
+      pivot: {x: 0.42678398, y: 0.5666793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.999985, y: 41.50003}
+        - {x: -55.999992, y: 96.50003}
+        - {x: -10.999992, y: 86.50003}
+        - {x: 16.000008, y: 0.5000305}
+        - {x: 16.000008, y: -78.49997}
+        - {x: -43.999992, y: -148.49997}
+        - {x: -67.99999, y: -140.49995}
+        - {x: -102.99999, y: -38.49997}
+        - {x: -129, y: -25.49997}
+      - - {x: 124.00001, y: 108.50003}
+        - {x: 112.00001, y: 36.50003}
+        - {x: 65.00001, y: 9.5000305}
+        - {x: 39.000008, y: 35.50003}
+        - {x: 36.000004, y: 80.50003}
+        - {x: 101, y: 155.50003}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0003
+      rect:
+        serializedVersion: 2
+        x: 1694.0762
+        y: 1824.0267
+        width: 213.84775
+        height: 222.89713
+      alignment: 9
+      pivot: {x: 0.8273355, y: 0.42159927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.00004, y: 109.524704}
+        - {x: 22.999954, y: 111.524704}
+        - {x: 82.999954, y: 58.524704}
+        - {x: 66.999954, y: -6.475296}
+        - {x: 101.999954, y: -23.475296}
+        - {x: 109.999954, y: -82.475296}
+        - {x: 18.999954, y: -117.475296}
+        - {x: -104.000046, y: -67.475296}
+        - {x: -112.000046, y: 33.524704}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0027
+      rect:
+        serializedVersion: 2
+        x: 1189.0762
+        y: 985.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0008
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 737.02673
+        width: 195.92387
+        height: 204.89713
+      alignment: 9
+      pivot: {x: 0.8574759, y: 0.41471186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.038067, y: -104.475296}
+        - {x: -97.96194, y: -60.475292}
+        - {x: -96.96194, y: 44.524704}
+        - {x: -38.961937, y: 99.5247}
+        - {x: 14.038063, y: 106.524704}
+        - {x: 71.03806, y: 55.524696}
+        - {x: 61.038063, y: 4.524704}
+        - {x: 108.03806, y: -55.475296}
+        - {x: 80.03806, y: -83.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0011
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1807
+        width: 234.92387
+        height: 226.97325
+      alignment: 9
+      pivot: {x: 0.4384399, y: 0.702726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.461937, y: 103.513374}
+        - {x: 23.538063, y: 59.513374}
+        - {x: 103.538055, y: 126.513374}
+        - {x: 118.53806, y: 79.51337}
+        - {x: 103.538055, y: 25.513374}
+        - {x: 64.53806, y: -13.486622}
+        - {x: 28.53806, y: 1.5133743}
+        - {x: 35.538063, y: -113.48661}
+        - {x: -21.461937, y: -113.48661}
+        - {x: -75.46194, y: -100.48661}
+        - {x: -117.46194, y: 4.5133743}
+        - {x: -117.46194, y: 74.513374}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0050
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0055
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0044
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1391.0267
+        width: 216
+        height: 170.89713
+      alignment: 9
+      pivot: {x: 0.4212963, y: -0.011859377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -11.475296}
+        - {x: -108, y: 58.52469}
+        - {x: -52, y: 88.524704}
+        - {x: 14, y: 75.524704}
+        - {x: 40, y: 26.524704}
+        - {x: 108, y: 5.524704}
+        - {x: 108, y: -25.475296}
+        - {x: 59, y: -85.475296}
+        - {x: -72, y: -85.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0032
+      rect:
+        serializedVersion: 2
+        x: 1230.0762
+        y: 789.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0050
+      rect:
+        serializedVersion: 2
+        x: 1755.0762
+        y: 12.07612
+        width: 176.84775
+        height: 174.84775
+      alignment: 9
+      pivot: {x: 0.010878443, y: 0.88605016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.500046, y: 83.5}
+        - {x: 22.499954, y: 91.5}
+        - {x: 94.499954, y: 57.5}
+        - {x: 60.49994, y: -77.5}
+        - {x: -55.500046, y: -91.499985}
+        - {x: -86.500046, y: -36.5}
+        - {x: -88.500046, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0037
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0041
+      rect:
+        serializedVersion: 2
+        x: 819.0761
+        y: 1400.0762
+        width: 197.84775
+        height: 156.84775
+      alignment: 9
+      pivot: {x: 0.8335899, y: 0.46493384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.999985, y: 25.499954}
+        - {x: -35.999985, y: 80.49995}
+        - {x: 36.000015, y: 72.499954}
+        - {x: 67.000015, y: 41.499954}
+        - {x: 106.000015, y: -58.500042}
+        - {x: 20.00002, y: -79.500046}
+        - {x: -96.999985, y: -43.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0006
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3.0761204
+        width: 149.97325
+        height: 178.92387
+      alignment: 9
+      pivot: {x: 0.5267606, y: 0.58082736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.013374, y: 43.461945}
+        - {x: 60.013374, y: -55.538055}
+        - {x: 76.013374, y: -83.53805}
+        - {x: -5.9866247, y: -90.53805}
+        - {x: -74.986626, y: -81.538055}
+        - {x: -73.986626, y: 56.461945}
+        - {x: -14.986626, y: 89.461945}
+        - {x: 26.013374, y: 89.461945}
+        - {x: 61.013374, y: 72.461945}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0043
+      rect:
+        serializedVersion: 2
+        x: 210.03629
+        y: 728.02673
+        width: 218.88759
+        height: 170.89713
+      alignment: 9
+      pivot: {x: 0.52521807, y: 0.07591273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.48008, y: -15.475296}
+        - {x: -101.48007, y: 65.524704}
+        - {x: -51.48008, y: 87.52469}
+        - {x: 10.51992, y: 78.524704}
+        - {x: 30.51992, y: 34.524696}
+        - {x: 126.51991, y: 12.524704}
+        - {x: 64.51991, y: -77.475296}
+        - {x: -65.48008, y: -86.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0022
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 2.0761204
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043653, y: 0.4104546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 91}
+        - {x: 2, y: 98.00001}
+        - {x: 51, y: 72.00001}
+        - {x: 65, y: 43.000004}
+        - {x: 55, y: -4.9999924}
+        - {x: 86, y: -28.999992}
+        - {x: 101, y: -67.99999}
+        - {x: 20, y: -95.99999}
+        - {x: -85, y: -57.999992}
+        - {x: -97, y: 22.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0002
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0045
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1391.0267
+        width: 216
+        height: 170.89713
+      alignment: 9
+      pivot: {x: 0.4212963, y: -0.011859377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -11.475296}
+        - {x: -108, y: 58.52469}
+        - {x: -52, y: 88.524704}
+        - {x: 14, y: 75.524704}
+        - {x: 40, y: 26.524704}
+        - {x: 108, y: 5.524704}
+        - {x: 108, y: -25.475296}
+        - {x: 59, y: -85.475296}
+        - {x: -72, y: -85.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0007
+      rect:
+        serializedVersion: 2
+        x: 1083.0762
+        y: 1568
+        width: 158.84775
+        height: 229.92387
+      alignment: 9
+      pivot: {x: 0.50314736, y: 0.4436251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.500046, y: -0.96193695}
+        - {x: -75.500046, y: 61.038063}
+        - {x: -19.500044, y: 122.03806}
+        - {x: 39.499954, y: 107.038055}
+        - {x: 76.499954, y: 63.038063}
+        - {x: 57.499954, y: -2.961938}
+        - {x: 87.499954, y: -71.96193}
+        - {x: 63.499954, y: -81.96194}
+        - {x: 63.499954, y: -114.96194}
+        - {x: -71.500046, y: -114.96194}
+        - {x: -71.500046, y: -81.96194}
+        - {x: 37.499954, y: -81.96194}
+        - {x: 8.499954, y: -47.961937}
+        - {x: -38.500046, y: -59.961937}
+        - {x: -70.500046, y: -39.961937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0002
+      rect:
+        serializedVersion: 2
+        x: 908.0761
+        y: 1561
+        width: 170.84775
+        height: 223.92387
+      alignment: 9
+      pivot: {x: 0.47366086, y: 0.45551196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.499985, y: -111.96194}
+        - {x: -76.499985, y: -78.96194}
+        - {x: 58.500015, y: -78.96194}
+        - {x: 58.500015, y: -111.96194}
+      - - {x: -81.499985, y: 81.03806}
+        - {x: -16.499985, y: 115.03806}
+        - {x: 33.500015, y: 106.03806}
+        - {x: 65.500015, y: 67.03806}
+        - {x: 85.500015, y: -48.961937}
+        - {x: 61.500015, y: -72.96194}
+        - {x: 10.500014, y: -48.961937}
+        - {x: -52.499985, y: -71.96194}
+        - {x: -89.499985, y: -41.961937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0033
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0002
+      rect:
+        serializedVersion: 2
+        x: 1030.0762
+        y: 984.02673
+        width: 148.84775
+        height: 183.89713
+      alignment: 9
+      pivot: {x: 0.53023195, y: 0.30981055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.50004, y: -20.975292}
+        - {x: -72.50004, y: 80.024704}
+        - {x: 8.499962, y: 96.024704}
+        - {x: 55.49996, y: 64.024704}
+        - {x: 76.49996, y: -55.975292}
+        - {x: 62.49996, y: -86.975296}
+        - {x: -3.5000381, y: -91.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0004
+      rect:
+        serializedVersion: 2
+        x: 1675.0762
+        y: 1201.0513
+        width: 160.84775
+        height: 170.94868
+      alignment: 9
+      pivot: {x: 0.52175945, y: 0.23368843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.50003, y: -3.5256119}
+        - {x: -73.50004, y: 70.47439}
+        - {x: -37.50004, y: 85.47439}
+        - {x: 14.499962, y: 84.47439}
+        - {x: 64.49996, y: 60.47438}
+        - {x: 86.49996, y: -73.52561}
+        - {x: 2.4999619, y: -86.52561}
+        - {x: -41.50004, y: -56.52561}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0026
+      rect:
+        serializedVersion: 2
+        x: 1189.0762
+        y: 985.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle
+      rect:
+        serializedVersion: 2
+        x: 605.0761
+        y: 525.0761
+        width: 153.84775
+        height: 201.84775
+      alignment: 9
+      pivot: {x: 0.52599984, y: 0.52477115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9999847, y: -101.99999}
+        - {x: -65.999985, y: -91.99999}
+        - {x: -84.999985, y: 28.000006}
+        - {x: -18.999983, y: 107.00001}
+        - {x: 54.000015, y: 92.00001}
+        - {x: 78.000015, y: 53.000008}
+        - {x: 66.000015, y: -31.999992}
+        - {x: 79.000015, y: -96.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0003
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 505
+        width: 169.92387
+        height: 217.92387
+      alignment: 9
+      pivot: {x: 0.47079906, y: 0.46805334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.96193, y: 84.03806}
+        - {x: -12.961937, y: 111.038055}
+        - {x: 33.038063, y: 103.03806}
+        - {x: 65.03806, y: 64.03806}
+        - {x: 85.03806, y: -51.961937}
+        - {x: 61.038063, y: -75.96194}
+        - {x: 58.038063, y: -108.96194}
+        - {x: -76.96194, y: -108.96194}
+        - {x: -76.96194, y: -75.96194}
+        - {x: -56.961937, y: -71.96194}
+        - {x: -83.96194, y: -49.961933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0005
+      rect:
+        serializedVersion: 2
+        x: 1675.0762
+        y: 1201.0513
+        width: 160.84775
+        height: 170.94868
+      alignment: 9
+      pivot: {x: 0.52175945, y: 0.3389832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.50003, y: -3.5256138}
+        - {x: -73.50004, y: 70.47438}
+        - {x: -37.50004, y: 85.474396}
+        - {x: 14.499962, y: 84.474396}
+        - {x: 64.49996, y: 60.474392}
+        - {x: 86.49996, y: -73.52561}
+        - {x: 2.4999619, y: -86.52561}
+        - {x: -41.50004, y: -56.52561}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0049
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0023
+      rect:
+        serializedVersion: 2
+        x: 1189.0762
+        y: 985.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0044
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0041
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0018
+      rect:
+        serializedVersion: 2
+        x: 1372.0762
+        y: 185.02675
+        width: 185.89713
+        height: 193.97325
+      alignment: 9
+      pivot: {x: 0.8817986, y: 0.4122901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.975266, y: -98.013374}
+        - {x: -87.024734, y: -64.013374}
+        - {x: -98.024734, y: 21.986626}
+        - {x: -45.024734, y: 96.986626}
+        - {x: 17.97527, y: 95.986626}
+        - {x: 62.975266, y: 56.986626}
+        - {x: 62.975266, y: 3.9866257}
+        - {x: 95.975266, y: -43.013374}
+        - {x: 86.975266, y: -74.013374}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0020
+      rect:
+        serializedVersion: 2
+        x: 1656.0762
+        y: 808.0761
+        width: 183.92387
+        height: 193.84775
+      alignment: 9
+      pivot: {x: 0.89125913, y: 0.41230237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.03811, y: 95.000015}
+        - {x: 17.961895, y: 97.000015}
+        - {x: 66.96189, y: 54.000015}
+        - {x: 62.96189, y: -11.999985}
+        - {x: 91.96189, y: -29.999985}
+        - {x: 91.96189, y: -68.999985}
+        - {x: 32.96189, y: -102.99998}
+        - {x: -85.03811, y: -63.999985}
+        - {x: -92.03811, y: -14.999985}
+        - {x: -86.03811, y: 39.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0019
+      rect:
+        serializedVersion: 2
+        x: 764.0761
+        y: 555.0761
+        width: 184.84775
+        height: 192.84775
+      alignment: 9
+      pivot: {x: 0.88139504, y: 0.4092549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.500015, y: -100.499985}
+        - {x: -86.499985, y: -60.49998}
+        - {x: -93.499985, y: -9.499985}
+        - {x: -86.499985, y: 38.500015}
+        - {x: -33.499985, y: 102.50001}
+        - {x: 43.500015, y: 86.500015}
+        - {x: 65.500015, y: 43.500015}
+        - {x: 57.500015, y: -3.4999847}
+        - {x: 99.500015, y: -42.499985}
+        - {x: 84.500015, y: -73.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0005
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0029
+      rect:
+        serializedVersion: 2
+        x: 1230.0762
+        y: 789.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0034
+      rect:
+        serializedVersion: 2
+        x: 1660.0762
+        y: 1006.02673
+        width: 179.92387
+        height: 189.89713
+      alignment: 9
+      pivot: {x: 0.8943995, y: 0.40534192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.961891, y: -96.975296}
+        - {x: -94.03811, y: -51.975296}
+        - {x: -86.03811, y: 35.0247}
+        - {x: -36.0381, y: 97.024704}
+        - {x: 19.961891, y: 92.024704}
+        - {x: 69.96189, y: 49.024696}
+        - {x: 54.96189, y: 3.024704}
+        - {x: 89.96189, y: -36.975296}
+        - {x: 89.96189, y: -71.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0001
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0028
+      rect:
+        serializedVersion: 2
+        x: 1462.0762
+        y: 777.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0037
+      rect:
+        serializedVersion: 2
+        x: 767.02673
+        y: 159.07613
+        width: 191.89713
+        height: 181.84775
+      alignment: 9
+      pivot: {x: 0.9170188, y: 0.35152414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.975296, y: 15}
+        - {x: -58.975296, y: 88}
+        - {x: -10.975296, y: 93.99999}
+        - {x: 46.024704, y: 64.99999}
+        - {x: 53.024704, y: 8}
+        - {x: 101.024704, y: -21}
+        - {x: 92.024704, y: -54}
+        - {x: 35.024704, y: -92}
+        - {x: -82.975296, y: -74}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0051
+      rect:
+        serializedVersion: 2
+        x: 1316.0762
+        y: 578
+        width: 162.89713
+        height: 190.92387
+      alignment: 9
+      pivot: {x: 0.005671238, y: 0.8066042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.524734, y: 92.53806}
+        - {x: 32.475266, y: 100.53806}
+        - {x: 86.475266, y: 48.538063}
+        - {x: 57.475266, y: -95.46194}
+        - {x: -37.52474, y: -95.46194}
+        - {x: -83.524734, y: -49.46193}
+        - {x: -79.524734, y: 33.538063}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0030
+      rect:
+        serializedVersion: 2
+        x: 1367.0762
+        y: 382.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0045
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0048
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0024
+      rect:
+        serializedVersion: 2
+        x: 1189.0762
+        y: 985.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0009
+      rect:
+        serializedVersion: 2
+        x: 1845.0762
+        y: 1175.0762
+        width: 194.84775
+        height: 203.84775
+      alignment: 9
+      pivot: {x: 0.86182076, y: 0.4166042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.500046, y: -19.000046}
+        - {x: -93.500046, y: 38.999954}
+        - {x: -34.50004, y: 106.999954}
+        - {x: 24.499958, y: 95.999954}
+        - {x: 70.499954, y: 54.999954}
+        - {x: 61.499954, y: -2.0000467}
+        - {x: 104.499954, y: -45.000046}
+        - {x: 83.499954, y: -87.000046}
+        - {x: 15.499954, y: -103.00004}
+        - {x: -91.500046, y: -62.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0011
+      rect:
+        serializedVersion: 2
+        x: 1635.013
+        y: 1602.0762
+        width: 202.98709
+        height: 211.92387
+      alignment: 9
+      pivot: {x: 0.8522072, y: 0.4196027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.493519, y: -113.03811}
+        - {x: -97.506485, y: -63.038105}
+        - {x: -104.506485, y: 34.96189}
+        - {x: -43.506485, y: 105.96189}
+        - {x: 26.493515, y: 104.96189}
+        - {x: 71.493515, y: 59.96189}
+        - {x: 71.493515, y: -0.038108826}
+        - {x: 101.493515, y: -34.03811}
+        - {x: 101.493515, y: -77.0381}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0053
+      rect:
+        serializedVersion: 2
+        x: 1679.0762
+        y: 607.03625
+        width: 153.84775
+        height: 192.96371
+      alignment: 9
+      pivot: {x: -0.013494978, y: 0.8030719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.000046, y: 43.481888}
+        - {x: -21.000046, y: 96.48189}
+        - {x: 24.999954, y: 96.48189}
+        - {x: 58.999954, y: 79.48189}
+        - {x: 80.99994, y: 44.481888}
+        - {x: 57.999954, y: -86.51811}
+        - {x: -32.000046, y: -99.51811}
+        - {x: -68.000046, y: -57.518112}
+        - {x: -79.000046, y: -14.518105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0043
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0042
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0034
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0010
+      rect:
+        serializedVersion: 2
+        x: 206.07613
+        y: 505.02676
+        width: 205.84775
+        height: 214.89713
+      alignment: 9
+      pivot: {x: 0.8449151, y: 0.4186805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: -82.47533}
+        - {x: 28.000004, y: -114.47533}
+        - {x: -97, y: -65.47533}
+        - {x: -106, y: 2.5246716}
+        - {x: -95, y: 44.524673}
+        - {x: -40, y: 112.52467}
+        - {x: 27, y: 102.524666}
+        - {x: 79, y: 57.524673}
+        - {x: 67, y: 0.52467346}
+        - {x: 114, y: -43.475327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0039
+      rect:
+        serializedVersion: 2
+        x: 973.02673
+        y: 184.07613
+        width: 190.89713
+        height: 177.84775
+      alignment: 9
+      pivot: {x: 0.95325303, y: 0.34256196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.47528, y: 24.999996}
+        - {x: -70.475296, y: 84}
+        - {x: -14.475296, y: 88.99999}
+        - {x: 33.524708, y: 68}
+        - {x: 52.524704, y: 11.999996}
+        - {x: 88.524704, y: -12}
+        - {x: 101.524704, y: -45}
+        - {x: 42.524704, y: -89}
+        - {x: -67.475296, y: -78}
+        - {x: -86.475296, y: -36}
+        - {x: -96.475296, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198.07613
+        width: 199.92387
+        height: 271.89713
+      alignment: 9
+      pivot: {x: 0.5151961, y: 0.5936947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.96194, y: 133.97531}
+        - {x: -18.961937, y: 135.97531}
+        - {x: -10.961937, y: 90.97531}
+        - {x: 37.038063, y: 64.97531}
+        - {x: 60.038063, y: 19.975311}
+        - {x: 91.03806, y: 4.9753113}
+        - {x: 105.03806, y: -58.02469}
+        - {x: 37.038063, y: -137.02469}
+        - {x: 6.038063, y: -134.02467}
+        - {x: -65.96194, y: -84.02469}
+        - {x: -77.96194, y: 16.975311}
+        - {x: -99.96194, y: 60.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0031
+      rect:
+        serializedVersion: 2
+        x: 1756.0762
+        y: 391.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0008
+      rect:
+        serializedVersion: 2
+        x: 212.07613
+        y: 272.0761
+        width: 209.84775
+        height: 218.84775
+      alignment: 9
+      pivot: {x: 0.8383405, y: 0.4200358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -112.499985}
+        - {x: -100.999985, y: -66.499985}
+        - {x: -109, y: 35.50001}
+        - {x: -40, y: 114.500015}
+        - {x: 29, y: 104.500015}
+        - {x: 72, y: 66.500015}
+        - {x: 80, y: -9.499985}
+        - {x: 110, y: -40.499985}
+        - {x: 97, y: -91.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0003
+      rect:
+        serializedVersion: 2
+        x: 1675.0762
+        y: 1201.0513
+        width: 160.84775
+        height: 170.94868
+      alignment: 9
+      pivot: {x: 0.52175945, y: 0.23368843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.50003, y: -3.5256119}
+        - {x: -73.50004, y: 70.47439}
+        - {x: -37.50004, y: 85.47439}
+        - {x: 14.499962, y: 84.47439}
+        - {x: 64.49996, y: 60.47438}
+        - {x: 86.49996, y: -73.52561}
+        - {x: 2.4999619, y: -86.52561}
+        - {x: -41.50004, y: -56.52561}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0007
+      rect:
+        serializedVersion: 2
+        x: 1463.0762
+        y: 1369.0762
+        width: 196.84775
+        height: 206.84775
+      alignment: 9
+      pivot: {x: 0.8581446, y: 0.41539648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.499954, y: -108.500046}
+        - {x: -98.500046, y: -59.500046}
+        - {x: -96.500046, y: 43.499954}
+        - {x: -33.500046, y: 107.499954}
+        - {x: 25.499954, y: 97.499954}
+        - {x: 66.499954, y: 56.499954}
+        - {x: 67.499954, y: -14.500046}
+        - {x: 94.499954, y: -32.500046}
+        - {x: 103.499954, y: -72.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0042
+      rect:
+        serializedVersion: 2
+        x: 819.0761
+        y: 1400.0762
+        width: 197.84775
+        height: 156.84775
+      alignment: 9
+      pivot: {x: 0.8335899, y: 0.46493384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.999985, y: 25.499954}
+        - {x: -35.999985, y: 80.49995}
+        - {x: 36.000015, y: 72.499954}
+        - {x: 67.000015, y: 41.499954}
+        - {x: 106.000015, y: -58.500042}
+        - {x: 20.00002, y: -79.500046}
+        - {x: -96.999985, y: -43.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0004
+      rect:
+        serializedVersion: 2
+        x: 220.07613
+        y: 909.0761
+        width: 201.92387
+        height: 241.84775
+      alignment: 9
+      pivot: {x: 0.52952564, y: 0.67573047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.03807, y: 78.000015}
+        - {x: 59.961926, y: 128}
+        - {x: 100.96193, y: 108.000015}
+        - {x: 100.96193, y: 42.000015}
+        - {x: 72.96192, y: 13.000017}
+        - {x: 64.96193, y: -61.999977}
+        - {x: 36.96193, y: -93.999985}
+        - {x: -32.03807, y: -126.999985}
+        - {x: -111.03806, y: -75.99998}
+        - {x: -94.03807, y: -10.999981}
+        - {x: -57.03807, y: 15.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0033
+      rect:
+        serializedVersion: 2
+        x: 1230.0762
+        y: 789.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198.07613
+        width: 199.92387
+        height: 271.89713
+      alignment: 9
+      pivot: {x: 0.5151961, y: 0.5936947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.96194, y: 133.97531}
+        - {x: -18.961937, y: 135.97531}
+        - {x: -10.961937, y: 90.97531}
+        - {x: 37.038063, y: 64.97531}
+        - {x: 60.038063, y: 19.975311}
+        - {x: 91.03806, y: 4.9753113}
+        - {x: 105.03806, y: -58.02469}
+        - {x: 37.038063, y: -137.02469}
+        - {x: 6.038063, y: -134.02467}
+        - {x: -65.96194, y: -84.02469}
+        - {x: -77.96194, y: 16.975311}
+        - {x: -99.96194, y: 60.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0018
+      rect:
+        serializedVersion: 2
+        x: 972.0761
+        y: 364.02676
+        width: 189.84775
+        height: 198.89713
+      alignment: 9
+      pivot: {x: 0.873984, y: 0.41213888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.000015, y: -99.47533}
+        - {x: -94.999985, y: -56.475327}
+        - {x: -92.999985, y: 41.52467}
+        - {x: -30.999985, y: 102.524666}
+        - {x: 24.000015, y: 93.52467}
+        - {x: 65.000015, y: 57.524673}
+        - {x: 66.000015, y: -14.475327}
+        - {x: 101.000015, y: -32.475327}
+        - {x: 90.000015, y: -71.47533}
+        - {x: 59.000015, y: -91.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0012
+      rect:
+        serializedVersion: 2
+        x: 415.0761
+        y: 1167.0267
+        width: 192.84775
+        height: 200.89713
+      alignment: 9
+      pivot: {x: 0.86557347, y: 0.4130137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.499985, y: 94.524704}
+        - {x: 11.500019, y: 107.524704}
+        - {x: 70.500015, y: 52.524704}
+        - {x: 58.500015, y: -0.47529602}
+        - {x: 102.500015, y: -46.475296}
+        - {x: 87.500015, y: -75.475296}
+        - {x: 27.50002, y: -105.475296}
+        - {x: -96.499985, y: -58.475296}
+        - {x: -94.499985, y: 35.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0004
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 773.0761
+        width: 169.92387
+        height: 208.92387
+      alignment: 9
+      pivot: {x: 0.47079906, y: 0.49742466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.961937, y: 104.461945}
+        - {x: 29.038063, y: 104.461945}
+        - {x: 65.03806, y: 60.461952}
+        - {x: 85.03806, y: -54.538044}
+        - {x: 48.03806, y: -102.53805}
+        - {x: -75.96194, y: -104.53805}
+        - {x: -84.96193, y: -44.538048}
+        - {x: -82.96194, y: 76.46195}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0047
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0054
+      rect:
+        serializedVersion: 2
+        x: 1679.0762
+        y: 607.03625
+        width: 153.84775
+        height: 192.96371
+      alignment: 9
+      pivot: {x: -0.013494978, y: 0.8030719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.000046, y: 43.481888}
+        - {x: -21.000046, y: 96.48189}
+        - {x: 24.999954, y: 96.48189}
+        - {x: 58.999954, y: 79.48189}
+        - {x: 80.99994, y: 44.481888}
+        - {x: 57.999954, y: -86.51811}
+        - {x: -32.000046, y: -99.51811}
+        - {x: -68.000046, y: -57.518112}
+        - {x: -79.000046, y: -14.518105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0003
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0025
+      rect:
+        serializedVersion: 2
+        x: 1189.0762
+        y: 985.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0003
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 1099.0762
+        width: 199.92387
+        height: 333.9239
+      alignment: 9
+      pivot: {x: 0.52481914, y: 0.48640972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.038055, y: -28.038116}
+        - {x: -57.03805, y: 24.961882}
+        - {x: -29.038055, y: 46.961884}
+        - {x: 35.961945, y: 45.961884}
+        - {x: 64.961945, y: -55.038116}
+        - {x: 52.961945, y: -115.03812}
+        - {x: -22.038055, y: -169.03812}
+        - {x: -75.038055, y: -160.03812}
+        - {x: -107.03805, y: -128.03812}
+        - {x: -94.038055, y: -74.03812}
+      - - {x: 11.961945, y: 142.96188}
+        - {x: 26.961945, y: 166.96187}
+        - {x: 99.961945, y: 166.96187}
+        - {x: 99.961945, y: 76.96188}
+        - {x: 56.96194, y: 70.96188}
+        - {x: 26.961945, y: 84.96188}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0051
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0027
+      rect:
+        serializedVersion: 2
+        x: 1848.0762
+        y: 783.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0001
+      rect:
+        serializedVersion: 2
+        x: 1671.0762
+        y: 1374
+        width: 170.84775
+        height: 218.92387
+      alignment: 9
+      pivot: {x: 0.4736605, y: 0.46591538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.500044, y: 107.53806}
+        - {x: 28.499954, y: 109.538055}
+        - {x: 65.499954, y: 64.53806}
+        - {x: 85.499954, y: -51.461937}
+        - {x: 61.499954, y: -75.46194}
+        - {x: 58.499954, y: -109.46194}
+        - {x: -76.500046, y: -109.46194}
+        - {x: -76.500046, y: -76.46194}
+        - {x: -54.500046, y: -72.46194}
+        - {x: -89.500046, y: -44.461937}
+        - {x: -81.500046, y: 70.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0046
+      rect:
+        serializedVersion: 2
+        x: 769.0761
+        y: 348.0761
+        width: 188.84775
+        height: 200.92387
+      alignment: 9
+      pivot: {x: 0.2855416, y: 0.1588855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.500008, y: -102.53805}
+        - {x: -53.49999, y: -58.538048}
+        - {x: -79.499985, y: -60.538048}
+        - {x: -99.499985, y: 25.461952}
+        - {x: -57.49999, y: 100.46195}
+        - {x: -4.4999886, y: 99.46195}
+        - {x: 47.50001, y: 75.46195}
+        - {x: 63.50001, y: -16.538048}
+        - {x: 106.5, y: -59.538048}
+        - {x: 75.500015, y: -89.53805}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0052
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0046
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0013
+      rect:
+        serializedVersion: 2
+        x: 622.0761
+        y: 1182.0762
+        width: 190.84775
+        height: 199.84775
+      alignment: 9
+      pivot: {x: 0.8694045, y: 0.41493502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.500015, y: -103.00004}
+        - {x: -90.499985, y: -59.000046}
+        - {x: -101.49997, y: 24.999954}
+        - {x: -31.499985, y: 106.999954}
+        - {x: 52.500015, y: 86.999954}
+        - {x: 104.500015, y: -69.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0015
+      rect:
+        serializedVersion: 2
+        x: 1488.0762
+        y: 577
+        width: 186.92387
+        height: 196.92387
+      alignment: 9
+      pivot: {x: 0.8823048, y: 0.41132647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.53809, y: 34.538063}
+        - {x: -48.5381, y: 96.53806}
+        - {x: 20.461891, y: 98.53806}
+        - {x: 64.46189, y: 54.538063}
+        - {x: 64.46189, y: -6.461937}
+        - {x: 93.46189, y: -37.461937}
+        - {x: 93.46189, y: -67.46194}
+        - {x: 64.46189, y: -92.46194}
+        - {x: 16.461891, y: -98.46194}
+        - {x: -86.53811, y: -61.461937}
+        - {x: -95.53811, y: -20.461937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0013
+      rect:
+        serializedVersion: 2
+        x: 11.07612
+        y: 1742.0762
+        width: 245.84775
+        height: 291.89713
+      alignment: 9
+      pivot: {x: 0.42678398, y: 0.5769972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.999992, y: 76.975266}
+        - {x: -20.999992, y: 84.975266}
+        - {x: 18.000008, y: 55.97526}
+        - {x: 37.000008, y: -53.024734}
+        - {x: 12.000006, y: -104.024734}
+        - {x: -41.999992, y: -140.02473}
+        - {x: -92.99999, y: -147.02473}
+        - {x: -133, y: -129.02473}
+        - {x: -115.999985, y: -64.024734}
+        - {x: -92.99999, y: -36.02473}
+        - {x: -81.99999, y: 53.975266}
+      - - {x: 124.00001, y: 111.975266}
+        - {x: 112.00001, y: 39.975266}
+        - {x: 65.00001, y: 12.9752655}
+        - {x: 39.000008, y: 38.975266}
+        - {x: 36.000004, y: 83.975266}
+        - {x: 101, y: 158.97527}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0006
+      rect:
+        serializedVersion: 2
+        x: 1244.0762
+        y: 1818.0267
+        width: 213.84775
+        height: 222.89713
+      alignment: 9
+      pivot: {x: 0.8320117, y: 0.42159927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.000046, y: -70.475296}
+        - {x: -112.000046, y: -18.475296}
+        - {x: -100.00003, y: 49.524696}
+        - {x: -42.000046, y: 117.524704}
+        - {x: 32.999954, y: 105.524704}
+        - {x: 83.999954, y: 56.524704}
+        - {x: 70.999954, y: 4.524704}
+        - {x: 112.999954, y: -39.475296}
+        - {x: 97.999954, y: -97.47529}
+        - {x: 11.999958, y: -114.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0011
+      rect:
+        serializedVersion: 2
+        x: 1032.0762
+        y: 1193.0762
+        width: 150.89713
+        height: 180.84775
+      alignment: 9
+      pivot: {x: 0.5296577, y: 0.57464814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.524734, y: 76.499954}
+        - {x: 9.4752655, y: 91.49995}
+        - {x: 58.47526, y: 79.499954}
+        - {x: 75.475266, y: 42.499954}
+        - {x: 60.475266, y: -55.500046}
+        - {x: 76.475266, y: -84.500046}
+        - {x: -5.5247335, y: -91.500046}
+        - {x: -60.524734, y: -83.500046}
+        - {x: -77.524734, y: -64.500046}
+        - {x: -25.524733, y: -50.500046}
+        - {x: -80.524734, y: -23.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0014
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 967.0761
+        width: 197.98709
+        height: 206.84775
+      alignment: 9
+      pivot: {x: 0.853591, y: 0.41539678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.006454, y: 60.500015}
+        - {x: 67.006454, y: -3.4999847}
+        - {x: 104.006454, y: -41.499985}
+        - {x: 92.006454, y: -76.499985}
+        - {x: 58.006454, y: -96.499985}
+        - {x: 15.006454, y: -103.49998}
+        - {x: -98.993546, y: -67.499985}
+        - {x: -97.993546, y: 38.500015}
+        - {x: -44.993546, y: 99.50001}
+        - {x: 14.006454, y: 106.500015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0012
+      rect:
+        serializedVersion: 2
+        x: 977.0761
+        y: 3.0761204
+        width: 150.89713
+        height: 178.92387
+      alignment: 9
+      pivot: {x: 0.5296582, y: 0.58082736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.524673, y: 89.461945}
+        - {x: 26.475327, y: 89.461945}
+        - {x: 79.47532, y: 66.461945}
+        - {x: 61.475327, y: -51.538055}
+        - {x: 76.47533, y: -83.53805}
+        - {x: -7.5246735, y: -91.53805}
+        - {x: -86.524666, y: -79.538055}
+        - {x: -55.524673, y: -52.538048}
+        - {x: -72.52467, y: -25.538052}
+        - {x: -80.52467, y: 52.461945}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0024
+      rect:
+        serializedVersion: 2
+        x: 1462.0762
+        y: 1169.0762
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 90.99995}
+        - {x: 1.9999542, y: 97.999954}
+        - {x: 50.999954, y: 71.999954}
+        - {x: 64.999954, y: 42.99995}
+        - {x: 54.999954, y: -5.000046}
+        - {x: 85.999954, y: -29.000046}
+        - {x: 100.999954, y: -68.000046}
+        - {x: 19.999954, y: -96.000046}
+        - {x: -85.000046, y: -58.000046}
+        - {x: -97.000046, y: 21.999954}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0038
+      rect:
+        serializedVersion: 2
+        x: 767.02673
+        y: 159.07613
+        width: 191.89713
+        height: 181.84775
+      alignment: 9
+      pivot: {x: 0.9170188, y: 0.35152414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.975296, y: 15}
+        - {x: -58.975296, y: 88}
+        - {x: -10.975296, y: 93.99999}
+        - {x: 46.024704, y: 64.99999}
+        - {x: 53.024704, y: 8}
+        - {x: 101.024704, y: -21}
+        - {x: 92.024704, y: -54}
+        - {x: 35.024704, y: -92}
+        - {x: -82.975296, y: -74}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0005
+      rect:
+        serializedVersion: 2
+        x: 764.02673
+        y: 1798.0762
+        width: 234.97325
+        height: 241.84775
+      alignment: 9
+      pivot: {x: 0.5956987, y: 0.6757302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.51336, y: 77.999954}
+        - {x: 76.48663, y: 127.99995}
+        - {x: 117.48664, y: 107.999954}
+        - {x: 117.48664, y: 41.999954}
+        - {x: 89.48663, y: 11.999954}
+        - {x: 81.48663, y: -52.000046}
+        - {x: 63.48664, y: -103.000046}
+        - {x: -30.513355, y: -129.00003}
+        - {x: -58.51336, y: -53.000046}
+        - {x: -97.51335, y: -42.000046}
+        - {x: -121.51336, y: 40.999954}
+        - {x: -102.51336, y: 79.999954}
+        - {x: -54.51336, y: 32.999954}
+        - {x: -31.513355, y: 40.999954}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0021
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 195.02675
+        width: 180.92387
+        height: 190.89713
+      alignment: 9
+      pivot: {x: 0.8843498, y: 0.40845692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.461937, y: 91.52469}
+        - {x: 0.53806305, y: 97.52469}
+        - {x: 60.538063, y: 67.52469}
+        - {x: 60.538063, y: 3.5246887}
+        - {x: 100.53806, y: -56.47531}
+        - {x: 73.53806, y: -78.47531}
+        - {x: 15.538067, y: -97.4753}
+        - {x: -90.46192, y: -55.47531}
+        - {x: -90.46192, y: 31.524685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0026
+      rect:
+        serializedVersion: 2
+        x: 1462.0762
+        y: 973.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0052
+      rect:
+        serializedVersion: 2
+        x: 1679.0762
+        y: 607.03625
+        width: 153.84775
+        height: 192.96371
+      alignment: 9
+      pivot: {x: -0.013494978, y: 0.8030719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.000046, y: 43.481888}
+        - {x: -21.000046, y: 96.48189}
+        - {x: 24.999954, y: 96.48189}
+        - {x: 58.999954, y: 79.48189}
+        - {x: 80.99994, y: 44.481888}
+        - {x: 57.999954, y: -86.51811}
+        - {x: -32.000046, y: -99.51811}
+        - {x: -68.000046, y: -57.518112}
+        - {x: -79.000046, y: -14.518105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0014
+      rect:
+        serializedVersion: 2
+        x: 1170.0762
+        y: 376.02676
+        width: 188.92387
+        height: 198.89713
+      alignment: 9
+      pivot: {x: 0.8782576, y: 0.41213888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.53811, y: 98.52467}
+        - {x: 18.461895, y: 100.524666}
+        - {x: 72.46189, y: 48.524673}
+        - {x: 57.46189, y: 5.5246716}
+        - {x: 94.46189, y: -38.475327}
+        - {x: 94.46189, y: -83.47533}
+        - {x: 18.461895, y: -99.47533}
+        - {x: -89.53811, y: -66.47533}
+        - {x: -94.53811, y: -13.475327}
+        - {x: -89.53811, y: 38.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0025
+      rect:
+        serializedVersion: 2
+        x: 1848.0762
+        y: 979.0761
+        width: 181.84775
+        height: 189.84775
+      alignment: 9
+      pivot: {x: 0.89043623, y: 0.41045463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.000046, y: 91.00001}
+        - {x: 1.9999542, y: 98.000015}
+        - {x: 50.999954, y: 72.000015}
+        - {x: 64.999954, y: 43.00001}
+        - {x: 54.999954, y: -4.9999847}
+        - {x: 85.999954, y: -28.999985}
+        - {x: 100.999954, y: -67.999985}
+        - {x: 19.999954, y: -95.999985}
+        - {x: -85.000046, y: -57.999985}
+        - {x: -97.000046, y: 22.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0006
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1383.0762
+        width: 197.92387
+        height: 206.84775
+      alignment: 9
+      pivot: {x: 0.85386366, y: 0.41539648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.961937, y: 101.49995}
+        - {x: 3.0380707, y: 105.499954}
+        - {x: 54.038063, y: 79.499954}
+        - {x: 69.03806, y: 46.499954}
+        - {x: 61.038063, y: -4.500046}
+        - {x: 110.038055, y: -47.500046}
+        - {x: 88.03806, y: -79.500046}
+        - {x: 26.038063, y: -109.50004}
+        - {x: -98.96194, y: -60.500042}
+        - {x: -98.96194, y: 41.49995}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0031
+      rect:
+        serializedVersion: 2
+        x: 1230.0762
+        y: 789.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0010
+      rect:
+        serializedVersion: 2
+        x: 1849.0762
+        y: 1391.0267
+        width: 194.84775
+        height: 202.89713
+      alignment: 9
+      pivot: {x: 0.86182076, y: 0.41387114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.499954, y: -106.475296}
+        - {x: -92.500046, y: -61.475296}
+        - {x: -102.500046, y: 27.524704}
+        - {x: -36.50004, y: 105.524704}
+        - {x: 25.499954, y: 95.524704}
+        - {x: 65.499954, y: 55.524696}
+        - {x: 66.499954, y: -16.475296}
+        - {x: 92.499954, y: -29.475296}
+        - {x: 100.499954, y: -72.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0006
+      rect:
+        serializedVersion: 2
+        x: 1289.0762
+        y: 11.026751
+        width: 160.84775
+        height: 170.97325
+      alignment: 9
+      pivot: {x: 0.52175945, y: 0.7660453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.50004, y: 84.486626}
+        - {x: 19.499962, y: 85.48662}
+        - {x: 61.49996, y: 55.486626}
+        - {x: 84.49996, y: -61.513367}
+        - {x: 59.49996, y: -78.513374}
+        - {x: -0.50003815, y: -85.513374}
+        - {x: -76.50003, y: -25.513374}
+        - {x: -82.50003, y: 53.486626}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0036
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1378.0267
+        width: 178.97325
+        height: 181.89713
+      alignment: 9
+      pivot: {x: 0.8884009, y: 0.41217402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.513374, y: -91.975296}
+        - {x: -88.486626, y: -53.975296}
+        - {x: -89.48661, y: 29.024704}
+        - {x: -29.486618, y: 93.024704}
+        - {x: 26.513378, y: 87.024704}
+        - {x: 68.513374, y: 45.024704}
+        - {x: 57.513374, y: -3.975296}
+        - {x: 93.513374, y: -39.975296}
+        - {x: 80.513374, y: -75.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0017
+      rect:
+        serializedVersion: 2
+        x: 829.0761
+        y: 1194.0762
+        width: 191.84775
+        height: 200.84775
+      alignment: 9
+      pivot: {x: 0.87008524, y: 0.4128691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.999977, y: 97.499954}
+        - {x: 18.00002, y: 102.49995}
+        - {x: 66.000015, y: 54.499954}
+        - {x: 66.000015, y: -11.500046}
+        - {x: 92.000015, y: -27.500046}
+        - {x: 100.000015, y: -75.500046}
+        - {x: 19.000015, y: -102.500046}
+        - {x: -100.99997, y: -56.500046}
+        - {x: -88.99997, y: 47.499954}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0006
+      rect:
+        serializedVersion: 2
+        x: 514.0761
+        y: 1793.0762
+        width: 243.92387
+        height: 244.89713
+      alignment: 9
+      pivot: {x: 0.6105343, y: 0.66731626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.96195, y: 95.475266}
+        - {x: 88.96195, y: 26.475266}
+        - {x: 121.96195, y: -8.524731}
+        - {x: 121.96195, y: -69.524734}
+        - {x: 45.961952, y: -126.524734}
+        - {x: 16.961952, y: -113.524734}
+        - {x: -30.038048, y: -58.524734}
+        - {x: -30.038048, y: 33.475266}
+        - {x: -2.0380478, y: 93.475266}
+        - {x: 23.961952, y: 110.475266}
+      - - {x: -122.03805, y: 89.475266}
+        - {x: -102.03805, y: 131.47527}
+        - {x: -38.038048, y: 67.475266}
+        - {x: -38.038048, y: 3.4752655}
+        - {x: -93.03804, y: -5.5247345}
+        - {x: -116.03805, y: 42.475266}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0012
+      rect:
+        serializedVersion: 2
+        x: 488.0761
+        y: 1570.0267
+        width: 202.86081
+        height: 210.89713
+      alignment: 9
+      pivot: {x: 0.8474968, y: 0.41713828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.4934845, y: -103.47529}
+        - {x: -90.506516, y: -64.475296}
+        - {x: -105.506516, y: -35.475296}
+        - {x: -96.506516, y: 41.5247}
+        - {x: -39.506516, y: 111.524704}
+        - {x: 28.493484, y: 99.5247}
+        - {x: 69.493484, y: 58.524704}
+        - {x: 70.493484, y: -8.475296}
+        - {x: 106.493484, y: -35.475296}
+        - {x: 95.493484, y: -77.475296}
+        - {x: 50.493484, y: -105.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0013
+      rect:
+        serializedVersion: 2
+        x: 1255.0762
+        y: 1596.0762
+        width: 200.84775
+        height: 209.84775
+      alignment: 9
+      pivot: {x: 0.85101193, y: 0.41898867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.499954, y: -107.000046}
+        - {x: -96.500046, y: -64.000046}
+        - {x: -103.500046, y: 30.999954}
+        - {x: -35.50004, y: 111.999954}
+        - {x: 29.499954, y: 96.999954}
+        - {x: 65.499954, y: 60.999954}
+        - {x: 105.499954, y: -58.000046}
+        - {x: 86.499954, y: -84.00004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0035
+      rect:
+        serializedVersion: 2
+        x: 1660.0762
+        y: 1006.02673
+        width: 179.92387
+        height: 189.89713
+      alignment: 9
+      pivot: {x: 0.8943995, y: 0.40534192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.961891, y: -96.975296}
+        - {x: -94.03811, y: -51.975296}
+        - {x: -86.03811, y: 35.0247}
+        - {x: -36.0381, y: 97.024704}
+        - {x: 19.961891, y: 92.024704}
+        - {x: 69.96189, y: 49.024696}
+        - {x: 54.96189, y: 3.024704}
+        - {x: 89.96189, y: -36.975296}
+        - {x: 89.96189, y: -71.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0016
+      rect:
+        serializedVersion: 2
+        x: 1031.0762
+        y: 784.03033
+        width: 187.84775
+        height: 196.89352
+      alignment: 9
+      pivot: {x: 0.87796545, y: 0.4112358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.000046, y: 96.5229}
+        - {x: 8.999954, y: 99.522896}
+        - {x: 69.999954, y: 59.522903}
+        - {x: 58.999954, y: 1.5229034}
+        - {x: 96.999954, y: -42.477097}
+        - {x: 87.999954, y: -75.4771}
+        - {x: 16.999958, y: -101.4771}
+        - {x: -97.000046, y: -55.477097}
+        - {x: -90.000046, y: 35.5229}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0022
+      rect:
+        serializedVersion: 2
+        x: 1567.0762
+        y: 382.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0054
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 799
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 195, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0009
+      rect:
+        serializedVersion: 2
+        x: 266.0761
+        y: 1564.0653
+        width: 208.84775
+        height: 217.8586
+      alignment: 9
+      pivot: {x: 0.83756655, y: 0.42199248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.500015, y: -108.9946}
+        - {x: -100.49997, y: -71.994606}
+        - {x: -110.499985, y: 40.005394}
+        - {x: -38.499985, y: 114.005394}
+        - {x: 27.50002, y: 104.00539}
+        - {x: 73.500015, y: 63.005386}
+        - {x: 73.500015, y: -2.994606}
+        - {x: 111.500015, y: -41.994606}
+        - {x: 96.500015, y: -80.994606}
+        - {x: 58.500015, y: -101.994606}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0010
+      rect:
+        serializedVersion: 2
+        x: 602.0761
+        y: 315
+        width: 157.89713
+        height: 207
+      alignment: 9
+      pivot: {x: 0.506177, y: 0.49758455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.97533, y: 51.5}
+        - {x: 59.975327, y: -5.4999995}
+        - {x: 80.97533, y: -70.5}
+        - {x: 52.975327, y: -102.5}
+        - {x: -32.024673, y: -103.5}
+        - {x: -72.02467, y: -94.5}
+        - {x: -82.02467, y: 76.5}
+        - {x: -21.024673, y: 103.5}
+        - {x: 37.975327, y: 103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vent0001
+      rect:
+        serializedVersion: 2
+        x: 403.0761
+        y: 70.02675
+        width: 128.84775
+        height: 191.89713
+      alignment: 9
+      pivot: {x: 0.53492504, y: 0.5418176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.499985, y: 84.02469}
+        - {x: 20.500015, y: 101.02469}
+        - {x: 51.500015, y: 52.02469}
+        - {x: 69.500015, y: -81.97531}
+        - {x: 0.50001526, y: -96.97531}
+        - {x: -57.499985, y: -33.97531}
+        - {x: -66.499985, y: 20.024689}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climbup0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481.02676
+        width: 200
+        height: 292.94647
+      alignment: 9
+      pivot: {x: 0.515, y: 0.5512039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 144.5}
+        - {x: -9, y: 146.5}
+        - {x: -21, y: 75.5}
+        - {x: 22, y: 48.499996}
+        - {x: 41, y: 13.5}
+        - {x: 100, y: 13.5}
+        - {x: 100, y: -76.5}
+        - {x: 55, y: -84.5}
+        - {x: 45.999996, y: -133.5}
+        - {x: 24, y: -155.5}
+        - {x: -69, y: -107.5}
+        - {x: -80, y: -57.5}
+        - {x: -81, y: 33.5}
+        - {x: -100, y: 71.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn0028
+      rect:
+        serializedVersion: 2
+        x: 1230.0762
+        y: 789.0761
+        width: 180.92387
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.89498323, y: 0.40830395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.461891, y: -96.499985}
+        - {x: -85.53811, y: -59.499985}
+        - {x: -96.53811, y: 20.500015}
+        - {x: -35.5381, y: 97.500015}
+        - {x: 20.461891, y: 92.500015}
+        - {x: 70.46189, y: 49.500008}
+        - {x: 55.46189, y: 3.5000153}
+        - {x: 90.46189, y: -36.499985}
+        - {x: 90.46189, y: -72.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnGlow0001
+      rect:
+        serializedVersion: 2
+        x: 1694.0762
+        y: 1824.0267
+        width: 213.84775
+        height: 222.89713
+      alignment: 9
+      pivot: {x: 0.8273355, y: 0.42159927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.00004, y: 109.524704}
+        - {x: 22.999954, y: 111.524704}
+        - {x: 82.999954, y: 58.524704}
+        - {x: 66.999954, y: -6.475296}
+        - {x: 101.999954, y: -23.475296}
+        - {x: 109.999954, y: -82.475296}
+        - {x: 18.999954, y: -117.475296}
+        - {x: -104.000046, y: -67.475296}
+        - {x: -112.000046, y: 33.524704}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walk0009: 21300040
+      Spawn0048: 21300042
+      SpawnGlow0027: 21300208
+      Spawn0016: 21300268
+      SpawnGlow0052: 21300214
+      Spawn0046: 21300212
+      Spawn0020: 21300058
+      SpawnGlow0019: 21300048
+      Spawn0025: 21300202
+      Spawn0038: 21300234
+      SpawnGlow0018: 21300190
+      Walk0005: 21300016
+      SpawnGlow0038: 21300062
+      SpawnGlow0009: 21300274
+      SpawnGlow0003: 21300070
+      SpawnGlow0024: 21300232
+      Spawn0028: 21300282
+      Walk0001: 21300210
+      SpawnGlow0033: 21300106
+      SpawnGlow0007: 21300034
+      Climbup0007: 21300010
+      Spawn0027: 21300072
+      Walk0003: 21300116
+      SpawnGlow0043: 21300162
+      Vent0003: 21300178
+      Spawn0013: 21300218
+      climbdown: 21300008
+      Climbup0009: 21300172
+      Spawn0007: 21300180
+      SpawnGlow0020: 21300130
+      SpawnGlow0014: 21300228
+      SpawnGlow0010: 21300168
+      SpawnGlow0053: 21300032
+      Walk0006: 21300092
+      Spawn0032: 21300084
+      Spawn0026: 21300112
+      Spawn0009: 21300156
+      SpawnGlow0006: 21300224
+      Vent0007: 21300022
+      SpawnGlow0032: 21300060
+      SpawnGlow0017: 21300258
+      Spawn0049: 21300052
+      Spawn0050: 21300086
+      SpawnGlow0023: 21300044
+      SpawnGlow0008: 21300176
+      Vent0005: 21300118
+      Spawn0040: 21300024
+      Spawn0053: 21300160
+      SpawnGlow0011: 21300158
+      Vent0004: 21300110
+      SpawnGlow0035: 21300006
+      Spawn0037: 21300144
+      SpawnGlow0042: 21300164
+      Spawn0001: 21300140
+      Climbup0011: 21300076
+      Spawn0047: 21300012
+      SpawnGlow0054: 21300272
+      SpawnGlow0015: 21300014
+      Climbup0004: 21300184
+      Spawn0033: 21300186
+      Walk0007: 21300102
+      Spawn0022: 21300270
+      SpawnGlow0001: 21300284
+      Spawn0052: 21300242
+      Spawn0021: 21300238
+      Spawn0015: 21300220
+      Spawn0024: 21300154
+      Climbup0002: 21300004
+      SpawnGlow0037: 21300088
+      Climbup0008: 21300188
+      Spawn0034: 21300138
+      Spawn0029: 21300136
+      Vent0001: 21300278
+      SpawnGlow0044: 21300124
+      Spawn0019: 21300132
+      Climbup0012: 21300068
+      SpawnGlow0031: 21300174
+      SpawnGlow0005: 21300134
+      Climbup0006: 21300260
+      idleNoshadow: 21300026
+      SpawnGlow0055: 21300080
+      Spawn0011: 21300038
+      Walk0002: 21300104
+      Spawn0035: 21300266
+      SpawnGlow0028: 21300142
+      Spawn0031: 21300250
+      SpawnGlow0040: 21300020
+      SpawnGlow0029: 21300050
+      Walk0004: 21300194
+      SpawnGlow0013: 21300264
+      Climbup0001: 21300056
+      Walk0012: 21300230
+      SpawnGlow0051: 21300206
+      SpawnGlow0041: 21300126
+      SpawnGlow0045: 21300150
+      Vent0002: 21300108
+      idle: 21300114
+      SpawnGlow0034: 21300166
+      SpawnGlow0046: 21300216
+      Spawn0017: 21300018
+      SpawnGlow0021: 21300036
+      Climbup0010: 21300280
+      Walk0011: 21300226
+      Vent0006: 21300254
+      Spawn0014: 21300244
+      Spawn0042: 21300182
+      Spawn0055: 21300046
+      SpawnGlow0036: 21300000
+      Spawn0018: 21300128
+      Spawn0044: 21300082
+      Spawn0006: 21300248
+      Walk0010: 21300276
+      Spawn0010: 21300252
+      SpawnGlow0004: 21300002
+      SpawnGlow0047: 21300196
+      Climbup0013: 21300222
+      Walk0008: 21300054
+      Spawn0003: 21300200
+      Spawn0036: 21300256
+      Spawn0012: 21300192
+      SpawnGlow0016: 21300028
+      SpawnGlow0048: 21300152
+      Climbup0005: 21300236
+      Spawn0054: 21300198
+      Spawn0008: 21300074
+      SpawnGlow0012: 21300262
+      Spawn0043: 21300094
+      SpawnGlow0026: 21300240
+      Spawn0051: 21300146
+      SpawnGlow0050: 21300078
+      Spawn0023: 21300122
+      Spawn0030: 21300064
+      SpawnGlow0022: 21300096
+      Spawn0041: 21300090
+      Spawn0039: 21300170
+      empty: 21300066
+      SpawnGlow0049: 21300120
+      SpawnGlow0030: 21300148
+      SpawnGlow0025: 21300246
+      SpawnGlow0039: 21300030
+      Spawn0045: 21300100
+      Climbup0003: 21300204
+      SpawnGlow0002: 21300098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

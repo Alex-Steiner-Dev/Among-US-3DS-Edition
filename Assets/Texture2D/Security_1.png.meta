@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 7c76607577b8b9d438e845c36bef4565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: task_cams
+  - first:
+      213: 21300002
+    second: camoff
+  - first:
+      213: 21300004
+    second: security_outside
+  - first:
+      213: 21300006
+    second: security_railing
+  - first:
+      213: 21300008
+    second: security_tapes1
+  - first:
+      213: 21300010
+    second: security_tapes2
+  - first:
+      213: 21300012
+    second: security_tapes4
+  - first:
+      213: 21300014
+    second: task_key
+  - first:
+      213: 21300016
+    second: task_tapes
+  - first:
+      213: 21300018
+    second: security_tapes3
+  - first:
+      213: 21300020
+    second: security_main
+  - first:
+      213: 21300022
+    second: camon
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: task_cams
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1273.0762
+        width: 288
+        height: 131.92387
+      alignment: 9
+      pivot: {x: 0.5017361, y: 0.49971113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117.99999, y: 22.96189}
+        - {x: -116.99999, y: 51.96189}
+        - {x: -27, y: 65.96189}
+        - {x: 51, y: 64.96189}
+        - {x: 103, y: 51.96189}
+        - {x: 113, y: 22.96189}
+        - {x: 142, y: 7.961891}
+        - {x: 146, y: 1.9618912}
+        - {x: 138, y: -61.03811}
+        - {x: 79, y: -53.038105}
+        - {x: 75, y: -35.03811}
+        - {x: -76, y: -37.03811}
+        - {x: -109, y: -67.0381}
+        - {x: -144, y: -67.0381}
+        - {x: -144, y: 2.9618912}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camoff
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1301
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -16.5}
+        - {x: -11, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_outside
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 5
+        width: 852
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -240.99998, y: 184.49998}
+        - {x: -236.99998, y: 274.5}
+        - {x: -214.99998, y: 274.5}
+        - {x: -104.99999, y: 265.5}
+        - {x: -42, y: 274.5}
+        - {x: -19.999998, y: 274.5}
+        - {x: -8, y: 242.5}
+        - {x: 55, y: 242.5}
+        - {x: 58, y: 187.5}
+        - {x: 220, y: 112.5}
+        - {x: 425.99997, y: 108.49999}
+        - {x: 425.99997, y: -251.49998}
+        - {x: 389, y: -274.5}
+        - {x: 241.99998, y: -274.5}
+        - {x: 220, y: -220.5}
+        - {x: 211.99998, y: -101.5}
+        - {x: 59.999996, y: -32.5}
+        - {x: -408.99997, y: -31.5}
+        - {x: -425.99997, y: 22.5}
+        - {x: -425.99997, y: 180.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_railing
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 977
+        width: 842
+        height: 428
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -421, y: 213.99998}
+        - {x: -402, y: 213.99998}
+        - {x: -394.99997, y: 87}
+        - {x: 61, y: 91}
+        - {x: 245, y: 9}
+        - {x: 258, y: -158}
+        - {x: 402, y: -151}
+        - {x: 400.99997, y: 143}
+        - {x: 421, y: 150}
+        - {x: 421, y: -213.99998}
+        - {x: 398, y: -213.99998}
+        - {x: 394.99997, y: -178}
+        - {x: 281, y: -178}
+        - {x: 250, y: -182}
+        - {x: 250, y: -213.99998}
+        - {x: 226, y: -213.99998}
+        - {x: 225, y: -180}
+        - {x: 222, y: -24}
+        - {x: 182, y: -50}
+        - {x: 166, y: 2}
+        - {x: 133, y: -31}
+        - {x: 125, y: 37}
+        - {x: 113, y: 41}
+        - {x: 104.99999, y: -6}
+        - {x: 41, y: 26.999998}
+        - {x: 26, y: 69}
+        - {x: 6, y: 64}
+        - {x: 4.9999995, y: 17}
+        - {x: -19, y: 28}
+        - {x: -22, y: 65}
+        - {x: -51, y: 56}
+        - {x: -52.999996, y: 17}
+        - {x: -75, y: 28}
+        - {x: -81, y: 66.99999}
+        - {x: -367.99997, y: 66.99999}
+        - {x: -400, y: 63}
+        - {x: -400, y: 25}
+        - {x: -421, y: 25}
+      - - {x: -341.99997, y: 63}
+        - {x: -341.99997, y: 25}
+        - {x: -366.99997, y: 25}
+        - {x: -367.99997, y: 66.99999}
+        - {x: -310, y: 66.99999}
+      - - {x: -284, y: 63}
+        - {x: -284, y: 25}
+        - {x: -309, y: 25}
+        - {x: -310, y: 66.99999}
+        - {x: -252, y: 66.99999}
+      - - {x: -226, y: 63}
+        - {x: -226, y: 25}
+        - {x: -251, y: 25}
+        - {x: -252, y: 66.99999}
+        - {x: -199, y: 66.99999}
+      - - {x: -168, y: 62}
+        - {x: -169, y: 17}
+        - {x: -191, y: 28}
+        - {x: -199, y: 66.99999}
+        - {x: -139, y: 66.99999}
+      - - {x: -110, y: 62}
+        - {x: -111, y: 17}
+        - {x: -133, y: 28}
+        - {x: -139, y: 66.99999}
+        - {x: -81, y: 66.99999}
+      - - {x: 307, y: -182}
+        - {x: 307, y: -213.99998}
+        - {x: 284, y: -213.99998}
+        - {x: 281, y: -178}
+        - {x: 338, y: -178}
+      - - {x: 364, y: -182}
+        - {x: 364, y: -213.99998}
+        - {x: 341, y: -213.99998}
+        - {x: 338, y: -178}
+        - {x: 394.99997, y: -178}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_tapes1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1040
+        width: 43
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.499998, y: 36}
+        - {x: -5.5, y: 36}
+        - {x: 21.499998, y: -2}
+        - {x: 21.499998, y: -36}
+        - {x: -21.499998, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_tapes2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1284
+        width: 146
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -43.5}
+        - {x: -31, y: 9.5}
+        - {x: 25, y: 23.5}
+        - {x: 72.99999, y: -24.499998}
+        - {x: 72.99999, y: -43.5}
+      - - {x: -72.99999, y: 21.499998}
+        - {x: -72.99999, y: 43.5}
+        - {x: -29, y: 43.5}
+        - {x: -29, y: 19.5}
+        - {x: -64, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_tapes4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1366
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.999998, y: -19.5}
+        - {x: -19.999998, y: 19.5}
+        - {x: 19.999998, y: 19.5}
+        - {x: 19.999998, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_key
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1043
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 14.999999}
+        - {x: 22.499998, y: 14.999999}
+        - {x: 22.499998, y: -7}
+        - {x: -3.5, y: -14.999999}
+        - {x: -21.5, y: -14.999999}
+        - {x: -22.5, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_tapes
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 179.07613
+        width: 164.89713
+        height: 152.89713
+      alignment: 9
+      pivot: {x: 0.49711752, y: 0.5063789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.47531, y: 44.47531}
+        - {x: -23.47531, y: 77.47531}
+        - {x: 23.524689, y: 77.47531}
+        - {x: 51.52469, y: 50.475307}
+        - {x: 83.52469, y: 46.47531}
+        - {x: 83.52469, y: -66.52469}
+        - {x: 37.52469, y: -77.52469}
+        - {x: -83.47531, y: -77.52469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_tapes3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1379
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: 19.999998, y: 13}
+        - {x: 19.999998, y: -13}
+        - {x: -19.999998, y: -13}
+        - {x: -19.999998, y: 9.999999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 1605
+        height: 1342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 444.49997, y: 671}
+        - {x: 511.49997, y: 671}
+        - {x: 520.5, y: 604}
+        - {x: 555.5, y: 604}
+        - {x: 544.5, y: 593}
+        - {x: 497.5, y: 585}
+        - {x: 505.49997, y: 399}
+        - {x: 562.5, y: 399}
+        - {x: 526.5, y: 372}
+        - {x: 548.49994, y: 242.99998}
+        - {x: 521.49994, y: 208}
+        - {x: 521.49994, y: 79.99999}
+        - {x: 549.5, y: 42}
+        - {x: 507.49997, y: -44}
+        - {x: 421.49997, y: -65}
+        - {x: 412.5, y: -169}
+        - {x: 412.5, y: -263}
+        - {x: 314.5, y: -270}
+        - {x: 308.5, y: -332}
+        - {x: 323.5, y: -529}
+        - {x: 346.5, y: -539}
+        - {x: 802.49994, y: -587.99994}
+        - {x: 802.49994, y: -598}
+        - {x: -38.5, y: -598}
+        - {x: -46.5, y: -671}
+        - {x: -249.49998, y: -671}
+        - {x: -257.5, y: -598}
+        - {x: -802.49994, y: -598}
+        - {x: -802.49994, y: -587.99994}
+        - {x: -553.5, y: -533}
+        - {x: -512.5, y: -450}
+        - {x: -510.5, y: -286}
+        - {x: -528.5, y: -266.99997}
+        - {x: -539.5, y: -137}
+        - {x: -532.5, y: 58}
+        - {x: -485.5, y: 77}
+        - {x: -400.5, y: 87}
+        - {x: -65.5, y: 98.99999}
+        - {x: 41.5, y: 132}
+        - {x: 61.5, y: 170}
+        - {x: 65.5, y: 260}
+        - {x: 47.5, y: 450}
+        - {x: 64.5, y: 669}
+        - {x: 436.49997, y: 667}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camon
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1372
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -16.5}
+        - {x: -11, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      security_tapes4: 21300012
+      security_outside: 21300004
+      security_tapes1: 21300008
+      security_railing: 21300006
+      task_cams: 21300000
+      security_tapes3: 21300018
+      security_main: 21300020
+      task_key: 21300014
+      task_tapes: 21300016
+      security_tapes2: 21300010
+      camoff: 21300002
+      camon: 21300022
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

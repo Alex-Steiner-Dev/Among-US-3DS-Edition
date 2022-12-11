@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: f25fef652820a444d8cee82c5f9f7309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: halls_photos
+  - first:
+      213: 21300002
+    second: halls_spraybottle
+  - first:
+      213: 21300004
+    second: task_wiresHallway2
+  - first:
+      213: 21300006
+    second: ladder_electrical
+  - first:
+      213: 21300008
+    second: task_developphotos
+  - first:
+      213: 21300010
+    second: task_hose
+  - first:
+      213: 21300012
+    second: task_bigolchest
+  - first:
+      213: 21300014
+    second: halls_main
+  - first:
+      213: 21300016
+    second: task_garbage2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: halls_photos
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 390
+        width: 377
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 56.5}
+        - {x: -14.5, y: 56.5}
+        - {x: -44.5, y: 4.5}
+        - {x: -122.5, y: -30.5}
+        - {x: -130.5, y: -41.5}
+        - {x: -162.5, y: -56.5}
+        - {x: -188.5, y: -56.5}
+        - {x: -188.5, y: 8.5}
+        - {x: -183.49998, y: 12.5}
+        - {x: -96.5, y: 43.5}
+      - - {x: 88.5, y: 56.5}
+        - {x: 108.49999, y: 56.5}
+        - {x: 132.5, y: 44.5}
+        - {x: 188.5, y: 52.499996}
+        - {x: 188.5, y: -11.499999}
+        - {x: 75.5, y: -12.5}
+        - {x: 54.5, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halls_spraybottle
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1318
+        width: 70
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 41.5}
+        - {x: 9.999999, y: 41.5}
+        - {x: 35, y: 16.5}
+        - {x: 35, y: -41.5}
+        - {x: -35, y: -41.5}
+        - {x: -35, y: 24.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_wiresHallway2
+      rect:
+        serializedVersion: 2
+        x: 987.0761
+        y: 1365.0762
+        width: 49.847755
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.51003075, y: 0.48605075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.999989, y: -19.00005}
+        - {x: -25.999989, y: 17.99995}
+        - {x: 25.000008, y: 17.99995}
+        - {x: 27.000008, y: 15.99995}
+        - {x: 27.000008, y: -17.00005}
+        - {x: 25.000008, y: -19.00005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder_electrical
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 132.02675
+        width: 67.84776
+        height: 315.93033
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5031909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 160.00807}
+        - {x: -14.999999, y: 160.00807}
+        - {x: -13, y: 80.00807}
+        - {x: 13, y: 80.00807}
+        - {x: 14.999999, y: 160.00807}
+        - {x: 36, y: 160.00807}
+        - {x: 36, y: -158.99193}
+        - {x: -36, y: -158.99193}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_developphotos
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1291
+        width: 76
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -55}
+        - {x: -38, y: 55}
+        - {x: 38, y: 55}
+        - {x: 38, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_hose
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1292
+        width: 108
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.999996, y: -54.5}
+        - {x: -53.999996, y: 54.5}
+        - {x: 53.999996, y: 54.5}
+        - {x: 53.999996, y: -54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_bigolchest
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1296
+        width: 105
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.499996, y: -52.499996}
+        - {x: -52.499996, y: 52.499996}
+        - {x: 52.499996, y: 52.499996}
+        - {x: 52.499996, y: -52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halls_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 1917
+        height: 1395
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -897.49994, y: 697.5}
+        - {x: -684.5, y: 697.5}
+        - {x: -481.5, y: 688.5}
+        - {x: -445.5, y: 672.5}
+        - {x: -391.5, y: 565.5}
+        - {x: -353.5, y: 540.5}
+        - {x: -322.5, y: 559.5}
+        - {x: -291.5, y: 652.49994}
+        - {x: -236.5, y: 688.5}
+        - {x: -159.49998, y: 697.5}
+        - {x: -9.5, y: 697.5}
+        - {x: 37.5, y: 617.5}
+        - {x: 145.5, y: 599.5}
+        - {x: 315.5, y: 594.5}
+        - {x: 438.49997, y: 686.5}
+        - {x: 672.5, y: 669.5}
+        - {x: 705.5, y: 567.5}
+        - {x: 795.5, y: 537.5}
+        - {x: 866.5, y: 527.5}
+        - {x: 888.5, y: 480.49997}
+        - {x: 909.5, y: 226.49998}
+        - {x: 958.5, y: 227.49998}
+        - {x: 958.5, y: 120.49999}
+        - {x: 926.49994, y: 67.5}
+        - {x: 937.5, y: 37.5}
+        - {x: 939.49994, y: -58.499996}
+        - {x: 958.5, y: -80.5}
+        - {x: 958.5, y: -180.5}
+        - {x: 924.5, y: -196.49998}
+        - {x: 488.49997, y: -196.49998}
+        - {x: 473.49997, y: -214.5}
+        - {x: 537.5, y: -246.49998}
+        - {x: 552.5, y: -453.5}
+        - {x: 552.5, y: -590.5}
+        - {x: 528.5, y: -614.5}
+        - {x: 414.5, y: -629.5}
+        - {x: 363.5, y: -686.5}
+        - {x: 362.5, y: -697.5}
+        - {x: 331.49997, y: -697.5}
+        - {x: 167.5, y: -664.5}
+        - {x: 127.5, y: -630.5}
+        - {x: 17.5, y: -624.5}
+        - {x: -19.5, y: -576.5}
+        - {x: -31.5, y: -410.5}
+        - {x: -85.49999, y: -305.49997}
+        - {x: -168.5, y: -302.5}
+        - {x: -251.49998, y: -318.5}
+        - {x: -266.5, y: -404.5}
+        - {x: -261.5, y: -581.5}
+        - {x: -276.5, y: -648.49994}
+        - {x: -544.5, y: -665.5}
+        - {x: -760.5, y: -661.5}
+        - {x: -854.5, y: -634.5}
+        - {x: -877.49994, y: -579.5}
+        - {x: -869.5, y: -297.5}
+        - {x: -882.5, y: -251.49998}
+        - {x: -946.5, y: -184.49998}
+        - {x: -958.5, y: -94.5}
+        - {x: -958.5, y: -77.5}
+        - {x: -940.5, y: -71.5}
+        - {x: -946.5, y: 119.49999}
+        - {x: -958.5, y: 131.5}
+        - {x: -958.5, y: 143.5}
+        - {x: -946.5, y: 148.5}
+        - {x: -958.5, y: 240.5}
+        - {x: -958.5, y: 455.49997}
+        - {x: -930.49994, y: 574.5}
+        - {x: -920.5, y: 690.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_garbage2
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1316
+        width: 63
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -42.5}
+        - {x: -31.5, y: 42.5}
+        - {x: 31.5, y: 42.5}
+        - {x: 31.5, y: -42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      task_hose: 21300010
+      halls_main: 21300014
+      task_bigolchest: 21300012
+      task_wiresHallway2: 21300004
+      ladder_electrical: 21300006
+      task_garbage2: 21300016
+      task_developphotos: 21300008
+      halls_spraybottle: 21300002
+      halls_photos: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

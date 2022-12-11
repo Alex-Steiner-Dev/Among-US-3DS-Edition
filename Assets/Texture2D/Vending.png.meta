@@ -1,0 +1,940 @@
+fileFormatVersion: 2
+guid: 615cdfcf58aa58646b749e51a42b7178
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: vending_buttonCheck
+  - first:
+      213: 21300002
+    second: vending_button3
+  - first:
+      213: 21300004
+    second: vending_buttonB
+  - first:
+      213: 21300006
+    second: vending_glass
+  - first:
+      213: 21300008
+    second: vending_button4
+  - first:
+      213: 21300010
+    second: vending_buttonC
+  - first:
+      213: 21300012
+    second: vending_drinkPotion
+  - first:
+      213: 21300014
+    second: vending_buttonA
+  - first:
+      213: 21300016
+    second: vending_drinkDrawCoffee
+  - first:
+      213: 21300018
+    second: vending_front
+  - first:
+      213: 21300020
+    second: vending_drinkDonDew
+  - first:
+      213: 21300022
+    second: vending_drinkCoffee
+  - first:
+      213: 21300024
+    second: vending_drinkDrawAlmond
+  - first:
+      213: 21300026
+    second: vending_drinkDrawNGg
+  - first:
+      213: 21300028
+    second: vending_drinkDrawDonDew
+  - first:
+      213: 21300030
+    second: vending_drinkAlmond
+  - first:
+      213: 21300032
+    second: vending_drinkDrawPeach
+  - first:
+      213: 21300034
+    second: vending_paper
+  - first:
+      213: 21300036
+    second: vending_button2
+  - first:
+      213: 21300038
+    second: vending_buttonX
+  - first:
+      213: 21300040
+    second: vending_base
+  - first:
+      213: 21300042
+    second: vending_drinkDrawPotion
+  - first:
+      213: 21300044
+    second: vending_drinkPeach
+  - first:
+      213: 21300046
+    second: vending_drinkNRg
+  - first:
+      213: 21300048
+    second: vending_button1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vending_buttonCheck
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 247
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_button3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 328
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -31.5}
+        - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_buttonB
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 329
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_glass
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 360
+        width: 100
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -85}
+        - {x: -50, y: 85}
+        - {x: 50, y: 85}
+        - {x: 50, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_button4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 135
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_buttonC
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 247
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkPotion
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 56
+        width: 70
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 49}
+        - {x: -13, y: 59.999992}
+        - {x: 13, y: 59.999992}
+        - {x: 35, y: -20.000004}
+        - {x: 35, y: -60}
+        - {x: -35, y: -60}
+        - {x: -35, y: -18}
+        - {x: -13, y: 6.9999924}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_buttonA
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 53
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDrawCoffee
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 34
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -76.5}
+        - {x: -50.5, y: 76.5}
+        - {x: 50.5, y: 76.5}
+        - {x: 50.5, y: -76.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_front
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 440
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 220, y: -301.5}
+        - {x: -220, y: -301.5}
+        - {x: -220, y: 301.5}
+        - {x: 220, y: 301.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDonDew
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 532
+        width: 58
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 53.5}
+        - {x: -18, y: 77.5}
+        - {x: 18, y: 77.5}
+        - {x: 29, y: 40.499992}
+        - {x: 29, y: -77.5}
+        - {x: -25, y: -77.5}
+        - {x: -29, y: -64.5}
+        - {x: -29, y: 39.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkCoffee
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 504
+        width: 55
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -41.5}
+        - {x: -27.5, y: 41.5}
+        - {x: 27.5, y: 41.5}
+        - {x: 27.5, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDrawAlmond
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 717
+        width: 111
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 120.49999}
+        - {x: -1.5, y: 120.49999}
+        - {x: 7.4999995, y: 72.5}
+        - {x: 55.5, y: 68.5}
+        - {x: 55.5, y: -1.5}
+        - {x: 43.5, y: -120.49999}
+        - {x: -46.5, y: -120.49999}
+        - {x: -51.5, y: -39.5}
+        - {x: -55.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDrawNGg
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 55
+        width: 148
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 117.49999}
+        - {x: 26.999998, y: 117.49999}
+        - {x: 34, y: 116.5}
+        - {x: 66.99999, y: 81.5}
+        - {x: 74, y: -61.5}
+        - {x: 74, y: -105.49999}
+        - {x: 8, y: -117.49999}
+        - {x: -70, y: -117.49999}
+        - {x: -58, y: -53.499996}
+        - {x: -74, y: 18.5}
+        - {x: -74, y: 75.5}
+        - {x: -68, y: 95.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDrawDonDew
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 17
+        width: 131
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 136.5}
+        - {x: 14.5, y: 136.5}
+        - {x: 53.499996, y: 89.5}
+        - {x: 65.5, y: 70.5}
+        - {x: 53.499996, y: 12.5}
+        - {x: 65.5, y: -73.49999}
+        - {x: 65.5, y: -103.5}
+        - {x: 32.5, y: -136.5}
+        - {x: -29.499998, y: -136.5}
+        - {x: -65.5, y: -108.49999}
+        - {x: -65.5, y: -69.5}
+        - {x: -48.5, y: -50.5}
+        - {x: -65.5, y: 40.5}
+        - {x: -65.5, y: 61.5}
+        - {x: -58.499996, y: 131.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkAlmond
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 532
+        width: 79
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -45.5}
+        - {x: -39.5, y: 62.5}
+        - {x: 39.5, y: 62.5}
+        - {x: 39.5, y: -62.5}
+        - {x: -15.5, y: -62.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDrawPeach
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 189
+        width: 119
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.499996, y: 50.5}
+        - {x: -44.5, y: 27.5}
+        - {x: -5.5, y: 12.5}
+        - {x: 44.5, y: 28.5}
+        - {x: 37.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_paper
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 292
+        width: 285
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 157}
+        - {x: 142.5, y: 157}
+        - {x: 142.5, y: 79}
+        - {x: 133.49998, y: -52}
+        - {x: 139.5, y: -137}
+        - {x: 26.499998, y: -157}
+        - {x: -139.5, y: -157}
+        - {x: -142.5, y: 77}
+        - {x: -142.5, y: 156}
+        - {x: -137.5, y: 156}
+        - {x: -43.5, y: 153}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_button2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 53
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_buttonX
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 248
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -31.5}
+        - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 608
+        width: 703
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -351.5, y: -301.5}
+        - {x: -351.5, y: 301.5}
+        - {x: 351.5, y: 301.5}
+        - {x: 351.5, y: -301.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkDrawPotion
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 960
+        width: 127
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 104.49999}
+        - {x: -6.5, y: 125.5}
+        - {x: 21.499998, y: 125.5}
+        - {x: 23.5, y: 88.5}
+        - {x: 54.5, y: 97.5}
+        - {x: 21.499998, y: 6.5}
+        - {x: 63.5, y: -51.5}
+        - {x: 63.5, y: -111.5}
+        - {x: 20.5, y: -125.5}
+        - {x: -40.5, y: -125.5}
+        - {x: -63.5, y: -102.5}
+        - {x: -63.5, y: -48.5}
+        - {x: -33.499996, y: -17.5}
+        - {x: -50.5, y: 94.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkPeach
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 54
+        width: 78
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 10.5}
+        - {x: -24, y: 47.5}
+        - {x: 21, y: 47.5}
+        - {x: 39, y: 11.499996}
+        - {x: 39, y: -47.5}
+        - {x: -39, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_drinkNRg
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 78
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 36.999992}
+        - {x: -25, y: 70}
+        - {x: 25, y: 70}
+        - {x: 39, y: 36.999992}
+        - {x: 39, y: -70}
+        - {x: -39, y: -70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_button1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 135
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: -31, y: 31}
+        - {x: 31, y: 31}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vending_drinkDrawDonDew: 21300028
+      vending_glass: 21300006
+      vending_button1: 21300048
+      vending_button3: 21300002
+      vending_buttonB: 21300004
+      vending_drinkDonDew: 21300020
+      vending_buttonA: 21300014
+      vending_drinkDrawPotion: 21300042
+      vending_drinkPeach: 21300044
+      vending_drinkCoffee: 21300022
+      vending_drinkAlmond: 21300030
+      vending_button2: 21300036
+      vending_drinkPotion: 21300012
+      vending_drinkDrawPeach: 21300032
+      vending_base: 21300040
+      vending_front: 21300018
+      vending_buttonC: 21300010
+      vending_buttonX: 21300038
+      vending_buttonCheck: 21300000
+      vending_drinkDrawNGg: 21300026
+      vending_paper: 21300034
+      vending_drinkNRg: 21300046
+      vending_drinkDrawAlmond: 21300024
+      vending_drinkDrawCoffee: 21300016
+      vending_button4: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

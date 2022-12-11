@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 1a7239794445d9a4cb45c7c7543c74b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cloud3
+  - first:
+      213: 21300002
+    second: CloudBottomForeground
+  - first:
+      213: 21300004
+    second: CloudBottomBG
+  - first:
+      213: 21300006
+    second: Cloud2
+  - first:
+      213: 21300008
+    second: Cloud1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloud3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 97
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5103093, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 1}
+        - {x: 48.5, y: -26}
+        - {x: -48.499996, y: -26}
+        - {x: -48.499996, y: 10.999999}
+        - {x: -2.5, y: 25.999998}
+        - {x: 23.5, y: 25.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBottomForeground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4.026751
+        width: 1757
+        height: 207.97325
+      alignment: 9
+      pivot: {x: 0.50056916, y: 0.49512738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -404.49997, y: 103.98662}
+        - {x: -350.5, y: 103.98662}
+        - {x: -316.5, y: 49.986626}
+        - {x: -273.5, y: 22.986626}
+        - {x: -211.5, y: 20.986626}
+        - {x: -117.49999, y: 49.986626}
+        - {x: 0.5, y: -8.013374}
+        - {x: 90.5, y: -2.0133743}
+        - {x: 207.5, y: 55.986626}
+        - {x: 281.49997, y: 40.986626}
+        - {x: 355.49997, y: -8.013374}
+        - {x: 493.49997, y: 1.9866257}
+        - {x: 581.5, y: 78.98662}
+        - {x: 636.5, y: 76.986626}
+        - {x: 710.5, y: 96.98662}
+        - {x: 754.5, y: 85.986626}
+        - {x: 787.5, y: 52.98662}
+        - {x: 856.49994, y: 13.986625}
+        - {x: 857.49994, y: -66.013374}
+        - {x: 878.49994, y: -80.013374}
+        - {x: 878.49994, y: -99.01337}
+        - {x: 833.5, y: -105.013374}
+        - {x: 825.5, y: -99.01337}
+        - {x: 219.5, y: -99.01337}
+        - {x: 202.49998, y: -103.013374}
+        - {x: 58.5, y: -95.013374}
+        - {x: -160.5, y: -90.013374}
+        - {x: -504.49997, y: -84.013374}
+        - {x: -878.5, y: -82.013374}
+        - {x: -878.5, y: -15.013374}
+        - {x: -753.49994, y: 77.986626}
+        - {x: -610.5, y: 22.986626}
+        - {x: -460.49997, y: 92.986626}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBottomBG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 1645.9238
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5003269, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 672.0381, y: 223.5}
+        - {x: 720.0381, y: 223.5}
+        - {x: 790.0381, y: 199.5}
+        - {x: 821.0381, y: 137.5}
+        - {x: 823.0381, y: -48.5}
+        - {x: 815.0381, y: -68.5}
+        - {x: 814.038, y: -221.5}
+        - {x: 757.0381, y: -221.5}
+        - {x: 745.0381, y: -217.49998}
+        - {x: -732.96185, y: -217.49998}
+        - {x: -822.9619, y: -223.5}
+        - {x: -822.9619, y: -42.5}
+        - {x: -806.96185, y: 37.5}
+        - {x: -775.9619, y: 118.49999}
+        - {x: -745.9619, y: 179.5}
+        - {x: -615.9619, y: 133.49998}
+        - {x: -475.9619, y: 121.5}
+        - {x: -458.9619, y: 65.5}
+        - {x: -408.9619, y: 38.5}
+        - {x: -343.96188, y: 37.5}
+        - {x: -325.9619, y: 17.5}
+        - {x: -130.96191, y: 6.5}
+        - {x: -51.961914, y: -33.5}
+        - {x: 156.03809, y: -20.499998}
+        - {x: 258.0381, y: 19.499998}
+        - {x: 269.0381, y: -15.499999}
+        - {x: 355.0381, y: -20.499998}
+        - {x: 400.0381, y: 4.4999995}
+        - {x: 401.0381, y: 47.5}
+        - {x: 470.0381, y: 29.499998}
+        - {x: 507.0381, y: 49.5}
+        - {x: 545.0381, y: 141.5}
+        - {x: 606.038, y: 198.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 442
+        width: 454
+        height: 213
+      alignment: 9
+      pivot: {x: 0.50330395, y: 0.4976526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 106.49999}
+        - {x: -23, y: 106.49999}
+        - {x: 40, y: 69.5}
+        - {x: 147, y: 81.5}
+        - {x: 227, y: -22.5}
+        - {x: 227, y: -64.5}
+        - {x: 43.999996, y: -106.49999}
+        - {x: -24, y: -106.49999}
+        - {x: -97, y: -84.5}
+        - {x: -184, y: -78.5}
+        - {x: -227, y: -57.5}
+        - {x: -227, y: 18.5}
+        - {x: -114, y: 97.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 563.0761
+        width: 215
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.5069767, y: 0.4930054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 38.46195}
+        - {x: 54.5, y: 38.46195}
+        - {x: 73.5, y: 32.46195}
+        - {x: 107.5, y: -8.538052}
+        - {x: 107.5, y: -28.538052}
+        - {x: 54.5, y: -38.53805}
+        - {x: -107.5, y: -34.53805}
+        - {x: -107.5, y: -12.538052}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CloudBottomForeground: 21300002
+      Cloud2: 21300006
+      Cloud1: 21300008
+      Cloud3: 21300000
+      CloudBottomBG: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

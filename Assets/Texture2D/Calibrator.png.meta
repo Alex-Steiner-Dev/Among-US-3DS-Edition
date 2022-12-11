@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 35b6585e759bf694cac63e105e77a54e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: calibratorSpin1
+  - first:
+      213: 21300002
+    second: calibratorGauge
+  - first:
+      213: 21300004
+    second: calibratorSpin2
+  - first:
+      213: 21300006
+    second: calibratorContactBase3Lit
+  - first:
+      213: 21300008
+    second: calibratorSpin3
+  - first:
+      213: 21300010
+    second: calibratorButton
+  - first:
+      213: 21300012
+    second: CalibratorBaseWWires
+  - first:
+      213: 21300014
+    second: calibratorContactBase1Lit
+  - first:
+      213: 21300016
+    second: calibratorContactBase2Lit
+  - first:
+      213: 21300018
+    second: calibratorGaugeBorder
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calibratorSpin1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 138
+        height: 131
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 65.5}
+        - {x: 21, y: 65.5}
+        - {x: 44.999996, y: 49.499996}
+        - {x: 68.99999, y: 13.499999}
+        - {x: 68.99999, y: -30.5}
+        - {x: 24, y: -65.5}
+        - {x: -30.999998, y: -65.5}
+        - {x: -62.999996, y: -40.5}
+        - {x: -69, y: -18.5}
+        - {x: -69, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorGauge
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 135
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -16}
+        - {x: -67.5, y: 16}
+        - {x: 67.5, y: 16}
+        - {x: 67.5, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorSpin2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 42
+        width: 138
+        height: 131
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 65.5}
+        - {x: 21, y: 65.5}
+        - {x: 44.999996, y: 49.499996}
+        - {x: 68.99999, y: 13.499999}
+        - {x: 68.99999, y: -30.5}
+        - {x: 24, y: -65.5}
+        - {x: -30.999998, y: -65.5}
+        - {x: -62.999996, y: -40.5}
+        - {x: -69, y: -18.5}
+        - {x: -69, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorContactBase3Lit
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 89
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -16}
+        - {x: -28.5, y: 16}
+        - {x: 28.5, y: 16}
+        - {x: 28.5, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorSpin3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 42
+        width: 138
+        height: 131
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 65.5}
+        - {x: 21, y: 65.5}
+        - {x: 44.999996, y: 49.499996}
+        - {x: 68.99999, y: 13.499999}
+        - {x: 68.99999, y: -30.5}
+        - {x: 24, y: -65.5}
+        - {x: -30.999998, y: -65.5}
+        - {x: -62.999996, y: -40.5}
+        - {x: -69, y: -18.5}
+        - {x: -69, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorButton
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 109
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: -19}
+        - {x: -54.5, y: 19}
+        - {x: 54.5, y: 19}
+        - {x: 54.5, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CalibratorBaseWWires
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250, y: -250}
+        - {x: -250, y: 250}
+        - {x: 250, y: 250}
+        - {x: 250, y: -250}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorContactBase1Lit
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 89
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -16}
+        - {x: -28.5, y: 16}
+        - {x: 28.5, y: 16}
+        - {x: 28.5, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorContactBase2Lit
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -16}
+        - {x: -28.5, y: 16}
+        - {x: 28.5, y: 16}
+        - {x: 28.5, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calibratorGaugeBorder
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 135
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: -16}
+        - {x: -67.5, y: -16}
+        - {x: -67.5, y: 16}
+        - {x: 67.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      calibratorGauge: 21300002
+      calibratorSpin1: 21300000
+      calibratorGaugeBorder: 21300018
+      calibratorButton: 21300010
+      CalibratorBaseWWires: 21300012
+      calibratorContactBase2Lit: 21300016
+      calibratorSpin2: 21300004
+      calibratorContactBase3Lit: 21300006
+      calibratorSpin3: 21300008
+      calibratorContactBase1Lit: 21300014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

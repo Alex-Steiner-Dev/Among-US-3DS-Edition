@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: f7b79d4f92f74c64ab24f499771f5159
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sortingSamplesBase
+  - first:
+      213: 21300002
+    second: sortingSamples_stone2
+  - first:
+      213: 21300004
+    second: sortingSamples_emblem_animal
+  - first:
+      213: 21300006
+    second: sortingSamples_boxFront
+  - first:
+      213: 21300008
+    second: sortingSamples_plant1
+  - first:
+      213: 21300010
+    second: sortingSamples_animal2
+  - first:
+      213: 21300012
+    second: sortingSamples_plant2
+  - first:
+      213: 21300014
+    second: sortingSamples_stone1
+  - first:
+      213: 21300016
+    second: sortingSamples_animal1
+  - first:
+      213: 21300018
+    second: sortingSamples_emblem_Plant
+  - first:
+      213: 21300020
+    second: sortingSamples_emblem_Mineral
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sortingSamplesBase
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 703
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -351.5, y: -301.5}
+        - {x: -351.5, y: 301.5}
+        - {x: 351.5, y: 301.5}
+        - {x: 351.5, y: -301.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_stone2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 19
+        width: 113
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 21}
+        - {x: 56.5, y: -39}
+        - {x: 17.5, y: -55}
+        - {x: -13.499999, y: -55}
+        - {x: -50.5, y: -18}
+        - {x: -56.5, y: -6}
+        - {x: -56.5, y: 4}
+        - {x: -38.5, y: 41}
+        - {x: 22.5, y: 55}
+        - {x: 39.5, y: 55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_animal
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 758
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -17}
+        - {x: -16.5, y: 17}
+        - {x: 16.5, y: 17}
+        - {x: 16.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_boxFront
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 318
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: 44.5}
+        - {x: 158.99998, y: 44.5}
+        - {x: 158.99998, y: 9.5}
+        - {x: 151, y: -44.5}
+        - {x: -151, y: -44.5}
+        - {x: -158.99998, y: 23.5}
+        - {x: -158.99998, y: 40.5}
+        - {x: -35, y: 26.499998}
+        - {x: 44, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_plant1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 93
+        width: 140
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 24}
+        - {x: 70, y: -4.9999995}
+        - {x: 39, y: -57}
+        - {x: 9.999999, y: -65}
+        - {x: -29.999998, y: -65}
+        - {x: -57, y: -38}
+        - {x: -70, y: 4}
+        - {x: -70, y: 39}
+        - {x: 19, y: 65}
+        - {x: 42.999996, y: 65}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_animal2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 131
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 59.999996}
+        - {x: 20.5, y: 59.999996}
+        - {x: 40.5, y: 39.999996}
+        - {x: 65.5, y: -6}
+        - {x: 65.5, y: -25}
+        - {x: -12.5, y: -45}
+        - {x: -27.5, y: -59.999996}
+        - {x: -65.5, y: -59.999996}
+        - {x: -65.5, y: -29}
+        - {x: -14.5, y: 45.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_plant2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 73
+        width: 107
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 75}
+        - {x: 25.5, y: 75}
+        - {x: 53.499996, y: 22}
+        - {x: 53.499996, y: -75}
+        - {x: -31.5, y: -75}
+        - {x: -53.499996, y: -19}
+        - {x: -53.499996, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_stone1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 104
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.999999, y: 64}
+        - {x: 9.999999, y: 64}
+        - {x: 52, y: 22}
+        - {x: 52, y: -51}
+        - {x: 12, y: -64}
+        - {x: -26, y: -64}
+        - {x: -52, y: -9}
+        - {x: -52, y: 39}
+        - {x: -31, y: 62}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_animal1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 76
+        width: 174
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.999998, y: 73.49999}
+        - {x: -3, y: 73.49999}
+        - {x: 22, y: 51.5}
+        - {x: 50, y: 51.5}
+        - {x: 87, y: 14.5}
+        - {x: 87, y: -34.5}
+        - {x: -4, y: -73.49999}
+        - {x: -18, y: -73.49999}
+        - {x: -87, y: -6.5}
+        - {x: -87, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_Plant
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 797
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -17}
+        - {x: -18.5, y: 17}
+        - {x: 18.5, y: 17}
+        - {x: 18.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_Mineral
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -17}
+        - {x: -12.5, y: 17}
+        - {x: 12.5, y: 17}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sortingSamples_boxFront: 21300006
+      sortingSamples_emblem_Plant: 21300018
+      sortingSamples_stone2: 21300002
+      sortingSamples_animal1: 21300016
+      sortingSamples_animal2: 21300010
+      sortingSamples_emblem_animal: 21300004
+      sortingSamples_stone1: 21300014
+      sortingSamples_emblem_Mineral: 21300020
+      sortingSamples_plant1: 21300008
+      sortingSamplesBase: 21300000
+      sortingSamples_plant2: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

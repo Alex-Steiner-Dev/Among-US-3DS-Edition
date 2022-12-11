@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: f2f8b990e602e6f40bff6063cc8ad977
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_ShopHeader
+  - first:
+      213: 21300002
+    second: UI_ShopContainer_Small
+  - first:
+      213: 21300004
+    second: UI_Header_Pet
+  - first:
+      213: 21300006
+    second: UI_Header_Visor
+  - first:
+      213: 21300008
+    second: UI_Header_Color
+  - first:
+      213: 21300010
+    second: UI_Header_Outfit
+  - first:
+      213: 21300012
+    second: UI_Header_Hat
+  - first:
+      213: 21300014
+    second: UI_Header_Badge
+  - first:
+      213: 21300016
+    second: UI_Header_Cosmicubes
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_ShopHeader
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 604
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 32, z: 16, w: 32}
+      outline:
+      - - {x: 32, y: -64}
+        - {x: -32, y: -64}
+        - {x: -32, y: 64}
+        - {x: 32, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ShopContainer_Small
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341.0761
+        width: 275
+        height: 339.84778
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 69, y: 84.92389, z: 69, w: 84.92389}
+      outline:
+      - - {x: 137.5, y: -170}
+        - {x: -137.5, y: -170}
+        - {x: -137.5, y: 170}
+        - {x: 137.5, y: 170}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Pet
+      rect:
+        serializedVersion: 2
+        x: 651.0761
+        y: 112.07612
+        width: 190.92387
+        height: 190.89713
+      alignment: 9
+      pivot: {x: 0.528608, y: 0.5391589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.538044, y: 36.47532}
+        - {x: -11.538048, y: 96.47532}
+        - {x: 30.461952, y: 85.47532}
+        - {x: 75.46195, y: 100.47532}
+        - {x: 95.46195, y: 71.47532}
+        - {x: 95.46195, y: 1.4753189}
+        - {x: 64.461945, y: -74.52468}
+        - {x: 36.461952, y: -98.52467}
+        - {x: -5.538048, y: -79.52468}
+        - {x: -59.538048, y: -108.52468}
+        - {x: -97.53805, y: 22.475319}
+        - {x: -94.53805, y: 68.47532}
+        - {x: -79.53805, y: 95.47532}
+        - {x: -65.53805, y: 51.47532}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Visor
+      rect:
+        serializedVersion: 2
+        x: 283.0761
+        y: 359.0761
+        width: 214.84775
+        height: 170.84775
+      alignment: 9
+      pivot: {x: 0.49767286, y: 0.53219247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.499985, y: 81.50001}
+        - {x: 14.500014, y: 89.50001}
+        - {x: 72.50001, y: 79.50001}
+        - {x: 114.500015, y: 37.500008}
+        - {x: 102.500015, y: -64.49999}
+        - {x: 55.500015, y: -82.49999}
+        - {x: -0.49998474, y: -88.49999}
+        - {x: -79.499985, y: -75.49999}
+        - {x: -104.499985, y: -38.499992}
+        - {x: -112.499985, y: 11.500008}
+        - {x: -94.499985, y: 64.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Color
+      rect:
+        serializedVersion: 2
+        x: 775.02673
+        y: 864.0761
+        width: 240.9465
+        height: 158.92387
+      alignment: 9
+      pivot: {x: 0.5020752, y: 0.56582993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.49999, y: 79.461945}
+        - {x: 124.50001, y: 79.461945}
+        - {x: 101.50001, y: -78.538055}
+        - {x: -125.49999, y: -79.538055}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Outfit
+      rect:
+        serializedVersion: 2
+        x: 508.05637
+        y: 318.0761
+        width: 197.86751
+        height: 209.84775
+      alignment: 9
+      pivot: {x: 0.50004995, y: 0.5238269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.99012, y: 11.000023}
+        - {x: -98.99011, y: 93.00002}
+        - {x: 8.00988, y: 111.000015}
+        - {x: 106.00987, y: 90.00002}
+        - {x: 89.00988, y: -85.99998}
+        - {x: -55.99012, y: -112.99997}
+        - {x: -90.99012, y: -91.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Hat
+      rect:
+        serializedVersion: 2
+        x: 458.01553
+        y: 90.02675
+        width: 184.95772
+        height: 208.89713
+      alignment: 9
+      pivot: {x: 0.4811071, y: 0.48815057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4943924, y: -84.47531}
+        - {x: -56.49439, y: -111.47531}
+        - {x: -99.49439, y: -47.47531}
+        - {x: -67.49439, y: -6.4753113}
+        - {x: -45.494392, y: 113.52469}
+        - {x: 58.505608, y: 5.5246887}
+        - {x: 72.50561, y: 5.5246887}
+        - {x: 96.50561, y: -18.475311}
+        - {x: 76.5056, y: -75.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Badge
+      rect:
+        serializedVersion: 2
+        x: 733.0761
+        y: 735.0761
+        width: 245.84775
+        height: 121.89713
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.51620483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.999985, y: 37.975323}
+        - {x: -30.999985, y: 65.97533}
+        - {x: 45.000015, y: 42.975323}
+        - {x: 119.00001, y: 42.975323}
+        - {x: 128.00002, y: -43.024677}
+        - {x: 100.000015, y: -60.024677}
+        - {x: -118.99998, y: -62.024677}
+        - {x: -127.999985, y: 23.975323}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Header_Cosmicubes
+      rect:
+        serializedVersion: 2
+        x: 728.0761
+        y: 499.0761
+        width: 221.92387
+        height: 231.84775
+      alignment: 9
+      pivot: {x: 0.49982855, y: 0.5043133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.0380473, y: 13.000015}
+        - {x: -5.0380473, y: -100.999985}
+        - {x: -33.038048, y: -115.999985}
+        - {x: -111.03805, y: -114.999985}
+        - {x: -111.03805, y: 115.00001}
+        - {x: 93.96195, y: 117.00001}
+        - {x: 110.96195, y: 91.000015}
+        - {x: 110.96195, y: -100.999985}
+        - {x: 82.96195, y: -115.999985}
+        - {x: 17.961952, y: -114.999985}
+        - {x: 4.9619517, y: -84.999985}
+        - {x: 5.961952, y: -32.999985}
+        - {x: 15.961952, y: 7.0000153}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_ShopContainer_Small: 21300002
+      UI_Header_Visor: 21300006
+      UI_Header_Badge: 21300014
+      UI_Header_Cosmicubes: 21300016
+      UI_Header_Color: 21300008
+      UI_Header_Pet: 21300004
+      UI_ShopHeader: 21300000
+      UI_Header_Outfit: 21300010
+      UI_Header_Hat: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

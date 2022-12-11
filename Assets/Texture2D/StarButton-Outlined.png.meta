@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 074759cb8b406b94992ce70b985d44bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StarButton-Outlined
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarButton-Outlined
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 0
+        width: 418.9239
+        height: 152
+      alignment: 9
+      pivot: {x: 0.49871558, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191.53807, y: -1}
+        - {x: -193.53807, y: -5}
+        - {x: -193.53807, y: -9}
+        - {x: -194.53807, y: -10}
+        - {x: -194.53807, y: -13}
+        - {x: -195.53807, y: -14}
+        - {x: -195.53807, y: -20}
+        - {x: -193.53807, y: -23}
+        - {x: -191.53807, y: -25}
+        - {x: -186.53807, y: -28}
+        - {x: -184.53807, y: -28}
+        - {x: -180.53807, y: -30.000002}
+        - {x: -177.53807, y: -30.000002}
+        - {x: -174.53807, y: -31}
+        - {x: -166.53807, y: -41}
+        - {x: -166.53807, y: -42}
+        - {x: -159.53807, y: -48}
+        - {x: -155.53807, y: -49}
+        - {x: -153.53807, y: -52}
+        - {x: -152.53807, y: -57}
+        - {x: -150.53807, y: -58.999996}
+        - {x: -146.53807, y: -62}
+        - {x: -144.53807, y: -62}
+        - {x: -143.53807, y: -63}
+        - {x: 149.46193, y: -63}
+        - {x: 150.46193, y: -62}
+        - {x: 153.46193, y: -61}
+        - {x: 158.46193, y: -56}
+        - {x: 158.46193, y: -52}
+        - {x: 160.46193, y: -50}
+        - {x: 160.46193, y: -39}
+        - {x: 163.46193, y: -36}
+        - {x: 169.46193, y: -35}
+        - {x: 170.46193, y: -34}
+        - {x: 172.46193, y: -34}
+        - {x: 175.46193, y: -32}
+        - {x: 182.46193, y: -27.000002}
+        - {x: 183.46193, y: -27.000002}
+        - {x: 189.46193, y: -20}
+        - {x: 189.46193, y: -19}
+        - {x: 193.46193, y: -13}
+        - {x: 194.46193, y: -7}
+        - {x: 195.46193, y: -6}
+        - {x: 195.46193, y: 1}
+        - {x: 196.46193, y: 2}
+        - {x: 195.46193, y: 3}
+        - {x: 195.46193, y: 10}
+        - {x: 194.46193, y: 11}
+        - {x: 193.46193, y: 17}
+        - {x: 189.46193, y: 23}
+        - {x: 189.46193, y: 24}
+        - {x: 186.46193, y: 27.000002}
+        - {x: 186.46193, y: 28}
+        - {x: 181.46193, y: 32}
+        - {x: 177.46193, y: 34}
+        - {x: 175.46193, y: 36}
+        - {x: 172.46193, y: 38}
+        - {x: 170.46193, y: 38}
+        - {x: 169.46193, y: 39}
+        - {x: 163.46193, y: 40}
+        - {x: 160.46193, y: 43}
+        - {x: 160.46193, y: 51}
+        - {x: 158.46193, y: 52.999996}
+        - {x: 158.46193, y: 57}
+        - {x: 152.46193, y: 63}
+        - {x: -146.53807, y: 63}
+        - {x: -149.53807, y: 61}
+        - {x: -152.53807, y: 58}
+        - {x: -153.53807, y: 52}
+        - {x: -162.53807, y: 45}
+        - {x: -163.53807, y: 45}
+        - {x: -171.53807, y: 36}
+        - {x: -171.53807, y: 35}
+        - {x: -176.53807, y: 30.000002}
+        - {x: -184.53807, y: 28}
+        - {x: -191.53807, y: 24}
+        - {x: -194.53807, y: 19}
+        - {x: -194.53807, y: 13}
+        - {x: -193.53807, y: 12}
+        - {x: -193.53807, y: 9}
+        - {x: -192.53807, y: 8}
+        - {x: -192.53807, y: 5}
+        - {x: -191.53807, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StarButton-Outlined: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

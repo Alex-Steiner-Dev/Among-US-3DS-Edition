@@ -1,0 +1,1835 @@
+fileFormatVersion: 2
+guid: 55acd51120e376943a2e68efc0c5f737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HnS_Tally_Kill4_0008
+  - first:
+      213: 21300002
+    second: HnS_Tally_Kill2_Slash0004
+  - first:
+      213: 21300004
+    second: HnS_Tally_Kill1_0001
+  - first:
+      213: 21300006
+    second: HnS_Tally_Kill4_Slash0001
+  - first:
+      213: 21300008
+    second: HnS_Tally_Kill2_0012
+  - first:
+      213: 21300010
+    second: HnS_Tally_Kill1_0005
+  - first:
+      213: 21300012
+    second: HnS_Tally_Kill1_0003
+  - first:
+      213: 21300014
+    second: HnS_Tally_Kill2_0011
+  - first:
+      213: 21300016
+    second: HnS_Tally_Kill2_Slash0003
+  - first:
+      213: 21300018
+    second: HnS_Tally_Kill4_0012
+  - first:
+      213: 21300020
+    second: HnS_Tally_Kill4_0009
+  - first:
+      213: 21300022
+    second: HnS_Tally_Kill1_Slash0002
+  - first:
+      213: 21300024
+    second: HnS_Tally_Kill2_0010
+  - first:
+      213: 21300026
+    second: HnS_Tally_Kill2_0002
+  - first:
+      213: 21300028
+    second: HnS_Tally_Kill2_0009
+  - first:
+      213: 21300030
+    second: HnS_Tally_Kill2_0001
+  - first:
+      213: 21300032
+    second: HnS_Tally_Kill3_0007
+  - first:
+      213: 21300034
+    second: HnS_Tally_Kill4_0003
+  - first:
+      213: 21300036
+    second: HnS_Tally_Kill3_0003
+  - first:
+      213: 21300038
+    second: HnS_Tally_Kill2_Slash0001
+  - first:
+      213: 21300040
+    second: HnS_Tally_Kill4_0007
+  - first:
+      213: 21300042
+    second: HnS_Tally_Kill4_0010
+  - first:
+      213: 21300044
+    second: HnS_Tally_Kill4_0002
+  - first:
+      213: 21300046
+    second: HnS_Tally_Kill2_0013
+  - first:
+      213: 21300048
+    second: HnS_Tally_Kill4_0005
+  - first:
+      213: 21300050
+    second: HnS_Tally_Kill1_0009
+  - first:
+      213: 21300052
+    second: HnS_Tally_Kill2_0004
+  - first:
+      213: 21300054
+    second: HnS_Tally_Kill3_0008
+  - first:
+      213: 21300056
+    second: HnS_Tally_Kill3_0001
+  - first:
+      213: 21300058
+    second: HnS_Tally_Kill1_0006
+  - first:
+      213: 21300060
+    second: HnS_Tally_Kill3_0005
+  - first:
+      213: 21300062
+    second: HnS_Tally_Kill2_Slash0002
+  - first:
+      213: 21300064
+    second: HnS_Tally_Kill3_0010
+  - first:
+      213: 21300066
+    second: HnS_Tally_Kill4_0006
+  - first:
+      213: 21300068
+    second: HnS_Tally_Kill3_Slash0001
+  - first:
+      213: 21300070
+    second: HnS_Tally_Alive
+  - first:
+      213: 21300072
+    second: HnS_Tally_Kill1_0004
+  - first:
+      213: 21300074
+    second: HnS_Tally_Kill4_Slash0002
+  - first:
+      213: 21300076
+    second: HnS_Tally_Kill1_0007
+  - first:
+      213: 21300078
+    second: HnS_Tally_Kill2_0006
+  - first:
+      213: 21300080
+    second: HnS_Tally_Kill1_Slash0001
+  - first:
+      213: 21300082
+    second: HnS_Tally_Kill3_0006
+  - first:
+      213: 21300084
+    second: HnS_Tally_Kill1_0002
+  - first:
+      213: 21300086
+    second: HnS_Tally_Kill2_0008
+  - first:
+      213: 21300088
+    second: HnS_Tally_Kill2_0003
+  - first:
+      213: 21300090
+    second: HnS_Tally_Kill3_0004
+  - first:
+      213: 21300092
+    second: HnS_Tally_Kill3_0002
+  - first:
+      213: 21300094
+    second: HnS_Tally_Kill3_0009
+  - first:
+      213: 21300096
+    second: HnS_Tally_Kill4_0011
+  - first:
+      213: 21300098
+    second: HnS_Tally_Kill1_0008
+  - first:
+      213: 21300100
+    second: HnS_Tally_Kill4_0004
+  - first:
+      213: 21300102
+    second: HnS_Tally_Kill2_0005
+  - first:
+      213: 21300104
+    second: HnS_Tally_Kill3_Slash0002
+  - first:
+      213: 21300106
+    second: HnS_Tally_Kill1_0010
+  - first:
+      213: 21300108
+    second: HnS_Tally_Kill2_0007
+  - first:
+      213: 21300110
+    second: HnS_Tally_Kill4_0001
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0008
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.49093756, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0004
+      rect:
+        serializedVersion: 2
+        x: 228.01291
+        y: 244.02675
+        width: 94.98709
+        height: 64.9465
+      alignment: 9
+      pivot: {x: 0.5209876, y: 0.45380813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.50645, y: 8.499999}
+        - {x: -51.506447, y: 15.5}
+        - {x: 20.49355, y: 20.5}
+        - {x: 47.49355, y: 34.5}
+        - {x: 47.49355, y: -21.5}
+        - {x: -41.50645, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0001
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.54275364, y: 0.548714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024687, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975313, y: -33.000004}
+        - {x: -17.024687, y: -38.000008}
+        - {x: -35.02469, y: -1.0000076}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 389
+        width: 77
+        height: 13
+      alignment: 9
+      pivot: {x: 0.83766234, y: 0.7307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.500001, y: 6.5}
+        - {x: 38.5, y: -6.5}
+        - {x: -38.5, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0012
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.52745444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.987597, y: 29.499996}
+        - {x: 23.987597, y: -29.500004}
+        - {x: -6.0124035, y: -44.500004}
+        - {x: -28.012403, y: -20.500004}
+        - {x: -29.012402, y: 17.499996}
+        - {x: -5.0124035, y: 39.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0005
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.4738667, y: 0.47254547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.987598, y: 29.5}
+        - {x: 23.987598, y: -29.5}
+        - {x: -6.0124016, y: -44.5}
+        - {x: -28.0124, y: -20.5}
+        - {x: -29.012402, y: 17.5}
+        - {x: -5.0124016, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0003
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.42727274, y: 0.42957747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.5, y: 35.5}
+        - {x: 27.5, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0011
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -35.499996}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.499998, y: 35.5}
+        - {x: 27.499998, y: -35.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0003
+      rect:
+        serializedVersion: 2
+        x: 234.01291
+        y: 330.0761
+        width: 94.98709
+        height: 55.910965
+      alignment: 9
+      pivot: {x: 0.5209876, y: 0.34740752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.4935493, y: -23.031593}
+        - {x: -52.50645, y: 8.968407}
+        - {x: 47.49355, y: 27.968403}
+        - {x: 47.49355, y: -31.031593}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0012
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0009
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 109.02675
+        width: 57.897125
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.5254817, y: 0.5212065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.02468, y: -9.975314}
+        - {x: -26.024683, y: 27.024685}
+        - {x: 1.975317, y: 39.024685}
+        - {x: 30.975315, y: 25.024685}
+        - {x: 22.975315, y: -30.975315}
+        - {x: -12.024682, y: -41.975315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 12.07612
+        y: 281.0761
+        width: 68.8324
+        height: 78.914215
+      alignment: 9
+      pivot: {x: 0.48558357, y: 0.46156308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.492317, y: 6.4667816}
+        - {x: 54.507683, y: 63.46678}
+        - {x: -16.492317, y: -41.53322}
+        - {x: -44.492317, y: -38.53322}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0010
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5422535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.499998, y: 35.5}
+        - {x: 27.499998, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0002
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.38392857, y: 0.5642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.999998, y: -35}
+        - {x: -27.999998, y: 35}
+        - {x: 28, y: 35}
+        - {x: 28, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0009
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4910185, y: 0.5140564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.019915, y: -21.47533}
+        - {x: -34.019913, y: 27.524668}
+        - {x: 6.980083, y: 40.52467}
+        - {x: 29.980083, y: 21.52467}
+        - {x: 22.980083, y: -29.47533}
+        - {x: -1.0199165, y: -47.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0001
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -35}
+        - {x: -28, y: 35}
+        - {x: 28, y: 35}
+        - {x: 28, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0007
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.499998, y: 35.5}
+        - {x: 27.499998, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0003
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6090909, y: 0.5214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.499996, y: -34.999996}
+        - {x: -27.499996, y: 34.999996}
+        - {x: 27.499998, y: 34.999996}
+        - {x: 27.499998, y: -34.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0003
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.54321694, y: 0.43745354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.000004, y: 19}
+        - {x: 23.000004, y: -36}
+        - {x: -23.999994, y: -37}
+        - {x: -33.999992, y: 10}
+        - {x: -0.9999962, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 286
+        width: 59
+        height: 18
+      alignment: 9
+      pivot: {x: 0.94067794, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -9}
+        - {x: -29.5, y: 8}
+        - {x: -12.5, y: 9}
+        - {x: 29.5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0007
+      rect:
+        serializedVersion: 2
+        x: 107.07612
+        y: 310.02676
+        width: 57.872566
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.54298407, y: 0.52084863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.012398, y: -12.000014}
+        - {x: -26.012402, y: 31.999985}
+        - {x: 9.987598, y: 38.999985}
+        - {x: 29.987598, y: 18.999985}
+        - {x: 22.987598, y: -34.000015}
+        - {x: -14.012402, y: -38.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0010
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.5214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -34.999996}
+        - {x: -28, y: 34.999996}
+        - {x: 28, y: 34.999996}
+        - {x: 28, y: -34.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0002
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3909091, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.499998, y: -35}
+        - {x: -27.499998, y: 35}
+        - {x: 27.499996, y: 35}
+        - {x: 27.499996, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0013
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5086434, y: 0.5208488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.999998, y: 19}
+        - {x: 23, y: -36}
+        - {x: -23.999998, y: -37}
+        - {x: -34, y: 10}
+        - {x: -1, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0005
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5605037, y: 0.5208488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.000002, y: 19}
+        - {x: 23.000004, y: -36}
+        - {x: -23.999996, y: -37}
+        - {x: -33.999996, y: 10}
+        - {x: -0.9999962, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0009
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.51372725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.987597, y: 29.5}
+        - {x: 23.987597, y: -29.5}
+        - {x: -6.0124035, y: -44.5}
+        - {x: -28.012403, y: -20.499998}
+        - {x: -29.012402, y: 17.5}
+        - {x: -5.0124035, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0004
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.6469375, y: 0.5764457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.000002, y: 19}
+        - {x: 23.000004, y: -36}
+        - {x: -23.999996, y: -37}
+        - {x: -33.999996, y: 10}
+        - {x: -0.9999962, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0008
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.5347957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.99999}
+        - {x: 31.975311, y: 35.99999}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000076}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0001
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.54118174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.987597, y: 29.499994}
+        - {x: 23.987597, y: -29.500004}
+        - {x: -6.0124035, y: -44.500004}
+        - {x: -28.012403, y: -20.500004}
+        - {x: -29.012402, y: 17.499996}
+        - {x: -5.0124035, y: 39.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0006
+      rect:
+        serializedVersion: 2
+        x: 72.07612
+        y: 199.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.54321694, y: 0.5486473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.999996, y: 32.000004}
+        - {x: 9.000004, y: 40}
+        - {x: 30.000004, y: 19.000004}
+        - {x: 23.000004, y: -32.999992}
+        - {x: -14.999996, y: -37.999996}
+        - {x: -29.999996, y: -11.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0005
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.52678573, y: 0.47857141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.999998, y: -34.999996}
+        - {x: -27.999998, y: 34.999996}
+        - {x: 27.999998, y: 34.999996}
+        - {x: 27.999998, y: -34.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 259.0129
+        y: 391
+        width: 89.910965
+        height: 36.88578
+      alignment: 9
+      pivot: {x: 0.5392789, y: 0.47443756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.031605, y: 3.5571098}
+        - {x: 66.0316, y: -18.44289}
+        - {x: 16.031605, y: -18.44289}
+        - {x: -39.968395, y: 10.557109}
+        - {x: -51.968395, y: 22.55711}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0010
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0006
+      rect:
+        serializedVersion: 2
+        x: 72.07612
+        y: 199.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.47406992, y: 0.5208488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.999994, y: 32}
+        - {x: 9.000004, y: 40}
+        - {x: 30.000004, y: 19}
+        - {x: 23.000002, y: -33}
+        - {x: -14.999995, y: -38}
+        - {x: -29.999996, y: -11.999999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 243
+        width: 14
+        height: 68
+      alignment: 9
+      pivot: {x: 0.89285713, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0.9999981}
+        - {x: 7, y: -34}
+        - {x: -7, y: 10}
+        - {x: -5.999999, y: 33.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Alive
+      rect:
+        serializedVersion: 2
+        x: 165.07613
+        y: 438.0761
+        width: 69.89713
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5926405, y: 0.5208776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.024693, y: 36.000008}
+        - {x: 37.975307, y: 36.000008}
+        - {x: 28.975307, y: -32.999992}
+        - {x: -11.024693, y: -37.999992}
+        - {x: -36.024693, y: -2.9999924}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0004
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.5773928, y: 0.5826462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.019917, y: -21.47533}
+        - {x: -34.019917, y: 27.524668}
+        - {x: 6.9800835, y: 40.52467}
+        - {x: 29.980083, y: 21.52467}
+        - {x: 22.980083, y: -29.47533}
+        - {x: -1.0199165, y: -47.475327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 390
+        width: 122
+        height: 28
+      alignment: 9
+      pivot: {x: 0.42213115, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -7}
+        - {x: 18, y: 14}
+        - {x: 61, y: -0.00000023841858}
+        - {x: 8, y: -9}
+        - {x: -61, y: -13.999999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0007
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.49093756, y: 0.49304074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.99999}
+        - {x: 31.975311, y: 35.99999}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000076}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0006
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0.57857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.999998, y: -35}
+        - {x: -27.999998, y: 35}
+        - {x: 27.999998, y: 35}
+        - {x: 27.999998, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 336.02676
+        y: 465.0761
+        width: 30.960337
+        height: 33.897125
+      alignment: 9
+      pivot: {x: -0.1785111, y: -0.25300407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.493069, y: 27.975323}
+        - {x: -4.5069313, y: -17.024673}
+        - {x: -31.506931, y: -17.024673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0006
+      rect:
+        serializedVersion: 2
+        x: 107.07612
+        y: 310.02676
+        width: 57.872566
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.54864705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.0124, y: -12.000015}
+        - {x: -26.012402, y: 31.999985}
+        - {x: 9.987597, y: 38.999985}
+        - {x: 29.987598, y: 18.999985}
+        - {x: 22.987597, y: -34.000015}
+        - {x: -14.012402, y: -38.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0002
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.64666015, y: 0.6372726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.9876, y: 29.499996}
+        - {x: 23.9876, y: -29.500004}
+        - {x: -6.0123997, y: -44.5}
+        - {x: -28.012396, y: -20.500004}
+        - {x: -29.0124, y: 17.499996}
+        - {x: -5.0123987, y: 39.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0008
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.54298407, y: 0.54118174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.9876, y: 29.499994}
+        - {x: 23.9876, y: -29.500004}
+        - {x: -6.0123997, y: -44.500004}
+        - {x: -28.0124, y: -20.500004}
+        - {x: -29.012398, y: 17.499996}
+        - {x: -5.0123997, y: 39.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0003
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -35}
+        - {x: -28, y: 35}
+        - {x: 28, y: 35}
+        - {x: 28, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0004
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 109.02675
+        width: 57.897125
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4909377, y: 0.57684153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.02468, y: -9.975315}
+        - {x: -26.024681, y: 27.024683}
+        - {x: 1.9753187, y: 39.02468}
+        - {x: 30.975319, y: 25.024685}
+        - {x: 22.975319, y: -30.975311}
+        - {x: -12.02468, y: -41.975315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0002
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.999998, y: -35}
+        - {x: -27.999998, y: 35}
+        - {x: 27.999998, y: 35}
+        - {x: 27.999998, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0009
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -35}
+        - {x: -27.5, y: 35}
+        - {x: 27.499998, y: 35}
+        - {x: 27.499998, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0011
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0008
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 197.02675
+        width: 57.897125
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5254817, y: 0.534748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.975315, y: -29}
+        - {x: 1.975317, y: -45}
+        - {x: -25.024681, y: -29}
+        - {x: -33.02468, y: 8}
+        - {x: -8.024683, y: 42}
+        - {x: 31.975317, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0004
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4564688, y: 0.5140564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.019915, y: -21.47533}
+        - {x: -34.019917, y: 27.524668}
+        - {x: 6.9800835, y: 40.52467}
+        - {x: 29.980083, y: 21.52467}
+        - {x: 22.980083, y: -29.47533}
+        - {x: -1.0199165, y: -47.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0005
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4564688, y: 0.45918453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.019915, y: -21.47533}
+        - {x: -34.019917, y: 27.52467}
+        - {x: 6.9800835, y: 40.52467}
+        - {x: 29.980083, y: 21.524668}
+        - {x: 22.980083, y: -29.475328}
+        - {x: -1.0199165, y: -47.47533}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 50.07612
+        y: 408.0761
+        width: 32.847755
+        height: 99.91097
+      alignment: 9
+      pivot: {x: 0.40866968, y: 0.47466147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.499996, y: 48.968403}
+        - {x: 25.500004, y: -48.031597}
+        - {x: 1.5000038, y: -52.031593}
+        - {x: -21.499996, y: 51.968403}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0010
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0007
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 197.02675
+        width: 57.897125
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5254817, y: 0.49305046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.975315, y: -28.999998}
+        - {x: 1.975317, y: -45}
+        - {x: -25.024681, y: -28.999998}
+        - {x: -33.02468, y: 8}
+        - {x: -8.024683, y: 42}
+        - {x: 31.975317, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0001
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.5214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -34.999996}
+        - {x: -28, y: 34.999996}
+        - {x: 28, y: 34.999996}
+        - {x: 28, y: -34.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HnS_Tally_Kill2_0007: 21300108
+      HnS_Tally_Kill1_0004: 21300072
+      HnS_Tally_Kill2_0004: 21300052
+      HnS_Tally_Kill2_0002: 21300026
+      HnS_Tally_Kill2_Slash0002: 21300062
+      HnS_Tally_Kill4_0001: 21300110
+      HnS_Tally_Kill2_0013: 21300046
+      HnS_Tally_Kill3_Slash0002: 21300104
+      HnS_Tally_Kill4_Slash0001: 21300006
+      HnS_Tally_Kill3_0009: 21300094
+      HnS_Tally_Kill1_Slash0002: 21300022
+      HnS_Tally_Kill2_0006: 21300078
+      HnS_Tally_Kill1_0001: 21300004
+      HnS_Tally_Kill4_0012: 21300018
+      HnS_Tally_Kill4_0002: 21300044
+      HnS_Tally_Kill1_0002: 21300084
+      HnS_Tally_Kill3_0006: 21300082
+      HnS_Tally_Kill2_0011: 21300014
+      HnS_Tally_Kill4_0004: 21300100
+      HnS_Tally_Kill1_0010: 21300106
+      HnS_Tally_Kill2_0010: 21300024
+      HnS_Tally_Kill4_Slash0002: 21300074
+      HnS_Tally_Kill3_0008: 21300054
+      HnS_Tally_Kill3_0010: 21300064
+      HnS_Tally_Kill3_Slash0001: 21300068
+      HnS_Tally_Kill1_0003: 21300012
+      HnS_Tally_Kill4_0007: 21300040
+      HnS_Tally_Kill1_Slash0001: 21300080
+      HnS_Tally_Kill4_0009: 21300020
+      HnS_Tally_Kill2_0005: 21300102
+      HnS_Tally_Kill3_0007: 21300032
+      HnS_Tally_Kill1_0006: 21300058
+      HnS_Tally_Kill2_Slash0001: 21300038
+      HnS_Tally_Kill2_Slash0004: 21300002
+      HnS_Tally_Kill4_0010: 21300042
+      HnS_Tally_Kill4_0006: 21300066
+      HnS_Tally_Kill1_0007: 21300076
+      HnS_Tally_Kill4_0003: 21300034
+      HnS_Tally_Kill2_0008: 21300086
+      HnS_Tally_Kill2_0012: 21300008
+      HnS_Tally_Kill3_0004: 21300090
+      HnS_Tally_Kill2_Slash0003: 21300016
+      HnS_Tally_Kill2_0009: 21300028
+      HnS_Tally_Kill1_0009: 21300050
+      HnS_Tally_Kill3_0005: 21300060
+      HnS_Tally_Kill3_0001: 21300056
+      HnS_Tally_Kill4_0011: 21300096
+      HnS_Tally_Kill4_0005: 21300048
+      HnS_Tally_Kill1_0008: 21300098
+      HnS_Tally_Kill4_0008: 21300000
+      HnS_Tally_Kill2_0001: 21300030
+      HnS_Tally_Kill1_0005: 21300010
+      HnS_Tally_Alive: 21300070
+      HnS_Tally_Kill3_0002: 21300092
+      HnS_Tally_Kill2_0003: 21300088
+      HnS_Tally_Kill3_0003: 21300036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

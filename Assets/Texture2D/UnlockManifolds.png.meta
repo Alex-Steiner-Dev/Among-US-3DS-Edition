@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: de22dd6c87d66604cb590854fd9a58ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: reactorButton06
+  - first:
+      213: 21300002
+    second: reactorButton08
+  - first:
+      213: 21300004
+    second: reactorButton09
+  - first:
+      213: 21300006
+    second: reactorButton04
+  - first:
+      213: 21300008
+    second: reactorButton03
+  - first:
+      213: 21300010
+    second: reactorPanel
+  - first:
+      213: 21300012
+    second: reactorButton05
+  - first:
+      213: 21300014
+    second: reactorPanelGlass
+  - first:
+      213: 21300016
+    second: reactorButton10
+  - first:
+      213: 21300018
+    second: reactorButton07
+  - first:
+      213: 21300020
+    second: reactorButton02
+  - first:
+      213: 21300022
+    second: reactorWire
+  - first:
+      213: 21300024
+    second: reactorButton01
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reactorButton06
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton08
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton09
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 416
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton04
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 505
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton03
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 421
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorPanel
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 86
+        width: 500
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250, y: -122.5}
+        - {x: -250, y: 122.5}
+        - {x: 250, y: 122.5}
+        - {x: 250, y: -122.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton05
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 416
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorPanelGlass
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 500
+        width: 430
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -214.99998, y: -87.5}
+        - {x: -214.99998, y: 87.5}
+        - {x: 214.99998, y: 87.5}
+        - {x: 214.99998, y: -87.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 416
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton07
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 416
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton02
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 416
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorWire
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 157
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 317.5}
+        - {x: 13.499999, y: 317.5}
+        - {x: 78.5, y: 274.5}
+        - {x: 78.5, y: 242.5}
+        - {x: -17.5, y: 230.5}
+        - {x: -35.5, y: 256.5}
+        - {x: -42.5, y: 105.49999}
+        - {x: -40.5, y: 24.499998}
+        - {x: 29.499998, y: 31.5}
+        - {x: 77.5, y: 21.499998}
+        - {x: 77.5, y: 3.5}
+        - {x: 50.5, y: -24.499998}
+        - {x: 50.5, y: -317.5}
+        - {x: 1.5, y: -317.5}
+        - {x: 1.5, y: -40.5}
+        - {x: -42.5, y: 17.5}
+        - {x: -44.5, y: -317.5}
+        - {x: -78.5, y: -317.5}
+        - {x: -78.5, y: 218.5}
+        - {x: -73.49999, y: 297.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorButton01
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 416
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+        - {x: 41, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      reactorWire: 21300022
+      reactorPanel: 21300010
+      reactorButton05: 21300012
+      reactorButton08: 21300002
+      reactorButton01: 21300024
+      reactorButton09: 21300004
+      reactorButton03: 21300008
+      reactorButton04: 21300006
+      reactorButton06: 21300000
+      reactorButton02: 21300020
+      reactorButton10: 21300016
+      reactorPanelGlass: 21300014
+      reactorButton07: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

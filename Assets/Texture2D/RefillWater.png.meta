@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: d5d583a40a8138b4b9e162fbdd1a55f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: water_buttonUp
+  - first:
+      213: 21300002
+    second: panel_water_bg
+  - first:
+      213: 21300004
+    second: Panel_water_outline
+  - first:
+      213: 21300006
+    second: water_buttonDown
+  - first:
+      213: 21300008
+    second: waterfill
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_buttonUp
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177
+        width: 205
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: -68.5}
+        - {x: -102.5, y: 68.5}
+        - {x: 102.5, y: 68.5}
+        - {x: 102.5, y: -68.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_bg
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 21
+        width: 266
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 150}
+        - {x: -38, y: 191}
+        - {x: 35, y: 191}
+        - {x: 39, y: 187}
+        - {x: 47, y: 150}
+        - {x: 133, y: 128}
+        - {x: 133, y: 79}
+        - {x: 124, y: 52}
+        - {x: 119.99999, y: -78}
+        - {x: 132, y: -129}
+        - {x: 132, y: -175}
+        - {x: 84, y: -191}
+        - {x: -97.99999, y: -191}
+        - {x: -110, y: -184.99998}
+        - {x: -133, y: -173}
+        - {x: -132, y: -131}
+        - {x: -124, y: -91}
+        - {x: -124, y: 33}
+        - {x: -133, y: 79}
+        - {x: -133, y: 129}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_water_outline
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 291
+        height: 401
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 200.49998}
+        - {x: 49.499996, y: 200.49998}
+        - {x: 65.5, y: 167.5}
+        - {x: 145.5, y: 140.5}
+        - {x: 145.5, y: 82.5}
+        - {x: 134.5, y: 49.499996}
+        - {x: 133.49998, y: -80.5}
+        - {x: 145.5, y: -122.5}
+        - {x: 145.5, y: -174.5}
+        - {x: 95.5, y: -200.49998}
+        - {x: -89.5, y: -200.49998}
+        - {x: -134.5, y: -181.5}
+        - {x: -145.5, y: -167.5}
+        - {x: -145.5, y: -122.5}
+        - {x: -131.5, y: -72.5}
+        - {x: -134.5, y: 35.5}
+        - {x: -145.5, y: 83.5}
+        - {x: -145.5, y: 138.5}
+        - {x: -62.5, y: 173.5}
+        - {x: -48.5, y: 199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_buttonDown
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 38
+        width: 205
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: -68.5}
+        - {x: -102.5, y: 68.5}
+        - {x: 102.5, y: 68.5}
+        - {x: 102.5, y: -68.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfill
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 111
+        width: 136
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.999998, y: 95.5}
+        - {x: 22, y: 95.5}
+        - {x: 26, y: 78.5}
+        - {x: 68, y: 63.5}
+        - {x: 68, y: -95.5}
+        - {x: -68, y: -95.5}
+        - {x: -68, y: 62.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      panel_water_bg: 21300002
+      Panel_water_outline: 21300004
+      water_buttonUp: 21300000
+      waterfill: 21300008
+      water_buttonDown: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

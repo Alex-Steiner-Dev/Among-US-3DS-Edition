@@ -1,0 +1,1098 @@
+fileFormatVersion: 2
+guid: a960b993d411ee549a8bf12fa8b427ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: snowmanded.png
+  - first:
+      213: 21300002
+    second: medcurtain
+  - first:
+      213: 21300004
+    second: panel_drill0005
+  - first:
+      213: 21300006
+    second: barrier
+  - first:
+      213: 21300008
+    second: panel_drill0002
+  - first:
+      213: 21300010
+    second: panel_drill0003
+  - first:
+      213: 21300012
+    second: rockblock2
+  - first:
+      213: 21300014
+    second: medcurtainrod
+  - first:
+      213: 21300016
+    second: room_electric
+  - first:
+      213: 21300018
+    second: camera_on
+  - first:
+      213: 21300020
+    second: rock2
+  - first:
+      213: 21300022
+    second: pipe2
+  - first:
+      213: 21300024
+    second: fencebot
+  - first:
+      213: 21300026
+    second: rock1
+  - first:
+      213: 21300028
+    second: storagebox
+  - first:
+      213: 21300030
+    second: panel_drill0004
+  - first:
+      213: 21300032
+    second: commstable
+  - first:
+      213: 21300034
+    second: panel_drill0006
+  - first:
+      213: 21300036
+    second: rockblock1
+  - first:
+      213: 21300038
+    second: panel_drill0001
+  - first:
+      213: 21300040
+    second: blockrock
+  - first:
+      213: 21300042
+    second: bathroomabove
+  - first:
+      213: 21300044
+    second: camera_off
+  - first:
+      213: 21300046
+    second: pipe1
+  - first:
+      213: 21300048
+    second: rock3
+  - first:
+      213: 21300050
+    second: snowman
+  - first:
+      213: 21300052
+    second: panel_drill0007
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowmanded.png
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 779
+        width: 51
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -17}
+        - {x: -25.5, y: 17}
+        - {x: 25.5, y: 17}
+        - {x: 25.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medcurtain
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 750
+        width: 272
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4178082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.99999, y: -15.5}
+        - {x: -136, y: -36.5}
+        - {x: -136, y: 36.5}
+        - {x: 136, y: 36.5}
+        - {x: 136, y: -36.5}
+        - {x: 98.99999, y: -15.5}
+        - {x: 96, y: 30.499994}
+        - {x: -98.99999, y: 26.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0005
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 65.07612
+        width: 120
+        height: 223.92387
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.49759713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 87.961945}
+        - {x: -15, y: 111.96194}
+        - {x: 32, y: 111.96194}
+        - {x: 34, y: -35.038055}
+        - {x: 60, y: -96.038055}
+        - {x: 25, y: -74.038055}
+        - {x: 6, y: -115.03805}
+        - {x: -18, y: -103.03805}
+        - {x: -35, y: -67.038055}
+        - {x: -49.999996, y: -85.038055}
+        - {x: -59.999996, y: -84.038055}
+        - {x: -34, y: -18.038055}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.4999998, y: 32}
+        - {x: 33.499996, y: 32}
+        - {x: 33.499996, y: -6}
+        - {x: -9.5, y: -32}
+        - {x: -33.499996, y: -32}
+        - {x: -33.499996, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0002
+      rect:
+        serializedVersion: 2
+        x: 519.02673
+        y: 119
+        width: 116.97325
+        height: 227.92387
+      alignment: 9
+      pivot: {x: 0.4956113, y: 0.5023607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.51336, y: 101.03806}
+        - {x: 0.48664093, y: 118.038055}
+        - {x: 28.48664, y: 101.03806}
+        - {x: 31.48664, y: -21.961937}
+        - {x: 58.486637, y: -87.96194}
+        - {x: 23.48664, y: -78.96193}
+        - {x: 6.486641, y: -113.96194}
+        - {x: -14.513359, y: -104.96193}
+        - {x: -32.51336, y: -83.96194}
+        - {x: -59.513355, y: -82.96194}
+        - {x: -35.51336, y: -2.961937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0003
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 62
+        width: 112
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.49353448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.999998, y: 105.99999}
+        - {x: 31.999998, y: -14}
+        - {x: 56, y: -85}
+        - {x: 23, y: -86}
+        - {x: 7, y: -116}
+        - {x: -14, y: -105.99999}
+        - {x: -34, y: -73}
+        - {x: -56, y: -92}
+        - {x: -56, y: -73}
+        - {x: -31, y: -27}
+        - {x: -31, y: 90.99999}
+        - {x: -6, y: 115.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockblock2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 583
+        width: 384
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -84}
+        - {x: -53.999996, y: -83}
+        - {x: -98.99999, y: -97.99999}
+        - {x: -117.99999, y: -97.99999}
+        - {x: -158.99998, y: -66.99999}
+        - {x: -192, y: -66}
+        - {x: -192, y: -35}
+        - {x: -91, y: 97.99999}
+        - {x: -56, y: 97.99999}
+        - {x: -28, y: 84}
+        - {x: 62, y: 83}
+        - {x: 102, y: 31}
+        - {x: 175, y: 0}
+        - {x: 192, y: -55}
+        - {x: 192, y: -62}
+        - {x: 143, y: -77}
+        - {x: 78, y: -79.99999}
+        - {x: 41, y: -97.99999}
+        - {x: 19.999998, y: -97.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medcurtainrod
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 472
+        width: 272
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 42.999996}
+        - {x: -130, y: 42.999996}
+        - {x: -122, y: -31}
+        - {x: -110, y: -36}
+        - {x: 109, y: -36}
+        - {x: 129, y: -22}
+        - {x: 130, y: 42.999996}
+        - {x: 136, y: 42.999996}
+        - {x: 136, y: -42.999996}
+        - {x: -136, y: -42.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: room_electric
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 1017
+        height: 1095
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -508.5, y: 547.5}
+        - {x: 507.49997, y: 547.5}
+        - {x: 507.49997, y: 422.5}
+        - {x: 499.5, y: 413.49997}
+        - {x: 502.5, y: 328.5}
+        - {x: 508.5, y: 328.5}
+        - {x: 508.5, y: -48.5}
+        - {x: 494.49997, y: -48.5}
+        - {x: 494.49997, y: 191.5}
+        - {x: 492.49997, y: 193.5}
+        - {x: 37.5, y: 193.5}
+        - {x: 35.5, y: 190.5}
+        - {x: 35.5, y: -51.5}
+        - {x: 6.5, y: -86.5}
+        - {x: 6.5, y: -489.5}
+        - {x: -19.5, y: -542.5}
+        - {x: -107.49999, y: -547.5}
+        - {x: -178.5, y: -547.5}
+        - {x: -182.5, y: -505.49997}
+        - {x: -203.49998, y: -488.49997}
+        - {x: -202.49998, y: -71.5}
+        - {x: -386.5, y: -67.5}
+        - {x: -389.5, y: -52.499996}
+        - {x: -508.5, y: -52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camera_on
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 461
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -16.5}
+        - {x: -11, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 429
+        width: 83
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -16.5}
+        - {x: -41.5, y: 32.5}
+        - {x: 1.5, y: 32.5}
+        - {x: 41.5, y: 14.5}
+        - {x: 41.5, y: -32.5}
+        - {x: -5.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipe2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 101
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 41.5}
+        - {x: 50.5, y: 41.5}
+        - {x: 50.5, y: -20.5}
+        - {x: -2.4999998, y: -30.5}
+        - {x: -15.5, y: -41.5}
+        - {x: -50.5, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencebot
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 496
+        width: 503
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.49998, y: -21.499998}
+        - {x: -222.49998, y: 42.5}
+        - {x: 251.49998, y: 42.5}
+        - {x: 251.49998, y: -42.5}
+        - {x: -251.49998, y: -42.5}
+        - {x: -251.49998, y: -26.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 712
+        width: 157
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.499996, y: 55.5}
+        - {x: 33.499996, y: 55.5}
+        - {x: 63.5, y: 48.5}
+        - {x: 78.5, y: -10.5}
+        - {x: 78.5, y: -38.5}
+        - {x: 44.5, y: -55.5}
+        - {x: -27.5, y: -55.5}
+        - {x: -35.5, y: -12.5}
+        - {x: -78.5, y: -11.499999}
+        - {x: -78.5, y: 8.5}
+        - {x: -45.5, y: 54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storagebox
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 120
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: 18, y: 51}
+        - {x: 59.999996, y: 33}
+        - {x: 59.999996, y: -24}
+        - {x: 33, y: -51}
+        - {x: 14.999999, y: -51}
+        - {x: -59.999996, y: -21}
+        - {x: -59.999996, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0004
+      rect:
+        serializedVersion: 2
+        x: 5.0429077
+        y: 238
+        width: 112.95709
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5130895, y: 0.49353448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.521454, y: 106.99999}
+        - {x: 17.478546, y: 115.99999}
+        - {x: 33.478546, y: 90.99999}
+        - {x: 33.478546, y: -21}
+        - {x: 56.478546, y: -84}
+        - {x: 26.478546, y: -86}
+        - {x: 7.478546, y: -116}
+        - {x: -18.521454, y: -103}
+        - {x: -30.521454, y: -65}
+        - {x: -47.521454, y: -85}
+        - {x: -60.52145, y: -85}
+        - {x: -32.521454, y: -27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commstable
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 487
+        width: 99
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 34.5}
+        - {x: 49.499996, y: 34.5}
+        - {x: 49.499996, y: -26.499998}
+        - {x: 23.5, y: -34.5}
+        - {x: -49.499996, y: -34.5}
+        - {x: -49.499996, y: 3.5}
+        - {x: -36.499996, y: 26.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0006
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 43.07612
+        width: 110.97325
+        height: 224.89713
+      alignment: 9
+      pivot: {x: 0.5136373, y: 0.4954438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.48663, y: 95.47532}
+        - {x: -10.4866295, y: 112.47532}
+        - {x: 32.513367, y: 112.47532}
+        - {x: 32.513367, y: -13.524681}
+        - {x: 56.51337, y: -84.52468}
+        - {x: 36.51337, y: -84.52468}
+        - {x: 6.5133705, y: -114.52468}
+        - {x: -21.48663, y: -101.52468}
+        - {x: -34.48663, y: -63.52468}
+        - {x: -55.48663, y: -95.52468}
+        - {x: -55.48663, y: -74.52467}
+        - {x: -31.48663, y: -24.524681}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockblock1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 353
+        width: 339
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 70.5}
+        - {x: 143.5, y: 70.5}
+        - {x: 169.5, y: 44.5}
+        - {x: 169.5, y: 15.5}
+        - {x: 116.5, y: -34.5}
+        - {x: 10.5, y: -45.5}
+        - {x: -21.499998, y: -68.5}
+        - {x: -40.5, y: -70.5}
+        - {x: -125.5, y: -70.5}
+        - {x: -169.5, y: -48.5}
+        - {x: -169.5, y: -16.5}
+        - {x: -152.5, y: 21.499998}
+        - {x: -91.5, y: 52.499996}
+        - {x: -6.5, y: 70.5}
+        - {x: 50.5, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0001
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 241.07613
+        width: 115.95709
+        height: 228.92387
+      alignment: 9
+      pivot: {x: 0.53468055, y: 0.48672894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.021446, y: 104.46193}
+        - {x: 35.021446, y: -15.538063}
+        - {x: 59.02145, y: -86.53806}
+        - {x: 24.02145, y: -92.53806}
+        - {x: 10.02145, y: -117.53806}
+        - {x: -12.97855, y: -106.53806}
+        - {x: -30.97855, y: -87.53806}
+        - {x: -57.978546, y: -86.53806}
+        - {x: -27.97855, y: -26.538063}
+        - {x: -27.97855, y: 89.46193}
+        - {x: -2.97855, y: 114.46193}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockrock
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 184
+        width: 182
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 83.5}
+        - {x: -9, y: 83.5}
+        - {x: 19.999998, y: 20.5}
+        - {x: 50, y: 7.4999995}
+        - {x: 91, y: -43.5}
+        - {x: 91, y: -78.5}
+        - {x: 4.9999995, y: -83.5}
+        - {x: -45, y: -83.5}
+        - {x: -45, y: -51.5}
+        - {x: -91, y: -5.5}
+        - {x: -91, y: 54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomabove
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 20
+        width: 189
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.5, y: -60.499996}
+        - {x: -94.5, y: 60.499996}
+        - {x: -84.5, y: 60.499996}
+        - {x: -84.5, y: -60.499996}
+      - - {x: -35.5, y: 60.499996}
+        - {x: -24.499998, y: 60.499996}
+        - {x: -20.5, y: 6.5}
+        - {x: 24.499998, y: 10.5}
+        - {x: 24.499998, y: 60.499996}
+        - {x: 35.5, y: 60.499996}
+        - {x: 39.5, y: 6.5}
+        - {x: 84.5, y: 10.5}
+        - {x: 84.5, y: 60.499996}
+        - {x: 94.5, y: 60.499996}
+        - {x: 94.5, y: -60.499996}
+        - {x: -35.5, y: -60.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camera_off
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 436
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -16.5}
+        - {x: -11, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipe1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 377
+        width: 98
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.999996, y: 45.999996}
+        - {x: 14, y: 45.999996}
+        - {x: 32, y: 11}
+        - {x: 48.999996, y: 9.999999}
+        - {x: 48.999996, y: -33}
+        - {x: 4.9999995, y: -45.999996}
+        - {x: -48.999996, y: -45.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 310
+        width: 105
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 32.5}
+        - {x: 52.499996, y: 32.5}
+        - {x: 52.499996, y: -6.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 0.5, y: -32.5}
+        - {x: -52.499996, y: -32.5}
+        - {x: -52.499996, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowman
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 187
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 32}
+        - {x: 24, y: 32}
+        - {x: 24, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_drill0007
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 263
+        width: 121
+        height: 231
+      alignment: 9
+      pivot: {x: 0.49586776, y: 0.495671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -84.5}
+        - {x: -60.499996, y: -84.5}
+        - {x: -33.5, y: -25.499998}
+        - {x: -37.5, y: 115.5}
+        - {x: 29.499998, y: 110.5}
+        - {x: 30.5, y: 1.4999998}
+        - {x: 60.5, y: -104.5}
+        - {x: 29.499998, y: -72.5}
+        - {x: 7.5, y: -115.5}
+        - {x: -17.5, y: -104.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      panel_drill0006: 21300034
+      pipe1: 21300046
+      panel_drill0003: 21300010
+      barrier: 21300006
+      blockrock: 21300040
+      rock2: 21300020
+      rock3: 21300048
+      rockblock2: 21300012
+      panel_drill0004: 21300030
+      medcurtainrod: 21300014
+      rock1: 21300026
+      fencebot: 21300024
+      pipe2: 21300022
+      commstable: 21300032
+      panel_drill0007: 21300052
+      camera_on: 21300018
+      camera_off: 21300044
+      snowmanded.png: 21300000
+      panel_drill0005: 21300004
+      bathroomabove: 21300042
+      room_electric: 21300016
+      panel_drill0002: 21300008
+      rockblock1: 21300036
+      storagebox: 21300028
+      snowman: 21300050
+      medcurtain: 21300002
+      panel_drill0001: 21300038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

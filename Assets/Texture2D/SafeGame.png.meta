@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: dafa31c88738b604ab3be9ee3dabc221
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: safe_note
+  - first:
+      213: 21300002
+    second: safe_rotationarrowselected
+  - first:
+      213: 21300004
+    second: safe_tumblerbehind
+  - first:
+      213: 21300006
+    second: safe_tumbler
+  - first:
+      213: 21300008
+    second: safe_BG
+  - first:
+      213: 21300010
+    second: safe_rotationarrow
+  - first:
+      213: 21300012
+    second: safe_rotator
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: safe_note
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 97
+        width: 249
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: 51.5}
+        - {x: 118.49999, y: 51.5}
+        - {x: 124.5, y: -20.5}
+        - {x: 124.5, y: -51.5}
+        - {x: -79.49999, y: -51.5}
+        - {x: -101.5, y: -39.5}
+        - {x: -120.49999, y: -6.5}
+        - {x: -124.5, y: 29.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safe_rotationarrowselected
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 439
+        width: 37
+        height: 23
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.4347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -11.499999}
+        - {x: -18.5, y: 11.5}
+        - {x: 18.5, y: 11.5}
+        - {x: 18.5, y: -11.499999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safe_tumblerbehind
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 202
+        width: 172
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 87.5}
+        - {x: 25, y: 87.5}
+        - {x: 55, y: 74.5}
+        - {x: 85.99999, y: 37.5}
+        - {x: 85.99999, y: -47.5}
+        - {x: 34, y: -87.5}
+        - {x: -26, y: -87.5}
+        - {x: -72, y: -65.5}
+        - {x: -85.99999, y: -23.5}
+        - {x: -85.99999, y: 39.5}
+        - {x: -55, y: 73.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safe_tumbler
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 308
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 72.5}
+        - {x: 42.5, y: 72.5}
+        - {x: 72.5, y: 26.499998}
+        - {x: 72.5, y: -44.5}
+        - {x: 26.499998, y: -72.5}
+        - {x: -33.499996, y: -72.5}
+        - {x: -72.5, y: -33.499996}
+        - {x: -72.5, y: 26.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safe_BG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 838
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -419, y: -293.99997}
+        - {x: -419, y: 293.99997}
+        - {x: 419, y: 293.99997}
+        - {x: 419, y: -293.99997}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safe_rotationarrow
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 419
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -9}
+        - {x: -15.5, y: 9}
+        - {x: 15.5, y: 9}
+        - {x: 15.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safe_rotator
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 202
+        width: 418
+        height: 389
+      alignment: 9
+      pivot: {x: 0.52392346, y: 0.59383035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 209, y: 155.5}
+        - {x: 209, y: 130.5}
+        - {x: 65, y: 52.5}
+        - {x: 44, y: 14.5}
+        - {x: 35, y: -60.5}
+        - {x: 55, y: -194.5}
+        - {x: -26, y: -194.5}
+        - {x: -29.999996, y: -176.49998}
+        - {x: -7, y: -3.4999962}
+        - {x: -43.999996, y: 37.5}
+        - {x: -209, y: 77.5}
+        - {x: -209, y: 114.5}
+        - {x: -191, y: 164.5}
+        - {x: -47, y: 76.5}
+        - {x: 38, y: 77.5}
+        - {x: 155.99998, y: 194.5}
+        - {x: 192, y: 194.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      safe_tumbler: 21300006
+      safe_note: 21300000
+      safe_rotationarrowselected: 21300002
+      safe_rotator: 21300012
+      safe_tumblerbehind: 21300004
+      safe_rotationarrow: 21300010
+      safe_BG: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

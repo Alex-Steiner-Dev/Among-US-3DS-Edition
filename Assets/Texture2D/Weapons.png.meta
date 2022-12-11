@@ -1,0 +1,4453 @@
+fileFormatVersion: 2
+guid: 14df4a2aba4159d49ba2f2a6c80e7769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bullettop-capglo0014
+  - first:
+      213: 21300002
+    second: bullettop-capglo0054
+  - first:
+      213: 21300004
+    second: bullettop-capglo0021
+  - first:
+      213: 21300006
+    second: bullettop-capglo0036
+  - first:
+      213: 21300008
+    second: bullettop-capglo0072
+  - first:
+      213: 21300010
+    second: bullettop-capglo0031
+  - first:
+      213: 21300012
+    second: bullettop-capglo0052
+  - first:
+      213: 21300014
+    second: Mainframe-weaponmainframe0008
+  - first:
+      213: 21300016
+    second: glowdot-glowdot0016
+  - first:
+      213: 21300018
+    second: glowdot-glowdot0001
+  - first:
+      213: 21300020
+    second: bullettop-capglo0069
+  - first:
+      213: 21300022
+    second: bullettop-capglo0015
+  - first:
+      213: 21300024
+    second: glowdot-glowdot0025
+  - first:
+      213: 21300026
+    second: weap_rail3
+  - first:
+      213: 21300028
+    second: glowdot-glowdot0022
+  - first:
+      213: 21300030
+    second: bullettop-capglo0057
+  - first:
+      213: 21300032
+    second: Mainframe-weaponmainframe0022
+  - first:
+      213: 21300034
+    second: bullettop-capglo0008
+  - first:
+      213: 21300036
+    second: bullettop-capglo0038
+  - first:
+      213: 21300038
+    second: weap_wall
+  - first:
+      213: 21300040
+    second: bullettop-capglo0046
+  - first:
+      213: 21300042
+    second: Mainframe-weaponmainframe0001
+  - first:
+      213: 21300044
+    second: glowdot-glowdot0021
+  - first:
+      213: 21300046
+    second: Mainframe-weaponmainframe0002
+  - first:
+      213: 21300048
+    second: bullettop-capglo0037
+  - first:
+      213: 21300050
+    second: bullettop-capglo0013
+  - first:
+      213: 21300052
+    second: bullettop-capglo0053
+  - first:
+      213: 21300054
+    second: bullettop-capglo0066
+  - first:
+      213: 21300056
+    second: bullettop-capglo0076
+  - first:
+      213: 21300058
+    second: bullettop-capglo0073
+  - first:
+      213: 21300060
+    second: bullettop-capglo0045
+  - first:
+      213: 21300062
+    second: bullettop-capglo0071
+  - first:
+      213: 21300064
+    second: bullettop-capglo0022
+  - first:
+      213: 21300066
+    second: bullettop-capglo0061
+  - first:
+      213: 21300068
+    second: Mainframe-weaponmainframe0010
+  - first:
+      213: 21300070
+    second: weap_pipeR
+  - first:
+      213: 21300072
+    second: bullettop-capglo0062
+  - first:
+      213: 21300074
+    second: bullettop-capglo0010
+  - first:
+      213: 21300076
+    second: weap_walltop
+  - first:
+      213: 21300078
+    second: bullettop-capglo0018
+  - first:
+      213: 21300080
+    second: glowdot-glowdot0008
+  - first:
+      213: 21300082
+    second: glowdot-glowdot0023
+  - first:
+      213: 21300084
+    second: bullettop-capglo0065
+  - first:
+      213: 21300086
+    second: glowdot-glowdot0012
+  - first:
+      213: 21300088
+    second: bullettop-capglo0064
+  - first:
+      213: 21300090
+    second: glowdot-glowdot0005
+  - first:
+      213: 21300092
+    second: bullettop-capglo0074
+  - first:
+      213: 21300094
+    second: glowdot-glowdot0011
+  - first:
+      213: 21300096
+    second: bullettop-capglo0051
+  - first:
+      213: 21300098
+    second: bullettop-capglo0060
+  - first:
+      213: 21300100
+    second: bullettop-capglo0035
+  - first:
+      213: 21300102
+    second: Mainframe-weaponmainframe0021
+  - first:
+      213: 21300104
+    second: bullettop-capglo0003
+  - first:
+      213: 21300106
+    second: bullettop-capglo0020
+  - first:
+      213: 21300108
+    second: bullettop-capglo0029
+  - first:
+      213: 21300110
+    second: bullettop-capglo0024
+  - first:
+      213: 21300112
+    second: bullettop-capglo0039
+  - first:
+      213: 21300114
+    second: glowdot-glowdot0024
+  - first:
+      213: 21300116
+    second: bullettop-capglo0041
+  - first:
+      213: 21300118
+    second: bullettop-capglo0025
+  - first:
+      213: 21300120
+    second: Mainframe-weaponmainframe0007
+  - first:
+      213: 21300122
+    second: bullettop-capglo0070
+  - first:
+      213: 21300124
+    second: glowdot-glowdot0019
+  - first:
+      213: 21300126
+    second: bullettop-capglo0030
+  - first:
+      213: 21300128
+    second: bullettop-capglo0012
+  - first:
+      213: 21300130
+    second: bullettop-capglo0050
+  - first:
+      213: 21300132
+    second: glowdot-glowdot0009
+  - first:
+      213: 21300134
+    second: bullettop-capglo0017
+  - first:
+      213: 21300136
+    second: bullettop-capglo0063
+  - first:
+      213: 21300138
+    second: bullettop-capglo0007
+  - first:
+      213: 21300140
+    second: glowdot-glowdot0003
+  - first:
+      213: 21300142
+    second: bullettop-capglo0047
+  - first:
+      213: 21300144
+    second: glowdot-glowdot0007
+  - first:
+      213: 21300146
+    second: glowdot-glowdot0014
+  - first:
+      213: 21300148
+    second: bullettop-capglo0068
+  - first:
+      213: 21300150
+    second: Mainframe-weaponmainframe0016
+  - first:
+      213: 21300152
+    second: bullettop-capglo0044
+  - first:
+      213: 21300154
+    second: weap_rail2
+  - first:
+      213: 21300156
+    second: Mainframe-weaponmainframe0012
+  - first:
+      213: 21300158
+    second: bullettop-capglo0016
+  - first:
+      213: 21300160
+    second: glowdot-glowdot0018
+  - first:
+      213: 21300162
+    second: bullettop-capglo0001
+  - first:
+      213: 21300164
+    second: bullettop-capglo0027
+  - first:
+      213: 21300166
+    second: bullettop-capglo0042
+  - first:
+      213: 21300168
+    second: bullettop-capglo0067
+  - first:
+      213: 21300170
+    second: Mainframe-weaponmainframe0015
+  - first:
+      213: 21300172
+    second: bullettop-capglo0011
+  - first:
+      213: 21300174
+    second: Mainframe-weaponmainframe0018
+  - first:
+      213: 21300176
+    second: Mainframe-weaponmainframe0011
+  - first:
+      213: 21300178
+    second: glowdot-glowdot0006
+  - first:
+      213: 21300180
+    second: Mainframe-weaponmainframe0005
+  - first:
+      213: 21300182
+    second: Mainframe-weaponmainframe0009
+  - first:
+      213: 21300184
+    second: bullettop-capglo0009
+  - first:
+      213: 21300186
+    second: bullettop-capglo0043
+  - first:
+      213: 21300188
+    second: glowdot-glowdot0020
+  - first:
+      213: 21300190
+    second: bullettop-capglo0075
+  - first:
+      213: 21300192
+    second: glowdot-glowdot0026
+  - first:
+      213: 21300194
+    second: glowdot-glowdot0015
+  - first:
+      213: 21300196
+    second: bullettop-capglo0033
+  - first:
+      213: 21300198
+    second: bullettop-capglo0028
+  - first:
+      213: 21300200
+    second: bullettop-capglo0004
+  - first:
+      213: 21300202
+    second: Mainframe-weaponmainframe0020
+  - first:
+      213: 21300204
+    second: weap_rail1
+  - first:
+      213: 21300206
+    second: bullettop-capglo0032
+  - first:
+      213: 21300208
+    second: Mainframe-weaponmainframe0014
+  - first:
+      213: 21300210
+    second: weap_platform
+  - first:
+      213: 21300212
+    second: bullettop-capglo0059
+  - first:
+      213: 21300214
+    second: bullettop-capglo0002
+  - first:
+      213: 21300216
+    second: bullettop-capglo0056
+  - first:
+      213: 21300218
+    second: bullettop-capglo0049
+  - first:
+      213: 21300220
+    second: bullettop-capglo0006
+  - first:
+      213: 21300222
+    second: glowdot-glowdot0010
+  - first:
+      213: 21300224
+    second: bullettop-capglo0034
+  - first:
+      213: 21300226
+    second: bullettop-capglo0040
+  - first:
+      213: 21300228
+    second: bullettop-capglo0058
+  - first:
+      213: 21300230
+    second: weap_hall
+  - first:
+      213: 21300232
+    second: glowdot-glowdot0004
+  - first:
+      213: 21300234
+    second: glowdot-glowdot0002
+  - first:
+      213: 21300236
+    second: bullettop-capglo0048
+  - first:
+      213: 21300238
+    second: weap_pipeL
+  - first:
+      213: 21300240
+    second: bullettop-capglo0019
+  - first:
+      213: 21300242
+    second: Mainframe-weaponmainframe0019
+  - first:
+      213: 21300244
+    second: Mainframe-weaponmainframe0006
+  - first:
+      213: 21300246
+    second: bullettop-capglo0023
+  - first:
+      213: 21300248
+    second: bullettop-capglo0055
+  - first:
+      213: 21300250
+    second: weap_floor
+  - first:
+      213: 21300252
+    second: Mainframe-weaponmainframe0004
+  - first:
+      213: 21300254
+    second: panel_weap
+  - first:
+      213: 21300256
+    second: Mainframe-weaponmainframe0003
+  - first:
+      213: 21300258
+    second: glowdot-glowdot0017
+  - first:
+      213: 21300260
+    second: bullettop-capglo0005
+  - first:
+      213: 21300262
+    second: glowdot-glowdot0013
+  - first:
+      213: 21300264
+    second: bullettop-capglo0026
+  - first:
+      213: 21300266
+    second: Mainframe-weaponmainframe0013
+  - first:
+      213: 21300268
+    second: Mainframe-weaponmainframe0017
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bullettop-capglo0014
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 315
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0054
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0021
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 69
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0036
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0072
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0031
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 13
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0052
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 24
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0008
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 402
+        width: 82.941795
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51240754, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.470898, y: -19.5}
+        - {x: -41.470898, y: 52.499996}
+        - {x: -27.470898, y: 52.499996}
+        - {x: -2.4708977, y: 38.5}
+        - {x: 42.529102, y: 26.499998}
+        - {x: 33.529102, y: -46.5}
+        - {x: 27.5291, y: -52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0016
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0001
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0069
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0015
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 496
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0025
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_rail3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 122
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 54.5}
+        - {x: 58, y: 54.5}
+        - {x: 61, y: 51.5}
+        - {x: 61, y: 27.5}
+        - {x: 51, y: 27.5}
+        - {x: 48, y: 44.5}
+        - {x: 29, y: 42.5}
+        - {x: 29, y: 28.5}
+        - {x: 18, y: 28.5}
+        - {x: 16, y: 44.5}
+        - {x: -6, y: 42.5}
+        - {x: -6, y: 28.5}
+        - {x: -24, y: 25.5}
+        - {x: -25, y: -6.5}
+        - {x: -51, y: -54.5}
+        - {x: -61, y: -54.5}
+        - {x: -61, y: -24.499998}
+        - {x: -44, y: 1.5}
+        - {x: -37, y: 49.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0022
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0057
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0022
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 452
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -18.5}
+        - {x: -40.5, y: 51.499996}
+        - {x: -26.5, y: 51.499996}
+        - {x: -1.5, y: 37.5}
+        - {x: 40.5, y: 25.499998}
+        - {x: 40.5, y: 10.499999}
+        - {x: 34.5, y: 2.5}
+        - {x: 34.5, y: -50.499996}
+        - {x: 22.5, y: -51.5}
+        - {x: -7.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0008
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 260
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0038
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 4
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_wall
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 282
+        width: 382
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 136.5}
+        - {x: 22.999998, y: 136.5}
+        - {x: 22.999998, y: 126.5}
+        - {x: 142, y: 7.4999995}
+        - {x: 162, y: -7.4999995}
+        - {x: 191, y: -41.5}
+        - {x: 191, y: -136.5}
+        - {x: 184.99998, y: -136.5}
+        - {x: 45, y: 3.5}
+        - {x: 4.9999995, y: 49.499996}
+        - {x: -90, y: 48.5}
+        - {x: -90, y: 28.5}
+        - {x: -122, y: 28.5}
+        - {x: -163, y: 7.4999995}
+        - {x: -191, y: 21.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0046
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 206
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0001
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 452
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -18.5}
+        - {x: -40.5, y: 51.499996}
+        - {x: -26.5, y: 51.499996}
+        - {x: -1.5, y: 37.5}
+        - {x: 40.5, y: 25.499998}
+        - {x: 40.5, y: 10.499999}
+        - {x: 34.5, y: 2.5}
+        - {x: 34.5, y: -50.499996}
+        - {x: 22.5, y: -51.5}
+        - {x: -7.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0021
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0002
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 67
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -18.5}
+        - {x: -41, y: 51.499996}
+        - {x: -27, y: 51.499996}
+        - {x: 41, y: 25.499998}
+        - {x: 41, y: 11.5}
+        - {x: 34, y: 1.4999998}
+        - {x: 34, y: -50.499996}
+        - {x: 22, y: -51.5}
+        - {x: -8, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0037
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 267
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0013
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 477
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0053
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 67
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0066
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0076
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0073
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0045
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 496
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0071
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0022
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 100
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0061
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0010
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 179
+        width: 84
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -15.5}
+        - {x: -42, y: 51.499996}
+        - {x: -28, y: 51.499996}
+        - {x: 42, y: 25.499998}
+        - {x: 33, y: -24.5}
+        - {x: 32, y: -50.499996}
+        - {x: 21, y: -51.5}
+        - {x: -39, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_pipeR
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 374
+        width: 140
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 70.5}
+        - {x: 31, y: 90.5}
+        - {x: 68, y: 90.5}
+        - {x: 70, y: -17.5}
+        - {x: 66.99999, y: -85.49999}
+        - {x: 70, y: -86.5}
+        - {x: 70, y: -90.5}
+        - {x: 17, y: -90.5}
+        - {x: 8, y: -35.5}
+        - {x: -70, y: 16.5}
+        - {x: -70, y: 42.5}
+        - {x: -39.999996, y: 89.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0062
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0010
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 135
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_walltop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 549
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.5, y: -95.5}
+        - {x: -112.5, y: -95.5}
+        - {x: -112.5, y: -116.5}
+        - {x: -28.5, y: -200.49998}
+        - {x: 22.5, y: -200.49998}
+        - {x: 22.5, y: -244.5}
+        - {x: 6.5, y: -244.5}
+        - {x: 3.5, y: -215.5}
+        - {x: -37.5, y: -215.5}
+        - {x: -143.5, y: -109.5}
+        - {x: -274.5, y: -109.5}
+      - - {x: -114.5, y: 227.49998}
+        - {x: -114.5, y: 71.5}
+        - {x: -129.5, y: 71.5}
+        - {x: -129.5, y: 244.5}
+        - {x: 90.5, y: 244.5}
+        - {x: 274.5, y: 63.5}
+        - {x: 274.5, y: -215.5}
+        - {x: 161.5, y: -217.5}
+        - {x: 160.5, y: -244.5}
+        - {x: 144.5, y: -244.5}
+        - {x: 144.5, y: -200.49998}
+        - {x: 260.5, y: -197.49998}
+        - {x: 260.5, y: 50.5}
+        - {x: 83.5, y: 227.49998}
+        - {x: 37.5, y: 230.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0018
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 75
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0008
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 331
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0023
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0065
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0012
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 184
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0064
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0005
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 331
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0074
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0011
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0051
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 20
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0060
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0035
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 135
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0021
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 71
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -18.5}
+        - {x: -40.5, y: 52.499996}
+        - {x: -26.5, y: 52.499996}
+        - {x: 40.5, y: 25.5}
+        - {x: 40.5, y: 11.499999}
+        - {x: 34.5, y: 3.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 28.499998, y: -52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0003
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 74
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0020
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 41
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0029
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 13
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0024
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 74
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0039
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 6
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0024
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0041
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 328
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0025
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0007
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 219.02675
+        width: 82.941795
+        height: 102.97325
+      alignment: 9
+      pivot: {x: 0.51240754, y: 0.49015886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.470898, y: -20.513374}
+        - {x: -41.470898, y: 51.48662}
+        - {x: -27.470898, y: 51.48662}
+        - {x: -2.4708977, y: 37.486626}
+        - {x: 42.529102, y: 25.486624}
+        - {x: 33.529102, y: -47.513374}
+        - {x: 27.5291, y: -53.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0070
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0019
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0030
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 5
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0012
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 67
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0050
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 442
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0009
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 386
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0017
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 74
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0063
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0007
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 135
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0003
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 158
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0047
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 13
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0014
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 330
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0068
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0016
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 121
+        width: 84
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -19.5}
+        - {x: -42, y: 52.499996}
+        - {x: -28, y: 52.499996}
+        - {x: -6, y: 39.5}
+        - {x: 35, y: 27.5}
+        - {x: 42, y: 20.5}
+        - {x: 32, y: -4.5}
+        - {x: 31, y: -47.5}
+        - {x: 26, y: -52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0044
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 135
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_rail2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 511
+        width: 151
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 8}
+        - {x: -75.5, y: -12}
+        - {x: -75.5, y: 22}
+        - {x: 44.5, y: 22}
+        - {x: 75.5, y: 4.9999995}
+        - {x: 75.5, y: -22}
+        - {x: 65.5, y: -22}
+        - {x: 8.5, y: -1}
+        - {x: -9.5, y: -14}
+        - {x: -15.5, y: 8}
+        - {x: -43.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0012
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 43
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -15.5}
+        - {x: -41, y: 51.499996}
+        - {x: -26, y: 51.499996}
+        - {x: -8, y: 41.5}
+        - {x: 41, y: 25.499998}
+        - {x: 41, y: 10.499999}
+        - {x: 34, y: -19.5}
+        - {x: 33, y: -50.499996}
+        - {x: 21, y: -51.5}
+        - {x: -38, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0016
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 74
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0018
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0001
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0027
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 14
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0042
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 267
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0067
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0015
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 71
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -16}
+        - {x: -42, y: 51.999996}
+        - {x: -27, y: 51.999996}
+        - {x: 42, y: 25}
+        - {x: 32, y: -49.999996}
+        - {x: 18, y: -52}
+        - {x: -39, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0011
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 400
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0018
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 63
+        width: 81.92388
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5187743, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.961937, y: -16.5}
+        - {x: -40.961937, y: 51.499996}
+        - {x: -26.961937, y: 51.499996}
+        - {x: 5.038063, y: 35.499996}
+        - {x: 42.038063, y: 25.499998}
+        - {x: 33.038063, y: -50.499996}
+        - {x: 20.038063, y: -51.5}
+        - {x: -37.961937, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0011
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 105
+        width: 84
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -15.5}
+        - {x: -42, y: 51.499996}
+        - {x: -28, y: 51.499996}
+        - {x: 42, y: 24.5}
+        - {x: 33, y: -24.5}
+        - {x: 32, y: -50.499996}
+        - {x: 21, y: -51.5}
+        - {x: -39, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0006
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 135
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0005
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 43
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48.499996}
+        - {x: -39, y: 51.499996}
+        - {x: -26, y: 51.499996}
+        - {x: -8, y: 41.5}
+        - {x: 41, y: 25.499998}
+        - {x: 41, y: 10.499999}
+        - {x: 34, y: -1.5}
+        - {x: 34, y: -50.499996}
+        - {x: 21, y: -51.5}
+        - {x: -38, y: -19.5}
+        - {x: -41, y: -15.5}
+        - {x: -41, y: -9.5}
+        - {x: -36, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0009
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 138
+        width: 84
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -19.5}
+        - {x: -42, y: 52.499996}
+        - {x: -28, y: 52.499996}
+        - {x: 42, y: 25.5}
+        - {x: 32, y: -47.5}
+        - {x: 26.999998, y: -52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0009
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 206
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0043
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 389
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0020
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0075
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 321
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0026
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0015
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 461
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0033
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 29
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0028
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 5
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0004
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 328
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0020
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 188
+        width: 82.92388
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5125182, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.46194, y: -14.5}
+        - {x: -41.46194, y: 52.499996}
+        - {x: -27.46194, y: 52.499996}
+        - {x: 4.538059, y: 36.499996}
+        - {x: 42.53806, y: 26.499998}
+        - {x: 32.53806, y: -47.5}
+        - {x: 27.538057, y: -52.499996}
+        - {x: -37.46194, y: -20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_rail1
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 163
+        width: 113
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 12.5}
+        - {x: 47.5, y: 97.5}
+        - {x: 56.5, y: 97.5}
+        - {x: 56.5, y: -8.5}
+        - {x: 40.5, y: -22.5}
+        - {x: 12.5, y: -75.5}
+        - {x: 10.5, y: -97.5}
+        - {x: -24.499998, y: -97.5}
+        - {x: -34.5, y: -84.5}
+        - {x: -47.5, y: -97.5}
+        - {x: -56.5, y: -97.5}
+        - {x: -56.5, y: -71.5}
+        - {x: -6.5, y: -67.5}
+        - {x: 12.5, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0032
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 5
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0014
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 331
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -16}
+        - {x: -42, y: 51.999996}
+        - {x: -27, y: 51.999996}
+        - {x: 42, y: 25.999998}
+        - {x: 33, y: -24}
+        - {x: 32, y: -49.999996}
+        - {x: 18, y: -52}
+        - {x: -39, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_platform
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 399
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: 130}
+        - {x: -88.5, y: 204}
+        - {x: 22.5, y: 204}
+        - {x: 199.5, y: 26.999998}
+        - {x: 199.5, y: 12}
+        - {x: 119.49999, y: 8}
+        - {x: 106.49999, y: -31}
+        - {x: 85.49999, y: -68}
+        - {x: 85.49999, y: -204}
+        - {x: -50.5, y: -204}
+        - {x: -51.5, y: -105.99999}
+        - {x: -80.5, y: -87}
+        - {x: -199.5, y: -87}
+        - {x: -199.5, y: 33}
+        - {x: -138.5, y: 35}
+        - {x: -123.5, y: 79.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0059
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 33
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0002
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 33
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0056
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 196
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0049
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 13
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0006
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 382
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0010
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 139
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0034
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 206
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0040
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 13
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0058
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 74
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_hall
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 145
+        width: 159
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 91.99999}
+        - {x: 79.49999, y: 91.99999}
+        - {x: 79.49999, y: 13}
+        - {x: 74.5, y: 11}
+        - {x: 74.5, y: -91.99999}
+        - {x: 54.5, y: -91.99999}
+        - {x: 52.499996, y: -89}
+        - {x: -79.49999, y: -89}
+        - {x: -79.49999, y: 90}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0004
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 175
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0002
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 211
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0048
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 13
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_pipeL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 106
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.999996, y: 157}
+        - {x: -1, y: 157}
+        - {x: 4.9999995, y: 97.99999}
+        - {x: 52.999996, y: 66}
+        - {x: 52.999996, y: 52}
+        - {x: 26, y: 1}
+        - {x: -8, y: 22.999998}
+        - {x: -8, y: -157}
+        - {x: -14.999999, y: -157}
+        - {x: -45, y: -130}
+        - {x: -52.999996, y: -116.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0019
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 43
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0019
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 116.02675
+        width: 84
+        height: 102.97325
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49015886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 48.48662}
+        - {x: -40, y: 51.48662}
+        - {x: -27, y: 51.48662}
+        - {x: 42, y: 24.486626}
+        - {x: 32, y: -48.513374}
+        - {x: 26.999998, y: -53.51337}
+        - {x: -38, y: -21.513374}
+        - {x: -42, y: -15.513374}
+        - {x: -42, y: -9.513374}
+        - {x: -37, y: -4.5133743}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0006
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 50
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48.499996}
+        - {x: -39, y: 51.499996}
+        - {x: -26, y: 51.499996}
+        - {x: -8, y: 41.5}
+        - {x: 41, y: 25.499998}
+        - {x: 41, y: 10.499999}
+        - {x: 34, y: -1.5}
+        - {x: 34, y: -50.499996}
+        - {x: 21, y: -51.5}
+        - {x: -38, y: -19.5}
+        - {x: -41, y: -15.5}
+        - {x: -41, y: -9.5}
+        - {x: -36, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0023
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 443
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0055
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weap_floor
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 148
+        width: 424
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -187, y: 40.5}
+        - {x: -186, y: 203.49998}
+        - {x: 24, y: 203.49998}
+        - {x: 63, y: 172.49998}
+        - {x: 94, y: 138.5}
+        - {x: 177, y: 54.5}
+        - {x: 211.99998, y: 31.5}
+        - {x: 211.99998, y: -20.5}
+        - {x: 208.99998, y: -23.5}
+        - {x: 208.99998, y: -181.5}
+        - {x: 94, y: -183.49998}
+        - {x: 91.99999, y: -203.49998}
+        - {x: -39, y: -203.49998}
+        - {x: -61, y: -181.5}
+        - {x: -102, y: -180.5}
+        - {x: -183, y: -99.5}
+        - {x: -187, y: -78.5}
+        - {x: -211.99998, y: -78.5}
+        - {x: -211.99998, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0004
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 45
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48.499996}
+        - {x: -39, y: 51.499996}
+        - {x: -26, y: 51.499996}
+        - {x: -8, y: 41.5}
+        - {x: 41, y: 25.499998}
+        - {x: 41, y: 10.499999}
+        - {x: 34, y: -1.5}
+        - {x: 34, y: -50.499996}
+        - {x: 21, y: -51.5}
+        - {x: -38, y: -19.5}
+        - {x: -41, y: -15.5}
+        - {x: -41, y: -9.5}
+        - {x: -36, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_weap
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 80
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 27}
+        - {x: 6, y: 40.999996}
+        - {x: 39.999996, y: 40.999996}
+        - {x: 39.999996, y: -21.999998}
+        - {x: 1, y: -41}
+        - {x: -9, y: -41}
+        - {x: -31, y: -28.999998}
+        - {x: -39.999996, y: 8}
+        - {x: -39.999996, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0003
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 269
+        width: 84
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -15.5}
+        - {x: -42, y: 51.499996}
+        - {x: -28, y: 51.499996}
+        - {x: -6, y: 38.5}
+        - {x: 42, y: 25.499998}
+        - {x: 33, y: -26.5}
+        - {x: 33, y: -50.499996}
+        - {x: 20, y: -51.5}
+        - {x: -39, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0017
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0005
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 267
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowdot-glowdot0013
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 128
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullettop-capglo0026
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 6
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: 29.499998}
+        - {x: 19.5, y: 29.499998}
+        - {x: 27.5, y: 6.5}
+        - {x: 27.5, y: -29.499998}
+        - {x: -27.5, y: -29.499998}
+        - {x: -27.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0013
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 193.02675
+        width: 82.92388
+        height: 102.97325
+      alignment: 9
+      pivot: {x: 0.5125182, y: 0.49015886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.46194, y: -16.513374}
+        - {x: -41.46194, y: 51.48662}
+        - {x: -26.46194, y: 51.48662}
+        - {x: 42.53806, y: 25.486624}
+        - {x: 33.53806, y: -24.513374}
+        - {x: 32.53806, y: -50.51337}
+        - {x: 18.53806, y: -52.513374}
+        - {x: -38.46194, y: -19.513374}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainframe-weaponmainframe0017
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 330
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -16}
+        - {x: -42, y: 51.999996}
+        - {x: -27, y: 51.999996}
+        - {x: 42, y: 25.999998}
+        - {x: 33, y: -24}
+        - {x: 32, y: -49.999996}
+        - {x: 18, y: -52}
+        - {x: -39, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mainframe-weaponmainframe0005: 21300180
+      bullettop-capglo0069: 21300020
+      glowdot-glowdot0026: 21300192
+      bullettop-capglo0012: 21300128
+      bullettop-capglo0072: 21300008
+      bullettop-capglo0065: 21300084
+      glowdot-glowdot0016: 21300016
+      weap_rail3: 21300026
+      bullettop-capglo0037: 21300048
+      glowdot-glowdot0001: 21300018
+      glowdot-glowdot0009: 21300132
+      bullettop-capglo0053: 21300052
+      Mainframe-weaponmainframe0003: 21300256
+      glowdot-glowdot0007: 21300144
+      bullettop-capglo0068: 21300148
+      bullettop-capglo0057: 21300030
+      glowdot-glowdot0021: 21300044
+      Mainframe-weaponmainframe0014: 21300208
+      bullettop-capglo0062: 21300072
+      bullettop-capglo0055: 21300248
+      weap_rail1: 21300204
+      bullettop-capglo0031: 21300010
+      glowdot-glowdot0005: 21300090
+      bullettop-capglo0025: 21300118
+      Mainframe-weaponmainframe0022: 21300032
+      bullettop-capglo0042: 21300166
+      bullettop-capglo0034: 21300224
+      bullettop-capglo0006: 21300220
+      bullettop-capglo0056: 21300216
+      bullettop-capglo0001: 21300162
+      bullettop-capglo0073: 21300058
+      weap_wall: 21300038
+      bullettop-capglo0043: 21300186
+      weap_pipeR: 21300070
+      bullettop-capglo0032: 21300206
+      Mainframe-weaponmainframe0004: 21300252
+      bullettop-capglo0071: 21300062
+      bullettop-capglo0054: 21300002
+      bullettop-capglo0070: 21300122
+      bullettop-capglo0007: 21300138
+      bullettop-capglo0051: 21300096
+      bullettop-capglo0018: 21300078
+      weap_hall: 21300230
+      glowdot-glowdot0012: 21300086
+      glowdot-glowdot0015: 21300194
+      glowdot-glowdot0008: 21300080
+      bullettop-capglo0061: 21300066
+      Mainframe-weaponmainframe0002: 21300046
+      Mainframe-weaponmainframe0012: 21300156
+      bullettop-capglo0059: 21300212
+      bullettop-capglo0060: 21300098
+      bullettop-capglo0063: 21300136
+      panel_weap: 21300254
+      bullettop-capglo0027: 21300164
+      bullettop-capglo0066: 21300054
+      bullettop-capglo0021: 21300004
+      bullettop-capglo0010: 21300074
+      bullettop-capglo0076: 21300056
+      bullettop-capglo0035: 21300100
+      glowdot-glowdot0011: 21300094
+      Mainframe-weaponmainframe0015: 21300170
+      bullettop-capglo0019: 21300240
+      bullettop-capglo0024: 21300110
+      Mainframe-weaponmainframe0019: 21300242
+      bullettop-capglo0052: 21300012
+      Mainframe-weaponmainframe0008: 21300014
+      weap_platform: 21300210
+      bullettop-capglo0004: 21300200
+      glowdot-glowdot0014: 21300146
+      glowdot-glowdot0002: 21300234
+      Mainframe-weaponmainframe0009: 21300182
+      bullettop-capglo0039: 21300112
+      bullettop-capglo0015: 21300022
+      Mainframe-weaponmainframe0020: 21300202
+      bullettop-capglo0046: 21300040
+      weap_floor: 21300250
+      bullettop-capglo0047: 21300142
+      glowdot-glowdot0023: 21300082
+      bullettop-capglo0008: 21300034
+      bullettop-capglo0041: 21300116
+      glowdot-glowdot0013: 21300262
+      Mainframe-weaponmainframe0016: 21300150
+      Mainframe-weaponmainframe0011: 21300176
+      glowdot-glowdot0017: 21300258
+      Mainframe-weaponmainframe0001: 21300042
+      weap_rail2: 21300154
+      glowdot-glowdot0018: 21300160
+      bullettop-capglo0050: 21300130
+      bullettop-capglo0023: 21300246
+      bullettop-capglo0005: 21300260
+      bullettop-capglo0049: 21300218
+      bullettop-capglo0044: 21300152
+      bullettop-capglo0067: 21300168
+      weap_walltop: 21300076
+      bullettop-capglo0020: 21300106
+      bullettop-capglo0013: 21300050
+      Mainframe-weaponmainframe0007: 21300120
+      bullettop-capglo0064: 21300088
+      glowdot-glowdot0019: 21300124
+      glowdot-glowdot0025: 21300024
+      bullettop-capglo0045: 21300060
+      glowdot-glowdot0020: 21300188
+      bullettop-capglo0036: 21300006
+      Mainframe-weaponmainframe0017: 21300268
+      Mainframe-weaponmainframe0021: 21300102
+      bullettop-capglo0048: 21300236
+      bullettop-capglo0030: 21300126
+      bullettop-capglo0040: 21300226
+      Mainframe-weaponmainframe0018: 21300174
+      bullettop-capglo0011: 21300172
+      bullettop-capglo0014: 21300000
+      bullettop-capglo0058: 21300228
+      glowdot-glowdot0004: 21300232
+      bullettop-capglo0016: 21300158
+      bullettop-capglo0033: 21300196
+      Mainframe-weaponmainframe0013: 21300266
+      bullettop-capglo0022: 21300064
+      bullettop-capglo0009: 21300184
+      glowdot-glowdot0003: 21300140
+      Mainframe-weaponmainframe0010: 21300068
+      bullettop-capglo0028: 21300198
+      bullettop-capglo0017: 21300134
+      Mainframe-weaponmainframe0006: 21300244
+      glowdot-glowdot0024: 21300114
+      bullettop-capglo0075: 21300190
+      bullettop-capglo0003: 21300104
+      glowdot-glowdot0022: 21300028
+      glowdot-glowdot0006: 21300178
+      bullettop-capglo0026: 21300264
+      bullettop-capglo0074: 21300092
+      glowdot-glowdot0010: 21300222
+      weap_pipeL: 21300238
+      bullettop-capglo0029: 21300108
+      bullettop-capglo0002: 21300214
+      bullettop-capglo0038: 21300036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

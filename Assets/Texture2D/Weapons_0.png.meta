@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: e735503f8adac144c9c1005d5ef74734
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: weapons_asteroid2
+  - first:
+      213: 21300002
+    second: weapons_base
+  - first:
+      213: 21300004
+    second: weapons_asteroid4X
+  - first:
+      213: 21300006
+    second: weapons_asteroid3X
+  - first:
+      213: 21300008
+    second: weapons_asteroid5
+  - first:
+      213: 21300010
+    second: weapons_explosion
+  - first:
+      213: 21300012
+    second: weapons_asteroid5X
+  - first:
+      213: 21300014
+    second: weapons_asteroid2X
+  - first:
+      213: 21300016
+    second: weapons_asteroid1
+  - first:
+      213: 21300018
+    second: weapons_asteroid4
+  - first:
+      213: 21300020
+    second: weapons_target
+  - first:
+      213: 21300022
+    second: weapons_asteroid3
+  - first:
+      213: 21300024
+    second: weapons_asteroid1X
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapons_asteroid2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 101
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 42.999996}
+        - {x: 46.5, y: 42.999996}
+        - {x: 50.5, y: 34}
+        - {x: 50.5, y: 0}
+        - {x: 34.5, y: -42.999996}
+        - {x: -15.5, y: -42.999996}
+        - {x: -50.5, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 506
+        height: 506
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -232, y: 226}
+        - {x: -234.99998, y: 229}
+        - {x: -230, y: 234.99998}
+        - {x: -225, y: 232}
+        - {x: 233, y: 232}
+        - {x: 233, y: -233}
+        - {x: -224, y: -233}
+        - {x: -212.99998, y: -253}
+        - {x: -253, y: -253}
+        - {x: -253, y: -212.99998}
+        - {x: -232, y: -222}
+      - - {x: 246, y: -238.99998}
+        - {x: 246, y: -220}
+        - {x: 253, y: -220}
+        - {x: 253, y: -253}
+        - {x: 174, y: -253}
+      - - {x: 220, y: 253}
+        - {x: 253, y: 253}
+        - {x: 253, y: 164}
+        - {x: 238.99998, y: 244}
+        - {x: 220, y: 246}
+      - - {x: -244, y: 240.99998}
+        - {x: -246, y: 220}
+        - {x: -253, y: 220}
+        - {x: -253, y: 253}
+        - {x: -174, y: 253}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid4X
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 302
+        width: 206
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 78.5}
+        - {x: -68, y: 86.5}
+        - {x: -58.999996, y: 86.5}
+        - {x: -21, y: 69.5}
+        - {x: -17, y: 52.499996}
+        - {x: 94, y: 1.5}
+        - {x: 94, y: -12.5}
+        - {x: 66, y: -31.5}
+        - {x: 103, y: -34.5}
+        - {x: 103, y: -58.499996}
+        - {x: 14.999999, y: -58.499996}
+        - {x: -41, y: -86.5}
+        - {x: -87, y: -86.5}
+        - {x: -103, y: -47.5}
+        - {x: -103, y: -24.499998}
+        - {x: -72, y: -4.5}
+        - {x: -98.99999, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid3X
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 265
+        width: 148
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 76}
+        - {x: 22.999998, y: 76}
+        - {x: 13, y: 42}
+        - {x: 48, y: 70}
+        - {x: 74, y: 50}
+        - {x: 74, y: 24}
+        - {x: 61, y: -59.999996}
+        - {x: -13, y: -76}
+        - {x: -36, y: -76}
+        - {x: -53.999996, y: -62}
+        - {x: -72.99999, y: -22}
+        - {x: -74, y: 45.999996}
+        - {x: -18, y: 75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 45
+        width: 156
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 38}
+        - {x: 52.999996, y: 38}
+        - {x: 78, y: 22}
+        - {x: 78, y: -4}
+        - {x: 39.999996, y: -38}
+        - {x: -78, y: -38}
+        - {x: -78, y: 16}
+        - {x: -69, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_explosion
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 125
+        width: 147
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.499998, y: 33.499996}
+        - {x: -8.5, y: 72.5}
+        - {x: 2.4999998, y: 72.5}
+        - {x: 42.5, y: 26.499998}
+        - {x: 73.49999, y: 58.499996}
+        - {x: 73.49999, y: 37.5}
+        - {x: 50.5, y: 1.5}
+        - {x: 50.5, y: -72.5}
+        - {x: 13.499999, y: -54.5}
+        - {x: 10.5, y: -72.5}
+        - {x: 5.5, y: -72.5}
+        - {x: -27.5, y: -54.5}
+        - {x: -69.5, y: -71.5}
+        - {x: -70.5, y: -44.5}
+        - {x: -52.499996, y: -27.5}
+        - {x: -73.49999, y: 15.5}
+        - {x: -73.49999, y: 25.5}
+        - {x: -60.499996, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid5X
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 373
+        width: 232
+        height: 121.968025
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5042305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116, y: 38.015987}
+        - {x: -93, y: 61.015984}
+        - {x: 65, y: 59.015984}
+        - {x: 116, y: 46.015987}
+        - {x: 116, y: -16.984013}
+        - {x: 31, y: -60.984013}
+        - {x: -24, y: -60.984013}
+        - {x: -110, y: -28.98401}
+        - {x: -78, y: 25.015985}
+        - {x: -116, y: -5.9840126}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid2X
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 158
+        height: 140.95709
+      alignment: 9
+      pivot: {x: 0.5031645, y: 0.50015223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 69.52146}
+        - {x: 2, y: 70.52146}
+        - {x: 79, y: 56.52146}
+        - {x: 79, y: 4.5214615}
+        - {x: 56, y: -54.47854}
+        - {x: 14.999999, y: -70.47854}
+        - {x: -20, y: -70.47854}
+        - {x: -48, y: -22.478539}
+        - {x: -76, y: -6.4785385}
+        - {x: -79, y: 8.5214615}
+        - {x: -79, y: 28.521461}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 119
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 42.5}
+        - {x: 59.499996, y: 42.5}
+        - {x: 59.499996, y: -42.5}
+        - {x: -23.5, y: -42.5}
+        - {x: -57.5, y: -26.499998}
+        - {x: -59.499996, y: -20.5}
+        - {x: -59.499996, y: -1.5}
+        - {x: -20.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 91
+        width: 165
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 52.999996}
+        - {x: -4.5, y: 52.999996}
+        - {x: 82.5, y: 1}
+        - {x: 82.5, y: -16}
+        - {x: -23.5, y: -52.999996}
+        - {x: -55.5, y: -52.999996}
+        - {x: -82.5, y: -26}
+        - {x: -82.5, y: 4}
+        - {x: -79.49999, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_target
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 199
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 96
+        width: 94
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -20.5}
+        - {x: -47, y: 50.5}
+        - {x: 47, y: 50.5}
+        - {x: 47, y: -33.499996}
+        - {x: 0, y: -50.5}
+        - {x: -32, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons_asteroid1X
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 226
+        width: 158
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 23.5}
+        - {x: -37, y: 72.5}
+        - {x: 33, y: 72.5}
+        - {x: 79, y: 49.499996}
+        - {x: 79, y: -39.5}
+        - {x: 36, y: -70.5}
+        - {x: 6, y: -72.5}
+        - {x: -9.999999, y: -72.5}
+        - {x: -62, y: -47.5}
+        - {x: -79, y: -21.499998}
+        - {x: -79, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      weapons_asteroid2: 21300000
+      weapons_asteroid2X: 21300014
+      weapons_asteroid1X: 21300024
+      weapons_asteroid3: 21300022
+      weapons_asteroid3X: 21300006
+      weapons_asteroid4: 21300018
+      weapons_explosion: 21300010
+      weapons_asteroid4X: 21300004
+      weapons_target: 21300020
+      weapons_base: 21300002
+      weapons_asteroid5: 21300008
+      weapons_asteroid1: 21300016
+      weapons_asteroid5X: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

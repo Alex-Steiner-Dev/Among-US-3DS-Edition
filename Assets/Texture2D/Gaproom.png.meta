@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 032316f7f8e246341a7cc870ef040c30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_lifesupSab
+  - first:
+      213: 21300002
+    second: gap_railing2
+  - first:
+      213: 21300004
+    second: gap_railing1
+  - first:
+      213: 21300006
+    second: exhaustporthing
+  - first:
+      213: 21300008
+    second: platform_fan0001
+  - first:
+      213: 21300010
+    second: ladder_gap
+  - first:
+      213: 21300012
+    second: gap_main
+  - first:
+      213: 21300014
+    second: platform_bottom
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_lifesupSab
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 230
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499999, y: -14}
+        - {x: -13.499999, y: 14}
+        - {x: 13.499999, y: 14}
+        - {x: 13.499999, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gap_railing2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 917
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -458.5, y: -36.499996}
+        - {x: -346.5, y: -32.5}
+        - {x: -373.5, y: -92.49999}
+        - {x: -443.5, y: -92.49999}
+        - {x: -458.5, y: -57.5}
+      - - {x: 255.49998, y: 92.49999}
+        - {x: 287.5, y: 92.49999}
+        - {x: 299.5, y: -8.5}
+        - {x: 441.5, y: -8.5}
+        - {x: 458.5, y: 0.5}
+        - {x: 458.5, y: -63.5}
+        - {x: 332.49997, y: -67.5}
+        - {x: 311.5, y: -51.5}
+        - {x: 267.5, y: -72.5}
+        - {x: 263.5, y: 60.499996}
+        - {x: 225.49998, y: 5.5}
+        - {x: 201.49998, y: 47.5}
+        - {x: 174.5, y: -21.499998}
+        - {x: 146.49998, y: 44.5}
+        - {x: 135.5, y: 39.5}
+        - {x: 134.5, y: -45.5}
+        - {x: 124.5, y: -92.49999}
+        - {x: -258.5, y: -92.49999}
+        - {x: -280.49997, y: -39.5}
+        - {x: -260.5, y: -33.499996}
+        - {x: -253.49998, y: -38.5}
+        - {x: 102.5, y: -38.5}
+        - {x: 114.5, y: 63.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gap_railing1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 28
+        width: 405
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202.49998, y: -120.99999}
+        - {x: -202.49998, y: -70}
+        - {x: -187.5, y: -77}
+        - {x: -4.5, y: -76}
+        - {x: 34.5, y: -24}
+        - {x: 34.5, y: 135}
+        - {x: 202.49998, y: 135}
+        - {x: 202.49998, y: 116.99999}
+        - {x: 191.5, y: 77}
+        - {x: 84.5, y: 76}
+        - {x: 55.5, y: 91.99999}
+        - {x: 55.5, y: -88}
+        - {x: 8.5, y: -135}
+        - {x: -114.5, y: -135}
+        - {x: -146.49998, y: -120.99999}
+        - {x: -146.49998, y: -135}
+        - {x: -188.5, y: -135}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exhaustporthing
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 128
+        width: 134
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 53.499996}
+        - {x: 45.999996, y: 53.499996}
+        - {x: 66.99999, y: 32.5}
+        - {x: 66.99999, y: -25.5}
+        - {x: 22.999998, y: -53.499996}
+        - {x: -66.99999, y: -53.499996}
+        - {x: -66.99999, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_fan0001
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1402
+        width: 100
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+        - {x: -50, y: 13}
+        - {x: -47, y: 14.999999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder_gap
+      rect:
+        serializedVersion: 2
+        x: 1102.0762
+        y: 5.026751
+        width: 68.84776
+        height: 291.94647
+      alignment: 9
+      pivot: {x: 0.50726163, y: 0.5017127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.500053, y: 147}
+        - {x: -15.500053, y: 147}
+        - {x: -11.500053, y: 63.000015}
+        - {x: 15.499946, y: 67.000015}
+        - {x: 15.499946, y: 147}
+        - {x: 35.499947, y: 147}
+        - {x: 35.499947, y: -146.99998}
+        - {x: -35.500053, y: -146.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gap_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 302
+        width: 1988
+        height: 1175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -838.99994, y: 587.5}
+        - {x: -813, y: 587.5}
+        - {x: -805.99994, y: 544.5}
+        - {x: -766, y: 519.5}
+        - {x: -647, y: 519.5}
+        - {x: -633.99994, y: 554.5}
+        - {x: -635, y: 583.5}
+        - {x: -558.99994, y: 573.49994}
+        - {x: -547, y: 506.5}
+        - {x: -492.99997, y: 527.5}
+        - {x: 846, y: 528.5}
+        - {x: 976.99994, y: 498.49997}
+        - {x: 980, y: 137.5}
+        - {x: 976.99994, y: -78.5}
+        - {x: 993.99994, y: -83.5}
+        - {x: 993.99994, y: -94.5}
+        - {x: 976.99994, y: -101.5}
+        - {x: 976.99994, y: -587.5}
+        - {x: -850, y: -587.5}
+        - {x: -862, y: -578.5}
+        - {x: -993.99994, y: -573.49994}
+        - {x: -993.99994, y: -342.5}
+        - {x: -987, y: -248.49998}
+        - {x: -993.99994, y: -176.5}
+        - {x: -993.99994, y: -166.5}
+        - {x: -982, y: -160.5}
+        - {x: -985.99994, y: 42.5}
+        - {x: -993.99994, y: 44.5}
+        - {x: -993.99994, y: 54.5}
+        - {x: -989.99994, y: 80.5}
+        - {x: -992.99994, y: 310.5}
+        - {x: -992.99994, y: 501.5}
+        - {x: -876, y: 508.5}
+        - {x: -875, y: 570.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_bottom
+      rect:
+        serializedVersion: 2
+        x: 1177.0267
+        y: 151.05132
+        width: 169.9465
+        height: 145.87256
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.4966574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.99997, y: -73.98759}
+        - {x: -85.99997, y: 74.012405}
+        - {x: 86.000015, y: 74.012405}
+        - {x: 86.000015, y: -73.98759}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ladder_gap: 21300010
+      gap_railing1: 21300004
+      panel_lifesupSab: 21300000
+      platform_fan0001: 21300008
+      platform_bottom: 21300014
+      gap_main: 21300012
+      exhaustporthing: 21300006
+      gap_railing2: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

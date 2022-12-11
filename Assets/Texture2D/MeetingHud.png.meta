@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 5c3aff16fce93d74787f7886b70290a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_BloodSplat
+  - first:
+      213: 21300002
+    second: UI_Phone_Button
+  - first:
+      213: 21300004
+    second: UI_Icon_Battery
+  - first:
+      213: 21300006
+    second: UI_Button_Yes
+  - first:
+      213: 21300008
+    second: baseGlass
+  - first:
+      213: 21300010
+    second: UI_NewChatPip
+  - first:
+      213: 21300012
+    second: UI_Phone_Body
+  - first:
+      213: 21300014
+    second: UI_Button_No
+  - first:
+      213: 21300016
+    second: baseGlassGhost
+  - first:
+      213: 21300018
+    second: UI_Icon_Wifi
+  - first:
+      213: 21300020
+    second: beforeVoting_deadBody
+  - first:
+      213: 21300022
+    second: beforVoting_deadBodyBubble
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_BloodSplat
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 200
+        width: 336
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 96}
+        - {x: -168, y: 105.99999}
+        - {x: -144, y: 105.99999}
+        - {x: -45, y: 78}
+        - {x: -25, y: 84}
+        - {x: -8, y: 66.99999}
+        - {x: 71, y: 26.999998}
+        - {x: 88, y: 39.999996}
+        - {x: 126, y: 39.999996}
+        - {x: 168, y: -34}
+        - {x: 168, y: -62}
+        - {x: 145, y: -95}
+        - {x: 97.99999, y: -105.99999}
+        - {x: 52.999996, y: -105.99999}
+        - {x: 51, y: -72}
+        - {x: -32, y: -36}
+        - {x: -39.999996, y: -48}
+        - {x: -76, y: -24}
+        - {x: -104, y: -22.999998}
+        - {x: -63, y: -7}
+        - {x: -126, y: 31}
+        - {x: -165, y: 66.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Phone_Button
+      rect:
+        serializedVersion: 2
+        x: 634.0761
+        y: 483
+        width: 93.92388
+        height: 235.98709
+      alignment: 9
+      pivot: {x: 0.49959487, y: 0.50002736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.03805, y: 110.006454}
+        - {x: -0.038051605, y: 118.00645}
+        - {x: 30.961948, y: 113.006454}
+        - {x: 46.96195, y: 85.006454}
+        - {x: 46.96195, y: -117.99354}
+        - {x: -30.03805, y: -117.99354}
+        - {x: -46.038048, y: -82.993546}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icon_Battery
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 238
+        width: 83
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -25.5}
+        - {x: -41.5, y: 25.5}
+        - {x: 41.5, y: 25.5}
+        - {x: 41.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Button_Yes
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 568
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.999996, y: -39.999996}
+        - {x: -39.999996, y: 39.999996}
+        - {x: 39.999996, y: 39.999996}
+        - {x: 39.999996, y: -39.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseGlass
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 231
+        width: 733
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 183, y: 127, z: 183, w: 127}
+      outline:
+      - - {x: 366.5, y: -254}
+        - {x: -366.5, y: -254}
+        - {x: -366.5, y: 254}
+        - {x: 366.5, y: 254}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_NewChatPip
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 672
+        width: 62
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -29.499998}
+        - {x: -31, y: 29.499998}
+        - {x: 31, y: 29.499998}
+        - {x: 31, y: -29.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Phone_Body
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 416.0761
+        width: 325
+        height: 321.84778
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49844646}
+      border: {x: 144, y: 141.92389, z: 144, w: 142.92389}
+      outline:
+      - - {x: 162.5, y: -163}
+        - {x: -162.5, y: -163}
+        - {x: -162.5, y: 162}
+        - {x: 162.5, y: 162}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Button_No
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 653
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.999996, y: -39.999996}
+        - {x: -39.999996, y: 39.999996}
+        - {x: 39.999996, y: 39.999996}
+        - {x: 39.999996, y: -39.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseGlassGhost
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 737
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 368.5, y: -256}
+        - {x: -368.5, y: -256}
+        - {x: -368.5, y: 256}
+        - {x: 368.5, y: 256}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icon_Wifi
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 585
+        width: 53
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.499998, y: 1.9999995}
+        - {x: 26.499998, y: 30.999996}
+        - {x: 26.499998, y: -31}
+        - {x: -26.499998, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beforeVoting_deadBody
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 389
+        width: 212
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 56}
+        - {x: 105.99999, y: 56}
+        - {x: 105.99999, y: -9.999999}
+        - {x: 66.99999, y: -56}
+        - {x: -33, y: -56}
+        - {x: -105.99999, y: -41}
+        - {x: -105.99999, y: -6}
+        - {x: -102, y: 2}
+        - {x: -61, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beforVoting_deadBodyBubble
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 253
+        width: 114
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 56}
+        - {x: 35, y: 56}
+        - {x: 57, y: 34}
+        - {x: 57, y: -19}
+        - {x: -9.999999, y: -56}
+        - {x: -16, y: -56}
+        - {x: -52, y: -16}
+        - {x: -57, y: -4}
+        - {x: -57, y: 29.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_BloodSplat: 21300000
+      UI_Icon_Battery: 21300004
+      beforVoting_deadBodyBubble: 21300022
+      UI_Icon_Wifi: 21300018
+      UI_Phone_Body: 21300012
+      UI_Button_No: 21300014
+      UI_Button_Yes: 21300006
+      beforeVoting_deadBody: 21300020
+      baseGlassGhost: 21300016
+      UI_NewChatPip: 21300010
+      baseGlass: 21300008
+      UI_Phone_Button: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

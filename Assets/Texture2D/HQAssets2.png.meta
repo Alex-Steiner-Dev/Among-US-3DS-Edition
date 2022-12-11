@@ -1,0 +1,1823 @@
+fileFormatVersion: 2
+guid: 0ee0288a216a2c34eb6806c2c3cb7c7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: vertical-door
+  - first:
+      213: 21300002
+    second: admind_chartCourse
+  - first:
+      213: 21300004
+    second: launchPadNearShip
+  - first:
+      213: 21300006
+    second: storage-boxes1
+  - first:
+      213: 21300008
+    second: storage-box2
+  - first:
+      213: 21300010
+    second: emergencyButton_Text
+  - first:
+      213: 21300012
+    second: decon-button
+  - first:
+      213: 21300014
+    second: lab-bottom
+  - first:
+      213: 21300016
+    second: decon-1
+  - first:
+      213: 21300018
+    second: reactor_Sabotage
+  - first:
+      213: 21300020
+    second: storage-mop
+  - first:
+      213: 21300022
+    second: lab-cent
+  - first:
+      213: 21300024
+    second: weatherPanel
+  - first:
+      213: 21300026
+    second: reactor-console-elec
+  - first:
+      213: 21300028
+    second: decon-2
+  - first:
+      213: 21300030
+    second: reactor-task-power
+  - first:
+      213: 21300032
+    second: launch-front
+  - first:
+      213: 21300034
+    second: reactor-panel-init
+  - first:
+      213: 21300036
+    second: task_enginerefuel
+  - first:
+      213: 21300038
+    second: caf_table
+  - first:
+      213: 21300040
+    second: divertElevStand
+  - first:
+      213: 21300042
+    second: balcony_WeaponsPanel
+  - first:
+      213: 21300044
+    second: reactor_BorderShadowless
+  - first:
+      213: 21300046
+    second: reactorGlass
+  - first:
+      213: 21300048
+    second: cafe-vending2
+  - first:
+      213: 21300050
+    second: decontamLabReactorWalls
+  - first:
+      213: 21300052
+    second: balconyDoor
+  - first:
+      213: 21300054
+    second: cafe-vending1
+  - first:
+      213: 21300056
+    second: lab_SortSamples
+  - first:
+      213: 21300058
+    second: reactorWallHang
+  - first:
+      213: 21300060
+    second: reactor_Border
+  - first:
+      213: 21300062
+    second: garbagePanel
+  - first:
+      213: 21300064
+    second: reactorArmLeft
+  - first:
+      213: 21300066
+    second: balcony_WeaponsDish
+  - first:
+      213: 21300068
+    second: emergencyButton_mira
+  - first:
+      213: 21300070
+    second: decon-0
+  - first:
+      213: 21300072
+    second: divertElecReceive
+  - first:
+      213: 21300074
+    second: decon-3
+  - first:
+      213: 21300076
+    second: reactorArmRight
+  - first:
+      213: 21300078
+    second: reactorArmMiddle
+  - first:
+      213: 21300080
+    second: balcony_WeaponsBase
+  - first:
+      213: 21300082
+    second: storage-backwall
+  - first:
+      213: 21300084
+    second: reactor-console-lower
+  - first:
+      213: 21300086
+    second: task_shipCalibrate
+  - first:
+      213: 21300088
+    second: storage-shelves1
+  - first:
+      213: 21300090
+    second: reactor-center
+  - first:
+      213: 21300092
+    second: balcony_Weather
+  - first:
+      213: 21300094
+    second: reactor-task-start
+  - first:
+      213: 21300096
+    second: launch-calibrate
+  - first:
+      213: 21300098
+    second: lab-right
+  - first:
+      213: 21300100
+    second: cafe-vending3
+  - first:
+      213: 21300102
+    second: reactor-console-upper
+  - first:
+      213: 21300104
+    second: launch-gas
+  - first:
+      213: 21300106
+    second: storage_WaterCan
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vertical-door
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 493
+        width: 227
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 58}
+        - {x: 59.499996, y: 58}
+        - {x: 113.5, y: 36}
+        - {x: 113.5, y: -58}
+        - {x: -113.5, y: -58}
+        - {x: -113.5, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admind_chartCourse
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 780
+        width: 42
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -12.5}
+        - {x: -21, y: 12.5}
+        - {x: 21, y: 12.5}
+        - {x: 21, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: launchPadNearShip
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 375
+        width: 185
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 103.5}
+        - {x: -14.5, y: 103.5}
+        - {x: 92.49999, y: 11.499999}
+        - {x: 92.49999, y: -103.5}
+        - {x: -61.5, y: -103.5}
+        - {x: -92.49999, y: -15.5}
+        - {x: -92.49999, y: 78.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage-boxes1
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 80
+        width: 63
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -49.499996}
+        - {x: -31.5, y: 49.499996}
+        - {x: 31.5, y: 49.499996}
+        - {x: 31.5, y: -49.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage-box2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 65
+        width: 88
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 57}
+        - {x: 44, y: 57}
+        - {x: 44, y: -26.999998}
+        - {x: 8, y: -57}
+        - {x: -44, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emergencyButton_Text
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 125
+        width: 44
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -29}
+        - {x: -22, y: -19}
+        - {x: 22, y: -19}
+        - {x: 22, y: -29}
+      - - {x: -22, y: 19}
+        - {x: -22, y: 29}
+        - {x: 22, y: 29}
+        - {x: 22, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decon-button
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 190
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 21.499998}
+        - {x: 15.5, y: 21.499998}
+        - {x: 15.5, y: -21.499998}
+        - {x: -11.5, y: -21.499998}
+        - {x: -15.5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab-bottom
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 613
+        width: 373
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.5, y: -11.499999}
+        - {x: -186.5, y: 11.499999}
+        - {x: -51.5, y: 11.499999}
+        - {x: -51.5, y: -11.499999}
+      - - {x: -35.5, y: -11.499999}
+        - {x: -35.5, y: 11.499999}
+        - {x: 47.5, y: 11.499999}
+        - {x: 47.5, y: -11.499999}
+      - - {x: 62.5, y: -11.499999}
+        - {x: 62.5, y: 11.499999}
+        - {x: 186.5, y: 11.499999}
+        - {x: 186.5, y: -11.499999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decon-1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -26}
+        - {x: -26, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_Sabotage
+      rect:
+        serializedVersion: 2
+        x: 217.07613
+        y: 772.0761
+        width: 29.84776
+        height: 31.847757
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.000006, y: -16.999989}
+        - {x: -16.000006, y: 17.000011}
+        - {x: 15.999994, y: 17.000011}
+        - {x: 15.999994, y: -16.999989}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage-mop
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 489
+        width: 41
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 30.5}
+        - {x: 20.5, y: 30.5}
+        - {x: 20.5, y: -29.499998}
+        - {x: 19.5, y: -30.5}
+        - {x: -20.5, y: -30.5}
+        - {x: -20.5, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab-cent
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1475
+        width: 240
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.999996, y: 57}
+        - {x: 119.99999, y: 57}
+        - {x: 119.99999, y: -57}
+        - {x: -119.99999, y: -57}
+        - {x: -119.99999, y: 48.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weatherPanel
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 28
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50869566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 57.5}
+        - {x: 14, y: 57.5}
+        - {x: 14, y: -48.499996}
+        - {x: -11, y: -57.499996}
+        - {x: -14, y: -54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-console-elec
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 23
+        width: 82
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -27.5}
+        - {x: -41, y: 27.5}
+        - {x: 41, y: 27.5}
+        - {x: 41, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decon-2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -26}
+        - {x: -26, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-task-power
+      rect:
+        serializedVersion: 2
+        x: 841.0761
+        y: 145.07613
+        width: 34.847755
+        height: 30.84776
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.499987, y: -16.500006}
+        - {x: -18.499987, y: 16.499994}
+        - {x: 18.500013, y: 16.499994}
+        - {x: 18.500013, y: -16.500006}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: launch-front
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 126
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 65.5}
+        - {x: 63, y: 65.5}
+        - {x: 63, y: -65.5}
+        - {x: -63, y: -65.5}
+        - {x: -63, y: 52.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-panel-init
+      rect:
+        serializedVersion: 2
+        x: 394.0761
+        y: 195.07613
+        width: 32.847755
+        height: 36.847755
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.499989, y: -19.500004}
+        - {x: -17.499989, y: 19.499996}
+        - {x: 17.500011, y: 19.499996}
+        - {x: 17.500011, y: -19.500004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_enginerefuel
+      rect:
+        serializedVersion: 2
+        x: 85.07612
+        y: 314.0761
+        width: 50.897125
+        height: 51.847755
+      alignment: 9
+      pivot: {x: 0.4995151, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.52468, y: 16.000011}
+        - {x: 4.475319, y: 29.000011}
+        - {x: 26.475317, y: 25.000011}
+        - {x: 26.475317, y: -26.999987}
+        - {x: -26.52468, y: -26.999987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caf_table
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 373
+        width: 183
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -158.99998}
+        - {x: -91.5, y: 158.99998}
+        - {x: 91.5, y: 158.99998}
+        - {x: 91.5, y: -158.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divertElevStand
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -35.5}
+        - {x: -28, y: 35.5}
+        - {x: 28, y: 35.5}
+        - {x: 28, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balcony_WeaponsPanel
+      rect:
+        serializedVersion: 2
+        x: 822.02673
+        y: 344.0761
+        width: 74.9465
+        height: 51.847755
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.499985, y: -26.999987}
+        - {x: -38.499985, y: 27.00001}
+        - {x: 38.500015, y: 27.00001}
+        - {x: 38.500015, y: -26.999987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_BorderShadowless
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 14
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.499999, y: 32}
+        - {x: 31.5, y: 32}
+        - {x: 31.5, y: -32}
+        - {x: -31.5, y: -32}
+        - {x: -31.5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorGlass
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 183
+        width: 168
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 31}
+        - {x: 84, y: -56}
+        - {x: 37, y: -79}
+        - {x: -45.999996, y: -79}
+        - {x: -84, y: -41}
+        - {x: -84, y: 39}
+        - {x: -44, y: 79}
+        - {x: 59.999996, y: 79}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe-vending2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 47
+        width: 65
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -46.5}
+        - {x: -32.5, y: 46.5}
+        - {x: 32.5, y: 46.5}
+        - {x: 32.5, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decontamLabReactorWalls
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 1229
+        height: 1551
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -614.5, y: 775.49994}
+        - {x: -108.49999, y: 775.49994}
+        - {x: -102.5, y: 632.5}
+        - {x: 614.5, y: 632.5}
+        - {x: 614.5, y: -29.499998}
+        - {x: 130.5, y: -30.5}
+        - {x: 128.5, y: -33.499996}
+        - {x: 129.5, y: -597.5}
+        - {x: 143.5, y: -609.5}
+        - {x: 141.5, y: -684.5}
+        - {x: 77.5, y: -770.5}
+        - {x: 37.5, y: -775.49994}
+        - {x: -48.5, y: -775.49994}
+        - {x: -95.5, y: -753.5}
+        - {x: -145.5, y: -665.5}
+        - {x: -145.5, y: -610.5}
+        - {x: -128.5, y: -592.5}
+        - {x: -129.5, y: -31.5}
+        - {x: -132.5, y: -29.499998}
+        - {x: -614.5, y: -29.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balconyDoor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 113
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -34}
+        - {x: -56.5, y: 34}
+        - {x: 56.5, y: 34}
+        - {x: 56.5, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe-vending1
+      rect:
+        serializedVersion: 2
+        x: 272.0761
+        y: 593.0429
+        width: 89.84776
+        height: 96.880974
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5001714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.999992, y: -49.483387}
+        - {x: -45.999992, y: 49.516605}
+        - {x: 46, y: 49.516605}
+        - {x: 46, y: -49.483387}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_SortSamples
+      rect:
+        serializedVersion: 2
+        x: 85.07612
+        y: 696.0761
+        width: 138.84775
+        height: 53.847755
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.49999, y: -27.999987}
+        - {x: -70.49999, y: 28.000013}
+        - {x: 70.50001, y: 28.000013}
+        - {x: 70.50001, y: -27.999987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorWallHang
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 640
+        width: 479
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -239.5, y: 82}
+        - {x: 239.5, y: 82}
+        - {x: 239.5, y: -24}
+        - {x: 129.5, y: -29.999998}
+        - {x: 75.5, y: -82}
+        - {x: 48.5, y: -82}
+        - {x: 27.5, y: -39.999996}
+        - {x: -39.5, y: -29.999998}
+        - {x: -39.5, y: -82}
+        - {x: -74.5, y: -82}
+        - {x: -125.5, y: -32}
+        - {x: -239.5, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_Border
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 47
+        width: 63
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -37}
+        - {x: -31.5, y: 37}
+        - {x: -1.5, y: 37}
+        - {x: 31.5, y: 4}
+        - {x: 31.5, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbagePanel
+      rect:
+        serializedVersion: 2
+        x: 979.0761
+        y: 447.0761
+        width: 47.847755
+        height: 40.847755
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.999989, y: -21.499987}
+        - {x: -24.999989, y: 21.50001}
+        - {x: 25.000011, y: 21.50001}
+        - {x: 25.000011, y: -21.499987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorArmLeft
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 557
+        width: 71
+        height: 133
+      alignment: 9
+      pivot: {x: 0.7183099, y: 0.90225565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 66.5}
+        - {x: 26.5, y: 66.5}
+        - {x: 35.5, y: 46.5}
+        - {x: 9.5, y: 18.5}
+        - {x: 35.5, y: -41.5}
+        - {x: 35.5, y: -66.49999}
+        - {x: 6.5, y: -66.49999}
+        - {x: -35.5, y: -15.5}
+        - {x: -35.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balcony_WeaponsDish
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 401
+        width: 165
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 104}
+        - {x: 72.5, y: 104}
+        - {x: 63.5, y: -19.999998}
+        - {x: 82.5, y: -79.99999}
+        - {x: 82.5, y: -104}
+        - {x: 20.5, y: -104}
+        - {x: -75.5, y: -36}
+        - {x: -82.5, y: -24}
+        - {x: -82.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emergencyButton_mira
+      rect:
+        serializedVersion: 2
+        x: 751.0761
+        y: 646.0761
+        width: 42.847755
+        height: 42.847755
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.49999, y: -22.49999}
+        - {x: -22.49999, y: 22.50001}
+        - {x: 22.50001, y: 22.50001}
+        - {x: 22.50001, y: -22.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decon-0
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 9
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -26}
+        - {x: -26, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divertElecReceive
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 161
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -12}
+        - {x: -17, y: 12}
+        - {x: 17, y: 12}
+        - {x: 17, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decon-3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 22
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -26}
+        - {x: -26, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorArmRight
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 125
+        width: 71
+        height: 133
+      alignment: 9
+      pivot: {x: 0.30985916, y: 0.90225565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 66.5}
+        - {x: 11.5, y: 66.5}
+        - {x: 35.499996, y: 6.5}
+        - {x: 35.499996, y: -27.5}
+        - {x: -8.5, y: -66.49999}
+        - {x: -35.5, y: -66.49999}
+        - {x: -35.5, y: -41.5}
+        - {x: -14.5, y: 25.5}
+        - {x: -35.5, y: 46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactorArmMiddle
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1475
+        width: 43
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.9264706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 68}
+        - {x: 20.5, y: 68}
+        - {x: 21.5, y: 65}
+        - {x: 21.5, y: -68}
+        - {x: -21.5, y: -68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balcony_WeaponsBase
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 82
+        width: 189
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 59.499996}
+        - {x: 94.5, y: 59.499996}
+        - {x: 94.5, y: -59.499996}
+        - {x: -59.499996, y: -59.499996}
+        - {x: -94.5, y: -29.499998}
+        - {x: -94.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage-backwall
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 305
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 88.5}
+        - {x: 102.5, y: 88.5}
+        - {x: 152.5, y: 12.5}
+        - {x: 152.5, y: -75.5}
+        - {x: 120.49999, y: -86.5}
+        - {x: 11.499999, y: -50.5}
+        - {x: -89.5, y: -88.5}
+        - {x: -96.5, y: -88.5}
+        - {x: -152.5, y: -39.5}
+        - {x: -152.5, y: -6.5}
+        - {x: -144.5, y: 1.5}
+        - {x: -95.5, y: 23.5}
+        - {x: -61.5, y: 77.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-console-lower
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 446
+        width: 49
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.499998, y: -48.5}
+        - {x: -24.499998, y: 48.5}
+        - {x: 24.499998, y: 48.5}
+        - {x: 24.499998, y: -48.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_shipCalibrate
+      rect:
+        serializedVersion: 2
+        x: 430.0761
+        y: 59.07612
+        width: 44.847755
+        height: 96.84776
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.499989, y: 42.5}
+        - {x: 20.500011, y: 51.5}
+        - {x: 23.500011, y: 48.5}
+        - {x: 23.500011, y: -42.5}
+        - {x: -20.499989, y: -51.5}
+        - {x: -25.499989, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage-shelves1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 205
+        width: 202
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: -66.5}
+        - {x: -101, y: 66.5}
+        - {x: -18, y: 66.5}
+        - {x: 101, y: 58.499996}
+        - {x: 101, y: -66.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-center
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 342
+        width: 191
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: 73.49999}
+        - {x: -43.5, y: 73.49999}
+        - {x: -40.5, y: 25.5}
+        - {x: 21.499998, y: 26.499998}
+        - {x: 47.5, y: 73.49999}
+        - {x: 95.5, y: 73.49999}
+        - {x: 95.5, y: -0.5}
+        - {x: 78.5, y: -4.5}
+        - {x: 76.5, y: -73.49999}
+        - {x: -77.5, y: -73.49999}
+        - {x: -95.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balcony_Weather
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 262
+        width: 67
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.499996, y: -77.5}
+        - {x: -33.499996, y: 79.49999}
+        - {x: 33.499996, y: 79.49999}
+        - {x: 33.499996, y: -79.49999}
+        - {x: -31.5, y: -79.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-task-start
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 640
+        width: 49
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.499998, y: -13.499999}
+        - {x: -24.499998, y: 13.499999}
+        - {x: 24.499998, y: 13.499999}
+        - {x: 24.499998, y: -13.499999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: launch-calibrate
+      rect:
+        serializedVersion: 2
+        x: 1115.0762
+        y: 346.0761
+        width: 71.84776
+        height: 137.84775
+      alignment: 9
+      pivot: {x: 0.49999925, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.000053, y: -69.999985}
+        - {x: -37.000053, y: 70.000015}
+        - {x: 36.999947, y: 70.000015}
+        - {x: 36.999947, y: -69.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab-right
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 508
+        width: 231
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.5, y: 148}
+        - {x: 115.5, y: 148}
+        - {x: 115.5, y: -148}
+        - {x: 74.5, y: -148}
+        - {x: 27.5, y: -101}
+        - {x: 21.499998, y: 39}
+        - {x: -115.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe-vending3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 547
+        width: 41
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -48}
+        - {x: -20.5, y: 48}
+        - {x: 20.5, y: 48}
+        - {x: 20.5, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor-console-upper
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 345
+        width: 49
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.499998, y: -48.5}
+        - {x: -24.499998, y: 48.5}
+        - {x: 24.499998, y: 48.5}
+        - {x: 24.499998, y: -48.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: launch-gas
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 237
+        width: 88
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.999996}
+        - {x: -44, y: 66.99999}
+        - {x: 44, y: 66.99999}
+        - {x: 44, y: -66.99999}
+        - {x: -28, y: -66.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_WaterCan
+      rect:
+        serializedVersion: 2
+        x: 955.0761
+        y: 647.0761
+        width: 43.897125
+        height: 31.897127
+      alignment: 9
+      pivot: {x: 0.49943793, y: 0.49922645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.024672, y: -17.024673}
+        - {x: -23.024672, y: 16.975327}
+        - {x: 22.975325, y: 16.975327}
+        - {x: 22.975325, y: -17.024673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      reactor-console-lower: 21300084
+      balcony_WeaponsBase: 21300080
+      reactor-panel-init: 21300034
+      divertElevStand: 21300040
+      lab-right: 21300098
+      storage-backwall: 21300082
+      launch-gas: 21300104
+      lab_SortSamples: 21300056
+      caf_table: 21300038
+      garbagePanel: 21300062
+      launch-front: 21300032
+      emergencyButton_Text: 21300010
+      lab-cent: 21300022
+      reactorGlass: 21300046
+      decon-1: 21300016
+      balcony_WeaponsDish: 21300066
+      reactorWallHang: 21300058
+      cafe-vending2: 21300048
+      reactor-task-start: 21300094
+      cafe-vending3: 21300100
+      reactor-center: 21300090
+      decon-0: 21300070
+      lab-bottom: 21300014
+      decon-2: 21300028
+      launchPadNearShip: 21300004
+      reactor-task-power: 21300030
+      reactor-console-elec: 21300026
+      reactorArmLeft: 21300064
+      balconyDoor: 21300052
+      reactorArmMiddle: 21300078
+      reactorArmRight: 21300076
+      reactor_Border: 21300060
+      decon-3: 21300074
+      balcony_Weather: 21300092
+      storage_WaterCan: 21300106
+      decontamLabReactorWalls: 21300050
+      divertElecReceive: 21300072
+      storage-box2: 21300008
+      reactor_Sabotage: 21300018
+      cafe-vending1: 21300054
+      task_shipCalibrate: 21300086
+      storage-mop: 21300020
+      reactor_BorderShadowless: 21300044
+      decon-button: 21300012
+      balcony_WeaponsPanel: 21300042
+      emergencyButton_mira: 21300068
+      launch-calibrate: 21300096
+      storage-shelves1: 21300088
+      weatherPanel: 21300024
+      storage-boxes1: 21300006
+      task_enginerefuel: 21300036
+      reactor-console-upper: 21300102
+      admind_chartCourse: 21300002
+      vertical-door: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

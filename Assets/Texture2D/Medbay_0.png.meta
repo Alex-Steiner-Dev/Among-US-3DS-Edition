@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 3e4e1312addaee44cbb2fdc8a5e9a277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: medbay_main
+  - first:
+      213: 21300002
+    second: panel_vitals
+  - first:
+      213: 21300004
+    second: medbay_table
+  - first:
+      213: 21300006
+    second: medbay_scale
+  - first:
+      213: 21300008
+    second: medbaychair
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medbay_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 1797
+        height: 1213
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 598.49994, y: 597.5}
+        - {x: 601.5, y: 606.5}
+        - {x: 646.49994, y: 606.5}
+        - {x: 650.49994, y: 491.5}
+        - {x: 819.5, y: 495.5}
+        - {x: 819.5, y: 606.5}
+        - {x: 857.5, y: 606.5}
+        - {x: 883.5, y: 570.5}
+        - {x: 890.5, y: 403.5}
+        - {x: 898.49994, y: 345.5}
+        - {x: 898.49994, y: 275.5}
+        - {x: 878.5, y: 212.5}
+        - {x: 803.5, y: 199.5}
+        - {x: 679.5, y: 191.5}
+        - {x: 580.5, y: 170.5}
+        - {x: 559.5, y: 154.5}
+        - {x: 507.49997, y: 24.499998}
+        - {x: 454.5, y: -13.499999}
+        - {x: 268.5, y: -6.5}
+        - {x: 187.5, y: -12.5}
+        - {x: 164.5, y: -38.5}
+        - {x: 142.5, y: -91.5}
+        - {x: 110.5, y: -231.5}
+        - {x: 109.5, y: -298.5}
+        - {x: 119.49999, y: -467.49997}
+        - {x: 107.49999, y: -529.5}
+        - {x: 58.499996, y: -572.5}
+        - {x: 2.4999998, y: -606.5}
+        - {x: -367.5, y: -606.5}
+        - {x: -530.5, y: -595.5}
+        - {x: -787.5, y: -588.5}
+        - {x: -844.5, y: -481.5}
+        - {x: -898.49994, y: -369.5}
+        - {x: -898.49994, y: -313.5}
+        - {x: -886.5, y: -106.49999}
+        - {x: -866.5, y: -85.49999}
+        - {x: -866.5, y: 89.5}
+        - {x: -888.5, y: 111.5}
+        - {x: -887.5, y: 143.5}
+        - {x: -898.49994, y: 229.49998}
+        - {x: -898.49994, y: 412.5}
+        - {x: -873.49994, y: 474.5}
+        - {x: -752.49994, y: 598.49994}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_vitals
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1162.0762
+        width: 95.97325
+        height: 54.923878
+      alignment: 9
+      pivot: {x: 0.50013936, y: 0.4993061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.986626, y: -27.53811}
+        - {x: -47.986626, y: 27.46189}
+        - {x: 48.013374, y: 27.46189}
+        - {x: 48.013374, y: -27.53811}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbay_table
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 230
+        width: 172
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.99999, y: 48.999996}
+        - {x: 85.99999, y: 48.999996}
+        - {x: 85.99999, y: -48.999996}
+        - {x: 64, y: -48.999996}
+        - {x: 61, y: -39}
+        - {x: -64, y: -42.999996}
+        - {x: -64, y: -48.999996}
+        - {x: -85.99999, y: -48.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbay_scale
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 86
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -70}
+        - {x: -50, y: 70}
+        - {x: 50, y: 70}
+        - {x: 50, y: -70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbaychair
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 332
+        width: 471
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -235.5, y: -23.5}
+        - {x: -235.5, y: 22.5}
+        - {x: -205.5, y: 22.5}
+        - {x: -143.5, y: -4.5}
+        - {x: -143.5, y: -23.5}
+      - - {x: 215.5, y: 23.5}
+        - {x: 235.5, y: 23.5}
+        - {x: 235.5, y: -23.5}
+        - {x: 145.5, y: -23.5}
+        - {x: 158.49998, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      panel_vitals: 21300002
+      medbay_scale: 21300006
+      medbay_main: 21300000
+      medbaychair: 21300008
+      medbay_table: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

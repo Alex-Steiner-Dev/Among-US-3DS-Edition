@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: af852669d812cf04281494a0e13a3d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ejectionroom_main
+  - first:
+      213: 21300002
+    second: task_wiresejection
+  - first:
+      213: 21300004
+    second: ejectionroom_railing
+  - first:
+      213: 21300006
+    second: task_uploadphone
+  - first:
+      213: 21300008
+    second: task_lightssabotage
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ejectionroom_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 1327
+        height: 947
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -581.5, y: 473.49997}
+        - {x: -443.5, y: 473.49997}
+        - {x: -241.5, y: 463.49997}
+        - {x: 73.49999, y: 459.49997}
+        - {x: 552.5, y: 473.49997}
+        - {x: 596.49994, y: 453.5}
+        - {x: 601.5, y: 355.49997}
+        - {x: 580.5, y: 352.5}
+        - {x: 595.5, y: 295.5}
+        - {x: 582.5, y: 219.5}
+        - {x: 582.5, y: 157.5}
+        - {x: 596.49994, y: 143.5}
+        - {x: 599.5, y: 23.5}
+        - {x: 663.5, y: 23.5}
+        - {x: 663.5, y: 13.499999}
+        - {x: 365.5, y: 13.499999}
+        - {x: 361.5, y: -104.49999}
+        - {x: 235.5, y: -104.49999}
+        - {x: 234.5, y: 1.5}
+        - {x: 212.5, y: 8.5}
+        - {x: 212.5, y: -104.49999}
+        - {x: 87.5, y: -104.49999}
+        - {x: 83.5, y: 13.499999}
+        - {x: 57.5, y: 9.5}
+        - {x: 57.5, y: -225.49998}
+        - {x: 44.5, y: -285.5}
+        - {x: -86.5, y: -289.5}
+        - {x: -86.5, y: -473.49997}
+        - {x: -204.49998, y: -473.49997}
+        - {x: -207.5, y: -285.5}
+        - {x: -240.5, y: -287.5}
+        - {x: -271.5, y: -264.5}
+        - {x: -278.5, y: -173.5}
+        - {x: -277.5, y: 11.499999}
+        - {x: -312.5, y: 11.499999}
+        - {x: -314.5, y: -104.49999}
+        - {x: -439.5, y: -104.49999}
+        - {x: -443.5, y: 13.499999}
+        - {x: -462.5, y: 9.5}
+        - {x: -462.5, y: -104.49999}
+        - {x: -587.5, y: -104.49999}
+        - {x: -591.5, y: 13.499999}
+        - {x: -663.5, y: 13.499999}
+        - {x: -663.5, y: 420.5}
+        - {x: -651.5, y: 465.49997}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_wiresejection
+      rect:
+        serializedVersion: 2
+        x: 1115.0762
+        y: 452.0761
+        width: 49.847755
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.5100295, y: 0.5139482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.00005, y: 19.000011}
+        - {x: 25.99995, y: 19.000011}
+        - {x: 25.99995, y: -16.999989}
+        - {x: 24.99995, y: -17.999989}
+        - {x: -26.00005, y: -17.999989}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejectionroom_railing
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 318
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.99998, y: 93}
+        - {x: -142, y: 93}
+        - {x: -141, y: -8}
+        - {x: -91.99999, y: -39}
+        - {x: -91.99999, y: -93}
+        - {x: -114, y: -93}
+        - {x: -126, y: -74}
+        - {x: -158.99998, y: -93}
+      - - {x: 135, y: -22.999998}
+        - {x: 142, y: 93}
+        - {x: 158.99998, y: 93}
+        - {x: 158.99998, y: -79.99999}
+        - {x: 136, y: -91.99999}
+        - {x: 123, y: -88}
+        - {x: 125, y: -53.999996}
+        - {x: 94, y: -53.999996}
+        - {x: 94, y: -93}
+        - {x: 71, y: -93}
+        - {x: 72, y: -53.999996}
+        - {x: 48, y: -53.999996}
+        - {x: 42, y: -93}
+        - {x: 19, y: -93}
+        - {x: 19, y: -33}
+        - {x: 122, y: -33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_uploadphone
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 387
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -19.999998}
+        - {x: -15.5, y: 19.999998}
+        - {x: 15.5, y: 19.999998}
+        - {x: 15.5, y: -19.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_lightssabotage
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 415
+        width: 72.92388
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.50737834, y: 0.5210913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.461945, y: 37.53806}
+        - {x: 37.538055, y: 37.53806}
+        - {x: 37.538055, y: -36.46194}
+        - {x: 2.5380554, y: -36.46194}
+        - {x: -1.4619446, y: -20.46194}
+        - {x: -36.461945, y: -20.46194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      task_wiresejection: 21300002
+      ejectionroom_railing: 21300004
+      task_uploadphone: 21300006
+      task_lightssabotage: 21300008
+      Ejectionroom_main: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: ed2a8c9de4e7a094db8aab6e8e9bbda6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: armory_table
+  - first:
+      213: 21300002
+    second: guntask1-2
+  - first:
+      213: 21300004
+    second: task_electricalside2
+  - first:
+      213: 21300006
+    second: task_Handguns2-4
+  - first:
+      213: 21300008
+    second: Task_Handguns
+  - first:
+      213: 21300010
+    second: armory_main
+  - first:
+      213: 21300012
+    second: task_Handguns2
+  - first:
+      213: 21300014
+    second: task_rifles2
+  - first:
+      213: 21300016
+    second: task_Handguns2-3
+  - first:
+      213: 21300018
+    second: task_Handguns2-2
+  - first:
+      213: 21300020
+    second: task_rifles
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armory_table
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 6
+        width: 223
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.5, y: -57.5}
+        - {x: -111.5, y: 57.5}
+        - {x: 111.5, y: 57.5}
+        - {x: 111.5, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guntask1-2
+      rect:
+        serializedVersion: 2
+        x: 8.108885
+        y: 760.02673
+        width: 110.814995
+        height: 77.95424
+      alignment: 9
+      pivot: {x: 0.07572184, y: 0.48712254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.51638, y: -17.003853}
+        - {x: 34.48362, y: 40.996147}
+        - {x: 56.48362, y: 38.996143}
+        - {x: 56.48362, y: 23.996147}
+        - {x: 17.48362, y: -41.00385}
+        - {x: -53.51638, y: -41.00385}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_electricalside2
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 623
+        width: 34.923878
+        height: 62.973248
+      alignment: 9
+      pivot: {x: 0.49891022, y: 0.50021243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.461941, y: 31.513378}
+        - {x: 17.46194, y: 31.513378}
+        - {x: 17.46194, y: -8.486622}
+        - {x: -5.538059, y: -31.486622}
+        - {x: -17.53806, y: -31.486622}
+        - {x: -17.53806, y: 10.513378}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_Handguns2-4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 970
+        width: 57.923878
+        height: 59.973248
+      alignment: 9
+      pivot: {x: -0.5869773, y: 0.55024534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.961937, y: 0.013376236}
+        - {x: 13.038063, y: 35.013374}
+        - {x: 30.038063, y: 28.013376}
+        - {x: 30.038063, y: -14.986624}
+        - {x: 1.038063, y: -29.986624}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Task_Handguns
+      rect:
+        serializedVersion: 2
+        x: 642.02673
+        y: 1277.0267
+        width: 158.89713
+        height: 67.96034
+      alignment: 9
+      pivot: {x: 0.50330216, y: 0.4998984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.475292, y: 33.993095}
+        - {x: 80.5247, y: 33.993095}
+        - {x: 80.5247, y: -13.006905}
+        - {x: 40.5247, y: -10.006904}
+        - {x: 24.524704, y: -34.006905}
+        - {x: 6.524704, y: -34.006905}
+        - {x: -30.475296, y: -12.006905}
+        - {x: -52.475292, y: -34.006905}
+        - {x: -79.47529, y: -34.006905}
+        - {x: -79.47529, y: 2.9930954}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armory_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 1064
+        height: 1225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 601.5}
+        - {x: 13, y: 612.5}
+        - {x: 100, y: 612.5}
+        - {x: 104, y: 506.5}
+        - {x: 274, y: 510.5}
+        - {x: 274, y: 612.5}
+        - {x: 323, y: 612.5}
+        - {x: 325, y: 605.5}
+        - {x: 508.99997, y: 603.5}
+        - {x: 522, y: 490.49997}
+        - {x: 532, y: 361.5}
+        - {x: 532, y: 245.5}
+        - {x: 514, y: 73.49999}
+        - {x: 510.99997, y: -15.5}
+        - {x: 519, y: -48.5}
+        - {x: 508, y: -97.5}
+        - {x: 510, y: -252.49998}
+        - {x: 524, y: -267.5}
+        - {x: 514, y: -336.5}
+        - {x: 531, y: -412.5}
+        - {x: 502.99997, y: -476.5}
+        - {x: 402, y: -554.5}
+        - {x: 366.99997, y: -594.5}
+        - {x: 210.99998, y: -607.5}
+        - {x: -8, y: -611.5}
+        - {x: -101, y: -609.5}
+        - {x: -291, y: -612.5}
+        - {x: -382, y: -612.5}
+        - {x: -448.99997, y: -574.5}
+        - {x: -506.99997, y: -516.5}
+        - {x: -529, y: -456.5}
+        - {x: -532, y: -413.49997}
+        - {x: -532, y: -203.49998}
+        - {x: -522, y: -127.5}
+        - {x: -458.99997, y: -43.5}
+        - {x: -374, y: -39.5}
+        - {x: -359, y: 15.5}
+        - {x: -388, y: 73.49999}
+        - {x: -454.99997, y: 192.5}
+        - {x: -463, y: 480.49997}
+        - {x: -308, y: 601.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_Handguns2
+      rect:
+        serializedVersion: 2
+        x: 351.02676
+        y: 60.026752
+        width: 180.89713
+        height: 54.946495
+      alignment: 9
+      pivot: {x: 0.4918444, y: 0.5090998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.47533, y: -29.499996}
+        - {x: -93.47532, y: 14.500002}
+        - {x: -88.47533, y: 29.500002}
+        - {x: -32.475327, y: 28.500002}
+        - {x: 0.52467346, y: 8.500002}
+        - {x: 32.524673, y: 28.500002}
+        - {x: 91.52467, y: 28.500002}
+        - {x: 91.52467, y: -28.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_rifles2
+      rect:
+        serializedVersion: 2
+        x: 539.1089
+        y: 38.026752
+        width: 202.81499
+        height: 77.95424
+      alignment: 9
+      pivot: {x: 0.49498862, y: 0.4871223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.51638, y: 40.996128}
+        - {x: 20.483618, y: 37.996128}
+        - {x: 2.4836197, y: -8.003872}
+        - {x: 80.48362, y: 40.996128}
+        - {x: 102.48362, y: 38.996124}
+        - {x: 102.48362, y: 23.996128}
+        - {x: 63.48362, y: -41.00387}
+        - {x: -103.51638, y: -42.003872}
+        - {x: -102.51638, y: -14.003872}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_Handguns2-3
+      rect:
+        serializedVersion: 2
+        x: 68.07612
+        y: 1288.0267
+        width: 90.84776
+        height: 54.946495
+      alignment: 9
+      pivot: {x: -0.011845294, y: 0.5091001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -29.49998}
+        - {x: -53.5, y: -3.4999828}
+        - {x: -14.5, y: 29.500017}
+        - {x: 46.5, y: 28.500017}
+        - {x: 46.5, y: -28.499983}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_Handguns2-2
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 698.02673
+        width: 138.89713
+        height: 54.946495
+      alignment: 9
+      pivot: {x: 0.33818734, y: 0.5091001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.47531, y: -17.499983}
+        - {x: -70.47531, y: 28.500017}
+        - {x: -52.47531, y: 28.500017}
+        - {x: -28.475315, y: 9.500017}
+        - {x: 12.524685, y: 28.500017}
+        - {x: 70.52469, y: 28.500017}
+        - {x: 70.52469, y: -28.499983}
+        - {x: -37.475315, y: -28.499983}
+        - {x: -41.475315, y: -32.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_rifles
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 850.02673
+        width: 101.92388
+        height: 137.97325
+      alignment: 9
+      pivot: {x: 0.49472097, y: 0.4962793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.03806, y: 19.98664}
+        - {x: -52.03806, y: 67.98664}
+        - {x: -35.03806, y: 68.98664}
+        - {x: 13.961941, y: 8.986641}
+        - {x: 50.96194, y: -49.01336}
+        - {x: 50.96194, y: -70.01336}
+        - {x: 7.961941, y: -70.01336}
+        - {x: -7.038059, y: -25.013357}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Task_Handguns: 21300008
+      task_Handguns2-3: 21300016
+      armory_table: 21300000
+      task_Handguns2-4: 21300006
+      task_Handguns2: 21300012
+      armory_main: 21300010
+      task_rifles: 21300020
+      task_electricalside2: 21300004
+      task_Handguns2-2: 21300018
+      task_rifles2: 21300014
+      guntask1-2: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

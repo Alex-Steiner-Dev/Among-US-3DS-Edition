@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: dcf043940b8ea4643a22bb2fd4902450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_water_waterlevel0008
+  - first:
+      213: 21300002
+    second: panel_water_waterlevel0002
+  - first:
+      213: 21300004
+    second: panel_water_waterlevel0001
+  - first:
+      213: 21300006
+    second: panel_water_waterlevel0004
+  - first:
+      213: 21300008
+    second: panel_water_waterlevel0009
+  - first:
+      213: 21300010
+    second: panel_wheelMain
+  - first:
+      213: 21300012
+    second: panel_waterpipeBG
+  - first:
+      213: 21300014
+    second: panel_water_waterlevel0010
+  - first:
+      213: 21300016
+    second: panel_water_waterlevel0007
+  - first:
+      213: 21300018
+    second: panel_water_waterlevel0003
+  - first:
+      213: 21300020
+    second: panel_water_waterlevel0012
+  - first:
+      213: 21300022
+    second: panel_water_waterlevel0011
+  - first:
+      213: 21300024
+    second: panel_water_pipesideback
+  - first:
+      213: 21300026
+    second: panel_water_pipeside
+  - first:
+      213: 21300028
+    second: panel_water_waterlevel0006
+  - first:
+      213: 21300030
+    second: panel_water_waterlevel0005
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_water_waterlevel0008
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 62
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23.5}
+        - {x: -31, y: 23.5}
+        - {x: 31, y: 23.5}
+        - {x: 31, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0002
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1167.0267
+        width: 61
+        height: 42.973248
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.52295953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 21.486643}
+        - {x: 30.499998, y: 21.486643}
+        - {x: 30.499998, y: -14.513357}
+        - {x: -24.5, y: -22.513357}
+        - {x: -30.5, y: -19.513357}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0001
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1167.0267
+        width: 61
+        height: 42.973248
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.52295953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 21.486643}
+        - {x: 30.499998, y: 21.486643}
+        - {x: 30.499998, y: -14.513357}
+        - {x: -24.5, y: -22.513357}
+        - {x: -30.5, y: -19.513357}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0004
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992.02673
+        width: 62
+        height: 46.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49971566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -14.513357}
+        - {x: -31, y: 23.486643}
+        - {x: 31, y: 23.486643}
+        - {x: 31, y: -19.513357}
+        - {x: -24, y: -23.513357}
+        - {x: -29, y: -21.513355}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0009
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 62
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23.5}
+        - {x: -31, y: 23.5}
+        - {x: 31, y: 23.5}
+        - {x: 31, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_wheelMain
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 775
+        width: 580
+        height: 580
+      alignment: 9
+      pivot: {x: 0.50517243, y: 0.5017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 234.99998}
+        - {x: -23.999998, y: 290}
+        - {x: 18, y: 290}
+        - {x: 50, y: 235.99998}
+        - {x: 151, y: 196.99998}
+        - {x: 185, y: 219}
+        - {x: 222, y: 201}
+        - {x: 204, y: 133}
+        - {x: 240.99998, y: 43.999996}
+        - {x: 290, y: 15.999999}
+        - {x: 290, y: -18.999998}
+        - {x: 237.99998, y: -44.999996}
+        - {x: 198, y: -147}
+        - {x: 223, y: -202}
+        - {x: 192, y: -220}
+        - {x: 135, y: -202}
+        - {x: 34, y: -237.99998}
+        - {x: 25.999998, y: -290}
+        - {x: -14, y: -290}
+        - {x: -48, y: -237.99998}
+        - {x: -141, y: -190}
+        - {x: -193.99998, y: -230}
+        - {x: -215, y: -194}
+        - {x: -199, y: -128}
+        - {x: -237.99998, y: -37}
+        - {x: -287, y: -25.999998}
+        - {x: -289.99997, y: -15}
+        - {x: -289.99997, y: 8}
+        - {x: -288.99997, y: 14}
+        - {x: -229, y: 49}
+        - {x: -205, y: 146.99998}
+        - {x: -219, y: 189}
+        - {x: -208.99998, y: 214.99998}
+        - {x: -120, y: 202}
+        - {x: -74, y: 227}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_waterpipeBG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 423
+        height: 706
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -211.5, y: -353}
+        - {x: -211.5, y: 353}
+        - {x: 211.5, y: 353}
+        - {x: 211.5, y: -353}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0010
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 927
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23}
+        - {x: -31, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0007
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 62
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23.5}
+        - {x: -31, y: 23.5}
+        - {x: 31, y: 23.5}
+        - {x: 31, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0003
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1167.0267
+        width: 61
+        height: 42.973248
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.52295953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 21.486643}
+        - {x: 30.499998, y: 21.486643}
+        - {x: 30.499998, y: -14.513357}
+        - {x: -24.5, y: -22.513357}
+        - {x: -30.5, y: -19.513357}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0012
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 927
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23}
+        - {x: -31, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0011
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 927
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23}
+        - {x: -31, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_pipesideback
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 425
+        width: 62
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -208.5}
+        - {x: -31, y: 208.5}
+        - {x: 31, y: 208.5}
+        - {x: 31, y: -208.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_pipeside
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 107
+        height: 1015
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.499996, y: 507.49997}
+        - {x: 52.499996, y: 507.49997}
+        - {x: 53.499996, y: 506.5}
+        - {x: 53.499996, y: 497.5}
+        - {x: 49.499996, y: 492.49997}
+        - {x: 49.499996, y: -493.5}
+        - {x: 53.499996, y: -497.5}
+        - {x: 53.499996, y: -507.49997}
+        - {x: -53.499996, y: -507.49997}
+        - {x: -53.499996, y: -497.5}
+        - {x: -52.499996, y: -495.5}
+        - {x: -52.499996, y: 495.5}
+        - {x: -53.499996, y: 496.49997}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0006
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992.02673
+        width: 62
+        height: 46.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49971566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -14.513357}
+        - {x: -31, y: 23.486643}
+        - {x: 31, y: 23.486643}
+        - {x: 31, y: -19.513357}
+        - {x: -24, y: -23.513357}
+        - {x: -29, y: -21.513355}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0005
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992.02673
+        width: 62
+        height: 46.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49971566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -14.513357}
+        - {x: -31, y: 23.486643}
+        - {x: 31, y: 23.486643}
+        - {x: 31, y: -19.513357}
+        - {x: -24, y: -23.513357}
+        - {x: -29, y: -21.513355}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      panel_water_waterlevel0002: 21300002
+      panel_water_waterlevel0011: 21300022
+      panel_water_waterlevel0009: 21300008
+      panel_water_waterlevel0008: 21300000
+      panel_water_pipesideback: 21300024
+      panel_water_waterlevel0010: 21300014
+      panel_water_waterlevel0003: 21300018
+      panel_wheelMain: 21300010
+      panel_water_waterlevel0012: 21300020
+      panel_water_waterlevel0007: 21300016
+      panel_water_pipeside: 21300026
+      panel_water_waterlevel0004: 21300006
+      panel_waterpipeBG: 21300012
+      panel_water_waterlevel0001: 21300004
+      panel_water_waterlevel0005: 21300030
+      panel_water_waterlevel0006: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 4ed6c251cb8ae1f4f851a783ca9d071f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: htp_PC_mouseCursor
+  - first:
+      213: 21300002
+    second: htp_host_right
+  - first:
+      213: 21300004
+    second: CrewTitle
+  - first:
+      213: 21300006
+    second: CrewTop
+  - first:
+      213: 21300008
+    second: ImpBottom
+  - first:
+      213: 21300010
+    second: CrewImage
+  - first:
+      213: 21300012
+    second: ImpTop
+  - first:
+      213: 21300014
+    second: impTitle
+  - first:
+      213: 21300016
+    second: htp_controlModeBg
+  - first:
+      213: 21300018
+    second: htp_arrows
+  - first:
+      213: 21300020
+    second: htp_couchBase5People
+  - first:
+      213: 21300022
+    second: htp_player1
+  - first:
+      213: 21300024
+    second: htp_player2
+  - first:
+      213: 21300026
+    second: htp_player3
+  - first:
+      213: 21300028
+    second: htp_player4
+  - first:
+      213: 21300030
+    second: htp_player5
+  - first:
+      213: 21300032
+    second: tutorial_hand
+  - first:
+      213: 21300034
+    second: tutorial_touchPoint
+  - first:
+      213: 21300036
+    second: htp_panel1
+  - first:
+      213: 21300038
+    second: htp_panel7
+  - first:
+      213: 21300040
+    second: htp_panel5.png
+  - first:
+      213: 21300042
+    second: htp_map
+  - first:
+      213: 21300044
+    second: htp_panel6Discussion
+  - first:
+      213: 21300046
+    second: htp_panel6DiscussionChat
+  - first:
+      213: 21300048
+    second: htp_PC_arrowKeys
+  - first:
+      213: 21300050
+    second: htp_PC_arrowKeysSelected
+  - first:
+      213: 21300052
+    second: htp_panel8
+  - first:
+      213: 21300054
+    second: impImage
+  - first:
+      213: 21300056
+    second: htp_host_left
+  - first:
+      213: 21300058
+    second: CrewBottom
+  - first:
+      213: 21300060
+    second: htp_host_top
+  - first:
+      213: 21300062
+    second: htp_host_lower
+  - first:
+      213: 21300064
+    second: htp_host_bottom
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: htp_PC_mouseCursor
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1446
+        width: 49
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.499998, y: -34}
+        - {x: -24.499998, y: 34}
+        - {x: -7.4999995, y: 34}
+        - {x: 24.499998, y: 2}
+        - {x: 24.499998, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_host_right
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1092
+        width: 127
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 81.5}
+        - {x: 21.499998, y: 81.5}
+        - {x: 63.5, y: 29.499998}
+        - {x: 63.5, y: 5.5}
+        - {x: 49.499996, y: -77.5}
+        - {x: 45.5, y: -81.5}
+        - {x: -49.499996, y: -81.5}
+        - {x: -63.5, y: 9.5}
+        - {x: -63.5, y: 51.5}
+        - {x: -54.5, y: 60.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrewTitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 751
+        width: 311
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155.5, y: 45.5}
+        - {x: -106.49999, y: 45.5}
+        - {x: 155.5, y: 43.5}
+        - {x: 155.5, y: 28.5}
+        - {x: 134.5, y: -43.5}
+        - {x: -0.5, y: -45.5}
+        - {x: -78.5, y: -45.5}
+        - {x: -109.5, y: 9.5}
+        - {x: -155.5, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrewTop
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1743
+        width: 616
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -308, y: -75}
+        - {x: -308, y: 75}
+        - {x: 308, y: 75}
+        - {x: 308, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpBottom
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1591
+        width: 616
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -308, y: -75}
+        - {x: -308, y: 75}
+        - {x: 308, y: 75}
+        - {x: 308, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrewImage
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1418
+        width: 167
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 54.5}
+        - {x: 14.5, y: 54.5}
+        - {x: 74.5, y: 39.5}
+        - {x: 83.5, y: -7.4999995}
+        - {x: 83.5, y: -54.5}
+        - {x: -83.5, y: -54.5}
+        - {x: -83.5, y: -13.499999}
+        - {x: -77.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpTop
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1526
+        width: 616
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -308, y: -75}
+        - {x: -308, y: 75}
+        - {x: 308, y: 75}
+        - {x: 308, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impTitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 844
+        width: 385
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192.5, y: 20.5}
+        - {x: -192.5, y: 45.5}
+        - {x: -141.5, y: 45.5}
+        - {x: -86.5, y: 39.5}
+        - {x: 192.5, y: 38.5}
+        - {x: 192.5, y: -45.5}
+        - {x: -153.5, y: -45.5}
+        - {x: -124.5, y: -4.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_controlModeBg
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1283
+        width: 155
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 13, z: 39, w: 13}
+      outline:
+      - - {x: -77.5, y: -16.5}
+        - {x: -77.5, y: 16.5}
+        - {x: 77.5, y: 16.5}
+        - {x: 77.5, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_arrows
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1516
+        width: 51
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.499998, y: 36}
+        - {x: 25.5, y: 36}
+        - {x: 25.5, y: -36}
+        - {x: 20.5, y: -36}
+        - {x: -0.5, y: -21}
+        - {x: -25.5, y: -3}
+        - {x: -25.5, y: 4.9999995}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_couchBase5People
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1257
+        width: 549
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 107.99999}
+        - {x: 61.5, y: 166}
+        - {x: 114.5, y: 166}
+        - {x: 121.49999, y: 161}
+        - {x: 157.5, y: 90}
+        - {x: 130.5, y: 29.999998}
+        - {x: 188.5, y: 0}
+        - {x: 194.5, y: -65}
+        - {x: 274.5, y: -91}
+        - {x: 274.5, y: -130}
+        - {x: 199.5, y: -153}
+        - {x: 102.5, y: -166}
+        - {x: -92.49999, y: -166}
+        - {x: -164.5, y: -158.99998}
+        - {x: -274.5, y: -139}
+        - {x: -274.5, y: -101}
+        - {x: -267.5, y: -94}
+        - {x: -224.49998, y: -58.999996}
+        - {x: -211.5, y: 12}
+        - {x: -222.49998, y: 97}
+        - {x: -138.5, y: 104.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_player1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1318
+        width: 161
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 48.999996}
+        - {x: -3.5, y: 48.999996}
+        - {x: 62.5, y: 42}
+        - {x: 67.5, y: -9}
+        - {x: 80.5, y: -33}
+        - {x: 80.5, y: -39}
+        - {x: -21.499998, y: -48.999996}
+        - {x: -60.499996, y: -48.999996}
+        - {x: -80.5, y: -29}
+        - {x: -80.5, y: 26}
+        - {x: -64.5, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_player2
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1323
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 53.499996}
+        - {x: 26.999998, y: 53.499996}
+        - {x: 57, y: 23.5}
+        - {x: 57, y: -47.5}
+        - {x: -31, y: -53.499996}
+        - {x: -57, y: -53.499996}
+        - {x: -57, y: -3.5}
+        - {x: -22.999998, y: 49.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_player3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1157
+        width: 137
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 62}
+        - {x: 29.499998, y: 62}
+        - {x: 68.5, y: -6}
+        - {x: 68.5, y: -62}
+        - {x: -32.5, y: -62}
+        - {x: -48.5, y: -58.999996}
+        - {x: -68.5, y: -26}
+        - {x: -68.5, y: 7}
+        - {x: -52.499996, y: 58.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_player4
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1401
+        width: 102
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -28.5}
+        - {x: -51, y: 61.5}
+        - {x: 9, y: 61.5}
+        - {x: 51, y: 26.499998}
+        - {x: 51, y: -47.5}
+        - {x: 7, y: -61.5}
+        - {x: -4, y: -61.5}
+        - {x: -45.999996, y: -36.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_player5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1307
+        width: 91
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 45.999996}
+        - {x: 45.5, y: 45.999996}
+        - {x: 45.5, y: -45.999996}
+        - {x: -45.5, y: -45.999996}
+        - {x: -45.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_hand
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1184
+        width: 89
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 55.5}
+        - {x: -34.5, y: 60.499996}
+        - {x: -20.5, y: 60.499996}
+        - {x: -1.5, y: 24.499998}
+        - {x: 44.5, y: 4.5}
+        - {x: 44.5, y: -60.499996}
+        - {x: 1.5, y: -60.499996}
+        - {x: -35.5, y: -45.5}
+        - {x: -44.5, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_touchPoint
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1205
+        width: 77
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 18}
+        - {x: -3.5, y: 38}
+        - {x: 38.5, y: 38}
+        - {x: 38.5, y: -38}
+        - {x: -18.5, y: -38}
+        - {x: -38.5, y: -4}
+        - {x: -38.5, y: 6}
+        - {x: -26.499998, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_panel1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1645
+        width: 750
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -375, y: -201}
+        - {x: -375, y: 201}
+        - {x: 375, y: 201}
+        - {x: 375, y: -201}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_panel7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1179
+        width: 508
+        height: 345
+      alignment: 9
+      pivot: {x: 0.50098425, y: 0.4985507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -253.99998, y: -172.49998}
+        - {x: -253.99998, y: 172.5}
+        - {x: 253.99998, y: 172.5}
+        - {x: 253.99998, y: -172.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_panel5.png
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 927
+        width: 442
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -221, y: -164}
+        - {x: -221, y: 164}
+        - {x: 221, y: 164}
+        - {x: 221, y: -164}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_map
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1678
+        width: 655
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -327.5, y: -184.49998}
+        - {x: -327.5, y: 184.49998}
+        - {x: 326.5, y: 184.49998}
+        - {x: 327.5, y: 183.49998}
+        - {x: 327.5, y: -183.49998}
+        - {x: 326.5, y: -184.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_panel6Discussion
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 937
+        width: 446
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223, y: 177}
+        - {x: 222, y: 177}
+        - {x: 223, y: 174}
+        - {x: 223, y: -177}
+        - {x: -223, y: -177}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_panel6DiscussionChat
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1293
+        width: 517
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -258.5, y: -175}
+        - {x: -258.5, y: 175}
+        - {x: 258.5, y: 175}
+        - {x: 258.5, y: -175}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_PC_arrowKeys
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1529
+        width: 170
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.999998, y: 9}
+        - {x: -29.999998, y: 57}
+        - {x: 29.999998, y: 57}
+        - {x: 34, y: 2}
+        - {x: 85, y: 2}
+        - {x: 85, y: -57}
+        - {x: -85, y: -57}
+        - {x: -85, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_PC_arrowKeysSelected
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1590
+        width: 53
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.499998, y: 26.499998}
+        - {x: 26.499998, y: 26.499998}
+        - {x: 26.499998, y: -24.499998}
+        - {x: 24.499998, y: -26.499998}
+        - {x: -26.499998, y: -26.499998}
+        - {x: -26.499998, y: 24.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_panel8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 834
+        width: 438
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -219, y: -171.49998}
+        - {x: -219, y: 171.49998}
+        - {x: 219, y: 171.49998}
+        - {x: 219, y: -171.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impImage
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 844
+        width: 133
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: -8}
+        - {x: -66.5, y: 53.999996}
+        - {x: 34.5, y: 53.999996}
+        - {x: 66.5, y: 3}
+        - {x: 66.5, y: -53.999996}
+        - {x: -55.5, y: -53.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_host_left
+      rect:
+        serializedVersion: 2
+        x: 1924.0762
+        y: 1432
+        width: 119.84776
+        height: 155.92387
+      alignment: 9
+      pivot: {x: 0.5041715, y: 0.52269095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.000057, y: 24.038063}
+        - {x: -50.000057, y: 56.03806}
+        - {x: -18.000057, y: 79.03806}
+        - {x: 31.999943, y: 76.03806}
+        - {x: 62.999943, y: 37.03806}
+        - {x: 49.99994, y: -72.96194}
+        - {x: 44.999943, y: -77.96194}
+        - {x: -44.000057, y: -77.96194}
+        - {x: -49.000053, y: -72.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrewBottom
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1895
+        width: 616
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -308, y: -76}
+        - {x: -308, y: 76}
+        - {x: 308, y: 76}
+        - {x: 308, y: -76}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_host_top
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 954
+        width: 136
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 68}
+        - {x: 18, y: 68}
+        - {x: 44, y: 59.999996}
+        - {x: 68, y: 26.999998}
+        - {x: 68, y: -26}
+        - {x: 39.999996, y: -68}
+        - {x: -26, y: -68}
+        - {x: -48.999996, y: -56}
+        - {x: -68, y: -45}
+        - {x: -68, y: 31}
+        - {x: -37, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_host_lower
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1217
+        width: 104
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 52}
+        - {x: 26, y: 52}
+        - {x: 33, y: 2}
+        - {x: 52, y: -19.999998}
+        - {x: 52, y: -52}
+        - {x: -52, y: -52}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_host_bottom
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1223
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -17}
+        - {x: -34, y: 34}
+        - {x: 34, y: 34}
+        - {x: 34, y: -34}
+        - {x: -17, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      impTitle: 21300014
+      htp_panel8: 21300052
+      ImpTop: 21300012
+      htp_host_top: 21300060
+      htp_player3: 21300026
+      htp_arrows: 21300018
+      htp_player4: 21300028
+      htp_player5: 21300030
+      htp_couchBase5People: 21300020
+      tutorial_touchPoint: 21300034
+      CrewTitle: 21300004
+      htp_panel5.png: 21300040
+      htp_panel7: 21300038
+      htp_panel1: 21300036
+      htp_host_left: 21300056
+      CrewBottom: 21300058
+      CrewTop: 21300006
+      ImpBottom: 21300008
+      htp_panel6DiscussionChat: 21300046
+      htp_host_right: 21300002
+      htp_controlModeBg: 21300016
+      tutorial_hand: 21300032
+      htp_map: 21300042
+      htp_PC_arrowKeys: 21300048
+      impImage: 21300054
+      htp_PC_arrowKeysSelected: 21300050
+      htp_host_lower: 21300062
+      htp_player2: 21300024
+      htp_host_bottom: 21300064
+      htp_panel6Discussion: 21300044
+      htp_PC_mouseCursor: 21300000
+      htp_player1: 21300022
+      CrewImage: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

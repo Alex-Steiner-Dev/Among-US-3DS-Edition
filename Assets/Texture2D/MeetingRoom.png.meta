@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: f56c9c6c9a203bb4bb59340a9059ca70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: task_enterID
+  - first:
+      213: 21300002
+    second: task_bigoroncode
+  - first:
+      213: 21300004
+    second: meeting_main
+  - first:
+      213: 21300006
+    second: task_wiresMeeting
+  - first:
+      213: 21300008
+    second: meeting_side
+  - first:
+      213: 21300010
+    second: panel_garbagelever
+  - first:
+      213: 21300012
+    second: meeting_table
+  - first:
+      213: 21300014
+    second: ladder_meeting
+  - first:
+      213: 21300016
+    second: task_emergency
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: task_enterID
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1026
+        width: 73
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.499996, y: -28.5}
+        - {x: -36.499996, y: 28.5}
+        - {x: 36.499996, y: 28.5}
+        - {x: 36.499996, y: -28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_bigoroncode
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1087
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -37}
+        - {x: -37, y: 37}
+        - {x: 37, y: 37}
+        - {x: 37, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 406
+        width: 1722
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -539, y: 377.5}
+        - {x: 830, y: 377.5}
+        - {x: 843.99994, y: 347.5}
+        - {x: 847.99994, y: 164.5}
+        - {x: 860.99994, y: 148.5}
+        - {x: 860.99994, y: 139.5}
+        - {x: 820, y: 129.5}
+        - {x: 820, y: 59.499996}
+        - {x: 830.99994, y: 46.5}
+        - {x: 837, y: -77.5}
+        - {x: 860.99994, y: -77.5}
+        - {x: 860.99994, y: -88.5}
+        - {x: 847, y: -94.5}
+        - {x: 860.99994, y: -206.5}
+        - {x: 860.99994, y: -269.5}
+        - {x: 722, y: -288.5}
+        - {x: 523, y: -302.5}
+        - {x: 266, y: -303.5}
+        - {x: -213.99998, y: -277.5}
+        - {x: -309, y: -273.5}
+        - {x: -458, y: -259.5}
+        - {x: -458, y: -377.5}
+        - {x: -510, y: -377.5}
+        - {x: -544, y: -352.5}
+        - {x: -610.99994, y: -347.5}
+        - {x: -662, y: -355.49997}
+        - {x: -687.99994, y: -377.5}
+        - {x: -714, y: -377.5}
+        - {x: -737, y: -354.49997}
+        - {x: -741.99994, y: -251.49998}
+        - {x: -793, y: -165.5}
+        - {x: -860.99994, y: -145.5}
+        - {x: -860.99994, y: 314.5}
+        - {x: -850, y: 363.5}
+        - {x: -614, y: 370.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_wiresMeeting
+      rect:
+        serializedVersion: 2
+        x: 355.0761
+        y: 366.0761
+        width: 49.847755
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.51003075, y: 0.48605245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.999989, y: -18.999989}
+        - {x: -25.999989, y: 18.000011}
+        - {x: 26.000011, y: 18.000011}
+        - {x: 26.000011, y: -18.999989}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_side
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6
+        width: 575
+        height: 478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -276.5, y: -184.99998}
+        - {x: -287.5, y: -195.99998}
+        - {x: -287.5, y: 238.99998}
+        - {x: 283.5, y: 238.99998}
+        - {x: 283.5, y: -212.99998}
+        - {x: 287.5, y: -218}
+        - {x: 287.5, y: -238.99998}
+        - {x: -272.5, y: -238.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_garbagelever
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 445
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -15.5}
+        - {x: -12, y: 15.5}
+        - {x: 12, y: 15.5}
+        - {x: 12, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_table
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 234
+        width: 681
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -311.5, y: 120.99999}
+        - {x: -276.5, y: 120.99999}
+        - {x: -246.49998, y: 85}
+        - {x: -217.5, y: 97}
+        - {x: -203.49998, y: 116.99999}
+        - {x: -196.49998, y: 120.99999}
+        - {x: -162.5, y: 120.99999}
+        - {x: -130.5, y: 82}
+        - {x: -99.5, y: 82}
+        - {x: -63.5, y: 118.99999}
+        - {x: -58.499996, y: 120.99999}
+        - {x: -19.5, y: 120.99999}
+        - {x: 8.5, y: 89}
+        - {x: 26.499998, y: 120.99999}
+        - {x: 66.5, y: 120.99999}
+        - {x: 109.5, y: 79.99999}
+        - {x: 125.5, y: 79}
+        - {x: 169.5, y: 120.99999}
+        - {x: 205.5, y: 120.99999}
+        - {x: 232.5, y: 93}
+        - {x: 257.5, y: 120.99999}
+        - {x: 291.5, y: 120.99999}
+        - {x: 340.5, y: 72}
+        - {x: 340.5, y: -104}
+        - {x: 315.5, y: -120.99999}
+        - {x: 257.5, y: -120.99999}
+        - {x: 228.49998, y: -101}
+        - {x: 198.5, y: -120.99999}
+        - {x: 128.5, y: -120.99999}
+        - {x: 114.5, y: -88}
+        - {x: 91.5, y: -120.99999}
+        - {x: 34.5, y: -120.99999}
+        - {x: -10.5, y: -104.99999}
+        - {x: -22.5, y: -120.99999}
+        - {x: -91.5, y: -120.99999}
+        - {x: -114.5, y: -90}
+        - {x: -136.5, y: -120.99999}
+        - {x: -200.49998, y: -120.99999}
+        - {x: -223.49998, y: -104}
+        - {x: -258.5, y: -120.99999}
+        - {x: -309.5, y: -120.99999}
+        - {x: -340.5, y: -90}
+        - {x: -340.5, y: 91.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder_meeting
+      rect:
+        serializedVersion: 2
+        x: 1730.0762
+        y: 244.02675
+        width: 67.84776
+        height: 673.94653
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.5007419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.000053, y: 338}
+        - {x: -16.000053, y: 338}
+        - {x: -14.000053, y: 254.99998}
+        - {x: 13.999947, y: 254.99998}
+        - {x: 15.999947, y: 338}
+        - {x: 34.999947, y: 338}
+        - {x: 34.999947, y: -338}
+        - {x: -35.000053, y: -338}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_emergency
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 976
+        width: 51
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -22.999998}
+        - {x: -25.5, y: 22.999998}
+        - {x: 25.5, y: 22.999998}
+        - {x: 25.5, y: -22.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      meeting_side: 21300008
+      meeting_main: 21300004
+      task_enterID: 21300000
+      task_wiresMeeting: 21300006
+      task_emergency: 21300016
+      ladder_meeting: 21300014
+      panel_garbagelever: 21300010
+      task_bigoroncode: 21300002
+      meeting_table: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

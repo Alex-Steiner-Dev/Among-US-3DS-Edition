@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: b6ad876705bc4024ea755bf35a2a018e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Steering_wheelOutline
+  - first:
+      213: 21300002
+    second: Steering_wheel
+  - first:
+      213: 21300004
+    second: steering_arrow
+  - first:
+      213: 21300006
+    second: steering_thrust
+  - first:
+      213: 21300008
+    second: steering_thrustback
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Steering_wheelOutline
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 346.9239
+        height: 374
+      alignment: 9
+      pivot: {x: 0.50299215, y: 0.34981284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -167.46194, y: 15}
+        - {x: -173.46194, y: 83.999985}
+        - {x: -173.46194, y: 187}
+        - {x: -104.46194, y: 187}
+        - {x: -76.461945, y: 178.99998}
+        - {x: -63.461945, y: 143}
+        - {x: -76.461945, y: 10.999992}
+        - {x: -63.461945, y: -32}
+        - {x: -50.461945, y: 2}
+        - {x: 25.538054, y: 16}
+        - {x: 69.538055, y: -30}
+        - {x: 74.53805, y: 15}
+        - {x: 57.538055, y: 157}
+        - {x: 89.538055, y: 187}
+        - {x: 147.53804, y: 187}
+        - {x: 172.53804, y: 162}
+        - {x: 172.53804, y: 89}
+        - {x: 166.53806, y: 52}
+        - {x: 175.53806, y: -121}
+        - {x: 163.53806, y: -144}
+        - {x: 77.538055, y: -186}
+        - {x: 38.538055, y: -186}
+        - {x: -4.4619446, y: -146}
+        - {x: -36.461945, y: -187}
+        - {x: -79.461945, y: -186}
+        - {x: -162.46194, y: -148}
+        - {x: -173.46194, y: -131}
+        - {x: -173.46194, y: -53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steering_wheel
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 340
+        height: 368
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35326087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 82}
+        - {x: -170, y: 183.99998}
+        - {x: -93, y: 183.99998}
+        - {x: -66, y: 158.99998}
+        - {x: -75, y: -17}
+        - {x: -66, y: -78}
+        - {x: -68, y: -153}
+        - {x: -44, y: -135}
+        - {x: -64, y: -40}
+        - {x: -36, y: 3}
+        - {x: 21, y: 10}
+        - {x: 66, y: -32}
+        - {x: 55, y: -78}
+        - {x: 34, y: -108}
+        - {x: 50, y: -150}
+        - {x: 65, y: -158}
+        - {x: 69, y: -63}
+        - {x: 76, y: -3}
+        - {x: 63, y: 164}
+        - {x: 97, y: 183.99998}
+        - {x: 145, y: 183.99998}
+        - {x: 170, y: 164}
+        - {x: 170, y: 85}
+        - {x: 163, y: 4}
+        - {x: 170, y: -54}
+        - {x: 170, y: -140}
+        - {x: 79, y: -184}
+        - {x: 39.999996, y: -184}
+        - {x: -7, y: -141}
+        - {x: -36, y: -184}
+        - {x: -77, y: -184}
+        - {x: -165, y: -152}
+        - {x: -170, y: -128}
+        - {x: -170, y: -51}
+        - {x: -164, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steering_arrow
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 607
+        width: 69
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 27.5}
+        - {x: -16.5, y: 27.5}
+        - {x: 34.5, y: 12.5}
+        - {x: 34.5, y: -9.5}
+        - {x: -21.499998, y: -27.499998}
+        - {x: -34.5, y: -26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steering_thrust
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 197
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.49999, y: -25.5}
+        - {x: -98.49999, y: 25.5}
+        - {x: 98.49999, y: 25.5}
+        - {x: 98.49999, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steering_thrustback
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 350
+        width: 67
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.499996, y: -220.5}
+        - {x: -33.499996, y: 220.5}
+        - {x: 33.499996, y: 220.5}
+        - {x: 33.499996, y: -220.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      steering_thrust: 21300006
+      steering_arrow: 21300004
+      Steering_wheel: 21300002
+      Steering_wheelOutline: 21300000
+      steering_thrustback: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

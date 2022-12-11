@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 239742767552f6640a4b0cfdd7feacbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: announcementsBanner
+  - first:
+      213: 21300002
+    second: sabotage
+  - first:
+      213: 21300004
+    second: button_skipVote
+  - first:
+      213: 21300006
+    second: proceed_button
+  - first:
+      213: 21300008
+    second: roles_protect_ability
+  - first:
+      213: 21300010
+    second: roles_vent_ability
+  - first:
+      213: 21300012
+    second: roles_vitals_ability
+  - first:
+      213: 21300014
+    second: freeplay
+  - first:
+      213: 21300016
+    second: roles_shapeshift_ability
+  - first:
+      213: 21300018
+    second: online
+  - first:
+      213: 21300020
+    second: wardrobe
+  - first:
+      213: 21300022
+    second: mapAdminAirship
+  - first:
+      213: 21300024
+    second: vitalsButton
+  - first:
+      213: 21300026
+    second: use
+  - first:
+      213: 21300028
+    second: vent
+  - first:
+      213: 21300030
+    second: mapAdminMIRA
+  - first:
+      213: 21300032
+    second: mapAdmin
+  - first:
+      213: 21300034
+    second: mapAdminPolus
+  - first:
+      213: 21300036
+    second: security
+  - first:
+      213: 21300038
+    second: kill
+  - first:
+      213: 21300040
+    second: doorlogBase
+  - first:
+      213: 21300042
+    second: customize
+  - first:
+      213: 21300044
+    second: start
+  - first:
+      213: 21300046
+    second: report
+  - first:
+      213: 21300048
+    second: publicGame
+  - first:
+      213: 21300050
+    second: privateGame
+  - first:
+      213: 21300052
+    second: quit
+  - first:
+      213: 21300054
+    second: play_again
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: announcementsBanner
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 968
+        width: 345
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -172.49998, y: -27.5}
+        - {x: -172.49998, y: 27.5}
+        - {x: 172.49998, y: 27.5}
+        - {x: 172.49998, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabotage
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 29.07612
+        width: 105.92388
+        height: 109.92388
+      alignment: 9
+      pivot: {x: 0.5090814, y: 0.49055657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.038063, y: 54.96194}
+        - {x: 52.961933, y: 54.96194}
+        - {x: 52.961933, y: -27.03806}
+        - {x: 12.961937, y: -53.03806}
+        - {x: -14.038063, y: -57.03806}
+        - {x: -53.038063, y: -52.03806}
+        - {x: -52.038063, y: 26.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_skipVote
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 110
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -12.5}
+        - {x: -55, y: 12.5}
+        - {x: 55, y: 12.5}
+        - {x: 55, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proceed_button
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 517
+        width: 115
+        height: 60
+      alignment: 9
+      pivot: {x: 0.46521738, y: 0.49166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.499996, y: 30}
+        - {x: -38.5, y: 30}
+        - {x: 57.5, y: 6}
+        - {x: 57.5, y: -7}
+        - {x: -45.5, y: -29.999998}
+        - {x: -57.499996, y: -29.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_protect_ability
+      rect:
+        serializedVersion: 2
+        x: 230.07613
+        y: 336.02676
+        width: 109.92388
+        height: 111.97325
+      alignment: 9
+      pivot: {x: 0.4996537, y: 0.41950408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.038067, y: 22.98661}
+        - {x: -19.038067, y: 55.98661}
+        - {x: 15.961933, y: 55.98661}
+        - {x: 54.961933, y: 31.98661}
+        - {x: 54.961933, y: -28.01339}
+        - {x: 28.961933, y: -51.01339}
+        - {x: -14.038067, y: -62.013386}
+        - {x: -54.038063, y: -29.013388}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_vent_ability
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 110
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19883747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 22.53806}
+        - {x: -55, y: 35.53806}
+        - {x: 29, y: 36.538055}
+        - {x: 55, y: 1.5380592}
+        - {x: 55, y: -14.461941}
+        - {x: 29, y: -36.46194}
+        - {x: -55, y: -36.46194}
+        - {x: -55, y: -24.46194}
+        - {x: -39.999996, y: -6.461941}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_vitals_ability
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 579
+        width: 115
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: -40}
+        - {x: -57.5, y: 40}
+        - {x: 57.5, y: 40}
+        - {x: 57.5, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freeplay
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 776
+        width: 190
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -24}
+        - {x: -95, y: 24}
+        - {x: 95, y: 24}
+        - {x: 95, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roles_shapeshift_ability
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 558
+        width: 114.92388
+        height: 100.92388
+      alignment: 9
+      pivot: {x: 0.4996688, y: 0.38147563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.538063, y: -8.461941}
+        - {x: -57.538063, y: 20.53806}
+        - {x: -31.538063, y: 50.53806}
+        - {x: 22.461937, y: 49.53806}
+        - {x: 57.461937, y: 14.538057}
+        - {x: 57.461937, y: -25.46194}
+        - {x: 19.461937, y: -50.46194}
+        - {x: -40.538063, y: -50.46194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: online
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 826
+        width: 190
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -39}
+        - {x: -95, y: 39}
+        - {x: 95, y: 39}
+        - {x: 95, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223.02675
+        width: 109.97325
+        height: 104.97325
+      alignment: 9
+      pivot: {x: 0.5001216, y: 0.476057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.98663, y: 52.486626}
+        - {x: 5.01337, y: 52.486626}
+        - {x: 22.01337, y: 28.486626}
+        - {x: 53.013367, y: 26.486626}
+        - {x: 55.01337, y: -12.513373}
+        - {x: 52.01337, y: -19.513374}
+        - {x: -1.9866295, y: -54.513374}
+        - {x: -54.98663, y: -18.513374}
+        - {x: -54.98663, y: 25.486626}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapAdminAirship
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 186
+        width: 110
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 52.499996}
+        - {x: 19, y: 52.499996}
+        - {x: 55, y: 34.5}
+        - {x: 55, y: 9.5}
+        - {x: 4, y: -52.499996}
+        - {x: -4.9999995, y: -52.499996}
+        - {x: -52.999996, y: 8.5}
+        - {x: -55, y: 12.5}
+        - {x: -55, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitalsButton
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 450
+        width: 113
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30379745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -39.5}
+        - {x: -56.5, y: 39.5}
+        - {x: 56.5, y: 39.5}
+        - {x: 56.5, y: -39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: use
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 107
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.499996, y: 43.5}
+        - {x: -53.499996, y: 53.499996}
+        - {x: 53.499996, y: 53.499996}
+        - {x: 53.499996, y: 43.5}
+        - {x: 5.5, y: -53.499996}
+        - {x: -3.5, y: -53.499996}
+        - {x: -6.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 19
+        width: 110
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.999996, y: 36}
+        - {x: 29.999998, y: 36}
+        - {x: 55, y: 0.99999905}
+        - {x: 55, y: -11}
+        - {x: 29.999998, y: -36}
+        - {x: -55, y: -36}
+        - {x: -55, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapAdminMIRA
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 360.0761
+        width: 110
+        height: 126.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4997002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 18.461948}
+        - {x: 55, y: -13.538051}
+        - {x: 6, y: -62.53805}
+        - {x: -2, y: -63.53805}
+        - {x: -53.999996, y: -8.538052}
+        - {x: -55, y: -6.5380516}
+        - {x: -55, y: 21.461946}
+        - {x: 3, y: 63.46195}
+        - {x: 39.999996, y: 63.46195}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapAdmin
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 254.07613
+        width: 110
+        height: 103.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47076643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 51.961933}
+        - {x: 29.999998, y: 51.961933}
+        - {x: 55, y: 26.961931}
+        - {x: 55, y: 13.961933}
+        - {x: -1, y: -58.038067}
+        - {x: -55, y: 7.961933}
+        - {x: -55, y: 31.961933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapAdminPolus
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 293
+        width: 110
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49561402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -3, y: 57}
+        - {x: 55, y: 38}
+        - {x: 55, y: -5}
+        - {x: 3, y: -57}
+        - {x: -4, y: -57}
+        - {x: -52.999996, y: -19}
+        - {x: -55, y: -17}
+        - {x: -55, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: security
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 110
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -37}
+        - {x: -55, y: 37}
+        - {x: 55, y: 37}
+        - {x: 55, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kill
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -19.999998}
+        - {x: -55, y: 55}
+        - {x: 35, y: 55}
+        - {x: 55, y: 18}
+        - {x: 55, y: -22}
+        - {x: 28, y: -55}
+        - {x: -39, y: -55}
+        - {x: -52, y: -38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorlogBase
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 422.02676
+        width: 112
+        height: 92.97325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40843183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 46.48661}
+        - {x: 13, y: 46.48661}
+        - {x: 56, y: 3.4866104}
+        - {x: 56, y: -45.51339}
+        - {x: 26.999998, y: -45.51339}
+        - {x: -2, y: -20.51339}
+        - {x: -41, y: -59.51339}
+        - {x: -56, y: -43.51339}
+        - {x: -56, y: 26.48661}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: customize
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 93
+        width: 107
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.3956044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.499996, y: -18.5}
+        - {x: -53.499996, y: 45.5}
+        - {x: 26.5, y: 45.5}
+        - {x: 53.499996, y: -30.5}
+        - {x: 53.499996, y: -45.5}
+        - {x: -26.499998, y: -45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start
+      rect:
+        serializedVersion: 2
+        x: 303.02676
+        y: 665
+        width: 170.97325
+        height: 107.95709
+      alignment: 9
+      pivot: {x: 0.4589796, y: 0.5001987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.51339, y: 52.021454}
+        - {x: -78.51339, y: 55.021454}
+        - {x: 85.4866, y: 7.021454}
+        - {x: 85.4866, y: -7.978546}
+        - {x: -71.51339, y: -53.978542}
+        - {x: -84.51339, y: -53.978542}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: report
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446.00598
+        width: 113
+        height: 109.994026
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49997276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 54.997005}
+        - {x: 36.499996, y: 54.997005}
+        - {x: 39.5, y: 53.997}
+        - {x: 56.5, y: 24.997005}
+        - {x: 56.5, y: -51.002995}
+        - {x: -3.5, y: -55.002995}
+        - {x: -41.5, y: -47.002995}
+        - {x: -56.5, y: -16.002995}
+        - {x: -56.5, y: 50.997005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: publicGame
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 489
+        width: 112
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -19.999998}
+        - {x: -56, y: 19.999998}
+        - {x: 56, y: 19.999998}
+        - {x: 56, y: -19.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: privateGame
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 404
+        width: 112
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -19.999998}
+        - {x: -56, y: 19.999998}
+        - {x: 56, y: 19.999998}
+        - {x: 56, y: -19.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit
+      rect:
+        serializedVersion: 2
+        x: 352.0761
+        y: 910.0761
+        width: 113.84776
+        height: 112.92388
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.3446914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.999992, y: 56.46195}
+        - {x: -24.999992, y: 56.46195}
+        - {x: -0.9999924, y: 34.46195}
+        - {x: 24.000008, y: 56.46195}
+        - {x: 33.000008, y: 56.46195}
+        - {x: 61.000008, y: 28.461945}
+        - {x: 35.000008, y: 0.4619484}
+        - {x: 59.000004, y: -28.538052}
+        - {x: 27.000006, y: -60.538048}
+        - {x: -1.9999924, y: -34.53805}
+        - {x: -26.99999, y: -60.538048}
+        - {x: -59.99999, y: -27.538052}
+        - {x: -33.999992, y: 2.4619465}
+        - {x: -60.999992, y: 29.461948}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_again
+      rect:
+        serializedVersion: 2
+        x: 306.0111
+        y: 537.0761
+        width: 112.912766
+        height: 125.92388
+      alignment: 9
+      pivot: {x: 0.5047161, y: 0.3249891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.467491, y: 62.96195}
+        - {x: 11.532509, y: 62.96195}
+        - {x: 51.53251, y: 14.961948}
+        - {x: 60.532505, y: -11.038052}
+        - {x: 42.53251, y: -60.03805}
+        - {x: -37.46749, y: -69.038055}
+        - {x: -41.46749, y: -16.038052}
+        - {x: -59.467487, y: 3.9619484}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      roles_vitals_ability: 21300012
+      report: 21300046
+      customize: 21300042
+      roles_protect_ability: 21300008
+      wardrobe: 21300020
+      kill: 21300038
+      publicGame: 21300048
+      use: 21300026
+      mapAdminMIRA: 21300030
+      quit: 21300052
+      play_again: 21300054
+      announcementsBanner: 21300000
+      roles_vent_ability: 21300010
+      proceed_button: 21300006
+      privateGame: 21300050
+      roles_shapeshift_ability: 21300016
+      mapAdmin: 21300032
+      vent: 21300028
+      freeplay: 21300014
+      security: 21300036
+      sabotage: 21300002
+      mapAdminAirship: 21300022
+      doorlogBase: 21300040
+      online: 21300018
+      start: 21300044
+      vitalsButton: 21300024
+      mapAdminPolus: 21300034
+      button_skipVote: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

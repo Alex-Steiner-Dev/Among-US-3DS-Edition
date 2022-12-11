@@ -1,0 +1,5666 @@
+fileFormatVersion: 2
+guid: aa54d8faaa4e9f44ebe3dbdd95c72d9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0039
+  - first:
+      213: 21300002
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0005
+  - first:
+      213: 21300004
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0053
+  - first:
+      213: 21300006
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0004
+  - first:
+      213: 21300008
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0007
+  - first:
+      213: 21300010
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0012
+  - first:
+      213: 21300012
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0047
+  - first:
+      213: 21300014
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0022
+  - first:
+      213: 21300016
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0004
+  - first:
+      213: 21300018
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0037
+  - first:
+      213: 21300020
+    second: 2022_holidaycube_skin_GreedyGrampa_Ejected
+  - first:
+      213: 21300022
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0017
+  - first:
+      213: 21300024
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0007
+  - first:
+      213: 21300026
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0002
+  - first:
+      213: 21300028
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0044
+  - first:
+      213: 21300030
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0042
+  - first:
+      213: 21300032
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0002
+  - first:
+      213: 21300034
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0001
+  - first:
+      213: 21300036
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0044
+  - first:
+      213: 21300038
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0035
+  - first:
+      213: 21300040
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0002
+  - first:
+      213: 21300042
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0011
+  - first:
+      213: 21300044
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0015
+  - first:
+      213: 21300046
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0031
+  - first:
+      213: 21300048
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0017
+  - first:
+      213: 21300050
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0001
+  - first:
+      213: 21300052
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0014
+  - first:
+      213: 21300054
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0043
+  - first:
+      213: 21300056
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0006
+  - first:
+      213: 21300058
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0033
+  - first:
+      213: 21300060
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0005
+  - first:
+      213: 21300062
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0006
+  - first:
+      213: 21300064
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0008
+  - first:
+      213: 21300066
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0007
+  - first:
+      213: 21300068
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0001
+  - first:
+      213: 21300070
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0011
+  - first:
+      213: 21300072
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0040
+  - first:
+      213: 21300074
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0055
+  - first:
+      213: 21300076
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0012
+  - first:
+      213: 21300078
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0054
+  - first:
+      213: 21300080
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0022
+  - first:
+      213: 21300082
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0012
+  - first:
+      213: 21300084
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0041
+  - first:
+      213: 21300086
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0038
+  - first:
+      213: 21300088
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0028
+  - first:
+      213: 21300090
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0027
+  - first:
+      213: 21300092
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0006
+  - first:
+      213: 21300094
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0003
+  - first:
+      213: 21300096
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0008
+  - first:
+      213: 21300098
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbdownMain
+  - first:
+      213: 21300100
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0019
+  - first:
+      213: 21300102
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0004
+  - first:
+      213: 21300104
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0034
+  - first:
+      213: 21300106
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0045
+  - first:
+      213: 21300108
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0045
+  - first:
+      213: 21300110
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0007
+  - first:
+      213: 21300112
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0008
+  - first:
+      213: 21300114
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0050
+  - first:
+      213: 21300116
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0009
+  - first:
+      213: 21300118
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0008
+  - first:
+      213: 21300120
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0030
+  - first:
+      213: 21300122
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0052
+  - first:
+      213: 21300124
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0055
+  - first:
+      213: 21300126
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0023
+  - first:
+      213: 21300128
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0003
+  - first:
+      213: 21300130
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0012
+  - first:
+      213: 21300132
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0026
+  - first:
+      213: 21300134
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0036
+  - first:
+      213: 21300136
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0014
+  - first:
+      213: 21300138
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0004
+  - first:
+      213: 21300140
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0049
+  - first:
+      213: 21300142
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0013
+  - first:
+      213: 21300144
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0011
+  - first:
+      213: 21300146
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0052
+  - first:
+      213: 21300148
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0010
+  - first:
+      213: 21300150
+    second: 2022_holidaycube_skin_GreedyGrampa_IdleMirror
+  - first:
+      213: 21300152
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0033
+  - first:
+      213: 21300154
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0003
+  - first:
+      213: 21300156
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0036
+  - first:
+      213: 21300158
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0010
+  - first:
+      213: 21300160
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0054
+  - first:
+      213: 21300162
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0009
+  - first:
+      213: 21300164
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0025
+  - first:
+      213: 21300166
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0006
+  - first:
+      213: 21300168
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0009
+  - first:
+      213: 21300170
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0013
+  - first:
+      213: 21300172
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0053
+  - first:
+      213: 21300174
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0009
+  - first:
+      213: 21300176
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0001
+  - first:
+      213: 21300178
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0009
+  - first:
+      213: 21300180
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0003
+  - first:
+      213: 21300182
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0005
+  - first:
+      213: 21300184
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0050
+  - first:
+      213: 21300186
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0030
+  - first:
+      213: 21300188
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0031
+  - first:
+      213: 21300190
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0039
+  - first:
+      213: 21300192
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0003
+  - first:
+      213: 21300194
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0020
+  - first:
+      213: 21300196
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0048
+  - first:
+      213: 21300198
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0037
+  - first:
+      213: 21300200
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0009
+  - first:
+      213: 21300202
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0038
+  - first:
+      213: 21300204
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0004
+  - first:
+      213: 21300206
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0013
+  - first:
+      213: 21300208
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0007
+  - first:
+      213: 21300210
+    second: 2022_holidaycube_skin_GreedyGrampa_Idle
+  - first:
+      213: 21300212
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0049
+  - first:
+      213: 21300214
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0051
+  - first:
+      213: 21300216
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0025
+  - first:
+      213: 21300218
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0019
+  - first:
+      213: 21300220
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0043
+  - first:
+      213: 21300222
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0023
+  - first:
+      213: 21300224
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0003
+  - first:
+      213: 21300226
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0018
+  - first:
+      213: 21300228
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0029
+  - first:
+      213: 21300230
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0006
+  - first:
+      213: 21300232
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0005
+  - first:
+      213: 21300234
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0024
+  - first:
+      213: 21300236
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0028
+  - first:
+      213: 21300238
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0012
+  - first:
+      213: 21300240
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0048
+  - first:
+      213: 21300242
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0007
+  - first:
+      213: 21300244
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0010
+  - first:
+      213: 21300246
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0001
+  - first:
+      213: 21300248
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0006
+  - first:
+      213: 21300250
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0029
+  - first:
+      213: 21300252
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0005
+  - first:
+      213: 21300254
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0002
+  - first:
+      213: 21300256
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0010
+  - first:
+      213: 21300258
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0004
+  - first:
+      213: 21300260
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0021
+  - first:
+      213: 21300262
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0041
+  - first:
+      213: 21300264
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0051
+  - first:
+      213: 21300266
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0008
+  - first:
+      213: 21300268
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0032
+  - first:
+      213: 21300270
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0001
+  - first:
+      213: 21300272
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0006
+  - first:
+      213: 21300274
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0008
+  - first:
+      213: 21300276
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0046
+  - first:
+      213: 21300278
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0008
+  - first:
+      213: 21300280
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0020
+  - first:
+      213: 21300282
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0046
+  - first:
+      213: 21300284
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0005
+  - first:
+      213: 21300286
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0001
+  - first:
+      213: 21300288
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0009
+  - first:
+      213: 21300290
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0004
+  - first:
+      213: 21300292
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0015
+  - first:
+      213: 21300294
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0047
+  - first:
+      213: 21300296
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0002
+  - first:
+      213: 21300298
+    second: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0005
+  - first:
+      213: 21300300
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0018
+  - first:
+      213: 21300302
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0002
+  - first:
+      213: 21300304
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0010
+  - first:
+      213: 21300306
+    second: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0002
+  - first:
+      213: 21300308
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0026
+  - first:
+      213: 21300310
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0024
+  - first:
+      213: 21300312
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0027
+  - first:
+      213: 21300314
+    second: 2022_holidaycube_skin_GreedyGrampa_Vententer0007
+  - first:
+      213: 21300316
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0042
+  - first:
+      213: 21300318
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0016
+  - first:
+      213: 21300320
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0040
+  - first:
+      213: 21300322
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0035
+  - first:
+      213: 21300324
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0003
+  - first:
+      213: 21300326
+    second: 2022_holidaycube_skin_GreedyGrampa_Spawn0032
+  - first:
+      213: 21300328
+    second: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0011
+  - first:
+      213: 21300330
+    second: 2022_holidaycube_skin_GreedyGrampa_Walk0011
+  - first:
+      213: 21300332
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0034
+  - first:
+      213: 21300334
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0016
+  - first:
+      213: 21300336
+    second: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0021
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0039
+      rect:
+        serializedVersion: 2
+        x: 827.0761
+        y: 730.02673
+        width: 174.87617
+        height: 122.921936
+      alignment: 9
+      pivot: {x: 0.048170593, y: 0.49603242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5142, y: 10.512299}
+        - {x: -33.5142, y: 63.5123}
+        - {x: 8.485802, y: 44.5123}
+        - {x: 88.4858, y: 43.5123}
+        - {x: 78.4858, y: -53.487698}
+        - {x: -34.5142, y: -63.4877}
+        - {x: -95.5142, y: -21.487701}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0005
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 797.0761
+        width: 173.92387
+        height: 119.91097
+      alignment: 9
+      pivot: {x: 0.56346494, y: 0.4997365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.96192, y: 4.9684024}
+        - {x: -52.96193, y: 62.968403}
+        - {x: 77.03807, y: 41.968403}
+        - {x: 91.03806, y: -23.031595}
+        - {x: 79.03807, y: -49.031593}
+        - {x: 13.038071, y: -61.031597}
+        - {x: -86.96192, y: -27.031595}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0053
+      rect:
+        serializedVersion: 2
+        x: 1757.0413
+        y: 535.0761
+        width: 134.95868
+        height: 126.92388
+      alignment: 9
+      pivot: {x: 1.1370795, y: 1.2284834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5206, y: 63.461945}
+        - {x: 67.4794, y: 63.461945}
+        - {x: 67.4794, y: -19.538055}
+        - {x: 44.4794, y: -71.538055}
+        - {x: -47.520584, y: -52.538055}
+        - {x: -68.5206, y: -16.538055}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0004
+      rect:
+        serializedVersion: 2
+        x: 1718.0267
+        y: 934.02673
+        width: 176.89713
+        height: 116.934494
+      alignment: 9
+      pivot: {x: 0.45208913, y: 0.6668115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.475296, y: -59.49398}
+        - {x: -97.475296, y: -32.49398}
+        - {x: -60.475296, y: 67.50602}
+        - {x: 7.524704, y: 44.50602}
+        - {x: 68.524704, y: 50.50602}
+        - {x: 89.5247, y: -32.49398}
+        - {x: 70.524704, y: -70.49398}
+        - {x: 27.524704, y: -45.49398}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0007
+      rect:
+        serializedVersion: 2
+        x: 593.02673
+        y: 712.0761
+        width: 166.9465
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.4790353, y: 0.52275366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.499985, y: 63.00001}
+        - {x: -24.499985, y: 68.000015}
+        - {x: -0.49998474, y: 53.000015}
+        - {x: 69.50001, y: 53.000015}
+        - {x: 92.500015, y: -55.99998}
+        - {x: 44.500015, y: -68.999985}
+        - {x: 13.500015, y: -44.999985}
+        - {x: -49.49998, y: -44.999985}
+        - {x: -89.49998, y: -11.999984}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0012
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 899.0761
+        width: 184.97325
+        height: 128.89713
+      alignment: 9
+      pivot: {x: 0.5298063, y: 0.775222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.48662, y: -20.524673}
+        - {x: -92.48662, y: 21.475327}
+        - {x: -56.486626, y: 44.475327}
+        - {x: -47.48662, y: 77.47533}
+        - {x: 15.513373, y: 45.475327}
+        - {x: 78.51337, y: 45.475327}
+        - {x: 99.513374, y: -14.524673}
+        - {x: 59.51337, y: -54.524673}
+        - {x: 5.5133743, y: -70.524666}
+        - {x: -23.486626, y: -39.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0047
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 575.0761
+        width: 175.92387
+        height: 136.89713
+      alignment: 9
+      pivot: {x: 0.7697868, y: 0.24050096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.03806, y: 12.475327}
+        - {x: -46.038063, y: 68.47533}
+        - {x: 21.961937, y: 62.47532}
+        - {x: 87.96194, y: 73.47533}
+        - {x: 87.96194, y: -22.524673}
+        - {x: -12.038059, y: -70.52467}
+        - {x: -77.03806, y: -58.524673}
+        - {x: -90.03806, y: -30.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0022
+      rect:
+        serializedVersion: 2
+        x: 224.05972
+        y: 1273.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.892429, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.9918, y: -37.975296}
+        - {x: -106.9918, y: -9.975296}
+        - {x: -70.9918, y: 29.024704}
+        - {x: -67.9918, y: 72.024704}
+        - {x: -15.991798, y: 59.024704}
+        - {x: 51.0082, y: 51.024704}
+        - {x: 62.0082, y: 51.024704}
+        - {x: 102.0082, y: -21.975296}
+        - {x: 83.0082, y: -47.975296}
+        - {x: 16.008205, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0004
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 797.0761
+        width: 173.92387
+        height: 119.91097
+      alignment: 9
+      pivot: {x: 0.56346494, y: 0.34962514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.96192, y: 4.968401}
+        - {x: -52.96193, y: 62.968403}
+        - {x: 77.03807, y: 41.9684}
+        - {x: 91.03806, y: -23.031597}
+        - {x: 79.03807, y: -49.031597}
+        - {x: 13.038071, y: -61.031593}
+        - {x: -86.96192, y: -27.031597}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0037
+      rect:
+        serializedVersion: 2
+        x: 397.0363
+        y: 844.0761
+        width: 187.96371
+        height: 122.894394
+      alignment: 9
+      pivot: {x: 0.92285746, y: 0.520153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.01814, y: 51.476685}
+        - {x: 13.981857, y: 51.476685}
+        - {x: 43.981857, y: 63.47669}
+        - {x: 93.98186, y: 13.476688}
+        - {x: 93.98186, y: -23.523312}
+        - {x: 43.981857, y: -65.523315}
+        - {x: -70.01814, y: -50.523308}
+        - {x: -94.01814, y: -30.523312}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Ejected
+      rect:
+        serializedVersion: 2
+        x: 349.0761
+        y: 254.02675
+        width: 145.89713
+        height: 145.9465
+      alignment: 9
+      pivot: {x: 0.4004458, y: 0.67472154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.02467, y: -23.999996}
+        - {x: -68.02467, y: 49}
+        - {x: 29.975327, y: 79}
+        - {x: 64.97532, y: 61.999996}
+        - {x: 73.97533, y: -21}
+        - {x: 16.975327, y: -68}
+        - {x: -55.024673, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0017
+      rect:
+        serializedVersion: 2
+        x: 1850.0762
+        y: 1906.0762
+        width: 189.89713
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.13388212, y: 0.6132642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.024734, y: 56.499954}
+        - {x: 73.975266, y: 72.499954}
+        - {x: 100.975266, y: -33.500042}
+        - {x: -15.0247345, y: -70.50004}
+        - {x: -90.024734, y: -52.500046}
+        - {x: -97.024734, y: -10.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0007
+      rect:
+        serializedVersion: 2
+        x: 184.07613
+        y: 292.02676
+        width: 155.89713
+        height: 130.89713
+      alignment: 9
+      pivot: {x: 0.51908517, y: 0.51928747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.02468, y: 53.524673}
+        - {x: -5.024681, y: 51.52467}
+        - {x: 32.97532, y: 67.52467}
+        - {x: 59.97532, y: 62.52467}
+        - {x: 84.97532, y: -28.475327}
+        - {x: 43.97532, y: -46.475323}
+        - {x: 6.975319, y: -43.475323}
+        - {x: -52.02468, y: -73.47533}
+        - {x: -85.02468, y: -51.475323}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0002
+      rect:
+        serializedVersion: 2
+        x: 541.0429
+        y: 493.0761
+        width: 162.88097
+        height: 126.847755
+      alignment: 9
+      pivot: {x: 0.57070565, y: 0.45664102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.4834, y: -33.49999}
+        - {x: -84.4834, y: 4.5000105}
+        - {x: -64.4834, y: 20.500011}
+        - {x: -51.4834, y: 67.5}
+        - {x: 72.5166, y: 45.50001}
+        - {x: 89.5166, y: -49.49999}
+        - {x: 12.516602, y: -65.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0044
+      rect:
+        serializedVersion: 2
+        x: 221.07613
+        y: 1413.0267
+        width: 199.87617
+        height: 131.93034
+      alignment: 9
+      pivot: {x: 0.63251096, y: -0.00778239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.01421, y: 27.008095}
+        - {x: -16.014214, y: 69.008095}
+        - {x: 15.985786, y: 44.008095}
+        - {x: 104.98579, y: 24.008095}
+        - {x: 78.98578, y: -65.991905}
+        - {x: -52.014214, y: -64.991905}
+        - {x: -105.01421, y: 0.008087158}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0042
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 1593.0762
+        width: 206.89713
+        height: 109.84776
+      alignment: 9
+      pivot: {x: 0.84304637, y: 0.66386265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.52469, y: -32.000053}
+        - {x: -109.52469, y: -10.000053}
+        - {x: -69.52469, y: 56.999947}
+        - {x: 70.47531, y: 38.999947}
+        - {x: 115.47531, y: -29.000053}
+        - {x: 77.47531, y: -47.000053}
+        - {x: 16.475311, y: -58.000053}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0002
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0001
+      rect:
+        serializedVersion: 2
+        x: 245.07613
+        y: 1709.0762
+        width: 210.84775
+        height: 154.84775
+      alignment: 9
+      pivot: {x: 0.17274965, y: 0.613014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 64.499954}
+        - {x: 84.5, y: 83.499954}
+        - {x: 112.5, y: -35.500046}
+        - {x: -12.5, y: -80.500046}
+        - {x: -91.5, y: -65.500046}
+        - {x: -113.5, y: -15.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0044
+      rect:
+        serializedVersion: 2
+        x: 719.0761
+        y: 1584.0267
+        width: 201.84775
+        height: 131.9465
+      alignment: 9
+      pivot: {x: 0.37366724, y: -0.007781437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.999985, y: -66.999985}
+        - {x: -110.99998, y: 28.000015}
+        - {x: -20.999985, y: 41.000008}
+        - {x: 16.000015, y: 68.000015}
+        - {x: 98.000015, y: 25.000008}
+        - {x: 106.000015, y: -0.99998474}
+        - {x: 51.000015, y: -64.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0035
+      rect:
+        serializedVersion: 2
+        x: 1574.0267
+        y: 1296.0762
+        width: 189.89713
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.89244777, y: 0.5910137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.97529, y: -46.000046}
+        - {x: -104.975296, y: -18.000044}
+        - {x: -68.975296, y: 50.999954}
+        - {x: -67.975296, y: 71.999954}
+        - {x: 19.024704, y: 50.999954}
+        - {x: 62.024704, y: 50.999954}
+        - {x: 102.024704, y: -20.000046}
+        - {x: 84.024704, y: -48.000042}
+        - {x: 21.024708, y: -68.00004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0002
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0011
+      rect:
+        serializedVersion: 2
+        x: 1624.0762
+        y: 1727.0762
+        width: 212.86081
+        height: 151.84775
+      alignment: 9
+      pivot: {x: 0.8476141, y: 0.59219724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.50658, y: -28.000046}
+        - {x: -105.50658, y: 6.999954}
+        - {x: -92.50658, y: 20.999954}
+        - {x: -72.50656, y: 89.999954}
+        - {x: -4.5065765, y: 58.999954}
+        - {x: 71.49342, y: 58.999954}
+        - {x: 114.49342, y: -27.000046}
+        - {x: 91.49342, y: -57.000046}
+        - {x: 21.493427, y: -79.000046}
+        - {x: -56.506577, y: -53.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0015
+      rect:
+        serializedVersion: 2
+        x: 632.0761
+        y: 992.0761
+        width: 193.84775
+        height: 139.84775
+      alignment: 9
+      pivot: {x: 0.14147127, y: 0.6144102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.999985, y: -9.999985}
+        - {x: -62.999985, y: 60.000015}
+        - {x: -10.999989, y: 59.00001}
+        - {x: 76.000015, y: 77.000015}
+        - {x: 102, y: -25.999985}
+        - {x: -1.9999847, y: -75.99998}
+        - {x: -89.999985, y: -52.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0031
+      rect:
+        serializedVersion: 2
+        x: 845.0761
+        y: 1002.02673
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.113530934, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.02467, y: 52.500015}
+        - {x: 70.97533, y: 67.500015}
+        - {x: 93.97533, y: -27.499985}
+        - {x: -12.024673, y: -67.499985}
+        - {x: -102.02467, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0017
+      rect:
+        serializedVersion: 2
+        x: 935.02673
+        y: 1593.0762
+        width: 199.89713
+        height: 140.84775
+      alignment: 9
+      pivot: {x: 0.8728153, y: 0.59584785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.975296, y: -40.500042}
+        - {x: -105.975296, y: -7.500046}
+        - {x: -64.975296, y: 76.499954}
+        - {x: 9.024704, y: 54.499954}
+        - {x: 65.024704, y: 55.499954}
+        - {x: 111.024704, y: -27.500046}
+        - {x: 77.024704, y: -58.500046}
+        - {x: 18.024704, y: -72.50004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0001
+      rect:
+        serializedVersion: 2
+        x: 1718.0267
+        y: 934.02673
+        width: 176.89713
+        height: 116.934494
+      alignment: 9
+      pivot: {x: 0.45208913, y: 0.57274175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.475296, y: -59.49398}
+        - {x: -97.475296, y: -32.49398}
+        - {x: -60.475296, y: 67.50601}
+        - {x: 7.524704, y: 44.50602}
+        - {x: 68.524704, y: 50.50602}
+        - {x: 89.5247, y: -32.49398}
+        - {x: 70.524704, y: -70.49398}
+        - {x: 27.524704, y: -45.493977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0014
+      rect:
+        serializedVersion: 2
+        x: 425.0761
+        y: 973.0761
+        width: 195.89713
+        height: 140.84775
+      alignment: 9
+      pivot: {x: 0.145096, y: 0.6171479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.024673, y: 58.500015}
+        - {x: 76.97531, y: 75.500015}
+        - {x: 100.97533, y: -24.49998}
+        - {x: 56.975327, y: -50.499985}
+        - {x: -14.024673, y: -72.499985}
+        - {x: -91.02467, y: -53.499985}
+        - {x: -101.02467, y: -11.499983}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0043
+      rect:
+        serializedVersion: 2
+        x: 953.02673
+        y: 1744.0762
+        width: 201.89713
+        height: 136.89713
+      alignment: 9
+      pivot: {x: 0.4877398, y: 0.10171015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.975296, y: -70.524734}
+        - {x: -107.97529, y: 26.475266}
+        - {x: -31.975294, y: 35.475266}
+        - {x: 11.024703, y: 70.475266}
+        - {x: 113.024704, y: 26.475266}
+        - {x: 76.024704, y: -44.524734}
+        - {x: 32.024704, y: -67.524734}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0006
+      rect:
+        serializedVersion: 2
+        x: 12.026751
+        y: 1880.0762
+        width: 221.89713
+        height: 159.84775
+      alignment: 9
+      pivot: {x: 0.83585244, y: 0.593839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.97531, y: -48.000046}
+        - {x: -121.975296, y: 2.9999542}
+        - {x: -90.97531, y: 28.999954}
+        - {x: -80.97531, y: 86.999954}
+        - {x: -33.975304, y: 76.999954}
+        - {x: -1.9753113, y: 60.99995}
+        - {x: 75.02469, y: 63.99995}
+        - {x: 116.02469, y: -15.000044}
+        - {x: 105.02469, y: -57.000046}
+        - {x: 21.024693, y: -85.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0033
+      rect:
+        serializedVersion: 2
+        x: 435.05972
+        y: 1262.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.892429, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.9918, y: -37.975296}
+        - {x: -106.9918, y: -9.975296}
+        - {x: -70.9918, y: 29.024704}
+        - {x: -67.9918, y: 72.024704}
+        - {x: -15.991798, y: 59.024704}
+        - {x: 51.0082, y: 51.024704}
+        - {x: 62.0082, y: 51.024704}
+        - {x: 102.0082, y: -21.975296}
+        - {x: 83.0082, y: -47.975296}
+        - {x: 16.008205, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0005
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0006
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 180.02675
+        width: 154.89713
+        height: 117.9465
+      alignment: 9
+      pivot: {x: 0.49015683, y: 1.1189246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.52467, y: 42}
+        - {x: 64.47532, y: 64}
+        - {x: 81.47532, y: -31}
+        - {x: -1.5246811, y: -63}
+        - {x: -85.52468, y: -44.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0008
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1425.0762
+        width: 205.92387
+        height: 151.84775
+      alignment: 9
+      pivot: {x: 0.16268148, y: 0.6119539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.96194, y: 63.999947}
+        - {x: 83.03806, y: 79.99995}
+        - {x: 108.03806, y: -31.000053}
+        - {x: 15.038063, y: -75.000046}
+        - {x: -29.961937, y: -76.00005}
+        - {x: -102.96193, y: -53.000053}
+        - {x: -102.96193, y: -3.0000515}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0007
+      rect:
+        serializedVersion: 2
+        x: 245.07613
+        y: 1878.0762
+        width: 221.84775
+        height: 157.84775
+      alignment: 9
+      pivot: {x: 0.8358159, y: 0.59502804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: -7.000046}
+        - {x: -75, y: 89.99995}
+        - {x: 4, y: 62.99995}
+        - {x: 75, y: 62.99995}
+        - {x: 122, y: -27.000046}
+        - {x: 96, y: -59.000046}
+        - {x: 17, y: -85.00004}
+        - {x: -91, y: -42.000042}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0001
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 769.02673
+        width: 173.95709
+        height: 116.89713
+      alignment: 9
+      pivot: {x: 0.517369, y: 0.5729248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.978546, y: -24.4753}
+        - {x: -64.978546, y: 47.5247}
+        - {x: -30.978546, y: 47.5247}
+        - {x: 58.021454, y: 61.524696}
+        - {x: 90.021454, y: -11.475298}
+        - {x: 77.021454, y: -57.4753}
+        - {x: 35.021454, y: -55.4753}
+        - {x: -6.978545, y: -42.4753}
+        - {x: -65.978546, y: -63.4753}
+        - {x: -86.978546, y: -40.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0011
+      rect:
+        serializedVersion: 2
+        x: 471.06308
+        y: 1561.0762
+        width: 202.86081
+        height: 146.84775
+      alignment: 9
+      pivot: {x: 0.15989742, y: 0.61236095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.493484, y: 61.499954}
+        - {x: 80.506516, y: 77.499954}
+        - {x: 106.506516, y: -31.500046}
+        - {x: -9.493488, y: -79.500046}
+        - {x: -107.493484, y: -49.500046}
+        - {x: -100.493484, y: -3.5000439}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0040
+      rect:
+        serializedVersion: 2
+        x: 397.0429
+        y: 713.0761
+        width: 179.95709
+        height: 122.87257
+      alignment: 9
+      pivot: {x: 0.9583234, y: 0.49582988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.02144, y: -35.512394}
+        - {x: -83.021454, y: 47.487606}
+        - {x: -6.021454, y: 43.487606}
+        - {x: 34.978546, y: 63.487606}
+        - {x: 89.978546, y: 8.487606}
+        - {x: 89.978546, y: -21.512394}
+        - {x: 44.978546, y: -66.51239}
+        - {x: -66.021454, y: -54.51239}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0055
+      rect:
+        serializedVersion: 2
+        x: 654.0761
+        y: 359.0761
+        width: 138.92387
+        height: 127.847755
+      alignment: 9
+      pivot: {x: -0.09772338, y: 1.219606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.461952, y: -51.999985}
+        - {x: -42.538048, y: -70.999985}
+        - {x: -71.53805, y: -20.999985}
+        - {x: -61.538048, y: 66.000015}
+        - {x: 69.46195, y: 59.000015}
+        - {x: 69.46195, y: -28.999977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0012
+      rect:
+        serializedVersion: 2
+        x: 498.02676
+        y: 260.0761
+        width: 150.93034
+        height: 128.84775
+      alignment: 9
+      pivot: {x: 0.5364941, y: 0.7755191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.49193, y: -27.499985}
+        - {x: -75.491936, y: 45.500015}
+        - {x: 10.508064, y: 49.500015}
+        - {x: 68.508064, y: 81.500015}
+        - {x: 76.508064, y: -18.49998}
+        - {x: 18.508064, y: -63.499977}
+        - {x: -16.491936, y: -64.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0054
+      rect:
+        serializedVersion: 2
+        x: 1757.0413
+        y: 535.0761
+        width: 134.95868
+        height: 126.92388
+      alignment: 9
+      pivot: {x: 1.1370795, y: 1.2284834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5206, y: 63.461945}
+        - {x: 67.4794, y: 63.461945}
+        - {x: 67.4794, y: -19.538055}
+        - {x: 44.4794, y: -71.538055}
+        - {x: -47.520584, y: -52.538055}
+        - {x: -68.5206, y: -16.538055}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0022
+      rect:
+        serializedVersion: 2
+        x: 1859.0762
+        y: 1627.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0012
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 44.026752
+        width: 136.9523
+        height: 147.9465
+      alignment: 9
+      pivot: {x: 0.5549377, y: 1.0880504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.52385, y: -4}
+        - {x: 20.52385, y: 67}
+        - {x: 41.52385, y: 80}
+        - {x: 78.52385, y: -17.999992}
+        - {x: 36.52385, y: -30.999992}
+        - {x: -16.47615, y: -74}
+        - {x: -43.47615, y: -72.999985}
+        - {x: -68.47615, y: -23}
+        - {x: -68.47615, y: 56}
+        - {x: -41.476147, y: 59}
+        - {x: -32.476147, y: -20.999992}
+        - {x: 11.5238495, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0041
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 1593.0762
+        width: 206.89713
+        height: 109.84776
+      alignment: 9
+      pivot: {x: 0.84304637, y: 0.66386265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.52469, y: -32.000053}
+        - {x: -109.52469, y: -10.000053}
+        - {x: -69.52469, y: 56.999947}
+        - {x: 70.47531, y: 38.999947}
+        - {x: 115.47531, y: -29.000053}
+        - {x: 77.47531, y: -47.000053}
+        - {x: 16.475311, y: -58.000053}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0038
+      rect:
+        serializedVersion: 2
+        x: 1036.0762
+        y: 765.02673
+        width: 174.92387
+        height: 122.9465
+      alignment: 9
+      pivot: {x: 0.088174514, y: 0.5203342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.53811, y: -37.49998}
+        - {x: -97.53811, y: -3.4999847}
+        - {x: -39.53811, y: 64.500015}
+        - {x: 0.46189117, y: 47.500015}
+        - {x: 87.461876, y: 52.500015}
+        - {x: 87.461876, y: -49.499985}
+        - {x: -23.538109, y: -62.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0028
+      rect:
+        serializedVersion: 2
+        x: 1576.0762
+        y: 1161.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0027
+      rect:
+        serializedVersion: 2
+        x: 1800.0597
+        y: 1483.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0006
+      rect:
+        serializedVersion: 2
+        x: 1898.0762
+        y: 794.0761
+        width: 147.88759
+        height: 119.84776
+      alignment: 9
+      pivot: {x: 0.5336744, y: 0.7753494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.019966, y: -27.999992}
+        - {x: -65.019966, y: 48.000008}
+        - {x: -16.019966, y: 42.000008}
+        - {x: 64.980034, y: 69.00001}
+        - {x: 74.980034, y: -28.999992}
+        - {x: 44.980034, y: -58.999985}
+        - {x: -46.019966, y: -59.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0003
+      rect:
+        serializedVersion: 2
+        x: 245.07613
+        y: 1709.0762
+        width: 210.84775
+        height: 154.84775
+      alignment: 9
+      pivot: {x: 0.17274965, y: 0.613014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 64.499954}
+        - {x: 84.5, y: 83.499954}
+        - {x: 112.5, y: -35.500046}
+        - {x: -12.5, y: -80.500046}
+        - {x: -91.5, y: -65.500046}
+        - {x: -113.5, y: -15.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0008
+      rect:
+        serializedVersion: 2
+        x: 1006.0761
+        y: 633.02673
+        width: 163.87256
+        height: 127.9465
+      alignment: 9
+      pivot: {x: 0.5182313, y: 1.2503138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.987602, y: -11.999977}
+        - {x: 30.987602, y: 57.000015}
+        - {x: 58.987602, y: 65.000015}
+        - {x: 92.9876, y: -17.999985}
+        - {x: 24.987602, y: -71.999985}
+        - {x: -83.01239, y: -18.999985}
+        - {x: 21.987602, y: -18.999985}
+      - - {x: -47.012398, y: 64.000015}
+        - {x: -40.012394, y: -18.999985}
+        - {x: -83.01239, y: -18.999985}
+        - {x: -80.0124, y: 63.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbdownMain
+      rect:
+        serializedVersion: 2
+        x: 358.0761
+        y: 408.02676
+        width: 165.84775
+        height: 126.89713
+      alignment: 9
+      pivot: {x: 0.46683714, y: 1.0675831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.999985, y: -62.475327}
+        - {x: -81.999985, y: -32.47532}
+        - {x: -82.999985, y: 73.52467}
+        - {x: -46.999985, y: 51.524673}
+        - {x: -44.999985, y: -13.475319}
+        - {x: -26.999983, y: -23.475327}
+        - {x: 32.000015, y: -14.475327}
+        - {x: 33.000015, y: 59.524673}
+        - {x: 62.000015, y: 67.52467}
+        - {x: 88.000015, y: -21.475327}
+        - {x: 34.000015, y: -63.475327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0019
+      rect:
+        serializedVersion: 2
+        x: 835.0761
+        y: 860.0761
+        width: 184.91096
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.12126858, y: 0.6137677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.531593, y: 55.00001}
+        - {x: 72.46841, y: 70.000015}
+        - {x: 96.46841, y: -27.99998}
+        - {x: -14.531593, y: -68.999985}
+        - {x: -87.53159, y: -48.999985}
+        - {x: -94.53159, y: -11.999983}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0004
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 769.02673
+        width: 173.95709
+        height: 116.89713
+      alignment: 9
+      pivot: {x: 0.517369, y: 0.6670246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.978546, y: -24.4753}
+        - {x: -64.978546, y: 47.5247}
+        - {x: -30.978546, y: 47.5247}
+        - {x: 58.021454, y: 61.5247}
+        - {x: 90.021454, y: -11.4753}
+        - {x: 77.021454, y: -57.4753}
+        - {x: 35.021454, y: -55.4753}
+        - {x: -6.978545, y: -42.4753}
+        - {x: -65.978546, y: -63.4753}
+        - {x: -86.978546, y: -40.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0034
+      rect:
+        serializedVersion: 2
+        x: 1574.0267
+        y: 1296.0762
+        width: 189.89713
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.89244777, y: 0.5910137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.97529, y: -46.000046}
+        - {x: -104.975296, y: -18.000044}
+        - {x: -68.975296, y: 50.999954}
+        - {x: -67.975296, y: 71.999954}
+        - {x: 19.024704, y: 50.999954}
+        - {x: 62.024704, y: 50.999954}
+        - {x: 102.024704, y: -20.000046}
+        - {x: 84.024704, y: -48.000042}
+        - {x: 21.024708, y: -68.00004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0045
+      rect:
+        serializedVersion: 2
+        x: 719.0761
+        y: 1584.0267
+        width: 201.84775
+        height: 131.9465
+      alignment: 9
+      pivot: {x: 0.37366724, y: -0.007781437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.999985, y: -66.999985}
+        - {x: -110.99998, y: 28.000015}
+        - {x: -20.999985, y: 41.000008}
+        - {x: 16.000015, y: 68.000015}
+        - {x: 98.000015, y: 25.000008}
+        - {x: 106.000015, y: -0.99998474}
+        - {x: 51.000015, y: -64.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0045
+      rect:
+        serializedVersion: 2
+        x: 221.07613
+        y: 1413.0267
+        width: 199.87617
+        height: 131.93034
+      alignment: 9
+      pivot: {x: 0.63251096, y: -0.00778239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.01421, y: 27.008095}
+        - {x: -16.014214, y: 69.008095}
+        - {x: 15.985786, y: 44.008095}
+        - {x: 104.98579, y: 24.008095}
+        - {x: 78.98578, y: -65.991905}
+        - {x: -52.014214, y: -64.991905}
+        - {x: -105.01421, y: 0.008087158}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0007
+      rect:
+        serializedVersion: 2
+        x: 182.02675
+        y: 200.07613
+        width: 150.92194
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.48351654, y: 2.3626096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.487717, y: 24.000008}
+        - {x: 63.512283, y: 43}
+        - {x: 76.51228, y: -38}
+        - {x: -87.48772, y: -38.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0008
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 115, y: -189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0050
+      rect:
+        serializedVersion: 2
+        x: 1346.006
+        y: 508.0761
+        width: 152.96729
+        height: 113.84776
+      alignment: 9
+      pivot: {x: 1.0949663, y: 1.3607987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.489624, y: 53.000008}
+        - {x: 67.510376, y: 64.00001}
+        - {x: 79.510376, y: -27.999992}
+        - {x: 54.51038, y: -56.999992}
+        - {x: -30.489616, y: -55.999992}
+        - {x: -76.489624, y: -28.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0009
+      rect:
+        serializedVersion: 2
+        x: 593.02673
+        y: 712.0761
+        width: 166.9465
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.4790353, y: 0.54550713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.499985, y: 63.000015}
+        - {x: -24.499985, y: 68.000015}
+        - {x: -0.49998474, y: 53.000015}
+        - {x: 69.50001, y: 53.000015}
+        - {x: 92.500015, y: -55.999985}
+        - {x: 44.500015, y: -68.999985}
+        - {x: 13.500015, y: -44.999985}
+        - {x: -49.49998, y: -44.999985}
+        - {x: -89.49998, y: -11.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0008
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 115, y: -189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0030
+      rect:
+        serializedVersion: 2
+        x: 1085.0762
+        y: 1047.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0052
+      rect:
+        serializedVersion: 2
+        x: 654.0761
+        y: 359.0761
+        width: 138.92387
+        height: 127.847755
+      alignment: 9
+      pivot: {x: -0.09772338, y: 1.219606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.461952, y: -51.999985}
+        - {x: -42.538048, y: -70.999985}
+        - {x: -71.53805, y: -20.999985}
+        - {x: -61.538048, y: 66.000015}
+        - {x: 69.46195, y: 59.000015}
+        - {x: 69.46195, y: -28.999977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0055
+      rect:
+        serializedVersion: 2
+        x: 1757.0413
+        y: 535.0761
+        width: 134.95868
+        height: 126.92388
+      alignment: 9
+      pivot: {x: 1.1370795, y: 1.2284834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5206, y: 63.461945}
+        - {x: 67.4794, y: 63.461945}
+        - {x: 67.4794, y: -19.538055}
+        - {x: 44.4794, y: -71.538055}
+        - {x: -47.520584, y: -52.538055}
+        - {x: -68.5206, y: -16.538055}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0023
+      rect:
+        serializedVersion: 2
+        x: 13.059729
+        y: 1149.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.892429, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.9918, y: -37.975296}
+        - {x: -106.9918, y: -9.975296}
+        - {x: -70.9918, y: 29.024704}
+        - {x: -67.9918, y: 72.024704}
+        - {x: -15.991798, y: 59.024704}
+        - {x: 51.0082, y: 51.024704}
+        - {x: 62.0082, y: 51.024704}
+        - {x: 102.0082, y: -21.975296}
+        - {x: 83.0082, y: -47.975296}
+        - {x: 16.008205, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0003
+      rect:
+        serializedVersion: 2
+        x: 1718.0267
+        y: 934.02673
+        width: 176.89713
+        height: 116.934494
+      alignment: 9
+      pivot: {x: 0.45208913, y: 0.5812935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.475296, y: -59.49398}
+        - {x: -97.475296, y: -32.49398}
+        - {x: -60.475296, y: 67.50602}
+        - {x: 7.524704, y: 44.50602}
+        - {x: 68.524704, y: 50.50602}
+        - {x: 89.5247, y: -32.49398}
+        - {x: 70.524704, y: -70.49397}
+        - {x: 27.524704, y: -45.49398}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0012
+      rect:
+        serializedVersion: 2
+        x: 956.02673
+        y: 1888.0762
+        width: 209.89713
+        height: 148.89713
+      alignment: 9
+      pivot: {x: 0.8550535, y: 0.59721655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.975296, y: -48.524734}
+        - {x: -114.975296, y: -14.5247345}
+        - {x: -69.975296, y: 84.475266}
+        - {x: 17.024704, y: 54.47526}
+        - {x: 69.024704, y: 61.475266}
+        - {x: 109.024704, y: -12.524733}
+        - {x: 100.024704, y: -54.524734}
+        - {x: 21.024708, y: -77.52473}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0026
+      rect:
+        serializedVersion: 2
+        x: 13.07612
+        y: 723.02673
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.11353088, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.02468, y: 52.500015}
+        - {x: 70.97532, y: 67.500015}
+        - {x: 93.97532, y: -27.499985}
+        - {x: -12.024681, y: -67.499985}
+        - {x: -102.02468, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0036
+      rect:
+        serializedVersion: 2
+        x: 1466.0762
+        y: 893.0761
+        width: 179.84775
+        height: 121.84776
+      alignment: 9
+      pivot: {x: 0.113561764, y: 0.6231045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.000046, y: 50.000008}
+        - {x: 67.999954, y: 64}
+        - {x: 95.999954, y: -23.999992}
+        - {x: -11.00005, y: -62.999992}
+        - {x: -85.000046, y: -44.99999}
+        - {x: -91.000046, y: -12.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0014
+      rect:
+        serializedVersion: 2
+        x: 1637.0267
+        y: 1897.0762
+        width: 205.89713
+        height: 145.84775
+      alignment: 9
+      pivot: {x: 0.8619512, y: 0.5959901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.975296, y: -47.000042}
+        - {x: -116.975296, y: -9.000046}
+        - {x: -79.975296, y: 28.999954}
+        - {x: -73.975296, y: 76.999954}
+        - {x: 77.024704, y: 54.99995}
+        - {x: 106.024704, y: -19.000046}
+        - {x: 93.024704, y: -57.000046}
+        - {x: 19.024704, y: -75.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0004
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0049
+      rect:
+        serializedVersion: 2
+        x: 1346.006
+        y: 508.0761
+        width: 152.96729
+        height: 113.84776
+      alignment: 9
+      pivot: {x: 1.0949663, y: 1.3607987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.489624, y: 53.000008}
+        - {x: 67.510376, y: 64.00001}
+        - {x: 79.510376, y: -27.999992}
+        - {x: 54.51038, y: -56.999992}
+        - {x: -30.489616, y: -55.999992}
+        - {x: -76.489624, y: -28.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0013
+      rect:
+        serializedVersion: 2
+        x: 575.02673
+        y: 117.02675
+        width: 155.89713
+        height: 136.9465
+      alignment: 9
+      pivot: {x: 0.5194019, y: 1.1900505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.024704, y: -21.5}
+        - {x: 27.024704, y: 65.5}
+        - {x: 59.024704, y: 72.5}
+        - {x: 87.024704, y: -21.5}
+        - {x: 12.024704, y: -39.499985}
+        - {x: -19.975294, y: -67.5}
+        - {x: -51.975296, y: -68.5}
+        - {x: -77.975296, y: -25.499992}
+        - {x: -76.97529, y: 55.5}
+        - {x: -44.975296, y: 55.5}
+        - {x: -42.975292, y: -12.499992}
+        - {x: -26.975294, y: -24.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0011
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 729.0761
+        width: 168.92387
+        height: 128.89713
+      alignment: 9
+      pivot: {x: 0.5564637, y: 1.2407095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.538063, y: -15.524673}
+        - {x: 25.538063, y: 60.475327}
+        - {x: 54.538063, y: 67.47533}
+        - {x: 91.53806, y: -13.524673}
+        - {x: 37.538063, y: -70.52467}
+        - {x: -72.46194, y: -44.524673}
+        - {x: -84.46194, y: -7.5246735}
+        - {x: -84.46194, y: 51.475327}
+        - {x: -52.461937, y: 52.47533}
+        - {x: -38.461937, y: -25.524666}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0052
+      rect:
+        serializedVersion: 2
+        x: 1757.0413
+        y: 535.0761
+        width: 134.95868
+        height: 126.92388
+      alignment: 9
+      pivot: {x: 1.1370795, y: 1.2284834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5206, y: 63.461945}
+        - {x: 67.4794, y: 63.461945}
+        - {x: 67.4794, y: -19.538055}
+        - {x: 44.4794, y: -71.538055}
+        - {x: -47.520584, y: -52.538055}
+        - {x: -68.5206, y: -16.538055}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0010
+      rect:
+        serializedVersion: 2
+        x: 184.07613
+        y: 292.02676
+        width: 155.89713
+        height: 130.89713
+      alignment: 9
+      pivot: {x: 0.51908517, y: 0.6873584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.02468, y: 53.524673}
+        - {x: -5.024681, y: 51.524673}
+        - {x: 32.97532, y: 67.52467}
+        - {x: 59.97532, y: 62.524673}
+        - {x: 84.97532, y: -28.475323}
+        - {x: 43.97532, y: -46.475327}
+        - {x: 6.975319, y: -43.475327}
+        - {x: -52.02468, y: -73.47532}
+        - {x: -85.02468, y: -51.475327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_IdleMirror
+      rect:
+        serializedVersion: 2
+        x: 1758.0638
+        y: 668.0761
+        width: 134.90935
+        height: 125.92388
+      alignment: 9
+      pivot: {x: 0.5332185, y: 0.7935261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.51852, y: 62.96195}
+        - {x: 64.481476, y: 62.96195}
+        - {x: 67.48148, y: -19.038052}
+        - {x: 49.481483, y: -59.03805}
+        - {x: 21.481483, y: -67.038055}
+        - {x: -69.51852, y: -46.03805}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0033
+      rect:
+        serializedVersion: 2
+        x: 1523.0762
+        y: 1024.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0003
+      rect:
+        serializedVersion: 2
+        x: 181.02675
+        y: 430.0761
+        width: 165.9465
+        height: 130.84775
+      alignment: 9
+      pivot: {x: 0.506026, y: 1.229856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 54.500015}
+        - {x: -47, y: 61.500015}
+        - {x: -44.999996, y: -13.499985}
+        - {x: -23, y: -24.499977}
+        - {x: 30, y: -15.499985}
+        - {x: 30, y: 77.500015}
+        - {x: 62, y: 61.500015}
+        - {x: 92, y: -21.499977}
+        - {x: -36, y: -68.499985}
+        - {x: -65, y: -60.499985}
+        - {x: -83, y: -23.499977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0036
+      rect:
+        serializedVersion: 2
+        x: 427.0429
+        y: 1124.0762
+        width: 188.88097
+        height: 125.847755
+      alignment: 9
+      pivot: {x: 0.89186907, y: 0.603299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.48339, y: -35.00005}
+        - {x: -99.48339, y: -6.0000496}
+        - {x: -69.48339, y: 33.99995}
+        - {x: -64.48339, y: 68.999954}
+        - {x: 5.516609, y: 49.99995}
+        - {x: 74.51661, y: 49.99995}
+        - {x: 104.51661, y: -39.00005}
+        - {x: 17.51661, y: -66.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0010
+      rect:
+        serializedVersion: 2
+        x: 718.0761
+        y: 1724.0762
+        width: 202.89713
+        height: 147.84775
+      alignment: 9
+      pivot: {x: 0.15980458, y: 0.61498284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.52467, y: 61.999954}
+        - {x: 81.47533, y: 77.999954}
+        - {x: 107.47533, y: -33.000046}
+        - {x: -15.524677, y: -78.000046}
+        - {x: -91.52467, y: -54.000046}
+        - {x: -110.52467, y: -24.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0054
+      rect:
+        serializedVersion: 2
+        x: 654.0761
+        y: 359.0761
+        width: 138.92387
+        height: 127.847755
+      alignment: 9
+      pivot: {x: -0.09772338, y: 1.219606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.461952, y: -51.999985}
+        - {x: -42.538048, y: -70.999985}
+        - {x: -71.53805, y: -20.999985}
+        - {x: -61.538048, y: 66.000015}
+        - {x: 69.46195, y: 59.000015}
+        - {x: 69.46195, y: -28.999977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0009
+      rect:
+        serializedVersion: 2
+        x: 12.026751
+        y: 1711.0762
+        width: 216.89713
+        height: 154.84775
+      alignment: 9
+      pivot: {x: 0.8412894, y: 0.5936401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.475296, y: -44.500042}
+        - {x: -119.47531, y: -6.500046}
+        - {x: -85.475296, y: 37.499954}
+        - {x: -79.47531, y: 84.499954}
+        - {x: -33.475304, y: 74.499954}
+        - {x: -0.47531128, y: 57.49995}
+        - {x: 71.52469, y: 62.499954}
+        - {x: 114.52469, y: -16.500046}
+        - {x: 98.52469, y: -60.500046}
+        - {x: 17.524689, y: -81.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0025
+      rect:
+        serializedVersion: 2
+        x: 211.07613
+        y: 842.02673
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.11353085, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.02469, y: 52.500015}
+        - {x: 70.97531, y: 67.500015}
+        - {x: 93.97531, y: -27.499985}
+        - {x: -12.024689, y: -67.499985}
+        - {x: -102.02469, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0006
+      rect:
+        serializedVersion: 2
+        x: 773.0429
+        y: 595.0761
+        width: 173.95709
+        height: 118.84776
+      alignment: 9
+      pivot: {x: 0.5688592, y: 1.1100242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.021454, y: -30.499992}
+        - {x: -89.021454, y: 1.5000076}
+        - {x: -61.021446, y: 31.500008}
+        - {x: -54.021454, y: 71.50001}
+        - {x: 12.978546, y: 42.500008}
+        - {x: 66.978546, y: 45.500008}
+        - {x: 86.978546, y: 5.5000153}
+        - {x: 86.978546, y: -47.499985}
+        - {x: 13.978546, y: -61.499977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0009
+      rect:
+        serializedVersion: 2
+        x: 932.0761
+        y: 1432.0762
+        width: 205.89713
+        height: 149.84775
+      alignment: 9
+      pivot: {x: 0.16718975, y: 0.6134482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.02467, y: 62.99995}
+        - {x: 82.97533, y: 81.999954}
+        - {x: 106.97533, y: -27.000046}
+        - {x: 72.97533, y: -50.00004}
+        - {x: -17.024673, y: -79.000046}
+        - {x: -95.02467, y: -55.000046}
+        - {x: -107.02467, y: -11.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0013
+      rect:
+        serializedVersion: 2
+        x: 1177.0267
+        y: 1730.0762
+        width: 207.89713
+        height: 147.84775
+      alignment: 9
+      pivot: {x: 0.8584691, y: 0.5946917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.975296, y: -45.000042}
+        - {x: -111.975296, y: -7.000046}
+        - {x: -80.975296, y: 32.999954}
+        - {x: -75.975296, y: 78.999954}
+        - {x: 70.024704, y: 56.99995}
+        - {x: 108.024704, y: -14.000046}
+        - {x: 96.024704, y: -58.000046}
+        - {x: 19.024704, y: -76.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0053
+      rect:
+        serializedVersion: 2
+        x: 654.0761
+        y: 359.0761
+        width: 138.92387
+        height: 127.847755
+      alignment: 9
+      pivot: {x: -0.09772338, y: 1.219606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.461952, y: -51.999985}
+        - {x: -42.538048, y: -70.999985}
+        - {x: -71.53805, y: -20.999985}
+        - {x: -61.538048, y: 66.000015}
+        - {x: 69.46195, y: 59.000015}
+        - {x: 69.46195, y: -28.999977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0009
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 115, y: -189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0001
+      rect:
+        serializedVersion: 2
+        x: 487.0761
+        y: 1884.0762
+        width: 221.84775
+        height: 158.84775
+      alignment: 9
+      pivot: {x: 0.83581597, y: 0.59757745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.999985, y: 76.49996}
+        - {x: -45.999977, y: 83.49996}
+        - {x: -3.9999847, y: 62.49996}
+        - {x: 76.000015, y: 62.49996}
+        - {x: 115.000015, y: -13.500038}
+        - {x: 105.000015, y: -57.50003}
+        - {x: 18.000015, y: -84.50004}
+        - {x: -86.999985, y: -42.50004}
+        - {x: -117.999985, y: -11.500036}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0009
+      rect:
+        serializedVersion: 2
+        x: 1006.0761
+        y: 633.02673
+        width: 163.87256
+        height: 127.9465
+      alignment: 9
+      pivot: {x: 0.5182313, y: 1.2503138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.987602, y: -11.999977}
+        - {x: 30.987602, y: 57.000015}
+        - {x: 58.987602, y: 65.000015}
+        - {x: 92.9876, y: -17.999985}
+        - {x: 24.987602, y: -71.999985}
+        - {x: -83.01239, y: -18.999985}
+        - {x: 21.987602, y: -18.999985}
+      - - {x: -47.012398, y: 64.000015}
+        - {x: -40.012394, y: -18.999985}
+        - {x: -83.01239, y: -18.999985}
+        - {x: -80.0124, y: 63.000015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0003
+      rect:
+        serializedVersion: 2
+        x: 487.0761
+        y: 1884.0762
+        width: 221.84775
+        height: 158.84775
+      alignment: 9
+      pivot: {x: 0.83581597, y: 0.59757745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.999985, y: 76.49996}
+        - {x: -45.999977, y: 83.49996}
+        - {x: -3.9999847, y: 62.49996}
+        - {x: 76.000015, y: 62.49996}
+        - {x: 115.000015, y: -13.500038}
+        - {x: 105.000015, y: -57.50003}
+        - {x: 18.000015, y: -84.50004}
+        - {x: -86.999985, y: -42.50004}
+        - {x: -117.999985, y: -11.500036}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0005
+      rect:
+        serializedVersion: 2
+        x: 1.0143554
+        y: 446.0761
+        width: 166.93433
+        height: 123.847755
+      alignment: 9
+      pivot: {x: 0.47914436, y: 1.2993686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.48152, y: -67.999985}
+        - {x: -83.481514, y: -16.999985}
+        - {x: -75.48152, y: 63.000015}
+        - {x: -41.48152, y: 60.000015}
+        - {x: -40.48152, y: -11.999985}
+        - {x: -29.481522, y: -20.999977}
+        - {x: 24.518478, y: -22.999985}
+        - {x: 34.51848, y: 4.0000153}
+        - {x: 36.518475, y: 59.00002}
+        - {x: 66.51848, y: 60.000015}
+        - {x: 91.51848, y: -32.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0050
+      rect:
+        serializedVersion: 2
+        x: 1184.043
+        y: 602.0761
+        width: 158.9373
+        height: 113.887596
+      alignment: 9
+      pivot: {x: -0.05375056, y: 1.3603227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.51162, y: -19.019905}
+        - {x: -69.51162, y: 46.980087}
+        - {x: -30.51162, y: 61.980087}
+        - {x: 15.48838, y: 47.980087}
+        - {x: 80.48838, y: 54.98009}
+        - {x: 77.48838, y: -43.019913}
+        - {x: -58.51162, y: -63.019913}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0030
+      rect:
+        serializedVersion: 2
+        x: 1578.0597
+        y: 1440.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0031
+      rect:
+        serializedVersion: 2
+        x: 906.05975
+        y: 1288.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924289, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99183, y: -37.975296}
+        - {x: -106.99183, y: -9.975296}
+        - {x: -70.99183, y: 29.024704}
+        - {x: -67.99183, y: 72.024704}
+        - {x: -15.991829, y: 59.024704}
+        - {x: 51.00817, y: 51.024704}
+        - {x: 62.00817, y: 51.024704}
+        - {x: 102.00817, y: -21.975296}
+        - {x: 83.00817, y: -47.975296}
+        - {x: 16.008175, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0039
+      rect:
+        serializedVersion: 2
+        x: 397.0429
+        y: 713.0761
+        width: 179.95709
+        height: 122.87257
+      alignment: 9
+      pivot: {x: 0.9583234, y: 0.49582988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.02144, y: -35.512394}
+        - {x: -83.021454, y: 47.487606}
+        - {x: -6.021454, y: 43.487606}
+        - {x: 34.978546, y: 63.487606}
+        - {x: 89.978546, y: 8.487606}
+        - {x: 89.978546, y: -21.512394}
+        - {x: 44.978546, y: -66.51239}
+        - {x: -66.021454, y: -54.51239}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0003
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 797.0761
+        width: 173.92387
+        height: 119.91097
+      alignment: 9
+      pivot: {x: 0.56346494, y: 0.34962514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.96192, y: 4.968401}
+        - {x: -52.96193, y: 62.968403}
+        - {x: 77.03807, y: 41.9684}
+        - {x: 91.03806, y: -23.031597}
+        - {x: 79.03807, y: -49.031597}
+        - {x: 13.038071, y: -61.031593}
+        - {x: -86.96192, y: -27.031597}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0020
+      rect:
+        serializedVersion: 2
+        x: 449.02676
+        y: 1405.0762
+        width: 193.91223
+        height: 134.84775
+      alignment: 9
+      pivot: {x: 0.8842827, y: 0.5926967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.98288, y: -41.500042}
+        - {x: -102.98288, y: -11.500046}
+        - {x: -64.98288, y: 80.499954}
+        - {x: -9.98288, y: 51.499954}
+        - {x: 63.01712, y: 51.499954}
+        - {x: 107.01712, y: -24.500046}
+        - {x: 80.01712, y: -51.500046}
+        - {x: 19.01712, y: -70.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0048
+      rect:
+        serializedVersion: 2
+        x: 237.02675
+        y: 1556.0762
+        width: 199.9465
+        height: 146.84775
+      alignment: 9
+      pivot: {x: 0.31244984, y: 0.37401888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.999992, y: 74.499954}
+        - {x: 41.999996, y: 68.499954}
+        - {x: 60.999996, y: 74.499954}
+        - {x: 94, y: 14.499954}
+        - {x: 104, y: -48.500046}
+        - {x: 28.000004, y: -79.500046}
+        - {x: -109, y: 1.4999523}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0037
+      rect:
+        serializedVersion: 2
+        x: 1036.0762
+        y: 765.02673
+        width: 174.92387
+        height: 122.9465
+      alignment: 9
+      pivot: {x: 0.088174514, y: 0.5203342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.53811, y: -37.49998}
+        - {x: -97.53811, y: -3.4999847}
+        - {x: -39.53811, y: 64.500015}
+        - {x: 0.46189117, y: 47.500015}
+        - {x: 87.461876, y: 52.500015}
+        - {x: 87.461876, y: -49.499985}
+        - {x: -23.538109, y: -62.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0009
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 115, y: -189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0038
+      rect:
+        serializedVersion: 2
+        x: 397.0363
+        y: 844.0761
+        width: 187.96371
+        height: 122.894394
+      alignment: 9
+      pivot: {x: 0.92285746, y: 0.520153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.01814, y: 51.476685}
+        - {x: 13.981857, y: 51.476685}
+        - {x: 43.981857, y: 63.47669}
+        - {x: 93.98186, y: 13.476688}
+        - {x: 93.98186, y: -23.523312}
+        - {x: 43.981857, y: -65.523315}
+        - {x: -70.01814, y: -50.523308}
+        - {x: -94.01814, y: -30.523312}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0004
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0013
+      rect:
+        serializedVersion: 2
+        x: 1358.0762
+        y: 1287.0762
+        width: 196.84775
+        height: 142.84775
+      alignment: 9
+      pivot: {x: 0.14947505, y: 0.6155073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.500046, y: 59.499958}
+        - {x: 78.499954, y: 75.499954}
+        - {x: 105.499954, y: -36.500034}
+        - {x: -14.500046, y: -73.50004}
+        - {x: -93.500046, y: -54.50004}
+        - {x: -101.500046, y: -11.500038}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0007
+      rect:
+        serializedVersion: 2
+        x: 1592.0267
+        y: 663.02673
+        width: 156.9465
+        height: 130.97325
+      alignment: 9
+      pivot: {x: 0.5159291, y: 1.2290546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.499985, y: -17.51336}
+        - {x: -75.499985, y: 65.48664}
+        - {x: -43.49998, y: 65.48664}
+        - {x: -37.49998, y: -18.51336}
+        - {x: 17.500015, y: -20.51336}
+        - {x: 27.500015, y: -12.513351}
+        - {x: 30.500015, y: 61.48664}
+        - {x: 60.500015, y: 61.48664}
+        - {x: 83.500015, y: -24.513351}
+        - {x: 29.500013, y: -68.51336}
+        - {x: 2.5000153, y: -62.51336}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Idle
+      rect:
+        serializedVersion: 2
+        x: 1897.0762
+        y: 399.0761
+        width: 139.84775
+        height: 126.891914
+      alignment: 9
+      pivot: {x: 0.4856984, y: 0.7874725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.999954, y: -51.522068}
+        - {x: -33.000046, y: -70.522064}
+        - {x: -73.000046, y: -30.52206}
+        - {x: -64.000046, y: 64.477936}
+        - {x: 67.999954, y: 62.477932}
+        - {x: 70.99995, y: -26.522068}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0049
+      rect:
+        serializedVersion: 2
+        x: 1184.043
+        y: 602.0761
+        width: 158.9373
+        height: 113.887596
+      alignment: 9
+      pivot: {x: -0.05375056, y: 1.3603227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.51162, y: -19.019905}
+        - {x: -69.51162, y: 46.980087}
+        - {x: -30.51162, y: 61.980087}
+        - {x: 15.48838, y: 47.980087}
+        - {x: 80.48838, y: 54.98009}
+        - {x: 77.48838, y: -43.019913}
+        - {x: -58.51162, y: -63.019913}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0051
+      rect:
+        serializedVersion: 2
+        x: 1901.0762
+        y: 932.0761
+        width: 145.92387
+        height: 125.847755
+      alignment: 9
+      pivot: {x: -0.072477326, y: 1.2389883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.96189, y: -50.999985}
+        - {x: -42.03811, y: -69.999985}
+        - {x: -76.03811, y: -18.999985}
+        - {x: -64.03811, y: 65.000015}
+        - {x: 72.96189, y: 58.000015}
+        - {x: 72.96189, y: -26.999977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0025
+      rect:
+        serializedVersion: 2
+        x: 1156.0597
+        y: 1445.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0019
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 995.0761
+        width: 194.89713
+        height: 136.86568
+      alignment: 9
+      pivot: {x: 0.8849451, y: 0.591265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.47531, y: -4.5089493}
+        - {x: -63.47531, y: 79.49104}
+        - {x: -10.475304, y: 52.491047}
+        - {x: 65.52469, y: 52.491047}
+        - {x: 108.52469, y: -33.508945}
+        - {x: 70.52469, y: -58.50895}
+        - {x: 17.524689, y: -70.50895}
+        - {x: -78.47531, y: -35.50895}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0043
+      rect:
+        serializedVersion: 2
+        x: 1153.0267
+        y: 1586.0762
+        width: 198.9465
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.52010596, y: 0.10174686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.49999, y: 31.499947}
+        - {x: -10.499992, y: 71.499954}
+        - {x: 11.500008, y: 49.499954}
+        - {x: 111.5, y: 13.499954}
+        - {x: 68.50001, y: -69.500046}
+        - {x: -53.499992, y: -61.500046}
+        - {x: -104.499985, y: 6.499954}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0023
+      rect:
+        serializedVersion: 2
+        x: 223.07613
+        y: 979.02673
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.11353085, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.02469, y: 52.500015}
+        - {x: 70.97531, y: 67.500015}
+        - {x: 93.97531, y: -27.499985}
+        - {x: -12.024689, y: -67.499985}
+        - {x: -102.02469, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0003
+      rect:
+        serializedVersion: 2
+        x: 1392.0762
+        y: 632.0761
+        width: 154.89713
+        height: 118.84776
+      alignment: 9
+      pivot: {x: 0.49015647, y: 0.35275286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.524734, y: 6.5000076}
+        - {x: -57.524734, y: 44.500008}
+        - {x: 1.4752655, y: 45.500008}
+        - {x: 61.475266, y: 70.50001}
+        - {x: 83.475266, y: -30.499992}
+        - {x: -3.5247345, y: -60.49999}
+        - {x: -78.524734, y: -48.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0018
+      rect:
+        serializedVersion: 2
+        x: 1271.0762
+        y: 1002.0761
+        width: 187.84775
+        height: 133.84775
+      alignment: 9
+      pivot: {x: 0.13001928, y: 0.61206776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.000046, y: -5.9999847}
+        - {x: -61.000046, y: 57.000015}
+        - {x: -5.000046, y: 52.000015}
+        - {x: 72.999954, y: 77.000015}
+        - {x: 97.999954, y: -29.999985}
+        - {x: -16.00005, y: -70.99998}
+        - {x: -93.000046, y: -43.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0029
+      rect:
+        serializedVersion: 2
+        x: 1325.0762
+        y: 1152.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0006
+      rect:
+        serializedVersion: 2
+        x: 1405.0762
+        y: 1888.0762
+        width: 210.89713
+        height: 154.84775
+      alignment: 9
+      pivot: {x: 0.17270899, y: 0.6130139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.524734, y: 64.499954}
+        - {x: 84.475266, y: 81.499954}
+        - {x: 110.475266, y: -28.500042}
+        - {x: 62.475266, y: -57.500046}
+        - {x: -18.524734, y: -81.50004}
+        - {x: -96.524734, y: -56.500046}
+        - {x: -112.524734, y: -16.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0005
+      rect:
+        serializedVersion: 2
+        x: 1898.0762
+        y: 794.0761
+        width: 147.88759
+        height: 119.84776
+      alignment: 9
+      pivot: {x: 0.5336744, y: 0.7753494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.019966, y: -27.999992}
+        - {x: -65.019966, y: 48.000008}
+        - {x: -16.019966, y: 42.000008}
+        - {x: 64.980034, y: 69.00001}
+        - {x: 74.980034, y: -28.999992}
+        - {x: 44.980034, y: -58.999985}
+        - {x: -46.019966, y: -59.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0024
+      rect:
+        serializedVersion: 2
+        x: 1378.0597
+        y: 1584.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0028
+      rect:
+        serializedVersion: 2
+        x: 1367.0597
+        y: 1440.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0012
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 1292.0762
+        width: 198.9465
+        height: 144.84775
+      alignment: 9
+      pivot: {x: 0.15317309, y: 0.6139124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 61.499954}
+        - {x: 8.5, y: 60.499954}
+        - {x: 43.5, y: 75.499954}
+        - {x: 80.5, y: 70.499954}
+        - {x: 105.5, y: -33.500046}
+        - {x: -12.5, y: -75.50004}
+        - {x: -91.5, y: -59.500046}
+        - {x: -103.5, y: -13.500044}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0048
+      rect:
+        serializedVersion: 2
+        x: 366.02676
+        y: 553.0761
+        width: 169.97325
+        height: 144.89713
+      alignment: 9
+      pivot: {x: 0.80879337, y: 0.37905437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.01339, y: 15.475327}
+        - {x: -47.01339, y: 73.47533}
+        - {x: 13.98661, y: 62.47532}
+        - {x: 84.98661, y: 80.47532}
+        - {x: 84.98661, y: -17.524673}
+        - {x: -13.01339, y: -78.52467}
+        - {x: -90.01339, y: -48.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0007
+      rect:
+        serializedVersion: 2
+        x: 1179.0762
+        y: 1889.0762
+        width: 209.89713
+        height: 152.84775
+      alignment: 9
+      pivot: {x: 0.17353182, y: 0.6144927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.024734, y: 64.499954}
+        - {x: 83.975266, y: 81.499954}
+        - {x: 111.975266, y: -34.500046}
+        - {x: -14.0247345, y: -80.50004}
+        - {x: -94.024734, y: -59.500046}
+        - {x: -112.024734, y: -12.500044}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0010
+      rect:
+        serializedVersion: 2
+        x: 593.02673
+        y: 712.0761
+        width: 166.9465
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.4790353, y: 0.6896127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.499985, y: 63.00001}
+        - {x: -24.499985, y: 68.000015}
+        - {x: -0.49998474, y: 53.000015}
+        - {x: 69.50001, y: 53.000015}
+        - {x: 92.500015, y: -55.999977}
+        - {x: 44.500015, y: -68.99998}
+        - {x: 13.500015, y: -44.999985}
+        - {x: -49.49998, y: -44.999985}
+        - {x: -89.49998, y: -11.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0001
+      rect:
+        serializedVersion: 2
+        x: 146.07613
+        y: 25.07612
+        width: 125.89713
+        height: 131.87256
+      alignment: 9
+      pivot: {x: 0.4759749, y: 0.8032292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.02469, y: 5.987602}
+        - {x: -47.024693, y: 48.987602}
+        - {x: -2.0246925, y: 49.987602}
+        - {x: 51.975307, y: 82.9876}
+        - {x: 67.97531, y: -36.012398}
+        - {x: -15.024693, y: -72.01239}
+        - {x: -62.02469, y: -49.012398}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0006
+      rect:
+        serializedVersion: 2
+        x: 201.07613
+        y: 709.0761
+        width: 176.84775
+        height: 119.84776
+      alignment: 9
+      pivot: {x: 0.519791, y: 0.7753494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.50001, y: -24.999992}
+        - {x: -90.50001, y: 15.000008}
+        - {x: -55.500004, y: 37.000008}
+        - {x: -49.500004, y: 67.00001}
+        - {x: 19.499992, y: 47.000008}
+        - {x: 78.49999, y: 47.000008}
+        - {x: 89.499985, y: -26.999989}
+        - {x: 57.49999, y: -58.999985}
+        - {x: -30.500008, y: -59.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0029
+      rect:
+        serializedVersion: 2
+        x: 1156.0597
+        y: 1301.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0005
+      rect:
+        serializedVersion: 2
+        x: 201.07613
+        y: 709.0761
+        width: 176.84775
+        height: 119.84776
+      alignment: 9
+      pivot: {x: 0.519791, y: 0.7753494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.50001, y: -24.999992}
+        - {x: -90.50001, y: 15.000008}
+        - {x: -55.500004, y: 37.000008}
+        - {x: -49.500004, y: 67.00001}
+        - {x: 19.499992, y: 47.000008}
+        - {x: 78.49999, y: 47.000008}
+        - {x: 89.499985, y: -26.999989}
+        - {x: 57.49999, y: -58.999985}
+        - {x: -30.500008, y: -59.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0002
+      rect:
+        serializedVersion: 2
+        x: 1895.0762
+        y: 662.0761
+        width: 143.89713
+        height: 125.84776
+      alignment: 9
+      pivot: {x: 0.48592928, y: 0.4602695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.02473, y: 46.000008}
+        - {x: 58.975266, y: 67.00001}
+        - {x: 74.975266, y: -27.99999}
+        - {x: 12.975265, y: -63.99999}
+        - {x: -72.024734, y: -59.999992}
+        - {x: -71.024734, y: 5.0000067}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0010
+      rect:
+        serializedVersion: 2
+        x: 182.02675
+        y: 575.0761
+        width: 169.89713
+        height: 128.89713
+      alignment: 9
+      pivot: {x: 0.5590045, y: 1.2407095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.024689, y: -16.524673}
+        - {x: 26.024689, y: 60.475327}
+        - {x: 55.02469, y: 67.47533}
+        - {x: 92.02469, y: -13.524673}
+        - {x: 43.02469, y: -64.52466}
+        - {x: 11.024689, y: -63.52466}
+        - {x: -4.9753103, y: -47.524673}
+        - {x: -77.97531, y: -33.524673}
+        - {x: -85.97531, y: 50.475327}
+        - {x: -51.97531, y: 58.475327}
+        - {x: -37.97531, y: -25.524666}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0004
+      rect:
+        serializedVersion: 2
+        x: 1392.0762
+        y: 632.0761
+        width: 154.89713
+        height: 118.84776
+      alignment: 9
+      pivot: {x: 0.49015647, y: 0.35275286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.524734, y: 6.5000076}
+        - {x: -57.524734, y: 44.500008}
+        - {x: 1.4752655, y: 45.500008}
+        - {x: 61.475266, y: 70.50001}
+        - {x: 83.475266, y: -30.499992}
+        - {x: -3.5247345, y: -60.49999}
+        - {x: -78.524734, y: -48.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0021
+      rect:
+        serializedVersion: 2
+        x: 1790.0267
+        y: 1339.0762
+        width: 190.89713
+        height: 132.84775
+      alignment: 9
+      pivot: {x: 0.89301115, y: 0.59409225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.524704, y: -69.500046}
+        - {x: -108.47528, y: -24.500046}
+        - {x: -60.475296, y: 71.499954}
+        - {x: 2.524704, y: 50.49995}
+        - {x: 62.524704, y: 51.499954}
+        - {x: 99.524704, y: -17.500046}
+        - {x: 87.524704, y: -48.500042}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0041
+      rect:
+        serializedVersion: 2
+        x: 1109.0267
+        y: 1183.0762
+        width: 195.9465
+        height: 105.89713
+      alignment: 9
+      pivot: {x: 0.16572517, y: 0.6886289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.999985, y: -13.024738}
+        - {x: -64.999985, y: 42.975258}
+        - {x: -30.999985, y: 39.975258}
+        - {x: 74.000015, y: 58.97526}
+        - {x: 104.000015, y: -22.024738}
+        - {x: -17.999985, y: -56.02474}
+        - {x: -90.999985, y: -41.02474}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0051
+      rect:
+        serializedVersion: 2
+        x: 1896.0267
+        y: 533.0761
+        width: 141.9465
+        height: 125.847755
+      alignment: 9
+      pivot: {x: 1.1093847, y: 1.2389883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.99997, y: -16.999985}
+        - {x: -68.999985, y: 62.000015}
+        - {x: 67.000015, y: 63.000015}
+        - {x: 72.000015, y: -35.999985}
+        - {x: 41.000015, y: -66.99997}
+        - {x: -49.999985, y: -50.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0008
+      rect:
+        serializedVersion: 2
+        x: 593.02673
+        y: 712.0761
+        width: 166.9465
+        height: 131.84775
+      alignment: 9
+      pivot: {x: 0.4790353, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.499985, y: 63.000015}
+        - {x: -24.499985, y: 68.000015}
+        - {x: -0.49998474, y: 53.00001}
+        - {x: 69.50001, y: 53.00001}
+        - {x: 92.500015, y: -55.999985}
+        - {x: 44.500015, y: -68.999985}
+        - {x: 13.500015, y: -44.999985}
+        - {x: -49.49998, y: -44.999985}
+        - {x: -89.49998, y: -11.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0032
+      rect:
+        serializedVersion: 2
+        x: 1774.0762
+        y: 1066.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0001
+      rect:
+        serializedVersion: 2
+        x: 3.042908
+        y: 25.07612
+        width: 140.95709
+        height: 132.84775
+      alignment: 9
+      pivot: {x: 0.58143294, y: 0.7973329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.521446, y: -34.499992}
+        - {x: -72.52145, y: 3.5000076}
+        - {x: -49.521446, y: 28.500008}
+        - {x: -42.521442, y: 82.5}
+        - {x: 5.478554, y: 49.500008}
+        - {x: 54.47855, y: 49.500008}
+        - {x: 70.478546, y: 5.5000076}
+        - {x: 70.478546, y: -49.499992}
+        - {x: 22.478554, y: -73.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0006
+      rect:
+        serializedVersion: 2
+        x: 429.02676
+        y: 98.07612
+        width: 140.92194
+        height: 139.86975
+      alignment: 9
+      pivot: {x: 0.5036351, y: 1.1576762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.487732, y: -17.010986}
+        - {x: -8.487732, y: -24.010986}
+        - {x: 25.512268, y: -14.010979}
+        - {x: 28.512268, y: 55.989014}
+        - {x: 58.512268, y: 65.98901}
+        - {x: 73.51226, y: -27.010979}
+        - {x: 30.512266, y: -70.01099}
+        - {x: 4.512268, y: -70.01099}
+        - {x: -71.48773, y: -17.010986}
+        - {x: -63.487732, y: 81.98901}
+        - {x: -34.487732, y: 59.989014}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0008
+      rect:
+        serializedVersion: 2
+        x: 184.07613
+        y: 292.02676
+        width: 155.89713
+        height: 130.89713
+      alignment: 9
+      pivot: {x: 0.51908517, y: 0.4963687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.02468, y: 53.52467}
+        - {x: -5.024681, y: 51.524673}
+        - {x: 32.97532, y: 67.52467}
+        - {x: 59.97532, y: 62.524673}
+        - {x: 84.97532, y: -28.475327}
+        - {x: 43.97532, y: -46.475323}
+        - {x: 6.975319, y: -43.475323}
+        - {x: -52.02468, y: -73.47532}
+        - {x: -85.02468, y: -51.475327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0046
+      rect:
+        serializedVersion: 2
+        x: 872.02673
+        y: 1139.0762
+        width: 195.89713
+        height: 138.84775
+      alignment: 9
+      pivot: {x: 0.3086991, y: 0.2371218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.0247, y: -73.500046}
+        - {x: -103.975296, y: -12.500046}
+        - {x: -73.975296, y: 73.499954}
+        - {x: 20.024704, y: 58.499954}
+        - {x: 56.024704, y: 70.49995}
+        - {x: 101.024704, y: -19.500046}
+        - {x: 93.024704, y: -52.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0008
+      rect:
+        serializedVersion: 2
+        x: 721.05133
+        y: 1882.0762
+        width: 217.87256
+        height: 155.84775
+      alignment: 9
+      pivot: {x: 0.8419999, y: 0.5962475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.98761, y: -44.000042}
+        - {x: -114.98761, y: -4.000046}
+        - {x: -85.98761, y: 39.999954}
+        - {x: -77.98761, y: 86.999954}
+        - {x: 27.01239, y: 59.999954}
+        - {x: 74.01239, y: 63.99995}
+        - {x: 114.01239, y: -17.000046}
+        - {x: 101.01239, y: -58.00004}
+        - {x: 22.012394, y: -82.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0020
+      rect:
+        serializedVersion: 2
+        x: 650.0761
+        y: 1145.0762
+        width: 183.89713
+        height: 129.84775
+      alignment: 9
+      pivot: {x: 0.12193714, y: 0.6155196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.024673, y: 53.999954}
+        - {x: 6.9753265, y: 60.99995}
+        - {x: 71.97533, y: 68.999954}
+        - {x: 96.97533, y: -32.000046}
+        - {x: -19.024673, y: -69.000046}
+        - {x: -108.02467, y: -39.000042}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0046
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 575.0761
+        width: 175.92387
+        height: 136.89713
+      alignment: 9
+      pivot: {x: 0.7697868, y: 0.24050096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.03806, y: 12.475327}
+        - {x: -46.038063, y: 68.47533}
+        - {x: 21.961937, y: 62.47532}
+        - {x: 87.96194, y: 73.47533}
+        - {x: 87.96194, y: -22.524673}
+        - {x: -12.038059, y: -70.52467}
+        - {x: -77.03806, y: -58.524673}
+        - {x: -90.03806, y: -30.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0005
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1872
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0001
+      rect:
+        serializedVersion: 2
+        x: 181.02675
+        y: 430.0761
+        width: 165.9465
+        height: 130.84775
+      alignment: 9
+      pivot: {x: 0.506026, y: 1.229856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 54.500015}
+        - {x: -47, y: 61.500015}
+        - {x: -44.999996, y: -13.499985}
+        - {x: -23, y: -24.499977}
+        - {x: 30, y: -15.499985}
+        - {x: 30, y: 77.500015}
+        - {x: 62, y: 61.500015}
+        - {x: 92, y: -21.499977}
+        - {x: -36, y: -68.499985}
+        - {x: -65, y: -60.499985}
+        - {x: -83, y: -23.499977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0009
+      rect:
+        serializedVersion: 2
+        x: 184.07613
+        y: 292.02676
+        width: 155.89713
+        height: 130.89713
+      alignment: 9
+      pivot: {x: 0.51908517, y: 0.5422062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.02468, y: 53.524673}
+        - {x: -5.024681, y: 51.52467}
+        - {x: 32.97532, y: 67.52467}
+        - {x: 59.97532, y: 62.524673}
+        - {x: 84.97532, y: -28.475327}
+        - {x: 43.97532, y: -46.475327}
+        - {x: 6.975319, y: -43.475323}
+        - {x: -52.02468, y: -73.47533}
+        - {x: -85.02468, y: -51.475327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0004
+      rect:
+        serializedVersion: 2
+        x: 1.0143554
+        y: 313.0761
+        width: 166.93433
+        height: 123.847755
+      alignment: 9
+      pivot: {x: 0.47914436, y: 1.2993686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.48152, y: -69.999985}
+        - {x: -83.481514, y: -16.999985}
+        - {x: -75.48152, y: 63.000015}
+        - {x: -41.48152, y: 60.000015}
+        - {x: -40.48152, y: -11.999985}
+        - {x: -29.481522, y: -20.999977}
+        - {x: 24.518478, y: -22.999985}
+        - {x: 34.51848, y: 4.0000153}
+        - {x: 36.518475, y: 59.00002}
+        - {x: 66.51848, y: 60.000015}
+        - {x: 90.51848, y: -30.999985}
+        - {x: 60.51848, y: -32.999985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0015
+      rect:
+        serializedVersion: 2
+        x: 1396.0267
+        y: 1729.0762
+        width: 203.89713
+        height: 143.84775
+      alignment: 9
+      pivot: {x: 0.8655015, y: 0.5973248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.975296, y: -39.000042}
+        - {x: -106.975296, y: -9.000044}
+        - {x: -69.975296, y: 80.99995}
+        - {x: 14.024708, y: 53.99995}
+        - {x: 67.024704, y: 57.999954}
+        - {x: 111.024704, y: -23.000046}
+        - {x: 89.024704, y: -52.000046}
+        - {x: 23.024704, y: -77.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0047
+      rect:
+        serializedVersion: 2
+        x: 872.02673
+        y: 1139.0762
+        width: 195.89713
+        height: 138.84775
+      alignment: 9
+      pivot: {x: 0.3086991, y: 0.2371218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.0247, y: -73.500046}
+        - {x: -103.975296, y: -12.500046}
+        - {x: -73.975296, y: 73.499954}
+        - {x: 20.024704, y: 58.499954}
+        - {x: 56.024704, y: 70.49995}
+        - {x: 101.024704, y: -19.500046}
+        - {x: 93.024704, y: -52.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0002
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 769.02673
+        width: 173.95709
+        height: 116.89713
+      alignment: 9
+      pivot: {x: 0.517369, y: 0.53015214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.978546, y: -24.4753}
+        - {x: -64.978546, y: 47.5247}
+        - {x: -30.978546, y: 47.5247}
+        - {x: 58.021454, y: 61.5247}
+        - {x: 90.021454, y: -11.475299}
+        - {x: 77.021454, y: -57.4753}
+        - {x: 35.021454, y: -55.475296}
+        - {x: -6.978545, y: -42.475296}
+        - {x: -65.978546, y: -63.475292}
+        - {x: -86.978546, y: -40.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_VententerMirror0005
+      rect:
+        serializedVersion: 2
+        x: 1556.0762
+        y: 528.0761
+        width: 154.89713
+        height: 118.84776
+      alignment: 9
+      pivot: {x: 0.49015647, y: 0.50420713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.524734, y: 6.5000076}
+        - {x: -57.524734, y: 44.500008}
+        - {x: 1.4752655, y: 45.500008}
+        - {x: 61.475266, y: 70.50001}
+        - {x: 83.475266, y: -30.499992}
+        - {x: -3.5247345, y: -60.499992}
+        - {x: -78.524734, y: -48.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0018
+      rect:
+        serializedVersion: 2
+        x: 220.02675
+        y: 1115.0762
+        width: 197.89713
+        height: 137.84775
+      alignment: 9
+      pivot: {x: 0.876583, y: 0.5943066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.97531, y: -44.000046}
+        - {x: -106.97531, y: -15.000046}
+        - {x: -83.975296, y: 26.999954}
+        - {x: -65.97531, y: 82.999954}
+        - {x: -11.975311, y: 54.999954}
+        - {x: 66.02469, y: 53.999954}
+        - {x: 101.02469, y: -12.000046}
+        - {x: 94.02469, y: -49.000046}
+        - {x: 21.024693, y: -72.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0002
+      rect:
+        serializedVersion: 2
+        x: 1718.0267
+        y: 934.02673
+        width: 176.89713
+        height: 116.934494
+      alignment: 9
+      pivot: {x: 0.45208913, y: 0.52998275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.475296, y: -59.493984}
+        - {x: -97.475296, y: -32.493984}
+        - {x: -60.475296, y: 67.50601}
+        - {x: 7.524704, y: 44.506016}
+        - {x: 68.524704, y: 50.506016}
+        - {x: 89.5247, y: -32.493984}
+        - {x: 70.524704, y: -70.49399}
+        - {x: 27.524704, y: -45.49398}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0010
+      rect:
+        serializedVersion: 2
+        x: 488.02676
+        y: 1719.0762
+        width: 213.89713
+        height: 152.84775
+      alignment: 9
+      pivot: {x: 0.84841365, y: 0.5948653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.97533, y: -40.500046}
+        - {x: -114.97533, y: -1.5000458}
+        - {x: -84.97531, y: 28.499954}
+        - {x: -75.97533, y: 81.49995}
+        - {x: -33.97532, y: 73.499954}
+        - {x: -9.975327, y: 61.499954}
+        - {x: 72.02467, y: 61.499954}
+        - {x: 112.02467, y: -15.500044}
+        - {x: 100.02467, y: -55.500046}
+        - {x: 20.024673, y: -81.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0002
+      rect:
+        serializedVersion: 2
+        x: 181.02675
+        y: 430.0761
+        width: 165.9465
+        height: 130.84775
+      alignment: 9
+      pivot: {x: 0.506026, y: 1.229856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 54.500015}
+        - {x: -47, y: 61.500015}
+        - {x: -44.999996, y: -13.499985}
+        - {x: -23, y: -24.499977}
+        - {x: 30, y: -15.499985}
+        - {x: 30, y: 77.500015}
+        - {x: 62, y: 61.500015}
+        - {x: 92, y: -21.499977}
+        - {x: -36, y: -68.499985}
+        - {x: -65, y: -60.499985}
+        - {x: -83, y: -23.499977}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0026
+      rect:
+        serializedVersion: 2
+        x: 1589.0597
+        y: 1584.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924292, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99177, y: -37.975296}
+        - {x: -106.99177, y: -9.975296}
+        - {x: -70.99177, y: 29.024704}
+        - {x: -67.99177, y: 72.024704}
+        - {x: -15.991768, y: 59.024704}
+        - {x: 51.008232, y: 51.024704}
+        - {x: 62.008232, y: 51.024704}
+        - {x: 102.00823, y: -21.975296}
+        - {x: 83.00823, y: -47.975296}
+        - {x: 16.008236, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0024
+      rect:
+        serializedVersion: 2
+        x: 13.07612
+        y: 860.02673
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.11353088, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.02468, y: 52.500015}
+        - {x: 70.97532, y: 67.500015}
+        - {x: 93.97532, y: -27.499985}
+        - {x: -12.024681, y: -67.499985}
+        - {x: -102.02468, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0027
+      rect:
+        serializedVersion: 2
+        x: 1785.0762
+        y: 1203.0267
+        width: 179.89713
+        height: 126.9465
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61422145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.024734, y: 52.500015}
+        - {x: 70.975266, y: 67.500015}
+        - {x: 93.975266, y: -27.499985}
+        - {x: -12.0247345, y: -67.499985}
+        - {x: -102.024734, y: -40.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Vententer0007
+      rect:
+        serializedVersion: 2
+        x: 579.0429
+        y: 626
+        width: 172.88097
+        height: 77.92388
+      alignment: 9
+      pivot: {x: 0.5781845, y: 2.3484457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.483383, y: 10.038071}
+        - {x: -54.48339, y: 37.038063}
+        - {x: -28.48339, y: 42.038055}
+        - {x: 6.516609, y: 23.038063}
+        - {x: 73.5166, y: 25.038063}
+        - {x: 89.51661, y: -23.961945}
+        - {x: 60.51661, y: -38.961945}
+        - {x: -80.48339, y: -38.961945}
+        - {x: -86.48339, y: -17.961945}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0042
+      rect:
+        serializedVersion: 2
+        x: 1109.0267
+        y: 1183.0762
+        width: 195.9465
+        height: 105.89713
+      alignment: 9
+      pivot: {x: 0.16572517, y: 0.6886289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.999985, y: -13.024738}
+        - {x: -64.999985, y: 42.975258}
+        - {x: -30.999985, y: 39.975258}
+        - {x: 74.000015, y: 58.97526}
+        - {x: 104.000015, y: -22.024738}
+        - {x: -17.999985, y: -56.02474}
+        - {x: -90.999985, y: -41.02474}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0016
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 1445.0267
+        width: 201.89713
+        height: 141.89713
+      alignment: 9
+      pivot: {x: 0.8691221, y: 0.5917898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.97531, y: 28.024704}
+        - {x: -72.97531, y: 69.024704}
+        - {x: -41.97531, y: 72.024704}
+        - {x: -5.9753113, y: 55.024704}
+        - {x: 67.02469, y: 56.0247}
+        - {x: 112.02469, y: -27.975296}
+        - {x: 78.02469, y: -59.97529}
+        - {x: 18.024689, y: -73.975296}
+        - {x: -100.97531, y: -32.975292}
+        - {x: -100.97531, y: 2.024704}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0040
+      rect:
+        serializedVersion: 2
+        x: 827.0761
+        y: 730.02673
+        width: 174.87617
+        height: 122.921936
+      alignment: 9
+      pivot: {x: 0.048170593, y: 0.49603242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5142, y: 10.512299}
+        - {x: -33.5142, y: 63.5123}
+        - {x: 8.485802, y: 44.5123}
+        - {x: 88.4858, y: 43.5123}
+        - {x: 78.4858, y: -53.487698}
+        - {x: -34.5142, y: -63.4877}
+        - {x: -95.5142, y: -21.487701}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0035
+      rect:
+        serializedVersion: 2
+        x: 1225.0762
+        y: 865.0761
+        width: 179.89713
+        height: 126.89713
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61407125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.024734, y: 52.47532}
+        - {x: 70.975266, y: 67.47533}
+        - {x: 94.975266, y: -30.524677}
+        - {x: -16.024738, y: -65.52467}
+        - {x: -89.024734, y: -43.524677}
+        - {x: -90.024734, y: -3.5246773}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0003
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 769.02673
+        width: 173.95709
+        height: 116.89713
+      alignment: 9
+      pivot: {x: 0.517369, y: 0.5814793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.978546, y: -24.4753}
+        - {x: -64.978546, y: 47.5247}
+        - {x: -30.978546, y: 47.5247}
+        - {x: 58.021454, y: 61.5247}
+        - {x: 90.021454, y: -11.4753}
+        - {x: 77.021454, y: -57.475292}
+        - {x: 35.021454, y: -55.4753}
+        - {x: -6.978545, y: -42.4753}
+        - {x: -65.978546, y: -63.475292}
+        - {x: -86.978546, y: -40.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Spawn0032
+      rect:
+        serializedVersion: 2
+        x: 667.05975
+        y: 1285.0267
+        width: 189.86415
+        height: 131.89713
+      alignment: 9
+      pivot: {x: 0.8924289, y: 0.5911672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99183, y: -37.975296}
+        - {x: -106.99183, y: -9.975296}
+        - {x: -70.99183, y: 29.024704}
+        - {x: -67.99183, y: 72.024704}
+        - {x: -15.991829, y: 59.024704}
+        - {x: 51.00817, y: 51.024704}
+        - {x: 62.00817, y: 51.024704}
+        - {x: 102.00817, y: -21.975296}
+        - {x: 83.00817, y: -47.975296}
+        - {x: 16.008175, y: -69.975296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_WalkMirror0011
+      rect:
+        serializedVersion: 2
+        x: 498.02676
+        y: 260.0761
+        width: 150.93034
+        height: 128.84775
+      alignment: 9
+      pivot: {x: 0.5364941, y: 0.7755191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.49193, y: -27.499985}
+        - {x: -75.491936, y: 45.500015}
+        - {x: 10.508064, y: 49.500015}
+        - {x: 68.508064, y: 81.500015}
+        - {x: 76.508064, y: -18.49998}
+        - {x: 18.508064, y: -63.499977}
+        - {x: -16.491936, y: -64.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_Walk0011
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 899.0761
+        width: 184.97325
+        height: 128.89713
+      alignment: 9
+      pivot: {x: 0.5298063, y: 0.775222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.48662, y: -20.524673}
+        - {x: -92.48662, y: 21.475327}
+        - {x: -56.486626, y: 44.475327}
+        - {x: -47.48662, y: 77.47533}
+        - {x: 15.513373, y: 45.475327}
+        - {x: 78.51337, y: 45.475327}
+        - {x: 99.513374, y: -14.524673}
+        - {x: 59.51337, y: -54.524673}
+        - {x: 5.5133743, y: -70.524666}
+        - {x: -23.486626, y: -39.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0034
+      rect:
+        serializedVersion: 2
+        x: 1225.0762
+        y: 865.0761
+        width: 179.89713
+        height: 126.89713
+      alignment: 9
+      pivot: {x: 0.1135306, y: 0.61407125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.024734, y: 52.47532}
+        - {x: 70.975266, y: 67.47533}
+        - {x: 94.975266, y: -30.524677}
+        - {x: -16.024738, y: -65.52467}
+        - {x: -89.024734, y: -43.524677}
+        - {x: -90.024734, y: -3.5246773}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0016
+      rect:
+        serializedVersion: 2
+        x: 1848.0762
+        y: 1764.0762
+        width: 191.89713
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.13769788, y: 0.6132642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.024734, y: 57.499954}
+        - {x: 8.9752655, y: 69.499954}
+        - {x: 76.97525, y: 68.499954}
+        - {x: 100.975266, y: -29.500046}
+        - {x: -14.0247345, y: -72.500046}
+        - {x: -95.024734, y: -48.500046}
+        - {x: -96.024734, y: -5.500046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_skin_GreedyGrampa_SpawnMirror0021
+      rect:
+        serializedVersion: 2
+        x: 630.02673
+        y: 853.0761
+        width: 179.9465
+        height: 127.847755
+      alignment: 9
+      pivot: {x: 0.11377419, y: 0.61732715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.999985, y: 53.00001}
+        - {x: 71.000015, y: 67.000015}
+        - {x: 97.000015, y: -22.999989}
+        - {x: -6.9999847, y: -68.999985}
+        - {x: -82.999985, y: -44.999985}
+        - {x: -93.999985, y: -14.999987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0035: 21300322
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0001: 21300246
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0054: 21300078
+      2022_holidaycube_skin_GreedyGrampa_Spawn0039: 21300190
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0053: 21300004
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0007: 21300208
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0001: 21300034
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0049: 21300140
+      2022_holidaycube_skin_GreedyGrampa_Spawn0027: 21300090
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0008: 21300096
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0007: 21300110
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0001: 21300286
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0002: 21300306
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0012: 21300238
+      2022_holidaycube_skin_GreedyGrampa_Vententer0002: 21300026
+      2022_holidaycube_skin_GreedyGrampa_Spawn0024: 21300234
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0036: 21300134
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0016: 21300334
+      2022_holidaycube_skin_GreedyGrampa_Spawn0031: 21300188
+      2022_holidaycube_skin_GreedyGrampa_Spawn0006: 21300056
+      2022_holidaycube_skin_GreedyGrampa_Spawn0035: 21300038
+      2022_holidaycube_skin_GreedyGrampa_Vententer0003: 21300192
+      2022_holidaycube_skin_GreedyGrampa_Spawn0048: 21300196
+      2022_holidaycube_skin_GreedyGrampa_Vententer0009: 21300200
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0051: 21300264
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0010: 21300256
+      2022_holidaycube_skin_GreedyGrampa_Spawn0026: 21300308
+      2022_holidaycube_skin_GreedyGrampa_Walk0007: 21300008
+      2022_holidaycube_skin_GreedyGrampa_Walk0005: 21300252
+      2022_holidaycube_skin_GreedyGrampa_Spawn0046: 21300276
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0028: 21300088
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0005: 21300182
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0033: 21300152
+      2022_holidaycube_skin_GreedyGrampa_Vententer0006: 21300166
+      2022_holidaycube_skin_GreedyGrampa_Walk0011: 21300330
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0009: 21300168
+      2022_holidaycube_skin_GreedyGrampa_Spawn0016: 21300318
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0004: 21300102
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0025: 21300164
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0052: 21300146
+      2022_holidaycube_skin_GreedyGrampa_Spawn0028: 21300236
+      2022_holidaycube_skin_GreedyGrampa_ClimbdownMain: 21300098
+      2022_holidaycube_skin_GreedyGrampa_Spawn0044: 21300036
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0044: 21300028
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0027: 21300312
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0006: 21300272
+      2022_holidaycube_skin_GreedyGrampa_Spawn0004: 21300138
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0013: 21300142
+      2022_holidaycube_skin_GreedyGrampa_Spawn0038: 21300202
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0008: 21300274
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0055: 21300124
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0037: 21300198
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0048: 21300240
+      2022_holidaycube_skin_GreedyGrampa_IdleMirror: 21300150
+      2022_holidaycube_skin_GreedyGrampa_Spawn0055: 21300074
+      2022_holidaycube_skin_GreedyGrampa_Spawn0013: 21300170
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0031: 21300046
+      2022_holidaycube_skin_GreedyGrampa_Spawn0036: 21300156
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0015: 21300044
+      2022_holidaycube_skin_GreedyGrampa_Vententer0001: 21300270
+      2022_holidaycube_skin_GreedyGrampa_Vententer0005: 21300002
+      2022_holidaycube_skin_GreedyGrampa_Spawn0042: 21300030
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0012: 21300076
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0011: 21300144
+      2022_holidaycube_skin_GreedyGrampa_Spawn0012: 21300130
+      2022_holidaycube_skin_GreedyGrampa_Spawn0025: 21300216
+      2022_holidaycube_skin_GreedyGrampa_Spawn0007: 21300066
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0023: 21300222
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0003: 21300224
+      2022_holidaycube_skin_GreedyGrampa_Spawn0008: 21300278
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0018: 21300226
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0003: 21300094
+      2022_holidaycube_skin_GreedyGrampa_Spawn0034: 21300104
+      2022_holidaycube_skin_GreedyGrampa_Spawn0033: 21300058
+      2022_holidaycube_skin_GreedyGrampa_Spawn0040: 21300072
+      2022_holidaycube_skin_GreedyGrampa_Spawn0017: 21300048
+      2022_holidaycube_skin_GreedyGrampa_Walk0006: 21300248
+      2022_holidaycube_skin_GreedyGrampa_Spawn0047: 21300294
+      2022_holidaycube_skin_GreedyGrampa_Spawn0045: 21300106
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0017: 21300022
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0009: 21300288
+      2022_holidaycube_skin_GreedyGrampa_Spawn0049: 21300212
+      2022_holidaycube_skin_GreedyGrampa_Walk0003: 21300128
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0011: 21300070
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0008: 21300064
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0045: 21300108
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0003: 21300154
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0007: 21300242
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0010: 21300158
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0008: 21300112
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0021: 21300336
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0007: 21300024
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0041: 21300262
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0012: 21300082
+      2022_holidaycube_skin_GreedyGrampa_Spawn0003: 21300180
+      2022_holidaycube_skin_GreedyGrampa_Walk0009: 21300116
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0043: 21300220
+      2022_holidaycube_skin_GreedyGrampa_Spawn0032: 21300326
+      2022_holidaycube_skin_GreedyGrampa_Spawn0002: 21300040
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0004: 21300290
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0032: 21300268
+      2022_holidaycube_skin_GreedyGrampa_Walk0010: 21300244
+      2022_holidaycube_skin_GreedyGrampa_Vententer0007: 21300314
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0006: 21300062
+      2022_holidaycube_skin_GreedyGrampa_Spawn0050: 21300184
+      2022_holidaycube_skin_GreedyGrampa_Spawn0019: 21300218
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0020: 21300280
+      2022_holidaycube_skin_GreedyGrampa_Spawn0053: 21300172
+      2022_holidaycube_skin_GreedyGrampa_Walk0008: 21300266
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0040: 21300320
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0030: 21300120
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0050: 21300114
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0013: 21300206
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0004: 21300204
+      2022_holidaycube_skin_GreedyGrampa_Vententer0008: 21300118
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0019: 21300100
+      2022_holidaycube_skin_GreedyGrampa_Spawn0051: 21300214
+      2022_holidaycube_skin_GreedyGrampa_Walk0004: 21300006
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0011: 21300328
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0009: 21300174
+      2022_holidaycube_skin_GreedyGrampa_Spawn0029: 21300250
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0047: 21300012
+      2022_holidaycube_skin_GreedyGrampa_Spawn0023: 21300126
+      2022_holidaycube_skin_GreedyGrampa_Spawn0021: 21300260
+      2022_holidaycube_skin_GreedyGrampa_Spawn0030: 21300186
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0002: 21300296
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0001: 21300068
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0038: 21300086
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0024: 21300310
+      2022_holidaycube_skin_GreedyGrampa_Idle: 21300210
+      2022_holidaycube_skin_GreedyGrampa_Walk0001: 21300050
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0026: 21300132
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0046: 21300282
+      2022_holidaycube_skin_GreedyGrampa_ClimbUpMain0009: 21300178
+      2022_holidaycube_skin_GreedyGrampa_Spawn0005: 21300284
+      2022_holidaycube_skin_GreedyGrampa_Spawn0018: 21300300
+      2022_holidaycube_skin_GreedyGrampa_Spawn0052: 21300122
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0039: 21300000
+      2022_holidaycube_skin_GreedyGrampa_Walk0012: 21300010
+      2022_holidaycube_skin_GreedyGrampa_Vententer0004: 21300016
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0006: 21300230
+      2022_holidaycube_skin_GreedyGrampa_Spawn0009: 21300162
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0006: 21300092
+      2022_holidaycube_skin_GreedyGrampa_Spawn0001: 21300176
+      2022_holidaycube_skin_GreedyGrampa_Spawn0043: 21300054
+      2022_holidaycube_skin_GreedyGrampa_Spawn0020: 21300194
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0022: 21300080
+      2022_holidaycube_skin_GreedyGrampa_Spawn0014: 21300136
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0029: 21300228
+      2022_holidaycube_skin_GreedyGrampa_Spawn0041: 21300084
+      2022_holidaycube_skin_GreedyGrampa_Walk0002: 21300302
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0014: 21300052
+      2022_holidaycube_skin_GreedyGrampa_Spawn0015: 21300292
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0005: 21300298
+      2022_holidaycube_skin_GreedyGrampa_Ejected: 21300020
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0002: 21300254
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0002: 21300032
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0010: 21300148
+      2022_holidaycube_skin_GreedyGrampa_Spawn0011: 21300042
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0005: 21300060
+      2022_holidaycube_skin_GreedyGrampa_VententerMirror0004: 21300258
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0005: 21300232
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0042: 21300316
+      2022_holidaycube_skin_GreedyGrampa_SpawnMirror0034: 21300332
+      2022_holidaycube_skin_GreedyGrampa_Spawn0010: 21300304
+      2022_holidaycube_skin_GreedyGrampa_Spawn0054: 21300160
+      2022_holidaycube_skin_GreedyGrampa_Spawn0037: 21300018
+      2022_holidaycube_skin_GreedyGrampa_Spawn0022: 21300014
+      2022_holidaycube_skin_GreedyGrampa_WalkMirror0003: 21300324
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

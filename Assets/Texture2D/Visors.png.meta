@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: 8036e02aa826516478366c8fe9e65b4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: vis_pack01_Hockeymask0002
+  - first:
+      213: 21300002
+    second: vis_pack01_Hazmask0002
+  - first:
+      213: 21300004
+    second: vis_pack01_Angery0002
+  - first:
+      213: 21300006
+    second: vis_pack01_Geoffmask0001
+  - first:
+      213: 21300008
+    second: vis_pack01_Stickynote0004
+  - first:
+      213: 21300010
+    second: vis_pack01_SecGlasses0002
+  - first:
+      213: 21300012
+    second: vis_pack01_Monocles0001
+  - first:
+      213: 21300014
+    second: vis_pack01_Angery0003
+  - first:
+      213: 21300016
+    second: vis_pack01_Facemask0001
+  - first:
+      213: 21300018
+    second: vis_pack01_Stickynote0002
+  - first:
+      213: 21300020
+    second: vis_vr_Vr-Black0002
+  - first:
+      213: 21300022
+    second: vis_pack01_SecGlasses0001
+  - first:
+      213: 21300024
+    second: vis_pack01_Hockeymask0001
+  - first:
+      213: 21300026
+    second: vis_pack01_Stickynote0001
+  - first:
+      213: 21300028
+    second: vis_pack01_Facemask0003
+  - first:
+      213: 21300030
+    second: vis_vr_Vr-White0003
+  - first:
+      213: 21300032
+    second: vis_vr_Vr-Black0003
+  - first:
+      213: 21300034
+    second: vis_pack01_Plaguedoc0003
+  - first:
+      213: 21300036
+    second: vis_pack01_Plaguedoc0002
+  - first:
+      213: 21300038
+    second: vis_pack01_RHM0001
+  - first:
+      213: 21300040
+    second: vis_vr_Vr-White0001
+  - first:
+      213: 21300042
+    second: vis_pack01_Monocles0002
+  - first:
+      213: 21300044
+    second: vis_pack01_Geoffmask0003
+  - first:
+      213: 21300046
+    second: vis_pack01_Hazmask0001
+  - first:
+      213: 21300048
+    second: vis_pack01_Hazmask0003
+  - first:
+      213: 21300050
+    second: vis_vr_Vr-Black0001
+  - first:
+      213: 21300052
+    second: vis_pack01_Plaguedoc0001
+  - first:
+      213: 21300054
+    second: vis_pack01_Geoffmask0002
+  - first:
+      213: 21300056
+    second: vis_pack01_Facemask0002
+  - first:
+      213: 21300058
+    second: vis_pack01_RHM0002
+  - first:
+      213: 21300060
+    second: vis_pack01_Angery0001
+  - first:
+      213: 21300062
+    second: vis_pack01_Hockeymask0003
+  - first:
+      213: 21300064
+    second: vis_vr_Vr-White0002
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vis_pack01_Hockeymask0002
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 291.0761
+        width: 113
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.57522124, y: 0.5663869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -11.499992}
+        - {x: -56.5, y: 31.500006}
+        - {x: -8.5, y: 43.500008}
+        - {x: 56.5, y: 36.500008}
+        - {x: 56.5, y: -13.499992}
+        - {x: 16.5, y: -53.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Hazmask0002
+      rect:
+        serializedVersion: 2
+        x: 138.05637
+        y: 434.02676
+        width: 127.86751
+        height: 113.9465
+      alignment: 9
+      pivot: {x: 0.5391802, y: 0.42101544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.00988, y: 56.999985}
+        - {x: 59.009876, y: 56.999985}
+        - {x: 67.00988, y: -41.000015}
+        - {x: -32.99012, y: -64.000015}
+        - {x: -62.99012, y: -31.000015}
+        - {x: -63.99012, y: 10.999983}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Angery0002
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 675
+        width: 87
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -10.499999}
+        - {x: -43.5, y: 10.5}
+        - {x: 43.5, y: 10.5}
+        - {x: 43.5, y: -10.499999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Geoffmask0001
+      rect:
+        serializedVersion: 2
+        x: 361.0761
+        y: 700.0761
+        width: 145.84775
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.4382919, y: 0.47442424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.999985, y: 64.500015}
+        - {x: 48.000015, y: 73.500015}
+        - {x: 70.000015, y: 36.50001}
+        - {x: 74.000015, y: -7.4999847}
+        - {x: 53.000015, y: -70.49998}
+        - {x: 9.000015, y: -67.499985}
+        - {x: -31.999983, y: -26.499983}
+        - {x: -87.999985, y: -9.499985}
+        - {x: -65.999985, y: 12.500015}
+        - {x: -43.999985, y: 1.5000148}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Stickynote0004
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 175.02675
+        width: 88.89713
+        height: 65.89713
+      alignment: 9
+      pivot: {x: -0.0008562748, y: 0.72800213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.52469, y: -11.975313}
+        - {x: -46.52469, y: 27.024685}
+        - {x: 14.475307, y: 34.024685}
+        - {x: 58.47531, y: -9.975315}
+        - {x: -18.524689, y: -35.975315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_SecGlasses0002
+      rect:
+        serializedVersion: 2
+        x: 266.02676
+        y: 298
+        width: 108.97325
+        height: 54.973248
+      alignment: 9
+      pivot: {x: 0.5044654, y: 0.491148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.51339, y: -27.486622}
+        - {x: -66.51338, y: 7.513376}
+        - {x: -44.51339, y: 31.513376}
+        - {x: -15.51339, y: 15.513376}
+        - {x: 19.48661, y: 29.513374}
+        - {x: 54.486607, y: 12.513376}
+        - {x: 54.486607, y: -27.486622}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Monocles0001
+      rect:
+        serializedVersion: 2
+        x: 414.0761
+        y: 499.0761
+        width: 87.92388
+        height: 74.87257
+      alignment: 9
+      pivot: {x: 0.056001727, y: 0.88048124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.0380516, y: -9.512394}
+        - {x: -42.03805, y: -45.512394}
+        - {x: -47.03805, y: 37.487606}
+        - {x: 43.96195, y: 39.487606}
+        - {x: 43.96195, y: -47.512394}
+        - {x: 13.961945, y: -9.512394}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Angery0003
+      rect:
+        serializedVersion: 2
+        x: 401.02676
+        y: 383.0761
+        width: 100.925545
+        height: 36.897125
+      alignment: 9
+      pivot: {x: 0.51496613, y: -1.4113867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.489532, y: -5.5246735}
+        - {x: -54.489536, y: 22.475327}
+        - {x: 14.510464, y: 6.4753265}
+        - {x: 59.510464, y: 26.475327}
+        - {x: 46.510464, y: -5.5246735}
+        - {x: -2.4895363, y: -23.524673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Facemask0001
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 512
+        width: 134.97325
+        height: 69.92388
+      alignment: 9
+      pivot: {x: 0.39247218, y: 0.8437747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.4866219, y: -34.961937}
+        - {x: -67.513374, y: -19.96194}
+        - {x: -66.51338, y: 46.03806}
+        - {x: -28.513378, y: 14.03806}
+        - {x: 67.48662, y: 11.038059}
+        - {x: 67.48662, y: -34.961937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Stickynote0002
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 581
+        width: 61
+        height: 44
+      alignment: 9
+      pivot: {x: 0.3442623, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -22}
+        - {x: -30.5, y: 22}
+        - {x: 30.499996, y: 22}
+        - {x: 30.499996, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_vr_Vr-Black0002
+      rect:
+        serializedVersion: 2
+        x: 225.02675
+        y: 926.0761
+        width: 157.89713
+        height: 88.84776
+      alignment: 9
+      pivot: {x: 0.436824, y: 0.2355027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.97531, y: 10.500008}
+        - {x: -26.975311, y: 52.500008}
+        - {x: 66.02469, y: 33.500008}
+        - {x: 93.02469, y: -12.499992}
+        - {x: 65.02469, y: -40.499992}
+        - {x: 5.024688, y: -46.499992}
+        - {x: -89.9753, y: -26.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_SecGlasses0001
+      rect:
+        serializedVersion: 2
+        x: 11.026751
+        y: 710.02673
+        width: 124.897125
+        height: 46.946495
+      alignment: 9
+      pivot: {x: 0.35207576, y: 0.78756183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.47531, y: 23.50002}
+        - {x: 70.52469, y: 23.50002}
+        - {x: 57.52469, y: -24.49998}
+        - {x: -14.475311, y: -21.49998}
+        - {x: -26.475311, y: -1.49998}
+        - {x: -72.47531, y: -1.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Hockeymask0001
+      rect:
+        serializedVersion: 2
+        x: 288.0761
+        y: 583.0761
+        width: 123.84776
+        height: 109.84776
+      alignment: 9
+      pivot: {x: 0.3950325, y: 0.5546211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.999992, y: 2.0000038}
+        - {x: -53.999992, y: 38.000004}
+        - {x: -11.999992, y: 58.000004}
+        - {x: 47.000004, y: 47.000004}
+        - {x: 72.00001, y: 8.000004}
+        - {x: 52.000008, y: -49.999996}
+        - {x: 12.000008, y: -59.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Stickynote0001
+      rect:
+        serializedVersion: 2
+        x: 126.07612
+        y: 197.02675
+        width: 88.89713
+        height: 65.89713
+      alignment: 9
+      pivot: {x: -0.0008562534, y: 0.72800213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.524685, y: -11.975313}
+        - {x: -46.524685, y: 27.024685}
+        - {x: 14.475311, y: 34.024685}
+        - {x: 58.475315, y: -9.975315}
+        - {x: -18.524685, y: -35.975315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Facemask0003
+      rect:
+        serializedVersion: 2
+        x: 248.07613
+        y: 230.07613
+        width: 111.87257
+        height: 56.847755
+      alignment: 9
+      pivot: {x: 0.56246024, y: 0.05143341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.012413, y: -33.500004}
+        - {x: -57.012413, y: -9.500004}
+        - {x: -50.012413, y: 37.499996}
+        - {x: -36.01241, y: 5.499996}
+        - {x: -5.012413, y: -4.500004}
+        - {x: 35.987587, y: 7.499996}
+        - {x: 46.987583, y: 29.499996}
+        - {x: 59.987583, y: -4.500004}
+        - {x: 39.987587, y: -24.500004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_vr_Vr-White0003
+      rect:
+        serializedVersion: 2
+        x: 129.02675
+        y: 320
+        width: 114.9465
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.5652477, y: 0.058295507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: -6.461941}
+        - {x: 47.499996, y: -51.46194}
+        - {x: -56.5, y: -51.46194}
+        - {x: -58.5, y: 24.53806}
+        - {x: -37.5, y: 53.53805}
+        - {x: 37.5, y: 50.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_vr_Vr-Black0003
+      rect:
+        serializedVersion: 2
+        x: 272.02676
+        y: 359
+        width: 114.9465
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.5652476, y: 0.058295507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.499985, y: -6.461941}
+        - {x: 47.49998, y: -51.46194}
+        - {x: -56.500015, y: -51.46194}
+        - {x: -58.500015, y: 24.53806}
+        - {x: -37.500015, y: 53.53805}
+        - {x: 37.499985, y: 50.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Plaguedoc0003
+      rect:
+        serializedVersion: 2
+        x: 402.02676
+        y: 912.02673
+        width: 108.97325
+        height: 98.89713
+      alignment: 9
+      pivot: {x: 0.5503482, y: -0.2833928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.51339, y: -27.475296}
+        - {x: -13.51339, y: 61.524704}
+        - {x: 31.48661, y: 39.524696}
+        - {x: 54.486607, y: -27.475296}
+        - {x: 54.486607, y: -58.475296}
+        - {x: 22.48661, y: -35.475296}
+        - {x: -51.51339, y: -52.475296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Plaguedoc0002
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 434.0761
+        width: 126.92388
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.40909466, y: 0.52783674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.538055, y: -1.9999924}
+        - {x: -56.53806, y: 33.000008}
+        - {x: -22.53806, y: 40.000008}
+        - {x: 63.46194, y: 8.000008}
+        - {x: 63.46194, y: -18.999992}
+        - {x: -9.538059, y: -40.99999}
+        - {x: -51.538055, y: -25.999992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_RHM0001
+      rect:
+        serializedVersion: 2
+        x: 279.0761
+        y: 480.0429
+        width: 125.84776
+        height: 88.92081
+      alignment: 9
+      pivot: {x: 0.30929345, y: 1.304049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99999, y: 35.49669}
+        - {x: 55.000008, y: 51.49669}
+        - {x: 67.00001, y: 3.4966888}
+        - {x: 49, y: -55.50331}
+        - {x: 30.000004, y: -0.50331116}
+        - {x: -14.999992, y: -5.503311}
+        - {x: -40.999992, y: -58.50331}
+        - {x: -61.999992, y: -20.503304}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_vr_Vr-White0001
+      rect:
+        serializedVersion: 2
+        x: 21.02675
+        y: 761.0761
+        width: 142.89713
+        height: 98.84776
+      alignment: 9
+      pivot: {x: 0.370709, y: 0.5556412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.47531, y: 12.500004}
+        - {x: -39.47531, y: 47.500004}
+        - {x: -7.4753113, y: 51.5}
+        - {x: 75.52469, y: 14.500004}
+        - {x: 67.52468, y: -45.499996}
+        - {x: -9.475311, y: -51.499996}
+        - {x: -54.47531, y: -35.499996}
+        - {x: -91.4753, y: 1.5000038}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Monocles0002
+      rect:
+        serializedVersion: 2
+        x: 130.07613
+        y: 266.02676
+        width: 106.86975
+        height: 48.921932
+      alignment: 9
+      pivot: {x: 0.48586127, y: 0.5717934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.510998, y: -24.48773}
+        - {x: -59.511, y: 10.512268}
+        - {x: -47.510998, y: 27.512268}
+        - {x: 61.489, y: 10.512268}
+        - {x: 45.489, y: -24.48773}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Geoffmask0003
+      rect:
+        serializedVersion: 2
+        x: 9.026751
+        y: 606.0761
+        width: 102.89713
+        height: 99.84776
+      alignment: 9
+      pivot: {x: 0.5634098, y: -0.00076226884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.47531, y: -20.999992}
+        - {x: -40.47531, y: -12.999992}
+        - {x: -7.4753113, y: -23.999992}
+        - {x: 77.52469, y: 5.0000076}
+        - {x: -1.4753113, y: -60.999992}
+      - - {x: -32.47531, y: 0.0000076293945}
+        - {x: -59.47531, y: 17}
+        - {x: -43.47531, y: 51.000008}
+        - {x: 41.52469, y: 49}
+        - {x: 56.52469, y: 12.000008}
+        - {x: 31.524689, y: 1.0000076}
+        - {x: -4.4753113, y: 11.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Hazmask0001
+      rect:
+        serializedVersion: 2
+        x: 173.02847
+        y: 712.02673
+        width: 141.94478
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.36613905, y: 0.65753245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.00086, y: -1.4752998}
+        - {x: -65.000854, y: 34.5247}
+        - {x: -29.000862, y: 52.5247}
+        - {x: 41.999138, y: 49.5247}
+        - {x: 76.99914, y: -19.4753}
+        - {x: 54.999138, y: -52.4753}
+        - {x: -24.000862, y: -51.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Hazmask0003
+      rect:
+        serializedVersion: 2
+        x: 4.0513167
+        y: 247.07613
+        width: 110.921936
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.5765197, y: 0.03572332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.51228, y: 28.999985}
+        - {x: 15.487717, y: 49.999992}
+        - {x: 49.487717, y: 16.999992}
+        - {x: 62.487713, y: -18.00001}
+        - {x: 34.487717, y: -36.000008}
+        - {x: -31.51228, y: -44.000008}
+        - {x: -58.512276, y: -17.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_vr_Vr-Black0001
+      rect:
+        serializedVersion: 2
+        x: 197.02675
+        y: 821.0761
+        width: 142.89713
+        height: 98.84776
+      alignment: 9
+      pivot: {x: 0.370709, y: 0.5556412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.47531, y: 12.500004}
+        - {x: -39.47531, y: 47.500004}
+        - {x: -7.4753113, y: 51.5}
+        - {x: 75.52469, y: 14.500004}
+        - {x: 67.52468, y: -45.499996}
+        - {x: -9.475311, y: -51.499996}
+        - {x: -54.47531, y: -35.499996}
+        - {x: -91.4753, y: 1.5000038}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Plaguedoc0001
+      rect:
+        serializedVersion: 2
+        x: 140.07613
+        y: 555.0761
+        width: 131.84775
+        height: 93.89713
+      alignment: 9
+      pivot: {x: 0.16628174, y: 0.5955868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -17.024677}
+        - {x: -65, y: 44.975323}
+        - {x: 9.999996, y: 47.975323}
+        - {x: 61.999992, y: 8.975323}
+        - {x: 69, y: -36.024677}
+        - {x: -45, y: -52.024677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Geoffmask0002
+      rect:
+        serializedVersion: 2
+        x: 351.0761
+        y: 844
+        width: 152.89713
+        height: 54.923878
+      alignment: 9
+      pivot: {x: 0.5161895, y: 0.56441754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.524666, y: 25.538061}
+        - {x: 35.475334, y: 29.538061}
+        - {x: 82.47533, y: -1.4619384}
+        - {x: 65.475334, y: -27.461939}
+        - {x: -48.524666, y: -27.461939}
+        - {x: -81.524666, y: -2.4619389}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Facemask0002
+      rect:
+        serializedVersion: 2
+        x: 154.02675
+        y: 652.0761
+        width: 120.897125
+        height: 54.847755
+      alignment: 9
+      pivot: {x: 0.53742594, y: 0.52734864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.475307, y: 8.500011}
+        - {x: 2.5246887, y: 30.500011}
+        - {x: 52.52469, y: 14.500011}
+        - {x: 69.52469, y: -27.499989}
+        - {x: -36.47531, y: -27.499989}
+        - {x: -68.4753, y: -12.499989}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_RHM0002
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 972.0761
+        width: 195.84775
+        height: 50.847755
+      alignment: 9
+      pivot: {x: 0.41830394, y: 1.1194966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.99999, y: 15.500011}
+        - {x: -2.9999924, y: 25.500011}
+        - {x: 111.00001, y: 14.500011}
+        - {x: 74.00001, y: -16.499989}
+        - {x: -83.99999, y: -27.499985}
+        - {x: -99.99999, y: -7.4999886}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Angery0001
+      rect:
+        serializedVersion: 2
+        x: 416.05133
+        y: 447.02676
+        width: 80.921936
+        height: 36.946495
+      alignment: 9
+      pivot: {x: 0.11058399, y: 0.18873878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5123, y: 3.4999876}
+        - {x: -28.512299, y: 20.499989}
+        - {x: 0.48770142, y: -0.50001144}
+        - {x: 32.4877, y: 21.499989}
+        - {x: 45.4877, y: 8.499987}
+        - {x: 9.487701, y: -35.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_pack01_Hockeymask0003
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 342.0761
+        width: 115.89713
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.55155706, y: 0.047362644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.024685, y: 30.500008}
+        - {x: -7.024685, y: 43.500008}
+        - {x: 36.975315, y: 35.5}
+        - {x: 62.975315, y: -6.4999924}
+        - {x: 51.97531, y: -36.499992}
+        - {x: 6.975315, y: -43.499992}
+        - {x: -62.024685, y: -38.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_vr_Vr-White0002
+      rect:
+        serializedVersion: 2
+        x: 13.026751
+        y: 870.02673
+        width: 157.89713
+        height: 87.89713
+      alignment: 9
+      pivot: {x: 0.436824, y: 0.22723456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.97531, y: 10.0247}
+        - {x: -24.975311, y: 54.0247}
+        - {x: 71.02469, y: 31.0247}
+        - {x: 83.02469, y: -5.9753}
+        - {x: 72.02469, y: -37.9753}
+        - {x: 17.024687, y: -49.9753}
+        - {x: -90.97531, y: -28.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vis_pack01_Stickynote0004: 21300008
+      vis_vr_Vr-White0001: 21300040
+      vis_pack01_Geoffmask0002: 21300054
+      vis_pack01_Hazmask0003: 21300048
+      vis_pack01_Angery0001: 21300060
+      vis_pack01_Angery0002: 21300004
+      vis_pack01_Stickynote0002: 21300018
+      vis_pack01_Stickynote0001: 21300026
+      vis_pack01_SecGlasses0002: 21300010
+      vis_pack01_Geoffmask0003: 21300044
+      vis_vr_Vr-White0003: 21300030
+      vis_pack01_Angery0003: 21300014
+      vis_pack01_Hockeymask0002: 21300000
+      vis_pack01_Hazmask0001: 21300046
+      vis_pack01_Hockeymask0001: 21300024
+      vis_pack01_RHM0001: 21300038
+      vis_pack01_Facemask0002: 21300056
+      vis_vr_Vr-White0002: 21300064
+      vis_pack01_Plaguedoc0003: 21300034
+      vis_pack01_Hazmask0002: 21300002
+      vis_pack01_Monocles0001: 21300012
+      vis_vr_Vr-Black0003: 21300032
+      vis_pack01_RHM0002: 21300058
+      vis_pack01_Geoffmask0001: 21300006
+      vis_pack01_Hockeymask0003: 21300062
+      vis_vr_Vr-Black0002: 21300020
+      vis_pack01_Facemask0003: 21300028
+      vis_pack01_Monocles0002: 21300042
+      vis_pack01_Plaguedoc0001: 21300052
+      vis_pack01_Plaguedoc0002: 21300036
+      vis_pack01_Facemask0001: 21300016
+      vis_pack01_SecGlasses0001: 21300022
+      vis_vr_Vr-Black0001: 21300050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

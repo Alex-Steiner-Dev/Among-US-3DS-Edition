@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 4f317f3aa1900e34b8e61d6600116c5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hors_winnie0012
+  - first:
+      213: 21300002
+    second: hors_idle0001
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hors_winnie0012
+      rect:
+        serializedVersion: 2
+        x: 1153.0762
+        y: 7.0761204
+        width: 385.89713
+        height: 413.84778
+      alignment: 9
+      pivot: {x: 0.57508546, y: 0.47342014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.024734, y: 201.99997}
+        - {x: 43.975266, y: 211.99998}
+        - {x: 87.975266, y: 145.99998}
+        - {x: 132.97527, y: 128.99998}
+        - {x: 184.97527, y: 122.99997}
+        - {x: 198.97527, y: 68.99998}
+        - {x: 115.975266, y: 30.999985}
+        - {x: 133.97525, y: -21.000015}
+        - {x: 123.975266, y: -60.00001}
+        - {x: 92.975266, y: -90.000015}
+        - {x: 41.975266, y: -53.000015}
+        - {x: 32.975266, y: -64.000015}
+        - {x: 31.975266, y: -191.00002}
+        - {x: -104.024734, y: -213.00002}
+        - {x: -160.02473, y: -173.00002}
+        - {x: -190.02473, y: -135.00002}
+        - {x: -197.02473, y: -74.000015}
+        - {x: -137.02473, y: -29.000015}
+        - {x: -73.024734, y: 57.999985}
+        - {x: -106.024734, y: 122.99997}
+        - {x: -77.02473, y: 179.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hors_idle0001
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 1165.0762
+        width: 407.89713
+        height: 287.84778
+      alignment: 9
+      pivot: {x: 0.48535094, y: 0.68065083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148.97531, y: 65.99994}
+        - {x: -105.97531, y: 57.99994}
+        - {x: 5.0246887, y: 55.99994}
+        - {x: 47.024685, y: 143.99994}
+        - {x: 132.02469, y: 142.99994}
+        - {x: 208.02467, y: 91.99994}
+        - {x: 184.02469, y: -127.00006}
+        - {x: 37.024685, y: -150.00006}
+        - {x: 11.024689, y: -100.00006}
+        - {x: -10.975311, y: -129.00006}
+        - {x: -147.97531, y: -152.00006}
+        - {x: -159.97531, y: -87.00006}
+        - {x: -193.97531, y: -84.00006}
+        - {x: -205.97531, y: -10.000061}
+        - {x: -189.9753, y: 54.99994}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hors_idle0001: 21300002
+      hors_winnie0012: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

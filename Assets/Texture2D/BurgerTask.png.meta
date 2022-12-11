@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 0e11aec95a694f84199d8136cb63126c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: burger_onion2
+  - first:
+      213: 21300002
+    second: burger_bunT
+  - first:
+      213: 21300004
+    second: burger_bugB
+  - first:
+      213: 21300006
+    second: burger_paper_lettuce
+  - first:
+      213: 21300008
+    second: burger_tomato1
+  - first:
+      213: 21300010
+    second: burger_paper_meat
+  - first:
+      213: 21300012
+    second: burger_onion1
+  - first:
+      213: 21300014
+    second: burger_tomato2
+  - first:
+      213: 21300016
+    second: burger_lettuce3
+  - first:
+      213: 21300018
+    second: burger_paper_bunB
+  - first:
+      213: 21300020
+    second: burger_paper_bunT
+  - first:
+      213: 21300022
+    second: burger_paper_onion
+  - first:
+      213: 21300024
+    second: burger_paper
+  - first:
+      213: 21300026
+    second: burger_lettuce2
+  - first:
+      213: 21300028
+    second: burger_lettuce1
+  - first:
+      213: 21300030
+    second: burger_bg
+  - first:
+      213: 21300032
+    second: burger_shadow
+  - first:
+      213: 21300034
+    second: burger_paper_tomato
+  - first:
+      213: 21300036
+    second: burger_meat
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo 3DS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burger_onion2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 416
+        width: 134
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 35.5}
+        - {x: 51, y: 35.5}
+        - {x: 66.99999, y: 3.5}
+        - {x: 66.99999, y: -35.5}
+        - {x: -48.999996, y: -35.5}
+        - {x: -66.99999, y: -17.5}
+        - {x: -66.99999, y: 15.5}
+        - {x: -37, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_bunT
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 101
+        width: 166
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 41}
+        - {x: 61, y: 41}
+        - {x: 83, y: 11}
+        - {x: 83, y: -41}
+        - {x: -83, y: -41}
+        - {x: -83, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_bugB
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 362
+        width: 165
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 38.5}
+        - {x: 58.499996, y: 38.5}
+        - {x: 82.5, y: 14.5}
+        - {x: 82.5, y: -38.5}
+        - {x: -35.5, y: -38.5}
+        - {x: -82.5, y: -27.5}
+        - {x: -82.5, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper_lettuce
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 253
+        width: 80
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 31.5}
+        - {x: 39.999996, y: 31.5}
+        - {x: 39.999996, y: -31.5}
+        - {x: -39.999996, y: -31.5}
+        - {x: -39.999996, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_tomato1
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 489
+        width: 138
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 36}
+        - {x: 41, y: 36}
+        - {x: 69, y: 17}
+        - {x: 69, y: -36}
+        - {x: -34, y: -36}
+        - {x: -68, y: -17}
+        - {x: -69, y: -11}
+        - {x: -69, y: 7}
+        - {x: -62, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper_meat
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 144
+        width: 102
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -17.5}
+        - {x: -51, y: 17.5}
+        - {x: 51, y: 17.5}
+        - {x: 51, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_onion1
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 441
+        width: 147
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 38.5}
+        - {x: 42.5, y: 38.5}
+        - {x: 73.49999, y: 21.499998}
+        - {x: 73.49999, y: -38.5}
+        - {x: -24.499998, y: -38.5}
+        - {x: -73.49999, y: -25.5}
+        - {x: -73.49999, y: 1.5}
+        - {x: -44.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_tomato2
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 23
+        width: 138
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: 18, y: 38}
+        - {x: 69, y: 14.999999}
+        - {x: 69, y: -38}
+        - {x: -69, y: -38}
+        - {x: -69, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_lettuce3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 184
+        width: 170
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 47}
+        - {x: 85, y: 47}
+        - {x: 85, y: -26.999998}
+        - {x: -41, y: -47}
+        - {x: -85, y: -47}
+        - {x: -85, y: -11}
+        - {x: -65, y: 22.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper_bunB
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 318
+        width: 122
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -13}
+        - {x: -61, y: 13}
+        - {x: 61, y: 13}
+        - {x: 61, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper_bunT
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 570
+        width: 124
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.999998, y: 22.5}
+        - {x: 62, y: 22.5}
+        - {x: 62, y: -22.5}
+        - {x: -62, y: -22.5}
+        - {x: -62, y: 1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper_onion
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 181
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 12, y: 35}
+        - {x: 35, y: 14.999999}
+        - {x: 35, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 90
+        width: 443
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 210.5, y: 262.5}
+        - {x: 221.49998, y: 262.5}
+        - {x: 221.49998, y: 239.5}
+        - {x: 215.5, y: 74.5}
+        - {x: 198.5, y: -40.5}
+        - {x: 190.5, y: -160.5}
+        - {x: 211.5, y: -262.5}
+        - {x: 185.49998, y: -262.5}
+        - {x: 52.499996, y: -243.5}
+        - {x: -94.5, y: -238.5}
+        - {x: -179.5, y: -253.49998}
+        - {x: -194.5, y: -261.5}
+        - {x: -200.49998, y: -262.5}
+        - {x: -221.49998, y: -209.5}
+        - {x: -221.49998, y: 2.4999998}
+        - {x: -217.5, y: 54.5}
+        - {x: -200.49998, y: 193.5}
+        - {x: -210.5, y: 259.5}
+        - {x: -192.5, y: 258.5}
+        - {x: -140.5, y: 243.5}
+        - {x: 60.499996, y: 237.5}
+        - {x: 162.5, y: 250.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_lettuce2
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 530
+        width: 152
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 42.5}
+        - {x: 52.999996, y: 42.5}
+        - {x: 76, y: 19.5}
+        - {x: 76, y: -21.499998}
+        - {x: 47, y: -42.5}
+        - {x: -33, y: -42.5}
+        - {x: -68, y: -22.5}
+        - {x: -76, y: -7.4999995}
+        - {x: -76, y: 9.5}
+        - {x: -48.999996, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_lettuce1
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 280
+        width: 170
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 39.999996}
+        - {x: 37, y: 39.999996}
+        - {x: 85, y: 26.999998}
+        - {x: 85, y: -29.999998}
+        - {x: 34, y: -39.999996}
+        - {x: -58.999996, y: -39.999996}
+        - {x: -85, y: -14}
+        - {x: -85, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 807
+        height: 607
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -403.5, y: -303.5}
+        - {x: -403.5, y: 303.5}
+        - {x: 403.5, y: 303.5}
+        - {x: 403.5, y: -303.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_shadow
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 24
+        width: 250
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 42}
+        - {x: 82, y: 42}
+        - {x: 125, y: 13}
+        - {x: 125, y: -26.999998}
+        - {x: 45.999996, y: -42}
+        - {x: -64, y: -42}
+        - {x: -125, y: -21}
+        - {x: -125, y: 9.999999}
+        - {x: -106.99999, y: 29.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_paper_tomato
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 346
+        width: 80
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.999996, y: 12}
+        - {x: 39.999996, y: -34}
+        - {x: -39.999996, y: -34}
+        - {x: -39.999996, y: 26.999998}
+        - {x: -4.9999995, y: 34}
+        - {x: 18, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger_meat
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1
+        width: 178
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 43.5}
+        - {x: 52.999996, y: 43.5}
+        - {x: 89, y: 7.4999995}
+        - {x: 89, y: -43.5}
+        - {x: -89, y: -43.5}
+        - {x: -89, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      burger_bg: 21300030
+      burger_lettuce2: 21300026
+      burger_paper_bunT: 21300020
+      burger_onion2: 21300000
+      burger_onion1: 21300012
+      burger_lettuce3: 21300016
+      burger_paper_tomato: 21300034
+      burger_lettuce1: 21300028
+      burger_paper_meat: 21300010
+      burger_paper_lettuce: 21300006
+      burger_tomato1: 21300008
+      burger_meat: 21300036
+      burger_tomato2: 21300014
+      burger_bunT: 21300002
+      burger_paper: 21300024
+      burger_paper_bunB: 21300018
+      burger_paper_onion: 21300022
+      burger_shadow: 21300032
+      burger_bugB: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
