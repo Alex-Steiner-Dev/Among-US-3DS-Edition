@@ -4,13 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	[SerializeField] protected Sprite m_hat;
+	[SerializeField] protected Sprite m_leg;
+
+	[SerializeField] protected Color m_color;
 }
