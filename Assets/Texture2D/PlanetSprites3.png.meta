@@ -1,51 +1,22 @@
 fileFormatVersion: 2
 guid: cc8b4eff3f88f1a40976cdaea68e6d12
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: map_admin
-  - first:
-      213: 21300002
-    second: sciencetable
-  - first:
-      213: 21300004
-    second: samplejars
-  - first:
-      213: 21300006
-    second: outsideboxesShadow
-  - first:
-      213: 21300008
-    second: outsideboxes2
-  - first:
-      213: 21300010
-    second: storage_middlewall
-  - first:
-      213: 21300012
-    second: room_admin
-  - first:
-      213: 21300014
-    second: divingboard
-  - first:
-      213: 21300016
-    second: watergrate
-  - first:
-      213: 21300018
-    second: outsideboxes1
-  - first:
-      213: 21300020
-    second: caftable
-  - first:
-      213: 21300022
-    second: admintable
-  - first:
-      213: 21300024
-    second: outsideboxes2shadow
-  - first:
-      213: 21300026
-    second: panel_map
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: map_admin
+    21300002: sciencetable
+    21300004: samplejars
+    21300006: outsideboxesShadow
+    21300008: outsideboxes2
+    21300010: storage_middlewall
+    21300012: room_admin
+    21300014: divingboard
+    21300016: watergrate
+    21300018: outsideboxes1
+    21300020: caftable
+    21300022: admintable
+    21300024: outsideboxes2shadow
+    21300026: panel_map
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -53,8 +24,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -62,12 +31,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -75,13 +39,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -90,97 +51,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -201,15 +130,7 @@ TextureImporter:
         - {x: 53.513367, y: -26.53805}
         - {x: 8.5133705, y: -31.53805}
         - {x: -57.486626, y: -28.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: sciencetable
       rect:
@@ -231,15 +152,7 @@ TextureImporter:
         - {x: -90.5, y: 51.5}
         - {x: -18.5, y: 51.5}
         - {x: -13.499999, y: 37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: samplejars
       rect:
@@ -275,15 +188,7 @@ TextureImporter:
         - {x: -97.99999, y: -49.499996}
         - {x: -130, y: -49.499996}
         - {x: -130, y: 40.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: outsideboxesShadow
       rect:
@@ -315,15 +220,7 @@ TextureImporter:
         - {x: -56, y: 53.499996}
         - {x: -57, y: 71.5}
         - {x: -1, y: 54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: outsideboxes2
       rect:
@@ -349,15 +246,7 @@ TextureImporter:
         - {x: -44, y: 79}
         - {x: 7, y: 100}
         - {x: 22, y: 100}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_middlewall
       rect:
@@ -374,15 +263,7 @@ TextureImporter:
         - {x: -103.5, y: 72}
         - {x: 103.5, y: 72}
         - {x: 103.5, y: -72}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: room_admin
       rect:
@@ -414,15 +295,7 @@ TextureImporter:
         - {x: -504, y: -61.5}
         - {x: -512, y: 20.5}
         - {x: -664, y: 20.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: divingboard
       rect:
@@ -439,15 +312,7 @@ TextureImporter:
         - {x: -95.5, y: 33}
         - {x: 95.5, y: 33}
         - {x: 95.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: watergrate
       rect:
@@ -472,15 +337,7 @@ TextureImporter:
         - {x: 36, y: -62}
         - {x: 36, y: -9}
         - {x: 55, y: 44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: outsideboxes1
       rect:
@@ -508,15 +365,7 @@ TextureImporter:
         - {x: -96.5, y: -93.5}
         - {x: -96.5, y: -27.5}
         - {x: -57.5, y: 18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: caftable
       rect:
@@ -538,15 +387,7 @@ TextureImporter:
         - {x: -184.49998, y: -25}
         - {x: -184.49998, y: 16}
         - {x: -129.5, y: 35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admintable
       rect:
@@ -564,15 +405,7 @@ TextureImporter:
         - {x: -42.5, y: 56.5}
         - {x: 87.5, y: 54.5}
         - {x: 87.5, y: -56.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: outsideboxes2shadow
       rect:
@@ -607,15 +440,7 @@ TextureImporter:
         - {x: -10.5, y: -16.5}
         - {x: -75.5, y: 18.5}
         - {x: -75.5, y: 30.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_map
       rect:
@@ -632,42 +457,9 @@ TextureImporter:
         - {x: -14.499999, y: 35}
         - {x: 14.5, y: 35}
         - {x: 14.5, y: -35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      map_admin: 21300000
-      sciencetable: 21300002
-      outsideboxes2: 21300008
-      outsideboxes2shadow: 21300024
-      panel_map: 21300026
-      samplejars: 21300004
-      outsideboxes1: 21300018
-      caftable: 21300020
-      admintable: 21300022
-      outsideboxesShadow: 21300006
-      storage_middlewall: 21300010
-      watergrate: 21300016
-      divingboard: 21300014
-      room_admin: 21300012
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

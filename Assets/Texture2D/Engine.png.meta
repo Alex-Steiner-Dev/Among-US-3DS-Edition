@@ -1,135 +1,50 @@
 fileFormatVersion: 2
 guid: f89120cd6a92a184cb0525f5d337594b
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Electric-engine_electric0002
-  - first:
-      213: 21300002
-    second: Engine-EngineIdle0007
-  - first:
-      213: 21300004
-    second: Steam-Engine_steam0008
-  - first:
-      213: 21300006
-    second: Electric-engine_electric0017
-  - first:
-      213: 21300008
-    second: Engine-EngineIdle0004
-  - first:
-      213: 21300010
-    second: chain02
-  - first:
-      213: 21300012
-    second: Steam-Engine_steam0011
-  - first:
-      213: 21300014
-    second: Engine-EngineIdle0008
-  - first:
-      213: 21300016
-    second: Electric-engine_electric0030
-  - first:
-      213: 21300018
-    second: Electric-engine_electric0027
-  - first:
-      213: 21300020
-    second: engine_railback
-  - first:
-      213: 21300022
-    second: panel_enginefuel
-  - first:
-      213: 21300024
-    second: Steam-Engine_steam0002
-  - first:
-      213: 21300026
-    second: Steam-Engine_steam0004
-  - first:
-      213: 21300028
-    second: Electric-engine_electric0015
-  - first:
-      213: 21300030
-    second: Steam-Engine_steam0009
-  - first:
-      213: 21300032
-    second: chain01
-  - first:
-      213: 21300034
-    second: Engine-EngineIdle0001
-  - first:
-      213: 21300036
-    second: Steam-Engine_steam0013
-  - first:
-      213: 21300038
-    second: Engine-EngineIdle0002
-  - first:
-      213: 21300040
-    second: Steam-Engine_steam0006
-  - first:
-      213: 21300042
-    second: Electric-engine_electric0046
-  - first:
-      213: 21300044
-    second: Steam-Engine_steam0010
-  - first:
-      213: 21300046
-    second: Engine-EngineIdle0006
-  - first:
-      213: 21300048
-    second: Engine-EngineIdle0003
-  - first:
-      213: 21300050
-    second: Electric-engine_electric0028
-  - first:
-      213: 21300052
-    second: Steam-Engine_steam0007
-  - first:
-      213: 21300054
-    second: Electric-engine_electric0004
-  - first:
-      213: 21300056
-    second: Steam-Engine_steam0014
-  - first:
-      213: 21300058
-    second: Electric-engine_electric0001
-  - first:
-      213: 21300060
-    second: room_REng
-  - first:
-      213: 21300062
-    second: room_LEng
-  - first:
-      213: 21300064
-    second: panel_enginealign
-  - first:
-      213: 21300066
-    second: Steam-Engine_steam0001
-  - first:
-      213: 21300068
-    second: Steam-Engine_steam0005
-  - first:
-      213: 21300070
-    second: Engine-EngineIdle0005
-  - first:
-      213: 21300072
-    second: engine_rail
-  - first:
-      213: 21300074
-    second: Electric-engine_electric0049
-  - first:
-      213: 21300076
-    second: Steam-Engine_steam0003
-  - first:
-      213: 21300078
-    second: Electric-engine_electric0047
-  - first:
-      213: 21300080
-    second: Steam-Engine_steam0012
-  - first:
-      213: 21300082
-    second: Electric-engine_electric0014
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Electric-engine_electric0002
+    21300002: Engine-EngineIdle0007
+    21300004: Steam-Engine_steam0008
+    21300006: Electric-engine_electric0017
+    21300008: Engine-EngineIdle0004
+    21300010: chain02
+    21300012: Steam-Engine_steam0011
+    21300014: Engine-EngineIdle0008
+    21300016: Electric-engine_electric0030
+    21300018: Electric-engine_electric0027
+    21300020: engine_railback
+    21300022: panel_enginefuel
+    21300024: Steam-Engine_steam0002
+    21300026: Steam-Engine_steam0004
+    21300028: Electric-engine_electric0015
+    21300030: Steam-Engine_steam0009
+    21300032: chain01
+    21300034: Engine-EngineIdle0001
+    21300036: Steam-Engine_steam0013
+    21300038: Engine-EngineIdle0002
+    21300040: Steam-Engine_steam0006
+    21300042: Electric-engine_electric0046
+    21300044: Steam-Engine_steam0010
+    21300046: Engine-EngineIdle0006
+    21300048: Engine-EngineIdle0003
+    21300050: Electric-engine_electric0028
+    21300052: Steam-Engine_steam0007
+    21300054: Electric-engine_electric0004
+    21300056: Steam-Engine_steam0014
+    21300058: Electric-engine_electric0001
+    21300060: room_REng
+    21300062: room_LEng
+    21300064: panel_enginealign
+    21300066: Steam-Engine_steam0001
+    21300068: Steam-Engine_steam0005
+    21300070: Engine-EngineIdle0005
+    21300072: engine_rail
+    21300074: Electric-engine_electric0049
+    21300076: Steam-Engine_steam0003
+    21300078: Electric-engine_electric0047
+    21300080: Steam-Engine_steam0012
+    21300082: Electric-engine_electric0014
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -137,8 +52,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -146,12 +59,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -159,13 +67,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -174,97 +79,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -284,15 +157,7 @@ TextureImporter:
         - {x: -33, y: 9.999998}
         - {x: 33, y: 9.999998}
         - {x: 33, y: -10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0007
       rect:
@@ -316,15 +181,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0008
       rect:
@@ -342,15 +199,7 @@ TextureImporter:
         - {x: 31.478546, y: -20.000002}
         - {x: -30.521454, y: -20.000002}
         - {x: -31.521454, y: 10.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0017
       rect:
@@ -370,15 +219,7 @@ TextureImporter:
         - {x: -39, y: 22.5}
         - {x: -14, y: 22.5}
         - {x: -14, y: 4.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0004
       rect:
@@ -402,15 +243,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chain02
       rect:
@@ -427,15 +260,7 @@ TextureImporter:
         - {x: -3, y: 18.5}
         - {x: 3, y: 18.5}
         - {x: 3, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0011
       rect:
@@ -452,15 +277,7 @@ TextureImporter:
         - {x: -28.999998, y: 19}
         - {x: 17, y: 20.999996}
         - {x: 29, y: -21}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0008
       rect:
@@ -484,15 +301,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0030
       rect:
@@ -509,15 +318,7 @@ TextureImporter:
         - {x: -16, y: 12}
         - {x: 16, y: 12}
         - {x: 16, y: -12}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0027
       rect:
@@ -534,15 +335,7 @@ TextureImporter:
         - {x: -4, y: 17.5}
         - {x: 25, y: -17.5}
         - {x: -25, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: engine_railback
       rect:
@@ -563,15 +356,7 @@ TextureImporter:
         - {x: 22.5, y: -76.5}
         - {x: 17.5, y: 38.5}
         - {x: -2.4999998, y: 38.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_enginefuel
       rect:
@@ -592,15 +377,7 @@ TextureImporter:
         - {x: -23.5, y: 24.000013}
         - {x: -0.5, y: 32.000015}
         - {x: 5.4999995, y: 33.00001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0002
       rect:
@@ -617,15 +394,7 @@ TextureImporter:
         - {x: -10, y: 38}
         - {x: 9.999999, y: 38}
         - {x: 9.999999, y: -37.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0004
       rect:
@@ -642,15 +411,7 @@ TextureImporter:
         - {x: -18.5, y: 30}
         - {x: 18.5, y: 30}
         - {x: 18.5, y: -30}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0015
       rect:
@@ -669,15 +430,7 @@ TextureImporter:
         - {x: -23.038052, y: -20.038052}
         - {x: -37.03805, y: 7.9619465}
         - {x: -28.03805, y: 14.961948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0009
       rect:
@@ -695,15 +448,7 @@ TextureImporter:
         - {x: 17.513376, y: 16.999996}
         - {x: 35.513374, y: -10}
         - {x: 18.513376, y: -17}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chain01
       rect:
@@ -720,15 +465,7 @@ TextureImporter:
         - {x: -4, y: 24}
         - {x: 4, y: 24}
         - {x: 4, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0001
       rect:
@@ -752,15 +489,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0013
       rect:
@@ -778,15 +507,7 @@ TextureImporter:
         - {x: 1.5, y: 14.499996}
         - {x: 12.5, y: 10.5}
         - {x: 25.5, y: -14.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0002
       rect:
@@ -810,15 +531,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0006
       rect:
@@ -835,15 +548,7 @@ TextureImporter:
         - {x: -20.499998, y: 19.499996}
         - {x: 20.5, y: 19.499996}
         - {x: 20.5, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0046
       rect:
@@ -860,15 +565,7 @@ TextureImporter:
         - {x: -32.5, y: 13}
         - {x: 32.5, y: 13}
         - {x: 32.5, y: -12.999999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0010
       rect:
@@ -886,15 +583,7 @@ TextureImporter:
         - {x: 17.513376, y: 16.999996}
         - {x: 35.513374, y: -10}
         - {x: 18.513376, y: -17}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0006
       rect:
@@ -918,15 +607,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0003
       rect:
@@ -950,15 +631,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0028
       rect:
@@ -976,15 +649,7 @@ TextureImporter:
         - {x: -11.038052, y: 19.038061}
         - {x: 36.96195, y: 18.038061}
         - {x: 36.96195, y: -18.961939}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0007
       rect:
@@ -1002,15 +667,7 @@ TextureImporter:
         - {x: 31.478546, y: -20.000002}
         - {x: -30.521454, y: -20.000002}
         - {x: -31.521454, y: 10.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0004
       rect:
@@ -1030,15 +687,7 @@ TextureImporter:
         - {x: 36.96195, y: -22.031076}
         - {x: -36.03805, y: -21.031076}
         - {x: -37.03805, y: 2.9689236}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0014
       rect:
@@ -1056,15 +705,7 @@ TextureImporter:
         - {x: 1.5, y: 14.499996}
         - {x: 12.5, y: 10.5}
         - {x: 25.5, y: -14.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0001
       rect:
@@ -1081,15 +722,7 @@ TextureImporter:
         - {x: -34.5, y: 14.999998}
         - {x: 34.5, y: 14.999998}
         - {x: 34.5, y: -15}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: room_REng
       rect:
@@ -1124,15 +757,7 @@ TextureImporter:
         - {x: -209.99998, y: -169.5}
         - {x: -216.99998, y: -160.5}
         - {x: -216.99998, y: 210.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: room_LEng
       rect:
@@ -1163,15 +788,7 @@ TextureImporter:
         - {x: -210.99998, y: -210.5}
         - {x: -210.99998, y: 161.5}
         - {x: -206, y: 170.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_enginealign
       rect:
@@ -1188,15 +805,7 @@ TextureImporter:
         - {x: -24.461937, y: 22.538061}
         - {x: 19.538063, y: 23.538061}
         - {x: 25.538063, y: -23.461939}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0001
       rect:
@@ -1213,15 +822,7 @@ TextureImporter:
         - {x: -6.5, y: 23}
         - {x: 6.5, y: 23}
         - {x: 6.5, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0005
       rect:
@@ -1238,15 +839,7 @@ TextureImporter:
         - {x: -20.499998, y: 19.499996}
         - {x: 20.5, y: 19.499996}
         - {x: 20.5, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Engine-EngineIdle0005
       rect:
@@ -1270,15 +863,7 @@ TextureImporter:
         - {x: -56, y: -125.5}
         - {x: -70, y: -136.5}
         - {x: -155, y: -136.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: engine_rail
       rect:
@@ -1299,15 +884,7 @@ TextureImporter:
         - {x: -90.5, y: 5.5}
         - {x: -108.49999, y: 5.5}
         - {x: -108.49999, y: 16.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0049
       rect:
@@ -1327,15 +904,7 @@ TextureImporter:
         - {x: -37.5, y: 9.0000105}
         - {x: -10.5, y: 9.0000105}
         - {x: -10.5, y: -10.9999895}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0003
       rect:
@@ -1352,15 +921,7 @@ TextureImporter:
         - {x: -18.5, y: 30}
         - {x: 18.5, y: 30}
         - {x: 18.5, y: -30}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0047
       rect:
@@ -1378,15 +939,7 @@ TextureImporter:
         - {x: 10.478546, y: 25.986639}
         - {x: 36.478546, y: 0.98664093}
         - {x: 36.478546, y: -15.013359}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Steam-Engine_steam0012
       rect:
@@ -1403,15 +956,7 @@ TextureImporter:
         - {x: -28.999998, y: 19}
         - {x: 17, y: 20.999996}
         - {x: 29, y: -21}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electric-engine_electric0014
       rect:
@@ -1428,70 +973,9 @@ TextureImporter:
         - {x: -34.5, y: 9.5}
         - {x: 34.5, y: 9.5}
         - {x: 34.5, y: -9.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Steam-Engine_steam0009: 21300030
-      Steam-Engine_steam0013: 21300036
-      Engine-EngineIdle0004: 21300008
-      chain02: 21300010
-      Electric-engine_electric0028: 21300050
-      panel_enginefuel: 21300022
-      Engine-EngineIdle0002: 21300038
-      Engine-EngineIdle0006: 21300046
-      Electric-engine_electric0002: 21300000
-      engine_rail: 21300072
-      Steam-Engine_steam0005: 21300068
-      Engine-EngineIdle0003: 21300048
-      Electric-engine_electric0017: 21300006
-      Electric-engine_electric0030: 21300016
-      Steam-Engine_steam0011: 21300012
-      Electric-engine_electric0001: 21300058
-      Steam-Engine_steam0007: 21300052
-      Electric-engine_electric0049: 21300074
-      Steam-Engine_steam0001: 21300066
-      Steam-Engine_steam0014: 21300056
-      Electric-engine_electric0047: 21300078
-      Steam-Engine_steam0008: 21300004
-      Engine-EngineIdle0005: 21300070
-      Electric-engine_electric0004: 21300054
-      Steam-Engine_steam0003: 21300076
-      Steam-Engine_steam0004: 21300026
-      room_REng: 21300060
-      Steam-Engine_steam0002: 21300024
-      Electric-engine_electric0046: 21300042
-      Engine-EngineIdle0008: 21300014
-      room_LEng: 21300062
-      Electric-engine_electric0015: 21300028
-      panel_enginealign: 21300064
-      Steam-Engine_steam0012: 21300080
-      Electric-engine_electric0014: 21300082
-      engine_railback: 21300020
-      Engine-EngineIdle0001: 21300034
-      Steam-Engine_steam0010: 21300044
-      Steam-Engine_steam0006: 21300040
-      Engine-EngineIdle0007: 21300002
-      chain01: 21300032
-      Electric-engine_electric0027: 21300018
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

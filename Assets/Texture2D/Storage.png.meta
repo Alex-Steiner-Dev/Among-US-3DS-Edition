@@ -1,39 +1,18 @@
 fileFormatVersion: 2
 guid: 49fe76643632e2f41b5d1e113fc5b6e5
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: storage_cargo1
-  - first:
-      213: 21300002
-    second: storage_cargo2top
-  - first:
-      213: 21300004
-    second: storage_cargo1top
-  - first:
-      213: 21300006
-    second: storage_railing2
-  - first:
-      213: 21300008
-    second: storage_main
-  - first:
-      213: 21300010
-    second: storage_cargo3top
-  - first:
-      213: 21300012
-    second: task_gas
-  - first:
-      213: 21300014
-    second: task_safe
-  - first:
-      213: 21300016
-    second: task_wiresStorage
-  - first:
-      213: 21300018
-    second: storage_railing1
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: storage_cargo1
+    21300002: storage_cargo2top
+    21300004: storage_cargo1top
+    21300006: storage_railing2
+    21300008: storage_main
+    21300010: storage_cargo3top
+    21300012: task_gas
+    21300014: task_safe
+    21300016: task_wiresStorage
+    21300018: storage_railing1
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -41,8 +20,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -50,12 +27,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,13 +35,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -78,97 +47,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -207,15 +144,7 @@ TextureImporter:
         - {x: -182, y: -97.99999}
         - {x: -182, y: 11}
         - {x: -145.99998, y: 110}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_cargo2top
       rect:
@@ -251,15 +180,7 @@ TextureImporter:
         - {x: -316.5, y: -72.5}
         - {x: -277.5, y: -69.5}
         - {x: -277.5, y: 22.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_cargo1top
       rect:
@@ -288,15 +209,7 @@ TextureImporter:
         - {x: 141, y: 70.999985}
         - {x: -79, y: 68.999985}
         - {x: -84, y: 152.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_railing2
       rect:
@@ -331,15 +244,7 @@ TextureImporter:
         - {x: 157.5, y: -26.999998}
         - {x: 156.5, y: -50}
         - {x: 88.5, y: -50}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_main
       rect:
@@ -390,15 +295,7 @@ TextureImporter:
         - {x: -549.5, y: 607}
         - {x: -497.5, y: 621}
         - {x: -418.5, y: 683.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_cargo3top
       rect:
@@ -423,15 +320,7 @@ TextureImporter:
         - {x: 143.46194, y: -18}
         - {x: 174.46194, y: 44}
         - {x: 297.46194, y: -58}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_gas
       rect:
@@ -449,15 +338,7 @@ TextureImporter:
         - {x: -35.499985, y: 17.013374}
         - {x: -29.499985, y: 37.013374}
         - {x: 32.500015, y: 36.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_safe
       rect:
@@ -478,15 +359,7 @@ TextureImporter:
         - {x: 4.508072, y: -101.9918}
         - {x: -9.491928, y: -101.9918}
         - {x: -66.49193, y: -73.99179}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_wiresStorage
       rect:
@@ -504,15 +377,7 @@ TextureImporter:
         - {x: 26.000011, y: -18.00005}
         - {x: 25.000011, y: -19.00005}
         - {x: -25.999989, y: -19.00005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_railing1
       rect:
@@ -539,38 +404,9 @@ TextureImporter:
         - {x: -62, y: -80.5}
         - {x: -81, y: -80.5}
         - {x: -81, y: -33.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      storage_main: 21300008
-      task_gas: 21300012
-      storage_cargo1top: 21300004
-      storage_cargo1: 21300000
-      storage_cargo2top: 21300002
-      storage_cargo3top: 21300010
-      task_safe: 21300014
-      task_wiresStorage: 21300016
-      storage_railing2: 21300006
-      storage_railing1: 21300018
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

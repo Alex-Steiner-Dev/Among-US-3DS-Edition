@@ -1,294 +1,103 @@
 fileFormatVersion: 2
 guid: 391865c4d085a42439320184725b6aa0
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: ghost0009
-  - first:
-      213: 21300002
-    second: Dead0014
-  - first:
-      213: 21300004
-    second: Dead0007
-  - first:
-      213: 21300006
-    second: ghost0014
-  - first:
-      213: 21300008
-    second: Dead0006
-  - first:
-      213: 21300010
-    second: Dead0015
-  - first:
-      213: 21300012
-    second: ghost0040
-  - first:
-      213: 21300014
-    second: ghost0006
-  - first:
-      213: 21300016
-    second: Dead0021
-  - first:
-      213: 21300018
-    second: ghost0013
-  - first:
-      213: 21300020
-    second: Dead0031
-  - first:
-      213: 21300022
-    second: ghost0039
-  - first:
-      213: 21300024
-    second: Dead0028
-  - first:
-      213: 21300026
-    second: Dead0023
-  - first:
-      213: 21300028
-    second: bloodSplatter0002
-  - first:
-      213: 21300030
-    second: Dead0039
-  - first:
-      213: 21300032
-    second: ghost0037
-  - first:
-      213: 21300034
-    second: bloodSplatter0001
-  - first:
-      213: 21300036
-    second: Dead0034
-  - first:
-      213: 21300038
-    second: ghost0032
-  - first:
-      213: 21300040
-    second: ghost0024
-  - first:
-      213: 21300042
-    second: Dead0027
-  - first:
-      213: 21300044
-    second: ghost0046
-  - first:
-      213: 21300046
-    second: ghost0020
-  - first:
-      213: 21300048
-    second: ghost0015
-  - first:
-      213: 21300050
-    second: Dead0017
-  - first:
-      213: 21300052
-    second: ghost0035
-  - first:
-      213: 21300054
-    second: ghost0042
-  - first:
-      213: 21300056
-    second: ghost0001
-  - first:
-      213: 21300058
-    second: ghost0031
-  - first:
-      213: 21300060
-    second: bloodSplatter0003
-  - first:
-      213: 21300062
-    second: Dead0024
-  - first:
-      213: 21300064
-    second: ghost0017
-  - first:
-      213: 21300066
-    second: Dead0036
-  - first:
-      213: 21300068
-    second: ghost0007
-  - first:
-      213: 21300070
-    second: ghost0030
-  - first:
-      213: 21300072
-    second: ghost0010
-  - first:
-      213: 21300074
-    second: ghost0011
-  - first:
-      213: 21300076
-    second: Dead0041
-  - first:
-      213: 21300078
-    second: Dead0038
-  - first:
-      213: 21300080
-    second: bloodSplatter0005
-  - first:
-      213: 21300082
-    second: ghost0004
-  - first:
-      213: 21300084
-    second: Dead0033
-  - first:
-      213: 21300086
-    second: Dead0008
-  - first:
-      213: 21300088
-    second: Dead0003
-  - first:
-      213: 21300090
-    second: ghost0005
-  - first:
-      213: 21300092
-    second: ghost0018
-  - first:
-      213: 21300094
-    second: Dead0029
-  - first:
-      213: 21300096
-    second: Dead0012
-  - first:
-      213: 21300098
-    second: Dead0022
-  - first:
-      213: 21300100
-    second: ghost0028
-  - first:
-      213: 21300102
-    second: ghost0029
-  - first:
-      213: 21300104
-    second: ghost0012
-  - first:
-      213: 21300106
-    second: ghost0016
-  - first:
-      213: 21300108
-    second: ghost0045
-  - first:
-      213: 21300110
-    second: ghost0022
-  - first:
-      213: 21300112
-    second: Dead0035
-  - first:
-      213: 21300114
-    second: ghost0044
-  - first:
-      213: 21300116
-    second: Dead0005
-  - first:
-      213: 21300118
-    second: ghost0041
-  - first:
-      213: 21300120
-    second: Dead0032
-  - first:
-      213: 21300122
-    second: Dead0025
-  - first:
-      213: 21300124
-    second: Dead0030
-  - first:
-      213: 21300126
-    second: ghost0023
-  - first:
-      213: 21300128
-    second: Dead0001
-  - first:
-      213: 21300130
-    second: Dead0010
-  - first:
-      213: 21300132
-    second: Dead0020
-  - first:
-      213: 21300134
-    second: Dead0040
-  - first:
-      213: 21300136
-    second: Dead0019
-  - first:
-      213: 21300138
-    second: ghost0021
-  - first:
-      213: 21300140
-    second: Dead0037
-  - first:
-      213: 21300142
-    second: Dead0018
-  - first:
-      213: 21300144
-    second: ghost0025
-  - first:
-      213: 21300146
-    second: ghost0036
-  - first:
-      213: 21300148
-    second: ghost0008
-  - first:
-      213: 21300150
-    second: Dead0013
-  - first:
-      213: 21300152
-    second: ghost0003
-  - first:
-      213: 21300154
-    second: ghost0043
-  - first:
-      213: 21300156
-    second: Dead0011
-  - first:
-      213: 21300158
-    second: ghost0019
-  - first:
-      213: 21300160
-    second: Dead0004
-  - first:
-      213: 21300162
-    second: bloodSplatter0004
-  - first:
-      213: 21300164
-    second: Dead0009
-  - first:
-      213: 21300166
-    second: Dead0026
-  - first:
-      213: 21300168
-    second: ghost0002
-  - first:
-      213: 21300170
-    second: ghost0033
-  - first:
-      213: 21300172
-    second: ghost0038
-  - first:
-      213: 21300174
-    second: Dead0016
-  - first:
-      213: 21300176
-    second: ghost0048
-  - first:
-      213: 21300178
-    second: ghost0027
-  - first:
-      213: 21300180
-    second: ghost0026
-  - first:
-      213: 21300182
-    second: ghost0034
-  - first:
-      213: 21300184
-    second: ghost0047
-  - first:
-      213: 21300186
-    second: Dead0042
-  - first:
-      213: 21300188
-    second: Dead0002
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: ghost0009
+    21300002: Dead0014
+    21300004: Dead0007
+    21300006: ghost0014
+    21300008: Dead0006
+    21300010: Dead0015
+    21300012: ghost0040
+    21300014: ghost0006
+    21300016: Dead0021
+    21300018: ghost0013
+    21300020: Dead0031
+    21300022: ghost0039
+    21300024: Dead0028
+    21300026: Dead0023
+    21300028: bloodSplatter0002
+    21300030: Dead0039
+    21300032: ghost0037
+    21300034: bloodSplatter0001
+    21300036: Dead0034
+    21300038: ghost0032
+    21300040: ghost0024
+    21300042: Dead0027
+    21300044: ghost0046
+    21300046: ghost0020
+    21300048: ghost0015
+    21300050: Dead0017
+    21300052: ghost0035
+    21300054: ghost0042
+    21300056: ghost0001
+    21300058: ghost0031
+    21300060: bloodSplatter0003
+    21300062: Dead0024
+    21300064: ghost0017
+    21300066: Dead0036
+    21300068: ghost0007
+    21300070: ghost0030
+    21300072: ghost0010
+    21300074: ghost0011
+    21300076: Dead0041
+    21300078: Dead0038
+    21300080: bloodSplatter0005
+    21300082: ghost0004
+    21300084: Dead0033
+    21300086: Dead0008
+    21300088: Dead0003
+    21300090: ghost0005
+    21300092: ghost0018
+    21300094: Dead0029
+    21300096: Dead0012
+    21300098: Dead0022
+    21300100: ghost0028
+    21300102: ghost0029
+    21300104: ghost0012
+    21300106: ghost0016
+    21300108: ghost0045
+    21300110: ghost0022
+    21300112: Dead0035
+    21300114: ghost0044
+    21300116: Dead0005
+    21300118: ghost0041
+    21300120: Dead0032
+    21300122: Dead0025
+    21300124: Dead0030
+    21300126: ghost0023
+    21300128: Dead0001
+    21300130: Dead0010
+    21300132: Dead0020
+    21300134: Dead0040
+    21300136: Dead0019
+    21300138: ghost0021
+    21300140: Dead0037
+    21300142: Dead0018
+    21300144: ghost0025
+    21300146: ghost0036
+    21300148: ghost0008
+    21300150: Dead0013
+    21300152: ghost0003
+    21300154: ghost0043
+    21300156: Dead0011
+    21300158: ghost0019
+    21300160: Dead0004
+    21300162: bloodSplatter0004
+    21300164: Dead0009
+    21300166: Dead0026
+    21300168: ghost0002
+    21300170: ghost0033
+    21300172: ghost0038
+    21300174: Dead0016
+    21300176: ghost0048
+    21300178: ghost0027
+    21300180: ghost0026
+    21300182: ghost0034
+    21300184: ghost0047
+    21300186: Dead0042
+    21300188: Dead0002
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -296,8 +105,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -305,12 +112,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -318,13 +120,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -333,97 +132,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -450,15 +217,7 @@ TextureImporter:
         - {x: -62.513355, y: -109.96194}
         - {x: -64.51336, y: -66.96194}
         - {x: -96.51336, y: -25.961935}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0014
       rect:
@@ -480,15 +239,7 @@ TextureImporter:
         - {x: -73.01811, y: 21.983343}
         - {x: -44.018112, y: 71.983345}
         - {x: -13.018114, y: 85.983345}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0007
       rect:
@@ -509,15 +260,7 @@ TextureImporter:
         - {x: -14.000046, y: -81.53805}
         - {x: -69.000046, y: -72.53805}
         - {x: -74.000046, y: 25.46195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0014
       rect:
@@ -542,15 +285,7 @@ TextureImporter:
         - {x: -94, y: -38.96193}
         - {x: -63, y: -20.961927}
         - {x: -53.999996, y: 49.03807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0006
       rect:
@@ -571,15 +306,7 @@ TextureImporter:
         - {x: 35.961887, y: 40.97526}
         - {x: 71.96188, y: 35.975266}
         - {x: 71.96188, y: -71.024734}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0015
       rect:
@@ -601,15 +328,7 @@ TextureImporter:
         - {x: 14.981857, y: 77.97533}
         - {x: 30.981857, y: 53.975323}
         - {x: 73.98186, y: 33.975327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0040
       rect:
@@ -634,15 +353,7 @@ TextureImporter:
         - {x: -94.03811, y: -28}
         - {x: -65.03811, y: -21}
         - {x: -54.038105, y: 52}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0006
       rect:
@@ -670,15 +381,7 @@ TextureImporter:
         - {x: -63, y: -16.5}
         - {x: -53.999996, y: 53.499996}
         - {x: -6, y: 108.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0021
       rect:
@@ -700,15 +403,7 @@ TextureImporter:
         - {x: 17.481884, y: 77.975266}
         - {x: 41.481888, y: 39.975266}
         - {x: 74.48189, y: 34.97526}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0013
       rect:
@@ -732,15 +427,7 @@ TextureImporter:
         - {x: -53.999996, y: 49.538063}
         - {x: -8, y: 105.53806}
         - {x: 48.999996, y: 111.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0031
       rect:
@@ -762,15 +449,7 @@ TextureImporter:
         - {x: 6.024687, y: -92.03805}
         - {x: -63.97531, y: -78.03805}
         - {x: -77.97531, y: 33.961952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0039
       rect:
@@ -795,15 +474,7 @@ TextureImporter:
         - {x: -93.013374, y: -30.461937}
         - {x: -67.01337, y: -16.461937}
         - {x: -52.013374, y: 52.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0028
       rect:
@@ -824,15 +495,7 @@ TextureImporter:
         - {x: 9.968407, y: 76.983406}
         - {x: 35.968407, y: 40.983402}
         - {x: 75.96841, y: 35.983406}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0023
       rect:
@@ -854,15 +517,7 @@ TextureImporter:
         - {x: 15.981888, y: 76.97533}
         - {x: 40.981888, y: 39.975327}
         - {x: 73.98189, y: 34.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bloodSplatter0002
       rect:
@@ -880,15 +535,7 @@ TextureImporter:
         - {x: -27.461943, y: 36.461887}
         - {x: 57.538055, y: -26.538113}
         - {x: 43.538055, y: -40.538113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0039
       rect:
@@ -910,15 +557,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0037
       rect:
@@ -942,15 +581,7 @@ TextureImporter:
         - {x: -53.999996, y: 50.538063}
         - {x: -8, y: 106.538055}
         - {x: 48.999996, y: 112.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bloodSplatter0001
       rect:
@@ -968,15 +599,7 @@ TextureImporter:
         - {x: -17.52821, y: 28.484003}
         - {x: 32.47179, y: 0.48400307}
         - {x: 32.47179, y: -30.515995}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0034
       rect:
@@ -998,15 +621,7 @@ TextureImporter:
         - {x: -46.46193, y: -61.96194}
         - {x: -88.46194, y: -35.96194}
         - {x: -88.46194, y: -11.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0032
       rect:
@@ -1030,15 +645,7 @@ TextureImporter:
         - {x: -55.03811, y: -105.96193}
         - {x: -94.03811, y: -40.961937}
         - {x: -94.03811, y: -31.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0024
       rect:
@@ -1063,15 +670,7 @@ TextureImporter:
         - {x: -58.038048, y: -96.96193}
         - {x: -93.03805, y: -47.961937}
         - {x: -94.03805, y: -35.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0027
       rect:
@@ -1092,15 +691,7 @@ TextureImporter:
         - {x: 40.995262, y: 44.975327}
         - {x: 75.99526, y: 32.975327}
         - {x: 65.995255, y: -77.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0046
       rect:
@@ -1127,15 +718,7 @@ TextureImporter:
         - {x: -64, y: -17.5}
         - {x: -53.999996, y: 54.5}
         - {x: -8, y: 108.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0020
       rect:
@@ -1157,15 +740,7 @@ TextureImporter:
         - {x: -95.021454, y: -35.461937}
         - {x: -65.021454, y: -12.461937}
         - {x: -55.02145, y: 45.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0015
       rect:
@@ -1189,15 +764,7 @@ TextureImporter:
         - {x: -94.01336, y: -41.461937}
         - {x: -93.01336, y: -33.461937}
         - {x: -67.01335, y: -19.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0017
       rect:
@@ -1219,15 +786,7 @@ TextureImporter:
         - {x: -18.518112, y: -82.03159}
         - {x: -82.51811, y: -72.031586}
         - {x: -68.51811, y: 24.968405}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0035
       rect:
@@ -1253,15 +812,7 @@ TextureImporter:
         - {x: -93.038055, y: -28.461943}
         - {x: -75.03806, y: -20.461945}
         - {x: -53.038063, y: 52.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0042
       rect:
@@ -1285,15 +836,7 @@ TextureImporter:
         - {x: -62.51337, y: -110.46193}
         - {x: -64.513374, y: -66.46193}
         - {x: -96.513374, y: -25.46193}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0001
       rect:
@@ -1319,15 +862,7 @@ TextureImporter:
         - {x: -89.51336, y: -19.5}
         - {x: -65.51336, y: -10.5}
         - {x: -56.513355, y: 54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0031
       rect:
@@ -1352,15 +887,7 @@ TextureImporter:
         - {x: -55.03811, y: -105.461945}
         - {x: -94.03811, y: -41.461945}
         - {x: -94.03811, y: -32.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bloodSplatter0003
       rect:
@@ -1382,15 +909,7 @@ TextureImporter:
         - {x: 46.46195, y: -0.99998474}
         - {x: -2.5380516, y: 15.000017}
         - {x: -31.538048, y: -12.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0024
       rect:
@@ -1415,15 +934,7 @@ TextureImporter:
         - {x: 55.495262, y: -49.016594}
         - {x: 68.49526, y: -62.016594}
         - {x: 58.495262, y: -73.016594}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0017
       rect:
@@ -1449,15 +960,7 @@ TextureImporter:
         - {x: -58.51336, y: 43.03807}
         - {x: -10.513359, y: 103.03807}
         - {x: 46.486637, y: 109.03807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0036
       rect:
@@ -1479,15 +982,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0007
       rect:
@@ -1512,15 +1007,7 @@ TextureImporter:
         - {x: -56.013374, y: 48.53807}
         - {x: -8.013374, y: 110.53807}
         - {x: 53.98662, y: 109.53807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0030
       rect:
@@ -1544,15 +1031,7 @@ TextureImporter:
         - {x: -55, y: -104.96193}
         - {x: -94, y: -52.961926}
         - {x: -94, y: -39.96193}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0010
       rect:
@@ -1577,15 +1056,7 @@ TextureImporter:
         - {x: -64.513374, y: -66.46194}
         - {x: -96.513374, y: -26.461937}
         - {x: -73.513374, y: -15.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0011
       rect:
@@ -1613,15 +1084,7 @@ TextureImporter:
         - {x: -93.0381, y: -26.961937}
         - {x: -73.03811, y: -21.961937}
         - {x: -54.038105, y: 52.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0041
       rect:
@@ -1643,15 +1106,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0038
       rect:
@@ -1673,15 +1128,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bloodSplatter0005
       rect:
@@ -1700,15 +1147,7 @@ TextureImporter:
       - - {x: 23.5, y: 59.013374}
         - {x: 23.5, y: 25.013374}
         - {x: 6.500004, y: 42.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0004
       rect:
@@ -1733,15 +1172,7 @@ TextureImporter:
         - {x: -64.5, y: -23.5}
         - {x: -57.5, y: 58.499996}
         - {x: -8.5, y: 108.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0033
       rect:
@@ -1763,15 +1194,7 @@ TextureImporter:
         - {x: -46.46193, y: -61.96194}
         - {x: -88.46194, y: -35.96194}
         - {x: -88.46194, y: -11.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0008
       rect:
@@ -1792,15 +1215,7 @@ TextureImporter:
         - {x: 13.461952, y: -82.53805}
         - {x: -68.53804, y: -75.53805}
         - {x: -74.53805, y: 26.461952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0003
       rect:
@@ -1821,15 +1236,7 @@ TextureImporter:
         - {x: 26.495262, y: 54.975323}
         - {x: 75.49526, y: 29.975327}
         - {x: 66.495255, y: -77.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0005
       rect:
@@ -1855,15 +1262,7 @@ TextureImporter:
         - {x: -94, y: -33.499996}
         - {x: -61, y: -18.5}
         - {x: -56, y: 51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0018
       rect:
@@ -1889,15 +1288,7 @@ TextureImporter:
         - {x: -58.51336, y: 42.538067}
         - {x: -10.513359, y: 102.53807}
         - {x: 46.486637, y: 108.53807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0029
       rect:
@@ -1918,15 +1309,7 @@ TextureImporter:
         - {x: -14.999985, y: -81.53805}
         - {x: -70.999985, y: -72.53805}
         - {x: -74.999985, y: 27.461952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0012
       rect:
@@ -1947,15 +1330,7 @@ TextureImporter:
         - {x: -15.5247345, y: -81.53805}
         - {x: -71.524734, y: -72.53805}
         - {x: -73.524734, y: 31.461952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0022
       rect:
@@ -1977,15 +1352,7 @@ TextureImporter:
         - {x: -18.518112, y: -81.53805}
         - {x: -80.51811, y: -71.53804}
         - {x: -70.51811, y: 25.46195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0028
       rect:
@@ -2009,15 +1376,7 @@ TextureImporter:
         - {x: -55.013355, y: 48.03806}
         - {x: -7.013359, y: 101.038055}
         - {x: 43.98664, y: 111.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0029
       rect:
@@ -2040,15 +1399,7 @@ TextureImporter:
         - {x: -94, y: -41.46193}
         - {x: -65, y: -23.461927}
         - {x: -53.999996, y: 46.53807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0012
       rect:
@@ -2074,15 +1425,7 @@ TextureImporter:
         - {x: -93.03804, y: -27.96193}
         - {x: -75.03805, y: -19.96193}
         - {x: -53.038048, y: 53.03807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0016
       rect:
@@ -2107,15 +1450,7 @@ TextureImporter:
         - {x: -55.03811, y: -105.461945}
         - {x: -94.03811, y: -41.461945}
         - {x: -94.03811, y: -32.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0045
       rect:
@@ -2143,15 +1478,7 @@ TextureImporter:
         - {x: -7, y: 109.5}
         - {x: 9, y: 110.5}
         - {x: 53.999996, y: 110.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0022
       rect:
@@ -2175,15 +1502,7 @@ TextureImporter:
         - {x: -55, y: -102.461945}
         - {x: -94, y: -55.461945}
         - {x: -94, y: -42.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0035
       rect:
@@ -2206,15 +1525,7 @@ TextureImporter:
         - {x: -52.028183, y: -61.961937}
         - {x: -87.028175, y: -31.961937}
         - {x: -86.028175, y: -13.961933}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0044
       rect:
@@ -2241,15 +1552,7 @@ TextureImporter:
         - {x: -67.03806, y: -1.5}
         - {x: -54.03806, y: 54.5}
         - {x: -9.038063, y: 107.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0005
       rect:
@@ -2270,15 +1573,7 @@ TextureImporter:
         - {x: 36.461884, y: 40.97526}
         - {x: 72.46189, y: 34.97526}
         - {x: 72.46189, y: -71.024734}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0041
       rect:
@@ -2305,15 +1600,7 @@ TextureImporter:
         - {x: -94.51335, y: -28.961935}
         - {x: -83.51336, y: -17.961937}
         - {x: -65.51336, y: -23.961935}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0032
       rect:
@@ -2335,15 +1622,7 @@ TextureImporter:
         - {x: 14.524673, y: -91.524734}
         - {x: -57.475327, y: -78.524734}
         - {x: -86.47533, y: 31.475266}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0025
       rect:
@@ -2364,15 +1643,7 @@ TextureImporter:
         - {x: 34.99523, y: 46.983406}
         - {x: 74.99523, y: 34.983402}
         - {x: 67.995224, y: -71.016594}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0030
       rect:
@@ -2394,15 +1665,7 @@ TextureImporter:
         - {x: 70.024666, y: 35.975327}
         - {x: 77.02467, y: -39.024673}
         - {x: 66.02467, y: -73.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0023
       rect:
@@ -2426,15 +1689,7 @@ TextureImporter:
         - {x: -94.02566, y: -35.461937}
         - {x: -61.025658, y: -28.461933}
         - {x: -55.025658, y: 45.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0001
       rect:
@@ -2455,15 +1710,7 @@ TextureImporter:
         - {x: 11.007545, y: 76.97533}
         - {x: 37.007545, y: 42.975327}
         - {x: 76.007545, y: 35.975327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0010
       rect:
@@ -2486,15 +1733,7 @@ TextureImporter:
         - {x: 13.461952, y: -83.02467}
         - {x: -69.53805, y: -76.02467}
         - {x: -74.53805, y: 34.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0020
       rect:
@@ -2516,15 +1755,7 @@ TextureImporter:
         - {x: -18.518112, y: -82.03159}
         - {x: -82.51811, y: -72.031586}
         - {x: -68.51811, y: 24.968405}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0040
       rect:
@@ -2546,15 +1777,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0019
       rect:
@@ -2576,15 +1799,7 @@ TextureImporter:
         - {x: -20.518143, y: -83.03159}
         - {x: -82.51814, y: -72.031586}
         - {x: -68.51814, y: 28.968407}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0021
       rect:
@@ -2608,15 +1823,7 @@ TextureImporter:
         - {x: -53.999996, y: 45.038063}
         - {x: -8, y: 101.03806}
         - {x: 48.999996, y: 107.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0037
       rect:
@@ -2638,15 +1845,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0018
       rect:
@@ -2667,15 +1866,7 @@ TextureImporter:
         - {x: 41.481888, y: 39.975327}
         - {x: 74.48189, y: 34.975323}
         - {x: 74.48189, y: -70.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0025
       rect:
@@ -2698,15 +1889,7 @@ TextureImporter:
         - {x: -62.513355, y: 36.03807}
         - {x: -8.513359, y: 99.03806}
         - {x: 42.48664, y: 109.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0036
       rect:
@@ -2732,15 +1915,7 @@ TextureImporter:
         - {x: -93.03804, y: -27.96193}
         - {x: -75.03805, y: -19.96193}
         - {x: -53.038048, y: 53.03807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0008
       rect:
@@ -2765,15 +1940,7 @@ TextureImporter:
         - {x: -93.03811, y: -45.5}
         - {x: -94.03811, y: -27.5}
         - {x: -67.0381, y: -20.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0013
       rect:
@@ -2794,15 +1961,7 @@ TextureImporter:
         - {x: 37.981888, y: 39.975266}
         - {x: 71.98189, y: 35.975266}
         - {x: 71.98189, y: -71.024734}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0003
       rect:
@@ -2828,15 +1987,7 @@ TextureImporter:
         - {x: -93.02151, y: -22.5}
         - {x: -58.021515, y: -16.5}
         - {x: -61.02151, y: 47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0043
       rect:
@@ -2864,15 +2015,7 @@ TextureImporter:
         - {x: -93.02151, y: -33.461926}
         - {x: -93.02151, y: -24.461927}
         - {x: -58.021515, y: -18.46193}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0011
       rect:
@@ -2893,15 +2036,7 @@ TextureImporter:
         - {x: -14.499985, y: -81.53805}
         - {x: -70.499985, y: -72.53805}
         - {x: -73.499985, y: 30.461952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0019
       rect:
@@ -2925,15 +2060,7 @@ TextureImporter:
         - {x: -55.013355, y: 48.03806}
         - {x: -7.013359, y: 101.038055}
         - {x: 43.98664, y: 111.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0004
       rect:
@@ -2955,15 +2082,7 @@ TextureImporter:
         - {x: -16.021301, y: -81.999985}
         - {x: -72.0213, y: -72.999985}
         - {x: -74.0213, y: 21.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bloodSplatter0004
       rect:
@@ -2984,15 +2103,7 @@ TextureImporter:
         - {x: 10.5, y: 41.5}
         - {x: 24.5, y: 41.5}
         - {x: 24.5, y: 27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0009
       rect:
@@ -3013,15 +2124,7 @@ TextureImporter:
         - {x: 13.461952, y: -82.53805}
         - {x: -68.53804, y: -75.53805}
         - {x: -74.53805, y: 26.461952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0026
       rect:
@@ -3042,15 +2145,7 @@ TextureImporter:
         - {x: 27.495262, y: 54.983402}
         - {x: 75.49526, y: 30.983406}
         - {x: 66.495255, y: -72.01659}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0002
       rect:
@@ -3076,15 +2171,7 @@ TextureImporter:
         - {x: -89.51336, y: -19.5}
         - {x: -65.51336, y: -10.5}
         - {x: -56.513355, y: 54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0033
       rect:
@@ -3108,15 +2195,7 @@ TextureImporter:
         - {x: -62.51337, y: -106.96193}
         - {x: -70.513374, y: -61.96193}
         - {x: -96.513374, y: -28.96193}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0038
       rect:
@@ -3142,15 +2221,7 @@ TextureImporter:
         - {x: -94, y: -48.961937}
         - {x: -94, y: -36.961937}
         - {x: -63, y: -18.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0016
       rect:
@@ -3172,15 +2243,7 @@ TextureImporter:
         - {x: 61.481857, y: -74.02467}
         - {x: 10.481857, y: -83.02467}
         - {x: -74.51814, y: -76.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0048
       rect:
@@ -3206,15 +2269,7 @@ TextureImporter:
         - {x: -94.03805, y: -25.5}
         - {x: -64.03805, y: -17.5}
         - {x: -54.038044, y: 54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0027
       rect:
@@ -3237,15 +2292,7 @@ TextureImporter:
         - {x: -2.0380478, y: 110.538055}
         - {x: 77.96195, y: 93.538055}
         - {x: 92.96195, y: 58.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0026
       rect:
@@ -3268,15 +2315,7 @@ TextureImporter:
         - {x: 45.48664, y: -102.461945}
         - {x: -57.51336, y: -102.461945}
         - {x: -96.51336, y: -30.46194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0034
       rect:
@@ -3301,15 +2340,7 @@ TextureImporter:
         - {x: -92.51336, y: -32.961926}
         - {x: -89.51336, y: -24.96193}
         - {x: -65.51336, y: -15.961929}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghost0047
       rect:
@@ -3335,15 +2366,7 @@ TextureImporter:
         - {x: -93.01336, y: -47.5}
         - {x: -94.01336, y: -24.499998}
         - {x: -62.01336, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0042
       rect:
@@ -3365,15 +2388,7 @@ TextureImporter:
         - {x: -46.511353, y: -66.46194}
         - {x: -86.511345, y: -37.461937}
         - {x: -85.511345, y: -16.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Dead0002
       rect:
@@ -3394,123 +2409,9 @@ TextureImporter:
         - {x: 37.481857, y: 40.000015}
         - {x: 72.48186, y: 35.00001}
         - {x: 72.48186, y: -70.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      ghost0034: 21300182
-      ghost0048: 21300176
-      ghost0037: 21300032
-      Dead0034: 21300036
-      ghost0007: 21300068
-      Dead0018: 21300142
-      Dead0039: 21300030
-      ghost0041: 21300118
-      ghost0003: 21300152
-      Dead0009: 21300164
-      Dead0028: 21300024
-      Dead0003: 21300088
-      Dead0010: 21300130
-      ghost0017: 21300064
-      Dead0036: 21300066
-      ghost0043: 21300154
-      ghost0027: 21300178
-      Dead0006: 21300008
-      Dead0023: 21300026
-      ghost0008: 21300148
-      Dead0004: 21300160
-      Dead0011: 21300156
-      ghost0036: 21300146
-      Dead0016: 21300174
-      ghost0033: 21300170
-      Dead0042: 21300186
-      Dead0013: 21300150
-      ghost0006: 21300014
-      bloodSplatter0001: 21300034
-      Dead0041: 21300076
-      ghost0012: 21300104
-      Dead0032: 21300120
-      bloodSplatter0003: 21300060
-      Dead0027: 21300042
-      Dead0033: 21300084
-      Dead0040: 21300134
-      ghost0029: 21300102
-      ghost0039: 21300022
-      Dead0035: 21300112
-      ghost0016: 21300106
-      Dead0005: 21300116
-      ghost0038: 21300172
-      ghost0018: 21300092
-      ghost0032: 21300038
-      Dead0007: 21300004
-      bloodSplatter0005: 21300080
-      ghost0025: 21300144
-      ghost0023: 21300126
-      Dead0037: 21300140
-      ghost0011: 21300074
-      ghost0001: 21300056
-      Dead0014: 21300002
-      Dead0012: 21300096
-      ghost0021: 21300138
-      ghost0046: 21300044
-      ghost0020: 21300046
-      Dead0029: 21300094
-      Dead0019: 21300136
-      ghost0014: 21300006
-      ghost0026: 21300180
-      ghost0031: 21300058
-      Dead0024: 21300062
-      Dead0031: 21300020
-      ghost0028: 21300100
-      ghost0019: 21300158
-      Dead0022: 21300098
-      ghost0024: 21300040
-      Dead0017: 21300050
-      ghost0022: 21300110
-      bloodSplatter0004: 21300162
-      ghost0004: 21300082
-      ghost0010: 21300072
-      Dead0002: 21300188
-      Dead0021: 21300016
-      ghost0035: 21300052
-      ghost0040: 21300012
-      Dead0020: 21300132
-      ghost0044: 21300114
-      Dead0038: 21300078
-      Dead0001: 21300128
-      Dead0015: 21300010
-      Dead0008: 21300086
-      ghost0002: 21300168
-      ghost0005: 21300090
-      ghost0042: 21300054
-      ghost0047: 21300184
-      ghost0045: 21300108
-      ghost0009: 21300000
-      bloodSplatter0002: 21300028
-      ghost0015: 21300048
-      ghost0030: 21300070
-      ghost0013: 21300018
-      Dead0026: 21300166
-      Dead0030: 21300124
-      Dead0025: 21300122
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

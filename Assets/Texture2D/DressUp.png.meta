@@ -1,54 +1,23 @@
 fileFormatVersion: 2
 guid: 7cd7f05c807abdf4f9dd53f0b74c061b
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: dressup_cosmetics0002
-  - first:
-      213: 21300002
-    second: dressup_smallbg
-  - first:
-      213: 21300004
-    second: dressup_haticon
-  - first:
-      213: 21300006
-    second: dressup_cosmetics0004
-  - first:
-      213: 21300008
-    second: dressup_clothes
-  - first:
-      213: 21300010
-    second: dressup_cosmetics0003
-  - first:
-      213: 21300012
-    second: dressup_cosmetics0008
-  - first:
-      213: 21300014
-    second: dressup_cosmetics0006
-  - first:
-      213: 21300016
-    second: dressup_cosmetics0001
-  - first:
-      213: 21300018
-    second: dressup_cosmetics0009
-  - first:
-      213: 21300020
-    second: dressup_cosmetics0007
-  - first:
-      213: 21300022
-    second: dressup_glassesicon
-  - first:
-      213: 21300024
-    second: dummybig
-  - first:
-      213: 21300026
-    second: dressup_bglittle
-  - first:
-      213: 21300028
-    second: dressup_cosmetics0005
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: dressup_cosmetics0002
+    21300002: dressup_smallbg
+    21300004: dressup_haticon
+    21300006: dressup_cosmetics0004
+    21300008: dressup_clothes
+    21300010: dressup_cosmetics0003
+    21300012: dressup_cosmetics0008
+    21300014: dressup_cosmetics0006
+    21300016: dressup_cosmetics0001
+    21300018: dressup_cosmetics0009
+    21300020: dressup_cosmetics0007
+    21300022: dressup_glassesicon
+    21300024: dummybig
+    21300026: dressup_bglittle
+    21300028: dressup_cosmetics0005
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -56,8 +25,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -65,12 +32,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -78,13 +40,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -93,97 +52,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -210,15 +137,7 @@ TextureImporter:
         - {x: -77.500015, y: -51.961945}
         - {x: -105.500015, y: -27.961945}
         - {x: -106.500015, y: 22.038055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_smallbg
       rect:
@@ -235,15 +154,7 @@ TextureImporter:
         - {x: -210.5, y: 62}
         - {x: 210.5, y: 62}
         - {x: 210.5, y: -62}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_haticon
       rect:
@@ -262,15 +173,7 @@ TextureImporter:
         - {x: -24, y: -28}
         - {x: -32, y: -8}
         - {x: -32, y: 4.9999995}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0004
       rect:
@@ -291,15 +194,7 @@ TextureImporter:
         - {x: 50.52467, y: -25.50182}
         - {x: 94.52467, y: -38.50182}
         - {x: 87.52467, y: -58.50182}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_clothes
       rect:
@@ -316,15 +211,7 @@ TextureImporter:
         - {x: -23.5, y: 33.499996}
         - {x: 23.5, y: 33.499996}
         - {x: 23.5, y: -33.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0003
       rect:
@@ -347,15 +234,7 @@ TextureImporter:
         - {x: 94.5, y: 92.5}
         - {x: 113.499985, y: 14.5}
         - {x: 61.5, y: -97.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0008
       rect:
@@ -378,15 +257,7 @@ TextureImporter:
         - {x: -56.01239, y: -19.024673}
         - {x: -38.01239, y: -13.024673}
         - {x: 0.98760986, y: 43.975327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0006
       rect:
@@ -407,15 +278,7 @@ TextureImporter:
         - {x: 88.500015, y: -25.521576}
         - {x: 58.500015, y: -23.521576}
         - {x: 40.500015, y: -44.521576}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0001
       rect:
@@ -436,15 +299,7 @@ TextureImporter:
         - {x: 92.461945, y: -68.97531}
         - {x: -52.538055, y: -115.97531}
         - {x: -100.538055, y: -100.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0009
       rect:
@@ -466,15 +321,7 @@ TextureImporter:
         - {x: 106.49925, y: -41.528015}
         - {x: 2.4992528, y: -76.52802}
         - {x: -98.50074, y: -59.528023}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0007
       rect:
@@ -492,15 +339,7 @@ TextureImporter:
         - {x: 23.98661, y: 28.49192}
         - {x: 100.98661, y: 44.491913}
         - {x: 100.98661, y: -42.508087}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_glassesicon
       rect:
@@ -517,15 +356,7 @@ TextureImporter:
         - {x: -28, y: 14}
         - {x: 28, y: 14}
         - {x: 28, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dummybig
       rect:
@@ -551,15 +382,7 @@ TextureImporter:
         - {x: -129.5, y: 27.5}
         - {x: -129.5, y: 102.5}
         - {x: -65.5, y: 159.49998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_bglittle
       rect:
@@ -576,15 +399,7 @@ TextureImporter:
         - {x: -59.499996, y: 75.5}
         - {x: 59.499996, y: 75.5}
         - {x: 59.499996, y: -75.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dressup_cosmetics0005
       rect:
@@ -607,43 +422,9 @@ TextureImporter:
         - {x: 49.500015, y: -73.986725}
         - {x: -41.499985, y: -27.986725}
         - {x: -90.499985, y: -70.986725}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      dressup_glassesicon: 21300022
-      dressup_bglittle: 21300026
-      dressup_haticon: 21300004
-      dressup_cosmetics0001: 21300016
-      dummybig: 21300024
-      dressup_cosmetics0005: 21300028
-      dressup_smallbg: 21300002
-      dressup_cosmetics0009: 21300018
-      dressup_cosmetics0006: 21300014
-      dressup_clothes: 21300008
-      dressup_cosmetics0004: 21300006
-      dressup_cosmetics0007: 21300020
-      dressup_cosmetics0002: 21300000
-      dressup_cosmetics0003: 21300010
-      dressup_cosmetics0008: 21300012
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

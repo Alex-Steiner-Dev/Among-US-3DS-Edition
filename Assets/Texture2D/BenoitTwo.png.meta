@@ -1,81 +1,32 @@
 fileFormatVersion: 2
 guid: acb74ce2503e0384ba1efc36bf78735e
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_store_bean_KnivesOut_Walk0009
-  - first:
-      213: 21300002
-    second: 2022_store_bean_KnivesOut_Walk0004
-  - first:
-      213: 21300004
-    second: 2022_store_bean_KnivesOut_Walk0001
-  - first:
-      213: 21300006
-    second: 2022_store_bean_KnivesOut_Walk0006
-  - first:
-      213: 21300008
-    second: 2022_store_bean_KnivesOut_Walk0002
-  - first:
-      213: 21300010
-    second: 2022_store_bean_KnivesOut_WalkMirror0011
-  - first:
-      213: 21300012
-    second: 2022_store_bean_KnivesOut_Walk0011
-  - first:
-      213: 21300014
-    second: 2022_store_bean_KnivesOut_Walk0010
-  - first:
-      213: 21300016
-    second: 2022_store_bean_KnivesOut_WalkMirror0003
-  - first:
-      213: 21300018
-    second: 2022_store_bean_KnivesOut_WalkMirror0002
-  - first:
-      213: 21300020
-    second: 2022_store_bean_KnivesOut_Walk0005
-  - first:
-      213: 21300022
-    second: 2022_store_bean_KnivesOut_WalkMirror0005
-  - first:
-      213: 21300024
-    second: 2022_store_bean_KnivesOut_WalkMirror0008
-  - first:
-      213: 21300026
-    second: 2022_store_bean_KnivesOut_WalkMirror0004
-  - first:
-      213: 21300028
-    second: 2022_store_bean_KnivesOut_Walk0008
-  - first:
-      213: 21300030
-    second: 2022_store_bean_KnivesOut_WalkMirror0012
-  - first:
-      213: 21300032
-    second: 2022_store_bean_KnivesOut_WalkMirror0007
-  - first:
-      213: 21300034
-    second: 2022_store_bean_KnivesOut_WalkMirror0001
-  - first:
-      213: 21300036
-    second: 2022_store_bean_KnivesOut_Walk0007
-  - first:
-      213: 21300038
-    second: 2022_store_bean_KnivesOut_WalkMirror0010
-  - first:
-      213: 21300040
-    second: 2022_store_bean_KnivesOut_WalkMirror0006
-  - first:
-      213: 21300042
-    second: 2022_store_bean_KnivesOut_Walk0003
-  - first:
-      213: 21300044
-    second: 2022_store_bean_KnivesOut_WalkMirror0009
-  - first:
-      213: 21300046
-    second: 2022_store_bean_KnivesOut_Walk0012
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_store_bean_KnivesOut_Walk0009
+    21300002: 2022_store_bean_KnivesOut_Walk0004
+    21300004: 2022_store_bean_KnivesOut_Walk0001
+    21300006: 2022_store_bean_KnivesOut_Walk0006
+    21300008: 2022_store_bean_KnivesOut_Walk0002
+    21300010: 2022_store_bean_KnivesOut_WalkMirror0011
+    21300012: 2022_store_bean_KnivesOut_Walk0011
+    21300014: 2022_store_bean_KnivesOut_Walk0010
+    21300016: 2022_store_bean_KnivesOut_WalkMirror0003
+    21300018: 2022_store_bean_KnivesOut_WalkMirror0002
+    21300020: 2022_store_bean_KnivesOut_Walk0005
+    21300022: 2022_store_bean_KnivesOut_WalkMirror0005
+    21300024: 2022_store_bean_KnivesOut_WalkMirror0008
+    21300026: 2022_store_bean_KnivesOut_WalkMirror0004
+    21300028: 2022_store_bean_KnivesOut_Walk0008
+    21300030: 2022_store_bean_KnivesOut_WalkMirror0012
+    21300032: 2022_store_bean_KnivesOut_WalkMirror0007
+    21300034: 2022_store_bean_KnivesOut_WalkMirror0001
+    21300036: 2022_store_bean_KnivesOut_Walk0007
+    21300038: 2022_store_bean_KnivesOut_WalkMirror0010
+    21300040: 2022_store_bean_KnivesOut_WalkMirror0006
+    21300042: 2022_store_bean_KnivesOut_Walk0003
+    21300044: 2022_store_bean_KnivesOut_WalkMirror0009
+    21300046: 2022_store_bean_KnivesOut_Walk0012
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,8 +34,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -92,12 +41,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -105,13 +49,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -120,97 +61,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -237,15 +146,7 @@ TextureImporter:
         - {x: 66.50477, y: 9.475323}
         - {x: 82.50477, y: -42.524673}
         - {x: 48.50477, y: -73.52467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0004
       rect:
@@ -268,15 +169,7 @@ TextureImporter:
         - {x: 86.48661, y: -53.524677}
         - {x: 49.486607, y: -54.524677}
         - {x: 28.48661, y: -41.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0001
       rect:
@@ -299,15 +192,7 @@ TextureImporter:
         - {x: 86.48661, y: -53.52467}
         - {x: 49.486607, y: -54.524677}
         - {x: 28.48661, y: -41.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0006
       rect:
@@ -326,15 +211,7 @@ TextureImporter:
         - {x: -3.4896164, y: 40.975315}
         - {x: 88.510376, y: 39.975315}
         - {x: 41.510384, y: -54.024685}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0002
       rect:
@@ -357,15 +234,7 @@ TextureImporter:
         - {x: 86.48661, y: -53.52467}
         - {x: 49.486607, y: -54.52467}
         - {x: 28.48661, y: -41.52467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0011
       rect:
@@ -385,15 +254,7 @@ TextureImporter:
         - {x: 73.46736, y: 14.475323}
         - {x: 6.4673615, y: -68.52467}
         - {x: -23.532637, y: -53.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0011
       rect:
@@ -413,15 +274,7 @@ TextureImporter:
         - {x: 11.474342, y: 45.9876}
         - {x: 73.47434, y: 43.9876}
         - {x: 73.47434, y: 11.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0010
       rect:
@@ -445,15 +298,7 @@ TextureImporter:
         - {x: 66.50477, y: 9.475323}
         - {x: 82.50477, y: -42.52467}
         - {x: 48.50477, y: -73.52467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0003
       rect:
@@ -474,15 +319,7 @@ TextureImporter:
         - {x: 0.98631287, y: -38.024677}
         - {x: -74.01369, y: -58.024677}
         - {x: -88.01368, y: -25.024677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0002
       rect:
@@ -503,15 +340,7 @@ TextureImporter:
         - {x: 0.98631287, y: -38.024673}
         - {x: -74.01369, y: -58.024677}
         - {x: -88.01368, y: -25.024677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0005
       rect:
@@ -530,15 +359,7 @@ TextureImporter:
         - {x: -3.4896164, y: 40.975315}
         - {x: 88.510376, y: 39.975315}
         - {x: 41.510384, y: -54.024685}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0005
       rect:
@@ -557,15 +378,7 @@ TextureImporter:
         - {x: 59.524673, y: 55.975315}
         - {x: 76.524666, y: 41.975315}
         - {x: 56.52467, y: -51.024685}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0008
       rect:
@@ -588,15 +401,7 @@ TextureImporter:
         - {x: -12.499999, y: -35.97531}
         - {x: -42.5, y: -65.97531}
         - {x: -85.5, y: -44.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0004
       rect:
@@ -617,15 +422,7 @@ TextureImporter:
         - {x: 0.98631287, y: -38.024677}
         - {x: -74.01369, y: -58.024677}
         - {x: -88.01368, y: -25.024677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0008
       rect:
@@ -649,15 +446,7 @@ TextureImporter:
         - {x: 66.50477, y: 9.475307}
         - {x: 82.50477, y: -42.524693}
         - {x: 48.50477, y: -73.52469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0012
       rect:
@@ -677,15 +466,7 @@ TextureImporter:
         - {x: 73.46736, y: 14.475323}
         - {x: 6.4673615, y: -68.52467}
         - {x: -23.532637, y: -53.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0007
       rect:
@@ -708,15 +489,7 @@ TextureImporter:
         - {x: -12.499999, y: -35.97531}
         - {x: -42.5, y: -65.97531}
         - {x: -85.5, y: -44.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0001
       rect:
@@ -737,15 +510,7 @@ TextureImporter:
         - {x: 0.98631287, y: -38.024673}
         - {x: -74.01369, y: -58.024677}
         - {x: -88.01368, y: -25.024677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0007
       rect:
@@ -769,15 +534,7 @@ TextureImporter:
         - {x: 66.50477, y: 9.475323}
         - {x: 82.50477, y: -42.524677}
         - {x: 48.50477, y: -73.52467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0010
       rect:
@@ -800,15 +557,7 @@ TextureImporter:
         - {x: -12.499999, y: -35.975315}
         - {x: -42.5, y: -65.97531}
         - {x: -85.5, y: -44.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0006
       rect:
@@ -827,15 +576,7 @@ TextureImporter:
         - {x: 59.524673, y: 55.975315}
         - {x: 76.524666, y: 41.975315}
         - {x: 56.52467, y: -51.024685}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0003
       rect:
@@ -858,15 +599,7 @@ TextureImporter:
         - {x: 86.48661, y: -53.524677}
         - {x: 49.486607, y: -54.524677}
         - {x: 28.48661, y: -41.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_WalkMirror0009
       rect:
@@ -889,15 +622,7 @@ TextureImporter:
         - {x: -12.499999, y: -35.97531}
         - {x: -42.5, y: -65.97531}
         - {x: -85.5, y: -44.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_KnivesOut_Walk0012
       rect:
@@ -917,52 +642,9 @@ TextureImporter:
         - {x: 11.474342, y: 45.9876}
         - {x: 73.47434, y: 43.9876}
         - {x: 73.47434, y: 11.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_store_bean_KnivesOut_Walk0001: 21300004
-      2022_store_bean_KnivesOut_Walk0002: 21300008
-      2022_store_bean_KnivesOut_Walk0011: 21300012
-      2022_store_bean_KnivesOut_Walk0004: 21300002
-      2022_store_bean_KnivesOut_WalkMirror0001: 21300034
-      2022_store_bean_KnivesOut_WalkMirror0008: 21300024
-      2022_store_bean_KnivesOut_Walk0010: 21300014
-      2022_store_bean_KnivesOut_Walk0012: 21300046
-      2022_store_bean_KnivesOut_WalkMirror0011: 21300010
-      2022_store_bean_KnivesOut_WalkMirror0007: 21300032
-      2022_store_bean_KnivesOut_Walk0003: 21300042
-      2022_store_bean_KnivesOut_WalkMirror0009: 21300044
-      2022_store_bean_KnivesOut_WalkMirror0012: 21300030
-      2022_store_bean_KnivesOut_WalkMirror0010: 21300038
-      2022_store_bean_KnivesOut_WalkMirror0006: 21300040
-      2022_store_bean_KnivesOut_Walk0009: 21300000
-      2022_store_bean_KnivesOut_WalkMirror0003: 21300016
-      2022_store_bean_KnivesOut_WalkMirror0002: 21300018
-      2022_store_bean_KnivesOut_Walk0005: 21300020
-      2022_store_bean_KnivesOut_WalkMirror0004: 21300026
-      2022_store_bean_KnivesOut_WalkMirror0005: 21300022
-      2022_store_bean_KnivesOut_Walk0006: 21300006
-      2022_store_bean_KnivesOut_Walk0008: 21300028
-      2022_store_bean_KnivesOut_Walk0007: 21300036
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

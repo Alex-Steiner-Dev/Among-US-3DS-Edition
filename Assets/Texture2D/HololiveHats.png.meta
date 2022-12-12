@@ -1,138 +1,51 @@
 fileFormatVersion: 2
 guid: 9d0882374f1fa294dab0607a5e0a9ff6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Amelia-2022_hololive_star_hat_watsonAmelia0001
-  - first:
-      213: 21300002
-    second: Fubuki-2022_hololive_star_hat_shirakamiFubuki0003
-  - first:
-      213: 21300004
-    second: Korone-2022_hololive_star_hat_inugamiKorone0003
-  - first:
-      213: 21300006
-    second: Risu-2022_hololive_star_hat_ayundaRisu0002
-  - first:
-      213: 21300008
-    second: Amelia-2022_hololive_star_hat_watsonAmelia0002
-  - first:
-      213: 21300010
-    second: Hoshinova-2022_hololive_star_hat_moonaHoshinova0003
-  - first:
-      213: 21300012
-    second: Amelia-2022_hololive_star_hat_watsonAmelia0003
-  - first:
-      213: 21300014
-    second: Mio-2022_hololive_star_hat_ookamiMio0002
-  - first:
-      213: 21300016
-    second: Hoshinova-2022_hololive_star_hat_moonaHoshinova0002
-  - first:
-      213: 21300018
-    second: Gura-2022_hololive_star_hat_gawrGura0004
-  - first:
-      213: 21300020
-    second: Okayu-2022_hololive_star_hat_nekomataOkayu0004
-  - first:
-      213: 21300022
-    second: Risu-2022_hololive_star_hat_ayundaRisu0001
-  - first:
-      213: 21300024
-    second: Okayu-2022_hololive_star_hat_nekomataOkayu0002
-  - first:
-      213: 21300026
-    second: Marine-2022_hololive_star_hat_hoshouMarine0003
-  - first:
-      213: 21300028
-    second: Korone-2022_hololive_star_hat_inugamiKorone0002
-  - first:
-      213: 21300030
-    second: Gura-2022_hololive_star_hat_gawrGura0001
-  - first:
-      213: 21300032
-    second: Pekora-2022_hololive_star_hat_usadaPekora0003
-  - first:
-      213: 21300034
-    second: Hoshinova-2022_hololive_star_hat_moonaHoshinova0001
-  - first:
-      213: 21300036
-    second: Pekora-2022_hololive_star_hat_usadaPekora0001
-  - first:
-      213: 21300038
-    second: Okayu-2022_hololive_star_hat_nekomataOkayu0003
-  - first:
-      213: 21300040
-    second: Marine-2022_hololive_star_hat_hoshouMarine0002
-  - first:
-      213: 21300042
-    second: Marine-2022_hololive_star_hat_hoshouMarine0001
-  - first:
-      213: 21300044
-    second: Mio-2022_hololive_star_hat_ookamiMio0006
-  - first:
-      213: 21300046
-    second: Risu-2022_hololive_star_hat_ayundaRisu0004
-  - first:
-      213: 21300048
-    second: Fubuki-2022_hololive_star_hat_shirakamiFubuki0001
-  - first:
-      213: 21300050
-    second: Mio-2022_hololive_star_hat_ookamiMio0005
-  - first:
-      213: 21300052
-    second: Risu-2022_hololive_star_hat_ayundaRisu0003
-  - first:
-      213: 21300054
-    second: Pekora-2022_hololive_star_hat_usadaPekora0006
-  - first:
-      213: 21300056
-    second: Mio-2022_hololive_star_hat_ookamiMio0004
-  - first:
-      213: 21300058
-    second: Pekora-2022_hololive_star_hat_usadaPekora0004
-  - first:
-      213: 21300060
-    second: Marine-2022_hololive_star_hat_hoshouMarine0004
-  - first:
-      213: 21300062
-    second: Pekora-2022_hololive_star_hat_usadaPekora0005
-  - first:
-      213: 21300064
-    second: Korone-2022_hololive_star_hat_inugamiKorone0001
-  - first:
-      213: 21300066
-    second: Gura-2022_hololive_star_hat_gawrGura0002
-  - first:
-      213: 21300068
-    second: Okayu-2022_hololive_star_hat_nekomataOkayu0001
-  - first:
-      213: 21300070
-    second: Fubuki-2022_hololive_star_hat_shirakamiFubuki0004
-  - first:
-      213: 21300072
-    second: Gura-2022_hololive_star_hat_gawrGura0003
-  - first:
-      213: 21300074
-    second: Korone-2022_hololive_star_hat_inugamiKorone0004
-  - first:
-      213: 21300076
-    second: Pekora-2022_hololive_star_hat_usadaPekora0002
-  - first:
-      213: 21300078
-    second: Marine-2022_hololive_star_hat_hoshouMarine0005
-  - first:
-      213: 21300080
-    second: Fubuki-2022_hololive_star_hat_shirakamiFubuki0002
-  - first:
-      213: 21300082
-    second: Mio-2022_hololive_star_hat_ookamiMio0001
-  - first:
-      213: 21300084
-    second: Mio-2022_hololive_star_hat_ookamiMio0003
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Amelia-2022_hololive_star_hat_watsonAmelia0001
+    21300002: Fubuki-2022_hololive_star_hat_shirakamiFubuki0003
+    21300004: Korone-2022_hololive_star_hat_inugamiKorone0003
+    21300006: Risu-2022_hololive_star_hat_ayundaRisu0002
+    21300008: Amelia-2022_hololive_star_hat_watsonAmelia0002
+    21300010: Hoshinova-2022_hololive_star_hat_moonaHoshinova0003
+    21300012: Amelia-2022_hololive_star_hat_watsonAmelia0003
+    21300014: Mio-2022_hololive_star_hat_ookamiMio0002
+    21300016: Hoshinova-2022_hololive_star_hat_moonaHoshinova0002
+    21300018: Gura-2022_hololive_star_hat_gawrGura0004
+    21300020: Okayu-2022_hololive_star_hat_nekomataOkayu0004
+    21300022: Risu-2022_hololive_star_hat_ayundaRisu0001
+    21300024: Okayu-2022_hololive_star_hat_nekomataOkayu0002
+    21300026: Marine-2022_hololive_star_hat_hoshouMarine0003
+    21300028: Korone-2022_hololive_star_hat_inugamiKorone0002
+    21300030: Gura-2022_hololive_star_hat_gawrGura0001
+    21300032: Pekora-2022_hololive_star_hat_usadaPekora0003
+    21300034: Hoshinova-2022_hololive_star_hat_moonaHoshinova0001
+    21300036: Pekora-2022_hololive_star_hat_usadaPekora0001
+    21300038: Okayu-2022_hololive_star_hat_nekomataOkayu0003
+    21300040: Marine-2022_hololive_star_hat_hoshouMarine0002
+    21300042: Marine-2022_hololive_star_hat_hoshouMarine0001
+    21300044: Mio-2022_hololive_star_hat_ookamiMio0006
+    21300046: Risu-2022_hololive_star_hat_ayundaRisu0004
+    21300048: Fubuki-2022_hololive_star_hat_shirakamiFubuki0001
+    21300050: Mio-2022_hololive_star_hat_ookamiMio0005
+    21300052: Risu-2022_hololive_star_hat_ayundaRisu0003
+    21300054: Pekora-2022_hololive_star_hat_usadaPekora0006
+    21300056: Mio-2022_hololive_star_hat_ookamiMio0004
+    21300058: Pekora-2022_hololive_star_hat_usadaPekora0004
+    21300060: Marine-2022_hololive_star_hat_hoshouMarine0004
+    21300062: Pekora-2022_hololive_star_hat_usadaPekora0005
+    21300064: Korone-2022_hololive_star_hat_inugamiKorone0001
+    21300066: Gura-2022_hololive_star_hat_gawrGura0002
+    21300068: Okayu-2022_hololive_star_hat_nekomataOkayu0001
+    21300070: Fubuki-2022_hololive_star_hat_shirakamiFubuki0004
+    21300072: Gura-2022_hololive_star_hat_gawrGura0003
+    21300074: Korone-2022_hololive_star_hat_inugamiKorone0004
+    21300076: Pekora-2022_hololive_star_hat_usadaPekora0002
+    21300078: Marine-2022_hololive_star_hat_hoshouMarine0005
+    21300080: Fubuki-2022_hololive_star_hat_shirakamiFubuki0002
+    21300082: Mio-2022_hololive_star_hat_ookamiMio0001
+    21300084: Mio-2022_hololive_star_hat_ookamiMio0003
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -140,8 +53,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -149,12 +60,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -162,13 +68,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -177,97 +80,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -290,15 +161,7 @@ TextureImporter:
         - {x: -47.490616, y: 70.98771}
         - {x: 9.509384, y: 68.98772}
         - {x: 85.50938, y: -23.012283}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Fubuki-2022_hololive_star_hat_shirakamiFubuki0003
       rect:
@@ -321,15 +184,7 @@ TextureImporter:
         - {x: -129, y: 13.5133705}
         - {x: -91, y: 14.513374}
         - {x: -73, y: 33.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Korone-2022_hololive_star_hat_inugamiKorone0003
       rect:
@@ -349,15 +204,7 @@ TextureImporter:
         - {x: 77, y: 27.461935}
         - {x: 107, y: 5.461939}
         - {x: 93, y: -31.538061}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Risu-2022_hololive_star_hat_ayundaRisu0002
       rect:
@@ -379,15 +226,7 @@ TextureImporter:
         - {x: -53.999992, y: -43}
         - {x: -42, y: -17}
         - {x: -90, y: 24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Amelia-2022_hololive_star_hat_watsonAmelia0002
       rect:
@@ -408,15 +247,7 @@ TextureImporter:
         - {x: 71.53807, y: 11.961937}
         - {x: 108.53807, y: -19.038063}
         - {x: 74.53807, y: -53.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Hoshinova-2022_hololive_star_hat_moonaHoshinova0003
       rect:
@@ -437,15 +268,7 @@ TextureImporter:
         - {x: -3.5133743, y: -101.013374}
         - {x: -77.513374, y: -86.013374}
         - {x: -84.513374, y: 7.9866257}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Amelia-2022_hololive_star_hat_watsonAmelia0003
       rect:
@@ -465,15 +288,7 @@ TextureImporter:
         - {x: -68.96194, y: -11.521454}
         - {x: -44.961937, y: 36.478546}
         - {x: -8.961937, y: 62.478546}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mio-2022_hololive_star_hat_ookamiMio0002
       rect:
@@ -493,15 +308,7 @@ TextureImporter:
         - {x: 84, y: -32.538055}
         - {x: 31, y: -24.538055}
         - {x: -55.999996, y: -86.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Hoshinova-2022_hololive_star_hat_moonaHoshinova0002
       rect:
@@ -524,15 +331,7 @@ TextureImporter:
         - {x: -61.5, y: -39.961937}
         - {x: -114.49999, y: -32.961937}
         - {x: -130.5, y: 15.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Gura-2022_hololive_star_hat_gawrGura0004
       rect:
@@ -549,15 +348,7 @@ TextureImporter:
         - {x: -11.5, y: 17.5}
         - {x: 11.5, y: 17.5}
         - {x: 11.5, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Okayu-2022_hololive_star_hat_nekomataOkayu0004
       rect:
@@ -574,15 +365,7 @@ TextureImporter:
         - {x: 13.013374, y: -33.46194}
         - {x: -6.9866295, y: -19.46194}
         - {x: -26.986626, y: 36.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Risu-2022_hololive_star_hat_ayundaRisu0001
       rect:
@@ -604,15 +387,7 @@ TextureImporter:
         - {x: -70.49999, y: -50.52468}
         - {x: -62.499996, y: -31.524681}
         - {x: -77.5, y: 14.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Okayu-2022_hololive_star_hat_nekomataOkayu0002
       rect:
@@ -634,15 +409,7 @@ TextureImporter:
         - {x: -18.486626, y: -38.46194}
         - {x: -64.486626, y: -38.46194}
         - {x: -93.48662, y: -9.461941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Marine-2022_hololive_star_hat_hoshouMarine0003
       rect:
@@ -665,15 +432,7 @@ TextureImporter:
         - {x: -113.52467, y: -37.031597}
         - {x: -123.52467, y: -16.031599}
         - {x: -80.52467, y: 1.9684029}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Korone-2022_hololive_star_hat_inugamiKorone0002
       rect:
@@ -694,15 +453,7 @@ TextureImporter:
         - {x: -7, y: -37}
         - {x: -51, y: -60}
         - {x: -79, y: -3}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Gura-2022_hololive_star_hat_gawrGura0001
       rect:
@@ -725,15 +476,7 @@ TextureImporter:
         - {x: 69.538055, y: -70}
         - {x: -42.461937, y: -59.999996}
         - {x: -91.46194, y: -4}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Pekora-2022_hololive_star_hat_usadaPekora0003
       rect:
@@ -759,15 +502,7 @@ TextureImporter:
         - {x: -4.5, y: -41.461937}
         - {x: -98.49999, y: -65.46194}
         - {x: -124.499985, y: -52.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Hoshinova-2022_hololive_star_hat_moonaHoshinova0001
       rect:
@@ -791,15 +526,7 @@ TextureImporter:
         - {x: -77.5, y: -86.03805}
         - {x: -66.5, y: 3.9619446}
         - {x: -76.5, y: 24.961945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Pekora-2022_hololive_star_hat_usadaPekora0001
       rect:
@@ -822,15 +549,7 @@ TextureImporter:
         - {x: 52.98664, y: 91.49999}
         - {x: 76.98664, y: -2.5}
         - {x: 65.98664, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Okayu-2022_hololive_star_hat_nekomataOkayu0003
       rect:
@@ -848,15 +567,7 @@ TextureImporter:
         - {x: -4.9999995, y: 63}
         - {x: 104, y: -13}
         - {x: 53.999996, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Marine-2022_hololive_star_hat_hoshouMarine0002
       rect:
@@ -878,15 +589,7 @@ TextureImporter:
         - {x: -34, y: -70.96193}
         - {x: -70, y: -58.961937}
         - {x: -88, y: 12.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Marine-2022_hololive_star_hat_hoshouMarine0001
       rect:
@@ -907,15 +610,7 @@ TextureImporter:
         - {x: -40.518112, y: -70.5}
         - {x: -81.51811, y: -57.499996}
         - {x: -81.51811, y: 33.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mio-2022_hololive_star_hat_ookamiMio0006
       rect:
@@ -931,15 +626,7 @@ TextureImporter:
       - - {x: -15, y: 23}
         - {x: 15, y: 1}
         - {x: -15, y: -22.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Risu-2022_hololive_star_hat_ayundaRisu0004
       rect:
@@ -963,15 +650,7 @@ TextureImporter:
         - {x: -30.5, y: -79.02565}
         - {x: -52.5, y: -70.02565}
         - {x: -68.5, y: -6.025654}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Fubuki-2022_hololive_star_hat_shirakamiFubuki0001
       rect:
@@ -992,15 +671,7 @@ TextureImporter:
         - {x: 43.469467, y: 71}
         - {x: 67.46947, y: 41}
         - {x: 64.46947, y: -25}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mio-2022_hololive_star_hat_ookamiMio0005
       rect:
@@ -1016,15 +687,7 @@ TextureImporter:
       - - {x: -15, y: 23}
         - {x: 15, y: 1}
         - {x: -15, y: -22.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Risu-2022_hololive_star_hat_ayundaRisu0003
       rect:
@@ -1046,15 +709,7 @@ TextureImporter:
         - {x: 88.5, y: -22.5}
         - {x: 38.5, y: -50.5}
         - {x: -20.5, y: -35.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Pekora-2022_hololive_star_hat_usadaPekora0006
       rect:
@@ -1071,15 +726,7 @@ TextureImporter:
         - {x: -18.000004, y: 46.5}
         - {x: 18, y: 46.5}
         - {x: 18, y: -46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mio-2022_hololive_star_hat_ookamiMio0004
       rect:
@@ -1103,15 +750,7 @@ TextureImporter:
         - {x: -11.5, y: -120.5}
         - {x: -33.5, y: -60.5}
         - {x: -88.5, y: -5.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Pekora-2022_hololive_star_hat_usadaPekora0004
       rect:
@@ -1136,15 +775,7 @@ TextureImporter:
         - {x: -29, y: -50.013374}
         - {x: -65, y: -122.013374}
         - {x: -95.99999, y: -16.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Marine-2022_hololive_star_hat_hoshouMarine0004
       rect:
@@ -1169,15 +800,7 @@ TextureImporter:
         - {x: -39.5, y: -86.5}
         - {x: -73.5, y: -74.5}
         - {x: -89.5, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Pekora-2022_hololive_star_hat_usadaPekora0005
       rect:
@@ -1195,15 +818,7 @@ TextureImporter:
         - {x: 24.999992, y: 49.03106}
         - {x: 6, y: -52.96894}
         - {x: -15, y: -31.96894}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Korone-2022_hololive_star_hat_inugamiKorone0001
       rect:
@@ -1224,15 +839,7 @@ TextureImporter:
         - {x: -5.4866257, y: -38.03806}
         - {x: -49.486626, y: -61.03806}
         - {x: -77.486626, y: -4.038059}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Gura-2022_hololive_star_hat_gawrGura0002
       rect:
@@ -1251,15 +858,7 @@ TextureImporter:
         - {x: -73, y: -66.513374}
         - {x: -67, y: 36.486618}
         - {x: -8, y: 77.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Okayu-2022_hololive_star_hat_nekomataOkayu0001
       rect:
@@ -1280,15 +879,7 @@ TextureImporter:
         - {x: 15, y: -40.5}
         - {x: -12, y: -63.5}
         - {x: -49, y: -35.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Fubuki-2022_hololive_star_hat_shirakamiFubuki0004
       rect:
@@ -1313,15 +904,7 @@ TextureImporter:
         - {x: -19, y: -77.02468}
         - {x: -35, y: -21.024681}
         - {x: -69, y: 19.975319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Gura-2022_hololive_star_hat_gawrGura0003
       rect:
@@ -1341,15 +924,7 @@ TextureImporter:
         - {x: 106.99999, y: -24}
         - {x: 95, y: -46}
         - {x: 46, y: -55}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Korone-2022_hololive_star_hat_inugamiKorone0004
       rect:
@@ -1371,15 +946,7 @@ TextureImporter:
         - {x: -15.5, y: -25.986626}
         - {x: -37.5, y: -74.98662}
         - {x: -84.5, y: -26.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Pekora-2022_hololive_star_hat_usadaPekora0002
       rect:
@@ -1402,15 +969,7 @@ TextureImporter:
         - {x: 8.5, y: -7.5}
         - {x: -12.5, y: -53.499996}
         - {x: -57.5, y: -93.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Marine-2022_hololive_star_hat_hoshouMarine0005
       rect:
@@ -1427,15 +986,7 @@ TextureImporter:
         - {x: 14.986641, y: 53.013374}
         - {x: 38.98664, y: -7.9866257}
         - {x: 0.98664093, y: -43.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Fubuki-2022_hololive_star_hat_shirakamiFubuki0002
       rect:
@@ -1457,15 +1008,7 @@ TextureImporter:
         - {x: 0, y: -19.961937}
         - {x: -7, y: -71.96193}
         - {x: -65, y: -48.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mio-2022_hololive_star_hat_ookamiMio0001
       rect:
@@ -1489,15 +1032,7 @@ TextureImporter:
         - {x: 24, y: -28}
         - {x: -49.999996, y: -88}
         - {x: -73, y: -65}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mio-2022_hololive_star_hat_ookamiMio0003
       rect:
@@ -1522,71 +1057,9 @@ TextureImporter:
         - {x: 22.00734, y: -38.5}
         - {x: -2.9926605, y: -67.5}
         - {x: -88.99266, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Mio-2022_hololive_star_hat_ookamiMio0001: 21300082
-      Risu-2022_hololive_star_hat_ayundaRisu0004: 21300046
-      Pekora-2022_hololive_star_hat_usadaPekora0005: 21300062
-      Mio-2022_hololive_star_hat_ookamiMio0003: 21300084
-      Amelia-2022_hololive_star_hat_watsonAmelia0003: 21300012
-      Fubuki-2022_hololive_star_hat_shirakamiFubuki0001: 21300048
-      Risu-2022_hololive_star_hat_ayundaRisu0003: 21300052
-      Gura-2022_hololive_star_hat_gawrGura0002: 21300066
-      Gura-2022_hololive_star_hat_gawrGura0004: 21300018
-      Marine-2022_hololive_star_hat_hoshouMarine0004: 21300060
-      Pekora-2022_hololive_star_hat_usadaPekora0003: 21300032
-      Korone-2022_hololive_star_hat_inugamiKorone0003: 21300004
-      Hoshinova-2022_hololive_star_hat_moonaHoshinova0003: 21300010
-      Amelia-2022_hololive_star_hat_watsonAmelia0002: 21300008
-      Pekora-2022_hololive_star_hat_usadaPekora0006: 21300054
-      Marine-2022_hololive_star_hat_hoshouMarine0005: 21300078
-      Okayu-2022_hololive_star_hat_nekomataOkayu0002: 21300024
-      Marine-2022_hololive_star_hat_hoshouMarine0001: 21300042
-      Gura-2022_hololive_star_hat_gawrGura0001: 21300030
-      Korone-2022_hololive_star_hat_inugamiKorone0001: 21300064
-      Pekora-2022_hololive_star_hat_usadaPekora0004: 21300058
-      Gura-2022_hololive_star_hat_gawrGura0003: 21300072
-      Risu-2022_hololive_star_hat_ayundaRisu0001: 21300022
-      Pekora-2022_hololive_star_hat_usadaPekora0002: 21300076
-      Mio-2022_hololive_star_hat_ookamiMio0005: 21300050
-      Korone-2022_hololive_star_hat_inugamiKorone0004: 21300074
-      Hoshinova-2022_hololive_star_hat_moonaHoshinova0002: 21300016
-      Risu-2022_hololive_star_hat_ayundaRisu0002: 21300006
-      Okayu-2022_hololive_star_hat_nekomataOkayu0003: 21300038
-      Mio-2022_hololive_star_hat_ookamiMio0002: 21300014
-      Marine-2022_hololive_star_hat_hoshouMarine0002: 21300040
-      Fubuki-2022_hololive_star_hat_shirakamiFubuki0003: 21300002
-      Pekora-2022_hololive_star_hat_usadaPekora0001: 21300036
-      Amelia-2022_hololive_star_hat_watsonAmelia0001: 21300000
-      Mio-2022_hololive_star_hat_ookamiMio0004: 21300056
-      Marine-2022_hololive_star_hat_hoshouMarine0003: 21300026
-      Okayu-2022_hololive_star_hat_nekomataOkayu0001: 21300068
-      Hoshinova-2022_hololive_star_hat_moonaHoshinova0001: 21300034
-      Fubuki-2022_hololive_star_hat_shirakamiFubuki0004: 21300070
-      Korone-2022_hololive_star_hat_inugamiKorone0002: 21300028
-      Okayu-2022_hololive_star_hat_nekomataOkayu0004: 21300020
-      Mio-2022_hololive_star_hat_ookamiMio0006: 21300044
-      Fubuki-2022_hololive_star_hat_shirakamiFubuki0002: 21300080
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

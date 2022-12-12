@@ -1,81 +1,32 @@
 fileFormatVersion: 2
 guid: d60373fc4dc3d3943ab7de87d5a1de83
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_store_bean_Bubblewrap_Walk0010
-  - first:
-      213: 21300002
-    second: 2022_store_bean_Bubblewrap_WalkMirror0006
-  - first:
-      213: 21300004
-    second: 2022_store_bean_Bubblewrap_WalkMirror0011
-  - first:
-      213: 21300006
-    second: 2022_store_bean_Bubblewrap_WalkMirror0003
-  - first:
-      213: 21300008
-    second: 2022_store_bean_Bubblewrap_Walk0012
-  - first:
-      213: 21300010
-    second: 2022_store_bean_Bubblewrap_WalkMirror0004
-  - first:
-      213: 21300012
-    second: 2022_store_bean_Bubblewrap_WalkMirror0010
-  - first:
-      213: 21300014
-    second: 2022_store_bean_Bubblewrap_Walk0003
-  - first:
-      213: 21300016
-    second: 2022_store_bean_Bubblewrap_Walk0001
-  - first:
-      213: 21300018
-    second: 2022_store_bean_Bubblewrap_Walk0002
-  - first:
-      213: 21300020
-    second: 2022_store_bean_Bubblewrap_WalkMirror0009
-  - first:
-      213: 21300022
-    second: 2022_store_bean_Bubblewrap_Walk0006
-  - first:
-      213: 21300024
-    second: 2022_store_bean_Bubblewrap_Walk0009
-  - first:
-      213: 21300026
-    second: 2022_store_bean_Bubblewrap_Walk0005
-  - first:
-      213: 21300028
-    second: 2022_store_bean_Bubblewrap_Walk0008
-  - first:
-      213: 21300030
-    second: 2022_store_bean_Bubblewrap_WalkMirror0007
-  - first:
-      213: 21300032
-    second: 2022_store_bean_Bubblewrap_WalkMirror0008
-  - first:
-      213: 21300034
-    second: 2022_store_bean_Bubblewrap_WalkMirror0012
-  - first:
-      213: 21300036
-    second: 2022_store_bean_Bubblewrap_WalkMirror0002
-  - first:
-      213: 21300038
-    second: 2022_store_bean_Bubblewrap_Walk0011
-  - first:
-      213: 21300040
-    second: 2022_store_bean_Bubblewrap_Walk0004
-  - first:
-      213: 21300042
-    second: 2022_store_bean_Bubblewrap_Walk0007
-  - first:
-      213: 21300044
-    second: 2022_store_bean_Bubblewrap_WalkMirror0001
-  - first:
-      213: 21300046
-    second: 2022_store_bean_Bubblewrap_WalkMirror0005
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_store_bean_Bubblewrap_Walk0010
+    21300002: 2022_store_bean_Bubblewrap_WalkMirror0006
+    21300004: 2022_store_bean_Bubblewrap_WalkMirror0011
+    21300006: 2022_store_bean_Bubblewrap_WalkMirror0003
+    21300008: 2022_store_bean_Bubblewrap_Walk0012
+    21300010: 2022_store_bean_Bubblewrap_WalkMirror0004
+    21300012: 2022_store_bean_Bubblewrap_WalkMirror0010
+    21300014: 2022_store_bean_Bubblewrap_Walk0003
+    21300016: 2022_store_bean_Bubblewrap_Walk0001
+    21300018: 2022_store_bean_Bubblewrap_Walk0002
+    21300020: 2022_store_bean_Bubblewrap_WalkMirror0009
+    21300022: 2022_store_bean_Bubblewrap_Walk0006
+    21300024: 2022_store_bean_Bubblewrap_Walk0009
+    21300026: 2022_store_bean_Bubblewrap_Walk0005
+    21300028: 2022_store_bean_Bubblewrap_Walk0008
+    21300030: 2022_store_bean_Bubblewrap_WalkMirror0007
+    21300032: 2022_store_bean_Bubblewrap_WalkMirror0008
+    21300034: 2022_store_bean_Bubblewrap_WalkMirror0012
+    21300036: 2022_store_bean_Bubblewrap_WalkMirror0002
+    21300038: 2022_store_bean_Bubblewrap_Walk0011
+    21300040: 2022_store_bean_Bubblewrap_Walk0004
+    21300042: 2022_store_bean_Bubblewrap_Walk0007
+    21300044: 2022_store_bean_Bubblewrap_WalkMirror0001
+    21300046: 2022_store_bean_Bubblewrap_WalkMirror0005
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,8 +34,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -92,12 +41,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -105,13 +49,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -120,97 +61,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -232,15 +141,7 @@ TextureImporter:
         - {x: -65.5, y: 60.481506}
         - {x: 10.5, y: 47.481506}
         - {x: 62.5, y: 50.481506}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0006
       rect:
@@ -259,15 +160,7 @@ TextureImporter:
         - {x: 64.000015, y: 61.987595}
         - {x: 74.000015, y: 26.987598}
         - {x: 56.000015, y: -55.0124}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0011
       rect:
@@ -286,15 +179,7 @@ TextureImporter:
         - {x: 71.485794, y: 64.99999}
         - {x: 66.4858, y: 0.9999924}
         - {x: 12.485802, y: -69.00001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0003
       rect:
@@ -317,15 +202,7 @@ TextureImporter:
         - {x: -67.48661, y: -56.500015}
         - {x: -88.48662, y: -33.500015}
         - {x: -88.48662, y: -13.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0012
       rect:
@@ -345,15 +222,7 @@ TextureImporter:
         - {x: 5.512389, y: 44.508064}
         - {x: 65.51239, y: 45.508064}
         - {x: 73.51239, y: 24.508064}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0004
       rect:
@@ -376,15 +245,7 @@ TextureImporter:
         - {x: -67.48661, y: -56.500015}
         - {x: -88.48662, y: -33.500015}
         - {x: -88.48662, y: -13.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0010
       rect:
@@ -405,15 +266,7 @@ TextureImporter:
         - {x: 8.524696, y: -38.5}
         - {x: -53.4753, y: -66.5}
         - {x: -83.4753, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0003
       rect:
@@ -435,15 +288,7 @@ TextureImporter:
         - {x: 63.486618, y: 41.504753}
         - {x: 88.48662, y: -1.4952469}
         - {x: 88.48662, y: -59.495247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0001
       rect:
@@ -465,15 +310,7 @@ TextureImporter:
         - {x: 63.486618, y: 41.504753}
         - {x: 88.48662, y: -1.4952469}
         - {x: 88.48662, y: -59.495247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0002
       rect:
@@ -495,15 +332,7 @@ TextureImporter:
         - {x: 63.486618, y: 41.504753}
         - {x: 88.48662, y: -1.4952469}
         - {x: 88.48662, y: -59.495247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0009
       rect:
@@ -524,15 +353,7 @@ TextureImporter:
         - {x: 8.524696, y: -38.499996}
         - {x: -53.4753, y: -66.5}
         - {x: -83.4753, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0006
       rect:
@@ -550,15 +371,7 @@ TextureImporter:
         - {x: -74.02467, y: 59.464928}
         - {x: 25.975325, y: 37.464928}
         - {x: 77.97533, y: 47.464928}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0009
       rect:
@@ -577,15 +390,7 @@ TextureImporter:
         - {x: -65.5, y: 60.481518}
         - {x: 10.5, y: 47.48152}
         - {x: 62.5, y: 50.48152}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0005
       rect:
@@ -603,15 +408,7 @@ TextureImporter:
         - {x: -74.02467, y: 59.464928}
         - {x: 25.975325, y: 37.464928}
         - {x: 77.97533, y: 47.464928}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0008
       rect:
@@ -630,15 +427,7 @@ TextureImporter:
         - {x: -65.499985, y: 60.48152}
         - {x: 10.500008, y: 47.48152}
         - {x: 62.500008, y: 50.48152}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0007
       rect:
@@ -659,15 +448,7 @@ TextureImporter:
         - {x: 8.524696, y: -38.5}
         - {x: -53.4753, y: -66.5}
         - {x: -83.4753, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0008
       rect:
@@ -688,15 +469,7 @@ TextureImporter:
         - {x: 8.524696, y: -38.5}
         - {x: -53.4753, y: -66.5}
         - {x: -83.4753, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0012
       rect:
@@ -715,15 +488,7 @@ TextureImporter:
         - {x: 71.485794, y: 64.99999}
         - {x: 66.4858, y: 0.9999924}
         - {x: 12.485802, y: -69.00001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0002
       rect:
@@ -746,15 +511,7 @@ TextureImporter:
         - {x: -67.48661, y: -56.500015}
         - {x: -88.48662, y: -33.50001}
         - {x: -88.48662, y: -13.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0011
       rect:
@@ -774,15 +531,7 @@ TextureImporter:
         - {x: 5.512389, y: 44.508064}
         - {x: 65.51239, y: 45.508064}
         - {x: 73.51239, y: 24.508064}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0004
       rect:
@@ -804,15 +553,7 @@ TextureImporter:
         - {x: 63.486618, y: 41.504753}
         - {x: 88.48662, y: -1.4952469}
         - {x: 88.48662, y: -59.495247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_Walk0007
       rect:
@@ -831,15 +572,7 @@ TextureImporter:
         - {x: -65.5, y: 60.481503}
         - {x: 10.5, y: 47.481506}
         - {x: 62.5, y: 50.481506}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0001
       rect:
@@ -862,15 +595,7 @@ TextureImporter:
         - {x: -67.48661, y: -56.500015}
         - {x: -88.48662, y: -33.500015}
         - {x: -88.48662, y: -13.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_Bubblewrap_WalkMirror0005
       rect:
@@ -889,52 +614,9 @@ TextureImporter:
         - {x: 64.000015, y: 61.987595}
         - {x: 74.000015, y: 26.987598}
         - {x: 56.000015, y: -55.0124}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_store_bean_Bubblewrap_WalkMirror0010: 21300012
-      2022_store_bean_Bubblewrap_WalkMirror0002: 21300036
-      2022_store_bean_Bubblewrap_WalkMirror0005: 21300046
-      2022_store_bean_Bubblewrap_WalkMirror0009: 21300020
-      2022_store_bean_Bubblewrap_Walk0003: 21300014
-      2022_store_bean_Bubblewrap_Walk0010: 21300000
-      2022_store_bean_Bubblewrap_WalkMirror0011: 21300004
-      2022_store_bean_Bubblewrap_Walk0004: 21300040
-      2022_store_bean_Bubblewrap_Walk0009: 21300024
-      2022_store_bean_Bubblewrap_WalkMirror0001: 21300044
-      2022_store_bean_Bubblewrap_WalkMirror0003: 21300006
-      2022_store_bean_Bubblewrap_Walk0005: 21300026
-      2022_store_bean_Bubblewrap_WalkMirror0004: 21300010
-      2022_store_bean_Bubblewrap_Walk0001: 21300016
-      2022_store_bean_Bubblewrap_Walk0006: 21300022
-      2022_store_bean_Bubblewrap_Walk0007: 21300042
-      2022_store_bean_Bubblewrap_WalkMirror0012: 21300034
-      2022_store_bean_Bubblewrap_Walk0011: 21300038
-      2022_store_bean_Bubblewrap_Walk0008: 21300028
-      2022_store_bean_Bubblewrap_WalkMirror0006: 21300002
-      2022_store_bean_Bubblewrap_Walk0002: 21300018
-      2022_store_bean_Bubblewrap_WalkMirror0007: 21300030
-      2022_store_bean_Bubblewrap_WalkMirror0008: 21300032
-      2022_store_bean_Bubblewrap_Walk0012: 21300008
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

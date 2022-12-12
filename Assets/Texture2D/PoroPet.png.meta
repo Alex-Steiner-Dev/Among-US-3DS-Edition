@@ -1,447 +1,154 @@
 fileFormatVersion: 2
 guid: 3c156e5996ed0754ca317d7bcf64f4ed
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: ArcanePoro_Sad0032
-  - first:
-      213: 21300002
-    second: ArcanePoro_Sad0035
-  - first:
-      213: 21300004
-    second: ArcanePoro_Idle0021
-  - first:
-      213: 21300006
-    second: ArcanePoro_Idle0058
-  - first:
-      213: 21300008
-    second: ArcanePoro_Idle0046
-  - first:
-      213: 21300010
-    second: ArcanePoro_Sad0019
-  - first:
-      213: 21300012
-    second: ArcanePoro_Idle0004
-  - first:
-      213: 21300014
-    second: ArcanePoro_Idle0076
-  - first:
-      213: 21300016
-    second: ArcanePoro_Walk0006
-  - first:
-      213: 21300018
-    second: ArcanePoro_Sad0044
-  - first:
-      213: 21300020
-    second: ArcanePoro_Sad0023
-  - first:
-      213: 21300022
-    second: ArcanePoro_Sad0036
-  - first:
-      213: 21300024
-    second: ArcanePoro_Scared0002
-  - first:
-      213: 21300026
-    second: ArcanePoro_Idle0028
-  - first:
-      213: 21300028
-    second: ArcanePoro_Idle0077
-  - first:
-      213: 21300030
-    second: ArcanePoro_Sad0026
-  - first:
-      213: 21300032
-    second: ArcanePoro_Walk0008
-  - first:
-      213: 21300034
-    second: ArcanePoro_Sad0012
-  - first:
-      213: 21300036
-    second: ArcanePoro_Idle0061
-  - first:
-      213: 21300038
-    second: ArcanePoro_Idle0068
-  - first:
-      213: 21300040
-    second: ArcanePoro_Idle0086
-  - first:
-      213: 21300042
-    second: ArcanePoro_Idle0025
-  - first:
-      213: 21300044
-    second: ArcanePoro_Idle0022
-  - first:
-      213: 21300046
-    second: ArcanePoro_Idle0007
-  - first:
-      213: 21300048
-    second: ArcanePoro_Idle0084
-  - first:
-      213: 21300050
-    second: ArcanePoro_Idle0033
-  - first:
-      213: 21300052
-    second: ArcanePoro_Idle0018
-  - first:
-      213: 21300054
-    second: ArcanePoro_Idle0019
-  - first:
-      213: 21300056
-    second: ArcanePoro_Sad0025
-  - first:
-      213: 21300058
-    second: ArcanePoro_Idle0057
-  - first:
-      213: 21300060
-    second: ArcanePoro_Idle0043
-  - first:
-      213: 21300062
-    second: ArcanePoro_Idle0035
-  - first:
-      213: 21300064
-    second: ArcanePoro_Idle0011
-  - first:
-      213: 21300066
-    second: ArcanePoro_Walk0002
-  - first:
-      213: 21300068
-    second: ArcanePoro_Sad0020
-  - first:
-      213: 21300070
-    second: ArcanePoro_Sad0002
-  - first:
-      213: 21300072
-    second: ArcanePoro_Idle0026
-  - first:
-      213: 21300074
-    second: ArcanePoro_Sad0034
-  - first:
-      213: 21300076
-    second: ArcanePoro_Idle0027
-  - first:
-      213: 21300078
-    second: ArcanePoro_Idle0063
-  - first:
-      213: 21300080
-    second: ArcanePoro_Idle0069
-  - first:
-      213: 21300082
-    second: ArcanePoro_Sad0031
-  - first:
-      213: 21300084
-    second: ArcanePoro_Sad0038
-  - first:
-      213: 21300086
-    second: ArcanePoro_Idle0073
-  - first:
-      213: 21300088
-    second: ArcanePoro_Idle0059
-  - first:
-      213: 21300090
-    second: ArcanePoro_Idle0014
-  - first:
-      213: 21300092
-    second: ArcanePoro_Idle0017
-  - first:
-      213: 21300094
-    second: ArcanePoro_Sad0011
-  - first:
-      213: 21300096
-    second: ArcanePoro_Idle0008
-  - first:
-      213: 21300098
-    second: ArcanePoro_Idle0020
-  - first:
-      213: 21300100
-    second: ArcanePoro_Sad0005
-  - first:
-      213: 21300102
-    second: ArcanePoro_Sad0039
-  - first:
-      213: 21300104
-    second: ArcanePoro_Idle0055
-  - first:
-      213: 21300106
-    second: ArcanePoro_Sad0030
-  - first:
-      213: 21300108
-    second: ArcanePoro_Walk0003
-  - first:
-      213: 21300110
-    second: ArcanePoro_Idle0040
-  - first:
-      213: 21300112
-    second: ArcanePoro_Sad0018
-  - first:
-      213: 21300114
-    second: ArcanePoro_Idle0056
-  - first:
-      213: 21300116
-    second: ArcanePoro_Idle0045
-  - first:
-      213: 21300118
-    second: ArcanePoro_Idle0013
-  - first:
-      213: 21300120
-    second: ArcanePoro_Idle0024
-  - first:
-      213: 21300122
-    second: ArcanePoro_Idle0062
-  - first:
-      213: 21300124
-    second: ArcanePoro_Sad0033
-  - first:
-      213: 21300126
-    second: ArcanePoro_Sad0043
-  - first:
-      213: 21300128
-    second: ArcanePoro_Idle0079
-  - first:
-      213: 21300130
-    second: ArcanePoro_Sad0022
-  - first:
-      213: 21300132
-    second: ArcanePoro_Idle0005
-  - first:
-      213: 21300134
-    second: ArcanePoro_Idle0012
-  - first:
-      213: 21300136
-    second: ArcanePoro_Idle0047
-  - first:
-      213: 21300138
-    second: ArcanePoro_Idle0015
-  - first:
-      213: 21300140
-    second: ArcanePoro_Idle0016
-  - first:
-      213: 21300142
-    second: ArcanePoro_Idle0060
-  - first:
-      213: 21300144
-    second: ArcanePoro_Sad0027
-  - first:
-      213: 21300146
-    second: ArcanePoro_Sad0007
-  - first:
-      213: 21300148
-    second: ArcanePoro_Idle0030
-  - first:
-      213: 21300150
-    second: ArcanePoro_Scared0003
-  - first:
-      213: 21300152
-    second: ArcanePoro_Sad0048
-  - first:
-      213: 21300154
-    second: ArcanePoro_Sad0013
-  - first:
-      213: 21300156
-    second: ArcanePoro_Sad0001
-  - first:
-      213: 21300158
-    second: ArcanePoro_Scared0004
-  - first:
-      213: 21300160
-    second: ArcanePoro_Sad0015
-  - first:
-      213: 21300162
-    second: ArcanePoro_Idle0067
-  - first:
-      213: 21300164
-    second: ArcanePoro_Sad0046
-  - first:
-      213: 21300166
-    second: ArcanePoro_Idle0049
-  - first:
-      213: 21300168
-    second: ArcanePoro_Idle0051
-  - first:
-      213: 21300170
-    second: ArcanePoro_Idle0064
-  - first:
-      213: 21300172
-    second: ArcanePoro_Idle0009
-  - first:
-      213: 21300174
-    second: ArcanePoro_Idle0023
-  - first:
-      213: 21300176
-    second: ArcanePoro_Sad0047
-  - first:
-      213: 21300178
-    second: ArcanePoro_Walk0005
-  - first:
-      213: 21300180
-    second: ArcanePoro_Sad0003
-  - first:
-      213: 21300182
-    second: ArcanePoro_Sad0017
-  - first:
-      213: 21300184
-    second: ArcanePoro_Idle0081
-  - first:
-      213: 21300186
-    second: ArcanePoro_Sad0016
-  - first:
-      213: 21300188
-    second: ArcanePoro_Idle0078
-  - first:
-      213: 21300190
-    second: ArcanePoro_Idle0038
-  - first:
-      213: 21300192
-    second: ArcanePoro_Sad0029
-  - first:
-      213: 21300194
-    second: ArcanePoro_Idle0075
-  - first:
-      213: 21300196
-    second: ArcanePoro_Idle0002
-  - first:
-      213: 21300198
-    second: ArcanePoro_Sad0045
-  - first:
-      213: 21300200
-    second: ArcanePoro_Idle0037
-  - first:
-      213: 21300202
-    second: ArcanePoro_Idle0036
-  - first:
-      213: 21300204
-    second: ArcanePoro_Idle0041
-  - first:
-      213: 21300206
-    second: ArcanePoro_Idle0050
-  - first:
-      213: 21300208
-    second: ArcanePoro_Idle0044
-  - first:
-      213: 21300210
-    second: ArcanePoro_Idle0039
-  - first:
-      213: 21300212
-    second: ArcanePoro_Sad0041
-  - first:
-      213: 21300214
-    second: ArcanePoro_Sad0009
-  - first:
-      213: 21300216
-    second: ArcanePoro_Idle0074
-  - first:
-      213: 21300218
-    second: ArcanePoro_Idle0071
-  - first:
-      213: 21300220
-    second: ArcanePoro_Sad0042
-  - first:
-      213: 21300222
-    second: ArcanePoro_Sad0010
-  - first:
-      213: 21300224
-    second: ArcanePoro_Idle0029
-  - first:
-      213: 21300226
-    second: ArcanePoro_Sad0024
-  - first:
-      213: 21300228
-    second: ArcanePoro_Idle0048
-  - first:
-      213: 21300230
-    second: ArcanePoro_Walk0004
-  - first:
-      213: 21300232
-    second: ArcanePoro_Sad0008
-  - first:
-      213: 21300234
-    second: ArcanePoro_Idle0065
-  - first:
-      213: 21300236
-    second: ArcanePoro_Sad0021
-  - first:
-      213: 21300238
-    second: ArcanePoro_Sad0004
-  - first:
-      213: 21300240
-    second: ArcanePoro_Idle0034
-  - first:
-      213: 21300242
-    second: ArcanePoro_Idle0031
-  - first:
-      213: 21300244
-    second: ArcanePoro_Sad0006
-  - first:
-      213: 21300246
-    second: ArcanePoro_Walk0001
-  - first:
-      213: 21300248
-    second: ArcanePoro_Idle0054
-  - first:
-      213: 21300250
-    second: ArcanePoro_Idle0052
-  - first:
-      213: 21300252
-    second: ArcanePoro_Idle0010
-  - first:
-      213: 21300254
-    second: ArcanePoro_Idle0053
-  - first:
-      213: 21300256
-    second: ArcanePoro_Idle0080
-  - first:
-      213: 21300258
-    second: ArcanePoro_Idle0082
-  - first:
-      213: 21300260
-    second: ArcanePoro_Idle0042
-  - first:
-      213: 21300262
-    second: ArcanePoro_Idle0003
-  - first:
-      213: 21300264
-    second: ArcanePoro_Scared0001
-  - first:
-      213: 21300266
-    second: ArcanePoro_Walk0007
-  - first:
-      213: 21300268
-    second: ArcanePoro_Sad0037
-  - first:
-      213: 21300270
-    second: ArcanePoro_Sad0040
-  - first:
-      213: 21300272
-    second: ArcanePoro_Sad0028
-  - first:
-      213: 21300274
-    second: ArcanePoro_Idle0032
-  - first:
-      213: 21300276
-    second: ArcanePoro_Idle0006
-  - first:
-      213: 21300278
-    second: ArcanePoro_Idle0072
-  - first:
-      213: 21300280
-    second: ArcanePoro_Sad0014
-  - first:
-      213: 21300282
-    second: ArcanePoro_Idle0070
-  - first:
-      213: 21300284
-    second: ArcanePoro_Idle0083
-  - first:
-      213: 21300286
-    second: ArcanePoro_Idle0085
-  - first:
-      213: 21300288
-    second: ArcanePoro_Idle0066
-  - first:
-      213: 21300290
-    second: ArcanePoro_Idle0001
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: ArcanePoro_Sad0032
+    21300002: ArcanePoro_Sad0035
+    21300004: ArcanePoro_Idle0021
+    21300006: ArcanePoro_Idle0058
+    21300008: ArcanePoro_Idle0046
+    21300010: ArcanePoro_Sad0019
+    21300012: ArcanePoro_Idle0004
+    21300014: ArcanePoro_Idle0076
+    21300016: ArcanePoro_Walk0006
+    21300018: ArcanePoro_Sad0044
+    21300020: ArcanePoro_Sad0023
+    21300022: ArcanePoro_Sad0036
+    21300024: ArcanePoro_Scared0002
+    21300026: ArcanePoro_Idle0028
+    21300028: ArcanePoro_Idle0077
+    21300030: ArcanePoro_Sad0026
+    21300032: ArcanePoro_Walk0008
+    21300034: ArcanePoro_Sad0012
+    21300036: ArcanePoro_Idle0061
+    21300038: ArcanePoro_Idle0068
+    21300040: ArcanePoro_Idle0086
+    21300042: ArcanePoro_Idle0025
+    21300044: ArcanePoro_Idle0022
+    21300046: ArcanePoro_Idle0007
+    21300048: ArcanePoro_Idle0084
+    21300050: ArcanePoro_Idle0033
+    21300052: ArcanePoro_Idle0018
+    21300054: ArcanePoro_Idle0019
+    21300056: ArcanePoro_Sad0025
+    21300058: ArcanePoro_Idle0057
+    21300060: ArcanePoro_Idle0043
+    21300062: ArcanePoro_Idle0035
+    21300064: ArcanePoro_Idle0011
+    21300066: ArcanePoro_Walk0002
+    21300068: ArcanePoro_Sad0020
+    21300070: ArcanePoro_Sad0002
+    21300072: ArcanePoro_Idle0026
+    21300074: ArcanePoro_Sad0034
+    21300076: ArcanePoro_Idle0027
+    21300078: ArcanePoro_Idle0063
+    21300080: ArcanePoro_Idle0069
+    21300082: ArcanePoro_Sad0031
+    21300084: ArcanePoro_Sad0038
+    21300086: ArcanePoro_Idle0073
+    21300088: ArcanePoro_Idle0059
+    21300090: ArcanePoro_Idle0014
+    21300092: ArcanePoro_Idle0017
+    21300094: ArcanePoro_Sad0011
+    21300096: ArcanePoro_Idle0008
+    21300098: ArcanePoro_Idle0020
+    21300100: ArcanePoro_Sad0005
+    21300102: ArcanePoro_Sad0039
+    21300104: ArcanePoro_Idle0055
+    21300106: ArcanePoro_Sad0030
+    21300108: ArcanePoro_Walk0003
+    21300110: ArcanePoro_Idle0040
+    21300112: ArcanePoro_Sad0018
+    21300114: ArcanePoro_Idle0056
+    21300116: ArcanePoro_Idle0045
+    21300118: ArcanePoro_Idle0013
+    21300120: ArcanePoro_Idle0024
+    21300122: ArcanePoro_Idle0062
+    21300124: ArcanePoro_Sad0033
+    21300126: ArcanePoro_Sad0043
+    21300128: ArcanePoro_Idle0079
+    21300130: ArcanePoro_Sad0022
+    21300132: ArcanePoro_Idle0005
+    21300134: ArcanePoro_Idle0012
+    21300136: ArcanePoro_Idle0047
+    21300138: ArcanePoro_Idle0015
+    21300140: ArcanePoro_Idle0016
+    21300142: ArcanePoro_Idle0060
+    21300144: ArcanePoro_Sad0027
+    21300146: ArcanePoro_Sad0007
+    21300148: ArcanePoro_Idle0030
+    21300150: ArcanePoro_Scared0003
+    21300152: ArcanePoro_Sad0048
+    21300154: ArcanePoro_Sad0013
+    21300156: ArcanePoro_Sad0001
+    21300158: ArcanePoro_Scared0004
+    21300160: ArcanePoro_Sad0015
+    21300162: ArcanePoro_Idle0067
+    21300164: ArcanePoro_Sad0046
+    21300166: ArcanePoro_Idle0049
+    21300168: ArcanePoro_Idle0051
+    21300170: ArcanePoro_Idle0064
+    21300172: ArcanePoro_Idle0009
+    21300174: ArcanePoro_Idle0023
+    21300176: ArcanePoro_Sad0047
+    21300178: ArcanePoro_Walk0005
+    21300180: ArcanePoro_Sad0003
+    21300182: ArcanePoro_Sad0017
+    21300184: ArcanePoro_Idle0081
+    21300186: ArcanePoro_Sad0016
+    21300188: ArcanePoro_Idle0078
+    21300190: ArcanePoro_Idle0038
+    21300192: ArcanePoro_Sad0029
+    21300194: ArcanePoro_Idle0075
+    21300196: ArcanePoro_Idle0002
+    21300198: ArcanePoro_Sad0045
+    21300200: ArcanePoro_Idle0037
+    21300202: ArcanePoro_Idle0036
+    21300204: ArcanePoro_Idle0041
+    21300206: ArcanePoro_Idle0050
+    21300208: ArcanePoro_Idle0044
+    21300210: ArcanePoro_Idle0039
+    21300212: ArcanePoro_Sad0041
+    21300214: ArcanePoro_Sad0009
+    21300216: ArcanePoro_Idle0074
+    21300218: ArcanePoro_Idle0071
+    21300220: ArcanePoro_Sad0042
+    21300222: ArcanePoro_Sad0010
+    21300224: ArcanePoro_Idle0029
+    21300226: ArcanePoro_Sad0024
+    21300228: ArcanePoro_Idle0048
+    21300230: ArcanePoro_Walk0004
+    21300232: ArcanePoro_Sad0008
+    21300234: ArcanePoro_Idle0065
+    21300236: ArcanePoro_Sad0021
+    21300238: ArcanePoro_Sad0004
+    21300240: ArcanePoro_Idle0034
+    21300242: ArcanePoro_Idle0031
+    21300244: ArcanePoro_Sad0006
+    21300246: ArcanePoro_Walk0001
+    21300248: ArcanePoro_Idle0054
+    21300250: ArcanePoro_Idle0052
+    21300252: ArcanePoro_Idle0010
+    21300254: ArcanePoro_Idle0053
+    21300256: ArcanePoro_Idle0080
+    21300258: ArcanePoro_Idle0082
+    21300260: ArcanePoro_Idle0042
+    21300262: ArcanePoro_Idle0003
+    21300264: ArcanePoro_Scared0001
+    21300266: ArcanePoro_Walk0007
+    21300268: ArcanePoro_Sad0037
+    21300270: ArcanePoro_Sad0040
+    21300272: ArcanePoro_Sad0028
+    21300274: ArcanePoro_Idle0032
+    21300276: ArcanePoro_Idle0006
+    21300278: ArcanePoro_Idle0072
+    21300280: ArcanePoro_Sad0014
+    21300282: ArcanePoro_Idle0070
+    21300284: ArcanePoro_Idle0083
+    21300286: ArcanePoro_Idle0085
+    21300288: ArcanePoro_Idle0066
+    21300290: ArcanePoro_Idle0001
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -449,8 +156,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -458,12 +163,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -471,13 +171,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -486,97 +183,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -597,15 +262,7 @@ TextureImporter:
         - {x: -55.493893, y: 51.47526}
         - {x: 52.506104, y: 38.475258}
         - {x: 67.5061, y: -40.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0035
       rect:
@@ -623,15 +280,7 @@ TextureImporter:
         - {x: -54.499985, y: 51.999947}
         - {x: 49.500015, y: 38.999947}
         - {x: 67.500015, y: -39.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0021
       rect:
@@ -651,15 +300,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0058
       rect:
@@ -679,15 +320,7 @@ TextureImporter:
         - {x: -63.010983, y: 6.5247}
         - {x: -38.010986, y: 69.524704}
         - {x: 48.98901, y: 30.524698}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0046
       rect:
@@ -705,15 +338,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0019
       rect:
@@ -731,15 +356,7 @@ TextureImporter:
         - {x: -60.50808, y: 51.499943}
         - {x: 50.491917, y: 38.499947}
         - {x: 64.49191, y: -22.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0004
       rect:
@@ -759,15 +376,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0076
       rect:
@@ -787,15 +396,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0006
       rect:
@@ -814,15 +415,7 @@ TextureImporter:
         - {x: -63.499985, y: 51.999943}
         - {x: 46.500015, y: 47.999947}
         - {x: 67.500015, y: -10.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0044
       rect:
@@ -840,15 +433,7 @@ TextureImporter:
         - {x: -54.50719, y: 56.47526}
         - {x: 48.49281, y: 39.47526}
         - {x: 65.49281, y: -43.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0023
       rect:
@@ -866,15 +451,7 @@ TextureImporter:
         - {x: -55.517696, y: 50.47526}
         - {x: 49.4823, y: 38.47526}
         - {x: 69.4823, y: -39.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0036
       rect:
@@ -892,15 +469,7 @@ TextureImporter:
         - {x: -53.031044, y: 52.999943}
         - {x: 59.968956, y: 38.999947}
         - {x: 59.968956, y: -40.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Scared0002
       rect:
@@ -918,15 +487,7 @@ TextureImporter:
         - {x: 65.51544, y: -34.000053}
         - {x: 24.51544, y: -61.000053}
         - {x: -61.48456, y: -49.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0028
       rect:
@@ -946,15 +507,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0077
       rect:
@@ -974,15 +527,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0026
       rect:
@@ -1001,15 +546,7 @@ TextureImporter:
         - {x: 45.98664, y: 39.499947}
         - {x: 60.98664, y: 9.499947}
         - {x: 60.98664, y: -38.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0008
       rect:
@@ -1029,15 +566,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0012
       rect:
@@ -1055,15 +584,7 @@ TextureImporter:
         - {x: -58.031044, y: 53.508095}
         - {x: 59.968956, y: 38.508095}
         - {x: 59.968956, y: -27.491905}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0061
       rect:
@@ -1082,15 +603,7 @@ TextureImporter:
         - {x: -47.000015, y: -56.475296}
         - {x: -61.000015, y: -2.4752998}
         - {x: -43.000015, y: 63.524696}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0068
       rect:
@@ -1109,15 +622,7 @@ TextureImporter:
         - {x: -42.024693, y: 62.524696}
         - {x: 53.975307, y: 32.5247}
         - {x: 62.9753, y: -39.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0086
       rect:
@@ -1137,15 +642,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0025
       rect:
@@ -1165,15 +662,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0022
       rect:
@@ -1193,15 +682,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0007
       rect:
@@ -1221,15 +702,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0084
       rect:
@@ -1249,15 +722,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0033
       rect:
@@ -1277,15 +742,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0018
       rect:
@@ -1305,15 +762,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0019
       rect:
@@ -1333,15 +782,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0025
       rect:
@@ -1359,15 +800,7 @@ TextureImporter:
         - {x: -55.517696, y: 50.47526}
         - {x: 49.4823, y: 38.47526}
         - {x: 69.4823, y: -39.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0057
       rect:
@@ -1386,15 +819,7 @@ TextureImporter:
         - {x: -39.53805, y: 63.03806}
         - {x: 58.46194, y: 28.038061}
         - {x: 58.46194, y: -44.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0043
       rect:
@@ -1412,15 +837,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0035
       rect:
@@ -1440,15 +857,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0011
       rect:
@@ -1468,15 +877,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0002
       rect:
@@ -1496,15 +897,7 @@ TextureImporter:
         - {x: 48.016502, y: 52.4895}
         - {x: 68.0165, y: -11.510502}
         - {x: 51.016502, y: -58.510498}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0020
       rect:
@@ -1522,15 +915,7 @@ TextureImporter:
         - {x: -54.499985, y: 50.499947}
         - {x: 51.50001, y: 38.499947}
         - {x: 63.500015, y: -23.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0002
       rect:
@@ -1548,15 +933,7 @@ TextureImporter:
         - {x: -53.51768, y: 53.999947}
         - {x: 48.48232, y: 42.999947}
         - {x: 65.482315, y: -40.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0026
       rect:
@@ -1576,15 +953,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0034
       rect:
@@ -1602,15 +971,7 @@ TextureImporter:
         - {x: -57.00808, y: 53.499943}
         - {x: 50.991917, y: 39.499947}
         - {x: 66.99192, y: -38.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0027
       rect:
@@ -1630,15 +991,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0063
       rect:
@@ -1657,15 +1010,7 @@ TextureImporter:
         - {x: -47.012394, y: -53.475296}
         - {x: -63.01239, y: 6.524704}
         - {x: -42.012394, y: 62.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0069
       rect:
@@ -1684,15 +1029,7 @@ TextureImporter:
         - {x: -42.024685, y: 62.03806}
         - {x: 53.975315, y: 32.038055}
         - {x: 62.975307, y: -40.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0031
       rect:
@@ -1710,15 +1047,7 @@ TextureImporter:
         - {x: -55.03195, y: 49.999947}
         - {x: 60.968044, y: 40.999947}
         - {x: 60.968044, y: -39.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0038
       rect:
@@ -1737,15 +1066,7 @@ TextureImporter:
         - {x: 49.48142, y: 39.499947}
         - {x: 63.48142, y: -22.500053}
         - {x: 39.48142, y: -51.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0073
       rect:
@@ -1764,15 +1085,7 @@ TextureImporter:
         - {x: -42.024685, y: 62.03806}
         - {x: 53.975315, y: 32.038055}
         - {x: 62.975307, y: -40.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0059
       rect:
@@ -1791,15 +1104,7 @@ TextureImporter:
         - {x: -47.000015, y: -56.475296}
         - {x: -61.000015, y: -2.4752998}
         - {x: -43.000015, y: 63.524696}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0014
       rect:
@@ -1819,15 +1124,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0017
       rect:
@@ -1847,15 +1144,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0011
       rect:
@@ -1873,15 +1162,7 @@ TextureImporter:
         - {x: -53.524693, y: 52.499943}
         - {x: 49.475307, y: 39.499947}
         - {x: 63.475307, y: -25.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0008
       rect:
@@ -1901,15 +1182,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0020
       rect:
@@ -1929,15 +1202,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0005
       rect:
@@ -1956,15 +1221,7 @@ TextureImporter:
         - {x: 49.99192, y: 40.000015}
         - {x: 61.99192, y: -27.999985}
         - {x: 37.991917, y: -51.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0039
       rect:
@@ -1982,15 +1239,7 @@ TextureImporter:
         - {x: -53.031956, y: 52.999947}
         - {x: 59.968044, y: 38.999947}
         - {x: 59.968044, y: -40.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0055
       rect:
@@ -2009,15 +1258,7 @@ TextureImporter:
         - {x: -45.984238, y: -53.4753}
         - {x: -58.984238, y: -2.4752998}
         - {x: -39.984238, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0030
       rect:
@@ -2035,15 +1276,7 @@ TextureImporter:
         - {x: -60.50808, y: 50.975258}
         - {x: 49.49192, y: 43.975258}
         - {x: 64.49191, y: -23.024738}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0003
       rect:
@@ -2062,15 +1295,7 @@ TextureImporter:
         - {x: 48.01647, y: 52.489494}
         - {x: 68.01647, y: -11.510504}
         - {x: 51.01647, y: -58.510506}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0040
       rect:
@@ -2090,15 +1315,7 @@ TextureImporter:
         - {x: 47.514214, y: 34.500015}
         - {x: 67.51421, y: 0.50001526}
         - {x: 55.514214, y: -43.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0018
       rect:
@@ -2116,15 +1333,7 @@ TextureImporter:
         - {x: -54.50808, y: 50.975258}
         - {x: 50.491917, y: 37.97526}
         - {x: 68.49192, y: -38.02474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0056
       rect:
@@ -2143,15 +1352,7 @@ TextureImporter:
         - {x: -45.984238, y: -53.4753}
         - {x: -58.984238, y: -2.4752998}
         - {x: -39.984238, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0045
       rect:
@@ -2169,15 +1370,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0013
       rect:
@@ -2197,15 +1390,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0024
       rect:
@@ -2225,15 +1410,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0062
       rect:
@@ -2252,15 +1429,7 @@ TextureImporter:
         - {x: -47, y: -53.475296}
         - {x: -61, y: -2.475296}
         - {x: -43, y: 63.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0033
       rect:
@@ -2278,15 +1447,7 @@ TextureImporter:
         - {x: -57.483395, y: 53.475258}
         - {x: 50.5166, y: 38.475258}
         - {x: 64.5166, y: -21.524738}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0043
       rect:
@@ -2304,15 +1465,7 @@ TextureImporter:
         - {x: -52.521454, y: 54.500008}
         - {x: 59.478546, y: 39.500008}
         - {x: 59.478546, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0079
       rect:
@@ -2332,15 +1485,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0022
       rect:
@@ -2358,15 +1503,7 @@ TextureImporter:
         - {x: -55.03105, y: 50.475323}
         - {x: 60.968945, y: 36.475323}
         - {x: 60.968945, y: -38.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0005
       rect:
@@ -2386,15 +1523,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0012
       rect:
@@ -2414,15 +1543,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0047
       rect:
@@ -2440,15 +1561,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0015
       rect:
@@ -2468,15 +1581,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0016
       rect:
@@ -2496,15 +1601,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0060
       rect:
@@ -2523,15 +1620,7 @@ TextureImporter:
         - {x: -47.000015, y: -56.475296}
         - {x: -61.000015, y: -2.4752998}
         - {x: -43.000015, y: 63.524696}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0027
       rect:
@@ -2549,15 +1638,7 @@ TextureImporter:
         - {x: -54.49299, y: 50.499947}
         - {x: 51.507008, y: 38.499947}
         - {x: 64.507, y: -23.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0007
       rect:
@@ -2575,15 +1656,7 @@ TextureImporter:
         - {x: -52.53106, y: 53.500008}
         - {x: 59.46894, y: 39.500008}
         - {x: 59.46894, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0030
       rect:
@@ -2603,15 +1676,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Scared0003
       rect:
@@ -2630,15 +1695,7 @@ TextureImporter:
         - {x: 60.46195, y: -45.48345}
         - {x: 3.4619484, y: -57.483456}
         - {x: -60.53805, y: -48.483456}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0048
       rect:
@@ -2657,15 +1714,7 @@ TextureImporter:
         - {x: 48.499985, y: 41.999947}
         - {x: 61.499985, y: -25.000053}
         - {x: 41.499985, y: -51.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0013
       rect:
@@ -2683,15 +1732,7 @@ TextureImporter:
         - {x: -55.024673, y: 51.999947}
         - {x: 49.975323, y: 38.999947}
         - {x: 65.97533, y: -38.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0001
       rect:
@@ -2710,15 +1751,7 @@ TextureImporter:
         - {x: 48.499985, y: 41.999947}
         - {x: 61.499985, y: -25.000053}
         - {x: 41.499985, y: -51.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Scared0004
       rect:
@@ -2737,15 +1770,7 @@ TextureImporter:
         - {x: 60.48664, y: -45.48345}
         - {x: -2.513359, y: -59.483456}
         - {x: -60.51336, y: -47.48345}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0015
       rect:
@@ -2763,15 +1788,7 @@ TextureImporter:
         - {x: -55.018578, y: 51.499947}
         - {x: 49.98142, y: 38.499947}
         - {x: 67.981415, y: -38.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0067
       rect:
@@ -2790,15 +1807,7 @@ TextureImporter:
         - {x: -47.012394, y: -53.475296}
         - {x: -63.01239, y: 6.524704}
         - {x: -42.012394, y: 62.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0046
       rect:
@@ -2816,15 +1825,7 @@ TextureImporter:
         - {x: -53.51767, y: 53.999947}
         - {x: 49.48233, y: 41.999947}
         - {x: 65.48233, y: -41.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0049
       rect:
@@ -2843,15 +1844,7 @@ TextureImporter:
         - {x: -45.989708, y: -56.475296}
         - {x: -58.989708, y: -2.4752998}
         - {x: -39.989708, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0051
       rect:
@@ -2870,15 +1863,7 @@ TextureImporter:
         - {x: -43.996506, y: -59.4753}
         - {x: -58.996506, y: -2.4752998}
         - {x: -39.996506, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0064
       rect:
@@ -2897,15 +1882,7 @@ TextureImporter:
         - {x: -42.012394, y: 62.524696}
         - {x: 53.987606, y: 32.5247}
         - {x: 62.9876, y: -44.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0009
       rect:
@@ -2925,15 +1902,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0023
       rect:
@@ -2953,15 +1922,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0047
       rect:
@@ -2979,15 +1940,7 @@ TextureImporter:
         - {x: -52.524677, y: 54.499947}
         - {x: 48.475323, y: 40.499947}
         - {x: 65.47533, y: -41.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0005
       rect:
@@ -3006,15 +1959,7 @@ TextureImporter:
         - {x: 48.01647, y: 52.489494}
         - {x: 68.01647, y: -11.510502}
         - {x: 51.01647, y: -58.510498}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0003
       rect:
@@ -3032,15 +1977,7 @@ TextureImporter:
         - {x: -53.51767, y: 53.999947}
         - {x: 49.48233, y: 41.999947}
         - {x: 65.48233, y: -41.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0017
       rect:
@@ -3058,15 +1995,7 @@ TextureImporter:
         - {x: -54.01858, y: 50.999943}
         - {x: 50.981415, y: 38.999947}
         - {x: 66.981415, y: -39.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0081
       rect:
@@ -3086,15 +2015,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0016
       rect:
@@ -3112,15 +2033,7 @@ TextureImporter:
         - {x: -58.01858, y: 58.47526}
         - {x: 51.981415, y: 36.47526}
         - {x: 66.981415, y: -38.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0078
       rect:
@@ -3140,15 +2053,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0038
       rect:
@@ -3168,15 +2073,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0029
       rect:
@@ -3195,15 +2092,7 @@ TextureImporter:
         - {x: 50.5166, y: 38.03806}
         - {x: 64.5166, y: -23.96194}
         - {x: 39.516605, y: -48.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0075
       rect:
@@ -3222,15 +2111,7 @@ TextureImporter:
         - {x: -54.521454, y: 61.000015}
         - {x: 58.478546, y: 47.000015}
         - {x: 58.478546, y: -22.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0002
       rect:
@@ -3250,15 +2131,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0045
       rect:
@@ -3276,15 +2149,7 @@ TextureImporter:
         - {x: -54.5, y: 54.999947}
         - {x: 48.5, y: 39.999947}
         - {x: 65.5, y: -40.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0037
       rect:
@@ -3304,15 +2169,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0036
       rect:
@@ -3332,15 +2189,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0041
       rect:
@@ -3358,15 +2207,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0050
       rect:
@@ -3385,15 +2226,7 @@ TextureImporter:
         - {x: -45.97182, y: -56.475296}
         - {x: -58.97182, y: -2.4752998}
         - {x: -39.97182, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0044
       rect:
@@ -3411,15 +2244,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0039
       rect:
@@ -3439,15 +2264,7 @@ TextureImporter:
         - {x: 36.48664, y: 51.03806}
         - {x: 58.48664, y: 29.038057}
         - {x: 58.48664, y: -16.961939}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0041
       rect:
@@ -3465,15 +2282,7 @@ TextureImporter:
         - {x: -54.483395, y: 61.499947}
         - {x: 49.516605, y: 38.499947}
         - {x: 67.5166, y: -38.50005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0009
       rect:
@@ -3491,15 +2300,7 @@ TextureImporter:
         - {x: -54.493896, y: 52.999947}
         - {x: 49.506104, y: 39.999947}
         - {x: 66.5061, y: -42.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0074
       rect:
@@ -3518,15 +2319,7 @@ TextureImporter:
         - {x: -45.981598, y: 62.5247}
         - {x: 51.0184, y: 35.524704}
         - {x: 66.0184, y: -39.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0071
       rect:
@@ -3545,15 +2338,7 @@ TextureImporter:
         - {x: -42.024685, y: 62.03806}
         - {x: 53.975315, y: 32.038055}
         - {x: 62.975307, y: -40.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0042
       rect:
@@ -3571,15 +2356,7 @@ TextureImporter:
         - {x: -52.9976, y: 54.499947}
         - {x: 51.002396, y: 40.499947}
         - {x: 65.002396, y: -38.50005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0010
       rect:
@@ -3597,15 +2374,7 @@ TextureImporter:
         - {x: 33.03806, y: -58.999985}
         - {x: -59.96194, y: -42.99998}
         - {x: -59.96194, y: 57.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0029
       rect:
@@ -3625,15 +2394,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0024
       rect:
@@ -3651,15 +2412,7 @@ TextureImporter:
         - {x: -55.03107, y: 50.47526}
         - {x: 60.968925, y: 36.47526}
         - {x: 60.968925, y: -41.524734}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0048
       rect:
@@ -3678,15 +2431,7 @@ TextureImporter:
         - {x: -45.989704, y: -56.475296}
         - {x: -58.989704, y: -2.4752998}
         - {x: -39.989704, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0004
       rect:
@@ -3705,15 +2450,7 @@ TextureImporter:
         - {x: 48.01647, y: 52.4895}
         - {x: 68.01647, y: -11.510502}
         - {x: 51.01647, y: -58.5105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0008
       rect:
@@ -3732,15 +2469,7 @@ TextureImporter:
         - {x: 49.975323, y: 39.475258}
         - {x: 63.975323, y: -27.524738}
         - {x: 36.975323, y: -51.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0065
       rect:
@@ -3759,15 +2488,7 @@ TextureImporter:
         - {x: -42.012394, y: 62.524696}
         - {x: 53.987606, y: 32.5247}
         - {x: 62.9876, y: -44.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0021
       rect:
@@ -3785,15 +2506,7 @@ TextureImporter:
         - {x: -54.51767, y: 50.499947}
         - {x: 51.482327, y: 38.499947}
         - {x: 63.48233, y: -23.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0004
       rect:
@@ -3811,15 +2524,7 @@ TextureImporter:
         - {x: -53.521454, y: 56.000008}
         - {x: 59.478546, y: 40.000008}
         - {x: 59.478546, y: -39.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0034
       rect:
@@ -3839,15 +2544,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0031
       rect:
@@ -3867,15 +2564,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0006
       rect:
@@ -3893,15 +2582,7 @@ TextureImporter:
         - {x: -56.008076, y: 55.499947}
         - {x: 49.99192, y: 40.499947}
         - {x: 65.99192, y: -39.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0001
       rect:
@@ -3920,15 +2601,7 @@ TextureImporter:
         - {x: 48.016487, y: 52.4895}
         - {x: 68.01649, y: -11.510502}
         - {x: 51.016487, y: -58.5105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0054
       rect:
@@ -3947,15 +2620,7 @@ TextureImporter:
         - {x: -45.988426, y: -56.475296}
         - {x: -58.988426, y: -2.4752998}
         - {x: -39.988426, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0052
       rect:
@@ -3974,15 +2639,7 @@ TextureImporter:
         - {x: -45.97182, y: -56.475296}
         - {x: -58.97182, y: -2.4752998}
         - {x: -39.97182, y: 64.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0010
       rect:
@@ -4002,15 +2659,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0053
       rect:
@@ -4029,15 +2678,7 @@ TextureImporter:
         - {x: -39.99313, y: 64.038055}
         - {x: 56.00687, y: 28.038061}
         - {x: 61.00687, y: -41.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0080
       rect:
@@ -4057,15 +2698,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0082
       rect:
@@ -4085,15 +2718,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0042
       rect:
@@ -4111,15 +2736,7 @@ TextureImporter:
         - {x: -41.968395, y: -72.475296}
         - {x: -58.968395, y: -2.475296}
         - {x: -39.968395, y: 64.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0003
       rect:
@@ -4139,15 +2756,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Scared0001
       rect:
@@ -4165,15 +2774,7 @@ TextureImporter:
         - {x: 70.01857, y: -45.00005}
         - {x: 4.0185738, y: -57.000053}
         - {x: -64.98143, y: -49.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Walk0007
       rect:
@@ -4192,15 +2793,7 @@ TextureImporter:
         - {x: -63.499985, y: 51.999943}
         - {x: 46.500015, y: 47.999947}
         - {x: 67.500015, y: -10.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0037
       rect:
@@ -4218,15 +2811,7 @@ TextureImporter:
         - {x: -59.524677, y: 53.499947}
         - {x: 49.475323, y: 39.499947}
         - {x: 65.47533, y: -40.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0040
       rect:
@@ -4245,15 +2830,7 @@ TextureImporter:
         - {x: 49.500008, y: 39.999947}
         - {x: 62.500008, y: -19.000053}
         - {x: 46.500004, y: -51.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0028
       rect:
@@ -4271,15 +2848,7 @@ TextureImporter:
         - {x: -62.508076, y: 51.499943}
         - {x: 50.491917, y: 39.499947}
         - {x: 66.49192, y: -37.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0032
       rect:
@@ -4299,15 +2868,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0006
       rect:
@@ -4327,15 +2888,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0072
       rect:
@@ -4354,15 +2907,7 @@ TextureImporter:
         - {x: -42.024685, y: 62.03806}
         - {x: 53.975315, y: 32.038055}
         - {x: 62.975307, y: -40.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Sad0014
       rect:
@@ -4380,15 +2925,7 @@ TextureImporter:
         - {x: -53.00808, y: 51.00795}
         - {x: 50.991917, y: 40.00795}
         - {x: 66.99192, y: -38.99205}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0070
       rect:
@@ -4407,15 +2944,7 @@ TextureImporter:
         - {x: -42.024685, y: 62.03806}
         - {x: 53.975315, y: 32.038055}
         - {x: 62.975307, y: -40.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0083
       rect:
@@ -4435,15 +2964,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0085
       rect:
@@ -4463,15 +2984,7 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0066
       rect:
@@ -4490,15 +3003,7 @@ TextureImporter:
         - {x: -47.012394, y: -53.475296}
         - {x: -63.01239, y: 6.524704}
         - {x: -42.012394, y: 62.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04405410000000000800000000000000
-      internalID: 21300288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ArcanePoro_Idle0001
       rect:
@@ -4518,174 +3023,9 @@ TextureImporter:
         - {x: 57.999996, y: -11.513359}
         - {x: 29, y: -58.51336}
         - {x: -37, y: -57.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24405410000000000800000000000000
-      internalID: 21300290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      ArcanePoro_Idle0029: 21300224
-      ArcanePoro_Sad0039: 21300102
-      ArcanePoro_Sad0048: 21300152
-      ArcanePoro_Idle0005: 21300132
-      ArcanePoro_Idle0018: 21300052
-      ArcanePoro_Sad0008: 21300232
-      ArcanePoro_Idle0024: 21300120
-      ArcanePoro_Idle0069: 21300080
-      ArcanePoro_Idle0052: 21300250
-      ArcanePoro_Sad0037: 21300268
-      ArcanePoro_Idle0066: 21300288
-      ArcanePoro_Idle0058: 21300006
-      ArcanePoro_Idle0040: 21300110
-      ArcanePoro_Idle0078: 21300188
-      ArcanePoro_Sad0029: 21300192
-      ArcanePoro_Idle0038: 21300190
-      ArcanePoro_Idle0037: 21300200
-      ArcanePoro_Idle0054: 21300248
-      ArcanePoro_Walk0007: 21300266
-      ArcanePoro_Idle0077: 21300028
-      ArcanePoro_Idle0056: 21300114
-      ArcanePoro_Idle0083: 21300284
-      ArcanePoro_Idle0080: 21300256
-      ArcanePoro_Sad0005: 21300100
-      ArcanePoro_Idle0073: 21300086
-      ArcanePoro_Idle0001: 21300290
-      ArcanePoro_Sad0043: 21300126
-      ArcanePoro_Sad0015: 21300160
-      ArcanePoro_Idle0033: 21300050
-      ArcanePoro_Idle0016: 21300140
-      ArcanePoro_Sad0044: 21300018
-      ArcanePoro_Idle0014: 21300090
-      ArcanePoro_Idle0074: 21300216
-      ArcanePoro_Sad0026: 21300030
-      ArcanePoro_Sad0031: 21300082
-      ArcanePoro_Idle0023: 21300174
-      ArcanePoro_Idle0071: 21300218
-      ArcanePoro_Idle0047: 21300136
-      ArcanePoro_Sad0023: 21300020
-      ArcanePoro_Sad0024: 21300226
-      ArcanePoro_Idle0028: 21300026
-      ArcanePoro_Sad0025: 21300056
-      ArcanePoro_Idle0025: 21300042
-      ArcanePoro_Idle0011: 21300064
-      ArcanePoro_Sad0021: 21300236
-      ArcanePoro_Idle0081: 21300184
-      ArcanePoro_Idle0063: 21300078
-      ArcanePoro_Idle0072: 21300278
-      ArcanePoro_Idle0057: 21300058
-      ArcanePoro_Idle0049: 21300166
-      ArcanePoro_Idle0002: 21300196
-      ArcanePoro_Sad0006: 21300244
-      ArcanePoro_Idle0020: 21300098
-      ArcanePoro_Idle0013: 21300118
-      ArcanePoro_Idle0050: 21300206
-      ArcanePoro_Sad0047: 21300176
-      ArcanePoro_Idle0065: 21300234
-      ArcanePoro_Idle0045: 21300116
-      ArcanePoro_Sad0004: 21300238
-      ArcanePoro_Sad0040: 21300270
-      ArcanePoro_Sad0009: 21300214
-      ArcanePoro_Sad0036: 21300022
-      ArcanePoro_Idle0068: 21300038
-      ArcanePoro_Idle0032: 21300274
-      ArcanePoro_Sad0030: 21300106
-      ArcanePoro_Idle0031: 21300242
-      ArcanePoro_Idle0053: 21300254
-      ArcanePoro_Idle0021: 21300004
-      ArcanePoro_Walk0006: 21300016
-      ArcanePoro_Idle0086: 21300040
-      ArcanePoro_Sad0041: 21300212
-      ArcanePoro_Idle0026: 21300072
-      ArcanePoro_Scared0004: 21300158
-      ArcanePoro_Idle0046: 21300008
-      ArcanePoro_Walk0004: 21300230
-      ArcanePoro_Sad0017: 21300182
-      ArcanePoro_Sad0013: 21300154
-      ArcanePoro_Idle0030: 21300148
-      ArcanePoro_Idle0012: 21300134
-      ArcanePoro_Idle0035: 21300062
-      ArcanePoro_Sad0010: 21300222
-      ArcanePoro_Sad0020: 21300068
-      ArcanePoro_Idle0017: 21300092
-      ArcanePoro_Sad0014: 21300280
-      ArcanePoro_Sad0038: 21300084
-      ArcanePoro_Scared0001: 21300264
-      ArcanePoro_Sad0035: 21300002
-      ArcanePoro_Walk0001: 21300246
-      ArcanePoro_Idle0061: 21300036
-      ArcanePoro_Idle0042: 21300260
-      ArcanePoro_Idle0076: 21300014
-      ArcanePoro_Idle0007: 21300046
-      ArcanePoro_Sad0018: 21300112
-      ArcanePoro_Sad0011: 21300094
-      ArcanePoro_Sad0003: 21300180
-      ArcanePoro_Idle0064: 21300170
-      ArcanePoro_Walk0005: 21300178
-      ArcanePoro_Idle0062: 21300122
-      ArcanePoro_Sad0016: 21300186
-      ArcanePoro_Sad0033: 21300124
-      ArcanePoro_Idle0044: 21300208
-      ArcanePoro_Idle0027: 21300076
-      ArcanePoro_Idle0067: 21300162
-      ArcanePoro_Sad0027: 21300144
-      ArcanePoro_Idle0019: 21300054
-      ArcanePoro_Idle0006: 21300276
-      ArcanePoro_Idle0043: 21300060
-      ArcanePoro_Idle0055: 21300104
-      ArcanePoro_Walk0002: 21300066
-      ArcanePoro_Idle0048: 21300228
-      ArcanePoro_Idle0015: 21300138
-      ArcanePoro_Walk0008: 21300032
-      ArcanePoro_Idle0070: 21300282
-      ArcanePoro_Idle0041: 21300204
-      ArcanePoro_Idle0085: 21300286
-      ArcanePoro_Idle0004: 21300012
-      ArcanePoro_Idle0022: 21300044
-      ArcanePoro_Walk0003: 21300108
-      ArcanePoro_Sad0012: 21300034
-      ArcanePoro_Sad0028: 21300272
-      ArcanePoro_Idle0009: 21300172
-      ArcanePoro_Idle0010: 21300252
-      ArcanePoro_Sad0034: 21300074
-      ArcanePoro_Sad0002: 21300070
-      ArcanePoro_Idle0075: 21300194
-      ArcanePoro_Idle0082: 21300258
-      ArcanePoro_Idle0079: 21300128
-      ArcanePoro_Idle0059: 21300088
-      ArcanePoro_Idle0036: 21300202
-      ArcanePoro_Idle0008: 21300096
-      ArcanePoro_Scared0002: 21300024
-      ArcanePoro_Sad0046: 21300164
-      ArcanePoro_Sad0007: 21300146
-      ArcanePoro_Idle0084: 21300048
-      ArcanePoro_Idle0003: 21300262
-      ArcanePoro_Sad0045: 21300198
-      ArcanePoro_Sad0019: 21300010
-      ArcanePoro_Sad0022: 21300130
-      ArcanePoro_Idle0060: 21300142
-      ArcanePoro_Scared0003: 21300150
-      ArcanePoro_Sad0032: 21300000
-      ArcanePoro_Idle0051: 21300168
-      ArcanePoro_Sad0001: 21300156
-      ArcanePoro_Idle0034: 21300240
-      ArcanePoro_Sad0042: 21300220
-      ArcanePoro_Idle0039: 21300210
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

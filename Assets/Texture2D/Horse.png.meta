@@ -1,351 +1,122 @@
 fileFormatVersion: 2
 guid: fc1d08b3b0c1f0b4481fc6712153163b
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: hors_idle0077
-  - first:
-      213: 21300002
-    second: hors_idle0046
-  - first:
-      213: 21300004
-    second: hors_idle0060
-  - first:
-      213: 21300006
-    second: hors_idle0056
-  - first:
-      213: 21300008
-    second: hors_winnie0021
-  - first:
-      213: 21300010
-    second: hors_idle0058
-  - first:
-      213: 21300012
-    second: hors_idle0044
-  - first:
-      213: 21300014
-    second: hors_winnie0017
-  - first:
-      213: 21300016
-    second: hors_idle0065
-  - first:
-      213: 21300018
-    second: hors_idle0002
-  - first:
-      213: 21300020
-    second: hors_idle0080
-  - first:
-      213: 21300022
-    second: hors_winnie0004
-  - first:
-      213: 21300024
-    second: hors_winnie0020
-  - first:
-      213: 21300026
-    second: hors_run0006
-  - first:
-      213: 21300028
-    second: hors_idle0049
-  - first:
-      213: 21300030
-    second: hors_run0004
-  - first:
-      213: 21300032
-    second: hors_idle0033
-  - first:
-      213: 21300034
-    second: hors_winnie0011
-  - first:
-      213: 21300036
-    second: hors_idle0066
-  - first:
-      213: 21300038
-    second: hors_idle0068
-  - first:
-      213: 21300040
-    second: hors_winnie0024
-  - first:
-      213: 21300042
-    second: hors_idle0054
-  - first:
-      213: 21300044
-    second: hors_idle0043
-  - first:
-      213: 21300046
-    second: hors_winnie0009
-  - first:
-      213: 21300048
-    second: hors_winnie0010
-  - first:
-      213: 21300050
-    second: hors_idle0055
-  - first:
-      213: 21300052
-    second: hors_winnie0019
-  - first:
-      213: 21300054
-    second: hors_idle0013
-  - first:
-      213: 21300056
-    second: hors_idle0063
-  - first:
-      213: 21300058
-    second: hors_idle0006
-  - first:
-      213: 21300060
-    second: hors_idle0007
-  - first:
-      213: 21300062
-    second: hors_idle0041
-  - first:
-      213: 21300064
-    second: hors_winnie0026
-  - first:
-      213: 21300066
-    second: hors_winnie0003
-  - first:
-      213: 21300068
-    second: hors_idle0047
-  - first:
-      213: 21300070
-    second: hors_idle0016
-  - first:
-      213: 21300072
-    second: hors_idle0040
-  - first:
-      213: 21300074
-    second: hors_idle0012
-  - first:
-      213: 21300076
-    second: hors_idle0001
-  - first:
-      213: 21300078
-    second: hors_winnie0015
-  - first:
-      213: 21300080
-    second: hors_idle0018
-  - first:
-      213: 21300082
-    second: hors_winnie0028
-  - first:
-      213: 21300084
-    second: hors_idle0011
-  - first:
-      213: 21300086
-    second: hors_idle0053
-  - first:
-      213: 21300088
-    second: hors_idle0045
-  - first:
-      213: 21300090
-    second: hors_idle0015
-  - first:
-      213: 21300092
-    second: hors_idle0034
-  - first:
-      213: 21300094
-    second: hors_winnie0023
-  - first:
-      213: 21300096
-    second: hors_run0002
-  - first:
-      213: 21300098
-    second: hors_winnie0018
-  - first:
-      213: 21300100
-    second: hors_run0003
-  - first:
-      213: 21300102
-    second: hors_idle0030
-  - first:
-      213: 21300104
-    second: hors_idle0076
-  - first:
-      213: 21300106
-    second: hors_idle0028
-  - first:
-      213: 21300108
-    second: hors_idle0075
-  - first:
-      213: 21300110
-    second: hors_idle0027
-  - first:
-      213: 21300112
-    second: hors_idle0032
-  - first:
-      213: 21300114
-    second: hors_idle0050
-  - first:
-      213: 21300116
-    second: hors_idle0048
-  - first:
-      213: 21300118
-    second: hors_idle0023
-  - first:
-      213: 21300120
-    second: hors_idle0014
-  - first:
-      213: 21300122
-    second: hors_idle0029
-  - first:
-      213: 21300124
-    second: hors_idle0062
-  - first:
-      213: 21300126
-    second: hors_idle0069
-  - first:
-      213: 21300128
-    second: hors_winnie0002
-  - first:
-      213: 21300130
-    second: hors_winnie0013
-  - first:
-      213: 21300132
-    second: hors_idle0036
-  - first:
-      213: 21300134
-    second: hors_idle0031
-  - first:
-      213: 21300136
-    second: hors_idle0035
-  - first:
-      213: 21300138
-    second: hors_idle0059
-  - first:
-      213: 21300140
-    second: hors_idle0057
-  - first:
-      213: 21300142
-    second: hors_run0005
-  - first:
-      213: 21300144
-    second: hors_winnie0022
-  - first:
-      213: 21300146
-    second: hors_run0001
-  - first:
-      213: 21300148
-    second: hors_idle0008
-  - first:
-      213: 21300150
-    second: hors_idle0071
-  - first:
-      213: 21300152
-    second: hors_idle0005
-  - first:
-      213: 21300154
-    second: hors_idle0010
-  - first:
-      213: 21300156
-    second: hors_idle0019
-  - first:
-      213: 21300158
-    second: hors_winnie0001
-  - first:
-      213: 21300160
-    second: hors_idle0026
-  - first:
-      213: 21300162
-    second: hors_idle0020
-  - first:
-      213: 21300164
-    second: hors_idle0009
-  - first:
-      213: 21300166
-    second: hors_idle0072
-  - first:
-      213: 21300168
-    second: hors_winnie0005
-  - first:
-      213: 21300170
-    second: hors_idle0078
-  - first:
-      213: 21300172
-    second: hors_idle0025
-  - first:
-      213: 21300174
-    second: hors_idle0038
-  - first:
-      213: 21300176
-    second: hors_idle0064
-  - first:
-      213: 21300178
-    second: hors_winnie0025
-  - first:
-      213: 21300180
-    second: hors_winnie0027
-  - first:
-      213: 21300182
-    second: hors_idle0003
-  - first:
-      213: 21300184
-    second: hors_winnie0014
-  - first:
-      213: 21300186
-    second: hors_idle0051
-  - first:
-      213: 21300188
-    second: hors_idle0061
-  - first:
-      213: 21300190
-    second: hors_idle0073
-  - first:
-      213: 21300192
-    second: hors_winnie0016
-  - first:
-      213: 21300194
-    second: hors_idle0042
-  - first:
-      213: 21300196
-    second: hors_idle0022
-  - first:
-      213: 21300198
-    second: hors_idle0004
-  - first:
-      213: 21300200
-    second: hors_idle0017
-  - first:
-      213: 21300202
-    second: hors_idle0039
-  - first:
-      213: 21300204
-    second: hors_idle0074
-  - first:
-      213: 21300206
-    second: hors_winnie0007
-  - first:
-      213: 21300208
-    second: hors_idle0079
-  - first:
-      213: 21300210
-    second: hors_winnie0008
-  - first:
-      213: 21300212
-    second: hors_winnie0006
-  - first:
-      213: 21300214
-    second: hors_idle0067
-  - first:
-      213: 21300216
-    second: hors_idle0037
-  - first:
-      213: 21300218
-    second: hors_winnie0012
-  - first:
-      213: 21300220
-    second: hors_idle0070
-  - first:
-      213: 21300222
-    second: hors_idle0024
-  - first:
-      213: 21300224
-    second: hors_idle0052
-  - first:
-      213: 21300226
-    second: hors_idle0021
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: hors_idle0077
+    21300002: hors_idle0046
+    21300004: hors_idle0060
+    21300006: hors_idle0056
+    21300008: hors_winnie0021
+    21300010: hors_idle0058
+    21300012: hors_idle0044
+    21300014: hors_winnie0017
+    21300016: hors_idle0065
+    21300018: hors_idle0002
+    21300020: hors_idle0080
+    21300022: hors_winnie0004
+    21300024: hors_winnie0020
+    21300026: hors_run0006
+    21300028: hors_idle0049
+    21300030: hors_run0004
+    21300032: hors_idle0033
+    21300034: hors_winnie0011
+    21300036: hors_idle0066
+    21300038: hors_idle0068
+    21300040: hors_winnie0024
+    21300042: hors_idle0054
+    21300044: hors_idle0043
+    21300046: hors_winnie0009
+    21300048: hors_winnie0010
+    21300050: hors_idle0055
+    21300052: hors_winnie0019
+    21300054: hors_idle0013
+    21300056: hors_idle0063
+    21300058: hors_idle0006
+    21300060: hors_idle0007
+    21300062: hors_idle0041
+    21300064: hors_winnie0026
+    21300066: hors_winnie0003
+    21300068: hors_idle0047
+    21300070: hors_idle0016
+    21300072: hors_idle0040
+    21300074: hors_idle0012
+    21300076: hors_idle0001
+    21300078: hors_winnie0015
+    21300080: hors_idle0018
+    21300082: hors_winnie0028
+    21300084: hors_idle0011
+    21300086: hors_idle0053
+    21300088: hors_idle0045
+    21300090: hors_idle0015
+    21300092: hors_idle0034
+    21300094: hors_winnie0023
+    21300096: hors_run0002
+    21300098: hors_winnie0018
+    21300100: hors_run0003
+    21300102: hors_idle0030
+    21300104: hors_idle0076
+    21300106: hors_idle0028
+    21300108: hors_idle0075
+    21300110: hors_idle0027
+    21300112: hors_idle0032
+    21300114: hors_idle0050
+    21300116: hors_idle0048
+    21300118: hors_idle0023
+    21300120: hors_idle0014
+    21300122: hors_idle0029
+    21300124: hors_idle0062
+    21300126: hors_idle0069
+    21300128: hors_winnie0002
+    21300130: hors_winnie0013
+    21300132: hors_idle0036
+    21300134: hors_idle0031
+    21300136: hors_idle0035
+    21300138: hors_idle0059
+    21300140: hors_idle0057
+    21300142: hors_run0005
+    21300144: hors_winnie0022
+    21300146: hors_run0001
+    21300148: hors_idle0008
+    21300150: hors_idle0071
+    21300152: hors_idle0005
+    21300154: hors_idle0010
+    21300156: hors_idle0019
+    21300158: hors_winnie0001
+    21300160: hors_idle0026
+    21300162: hors_idle0020
+    21300164: hors_idle0009
+    21300166: hors_idle0072
+    21300168: hors_winnie0005
+    21300170: hors_idle0078
+    21300172: hors_idle0025
+    21300174: hors_idle0038
+    21300176: hors_idle0064
+    21300178: hors_winnie0025
+    21300180: hors_winnie0027
+    21300182: hors_idle0003
+    21300184: hors_winnie0014
+    21300186: hors_idle0051
+    21300188: hors_idle0061
+    21300190: hors_idle0073
+    21300192: hors_winnie0016
+    21300194: hors_idle0042
+    21300196: hors_idle0022
+    21300198: hors_idle0004
+    21300200: hors_idle0017
+    21300202: hors_idle0039
+    21300204: hors_idle0074
+    21300206: hors_winnie0007
+    21300208: hors_idle0079
+    21300210: hors_winnie0008
+    21300212: hors_winnie0006
+    21300214: hors_idle0067
+    21300216: hors_idle0037
+    21300218: hors_winnie0012
+    21300220: hors_idle0070
+    21300222: hors_idle0024
+    21300224: hors_idle0052
+    21300226: hors_idle0021
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -353,8 +124,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -362,12 +131,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -375,13 +139,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -390,97 +151,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -511,15 +240,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0046
       rect:
@@ -545,15 +266,7 @@ TextureImporter:
         - {x: -10.975327, y: -121.475296}
         - {x: -100.97533, y: -149.4753}
         - {x: -176.97531, y: -150.47528}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0060
       rect:
@@ -581,15 +294,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0056
       rect:
@@ -617,15 +322,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0021
       rect:
@@ -654,15 +351,7 @@ TextureImporter:
         - {x: 186.00002, y: 54.999996}
         - {x: 172.00002, y: -1}
         - {x: 134.00002, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0058
       rect:
@@ -690,15 +379,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0044
       rect:
@@ -726,15 +407,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0017
       rect:
@@ -768,15 +441,7 @@ TextureImporter:
         - {x: -73.024734, y: 57.999985}
         - {x: -106.024734, y: 122.99997}
         - {x: -77.02473, y: 179.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0065
       rect:
@@ -804,15 +469,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0002
       rect:
@@ -840,15 +497,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0080
       rect:
@@ -876,15 +525,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0004
       rect:
@@ -914,15 +555,7 @@ TextureImporter:
         - {x: -192.47531, y: 12.500002}
         - {x: -163.47531, y: 41.5}
         - {x: -66.47531, y: 45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0020
       rect:
@@ -951,15 +584,7 @@ TextureImporter:
         - {x: 186.00002, y: 54.999996}
         - {x: 172.00002, y: -1}
         - {x: 134.00002, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_run0006
       rect:
@@ -991,15 +616,7 @@ TextureImporter:
         - {x: -213.98338, y: -3.500061}
         - {x: -174.98338, y: 54.49994}
         - {x: -98.9834, y: 46.49994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0049
       rect:
@@ -1032,15 +649,7 @@ TextureImporter:
         - {x: -238.49997, y: -88.00006}
         - {x: -216.5, y: -66.00006}
         - {x: -175.5, y: -64.00005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_run0004
       rect:
@@ -1068,15 +677,7 @@ TextureImporter:
         - {x: -109.5, y: -120.00006}
         - {x: -175.5, y: -103.00008}
         - {x: -209.5, y: -33.000076}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0033
       rect:
@@ -1104,15 +705,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0011
       rect:
@@ -1146,15 +739,7 @@ TextureImporter:
         - {x: -73.024734, y: 57.999985}
         - {x: -106.024734, y: 122.99997}
         - {x: -77.02473, y: 179.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0066
       rect:
@@ -1182,15 +767,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0068
       rect:
@@ -1218,15 +795,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0024
       rect:
@@ -1254,15 +823,7 @@ TextureImporter:
         - {x: -193.00005, y: -94.499985}
         - {x: -185.00003, y: -40.49998}
         - {x: -92.00004, y: 9.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0054
       rect:
@@ -1290,15 +851,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0043
       rect:
@@ -1331,15 +884,7 @@ TextureImporter:
         - {x: -241.96194, y: -23.000061}
         - {x: -211.96194, y: -23.000061}
         - {x: -211.96194, y: -54.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0009
       rect:
@@ -1370,15 +915,7 @@ TextureImporter:
         - {x: -59.5, y: 57}
         - {x: -92.5, y: 122.999985}
         - {x: -63.499992, y: 180}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0010
       rect:
@@ -1409,15 +946,7 @@ TextureImporter:
         - {x: -59.5, y: 57}
         - {x: -92.5, y: 122.999985}
         - {x: -63.499992, y: 180}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0055
       rect:
@@ -1445,15 +974,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0019
       rect:
@@ -1487,15 +1008,7 @@ TextureImporter:
         - {x: -73.024734, y: 57.999985}
         - {x: -106.024734, y: 122.99997}
         - {x: -77.02473, y: 179.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0013
       rect:
@@ -1523,15 +1036,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0063
       rect:
@@ -1559,15 +1064,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0006
       rect:
@@ -1595,15 +1092,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0007
       rect:
@@ -1631,15 +1120,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0041
       rect:
@@ -1672,15 +1153,7 @@ TextureImporter:
         - {x: -196.4753, y: -108.000046}
         - {x: -243.4753, y: -111.00006}
         - {x: -243.4753, y: -52.00006}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0026
       rect:
@@ -1708,15 +1181,7 @@ TextureImporter:
         - {x: -221.00002, y: 9.999939}
         - {x: -184.00002, y: 64.99994}
         - {x: -93.000015, y: 51.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0003
       rect:
@@ -1746,15 +1211,7 @@ TextureImporter:
         - {x: -192.47531, y: 12.500002}
         - {x: -163.47531, y: 41.5}
         - {x: -66.47531, y: 45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0047
       rect:
@@ -1780,15 +1237,7 @@ TextureImporter:
         - {x: -10.975327, y: -121.475296}
         - {x: -100.97533, y: -149.4753}
         - {x: -176.97531, y: -150.47528}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0016
       rect:
@@ -1816,15 +1265,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0040
       rect:
@@ -1857,15 +1298,7 @@ TextureImporter:
         - {x: -196.4753, y: -108.000046}
         - {x: -243.4753, y: -111.00006}
         - {x: -243.4753, y: -52.00006}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0012
       rect:
@@ -1893,15 +1326,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0001
       rect:
@@ -1929,15 +1354,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0015
       rect:
@@ -1968,15 +1385,7 @@ TextureImporter:
         - {x: -59.5, y: 57}
         - {x: -92.5, y: 122.999985}
         - {x: -63.499992, y: 180}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0018
       rect:
@@ -2004,15 +1413,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0028
       rect:
@@ -2041,15 +1442,7 @@ TextureImporter:
         - {x: -161.9834, y: 68.999985}
         - {x: -96.9834, y: 55.999985}
         - {x: 5.0166016, y: 57.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0011
       rect:
@@ -2077,15 +1470,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0053
       rect:
@@ -2118,15 +1503,7 @@ TextureImporter:
         - {x: -241.96194, y: -23.000061}
         - {x: -211.96194, y: -23.000061}
         - {x: -211.96194, y: -54.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0045
       rect:
@@ -2154,15 +1531,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0015
       rect:
@@ -2190,15 +1559,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0034
       rect:
@@ -2226,15 +1587,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0023
       rect:
@@ -2262,15 +1615,7 @@ TextureImporter:
         - {x: -193.00005, y: -94.499985}
         - {x: -185.00003, y: -40.49998}
         - {x: -92.00004, y: 9.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_run0002
       rect:
@@ -2301,15 +1646,7 @@ TextureImporter:
         - {x: -224.48761, y: -23}
         - {x: -198.48761, y: 45}
         - {x: -113.48761, y: 40}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0018
       rect:
@@ -2343,15 +1680,7 @@ TextureImporter:
         - {x: -73.024734, y: 57.999985}
         - {x: -106.024734, y: 122.99997}
         - {x: -77.02473, y: 179.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_run0003
       rect:
@@ -2381,15 +1710,7 @@ TextureImporter:
         - {x: -203.5, y: -36.97529}
         - {x: -211.49998, y: 28.024704}
         - {x: -195.5, y: 83.024704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0030
       rect:
@@ -2417,15 +1738,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0076
       rect:
@@ -2453,15 +1766,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0028
       rect:
@@ -2489,15 +1794,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0075
       rect:
@@ -2525,15 +1822,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0027
       rect:
@@ -2561,15 +1850,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0032
       rect:
@@ -2597,15 +1878,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0050
       rect:
@@ -2638,15 +1911,7 @@ TextureImporter:
         - {x: -196.4753, y: -108.000046}
         - {x: -243.4753, y: -111.00006}
         - {x: -243.4753, y: -52.00006}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0048
       rect:
@@ -2679,15 +1944,7 @@ TextureImporter:
         - {x: -238.49997, y: -88.00006}
         - {x: -216.5, y: -66.00006}
         - {x: -175.5, y: -64.00005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0023
       rect:
@@ -2715,15 +1972,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0014
       rect:
@@ -2751,15 +2000,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0029
       rect:
@@ -2787,15 +2028,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0062
       rect:
@@ -2823,15 +2056,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0069
       rect:
@@ -2859,15 +2084,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0002
       rect:
@@ -2896,15 +2113,7 @@ TextureImporter:
         - {x: -161.9834, y: 68.999985}
         - {x: -96.9834, y: 55.999985}
         - {x: 5.0166016, y: 57.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0013
       rect:
@@ -2938,15 +2147,7 @@ TextureImporter:
         - {x: -73.024734, y: 57.999985}
         - {x: -106.024734, y: 122.99997}
         - {x: -77.02473, y: 179.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0036
       rect:
@@ -2972,15 +2173,7 @@ TextureImporter:
         - {x: -10.975296, y: -121.475296}
         - {x: -100.975296, y: -149.4753}
         - {x: -176.97528, y: -150.47528}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0031
       rect:
@@ -3008,15 +2201,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0035
       rect:
@@ -3044,15 +2229,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0059
       rect:
@@ -3080,15 +2257,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0057
       rect:
@@ -3116,15 +2285,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_run0005
       rect:
@@ -3155,15 +2316,7 @@ TextureImporter:
         - {x: -191.98346, y: 28.000002}
         - {x: -165.98346, y: 58}
         - {x: -47.983456, y: 54}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0022
       rect:
@@ -3192,15 +2345,7 @@ TextureImporter:
         - {x: 186.00002, y: 54.999996}
         - {x: 172.00002, y: -1}
         - {x: 134.00002, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_run0001
       rect:
@@ -3234,15 +2379,7 @@ TextureImporter:
         - {x: -221, y: -1.5}
         - {x: -197.99998, y: 35.5}
         - {x: -120, y: 37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0008
       rect:
@@ -3270,15 +2407,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0071
       rect:
@@ -3306,15 +2435,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0005
       rect:
@@ -3342,15 +2463,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0010
       rect:
@@ -3378,15 +2491,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0019
       rect:
@@ -3414,15 +2519,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0001
       rect:
@@ -3451,15 +2548,7 @@ TextureImporter:
         - {x: -161.9834, y: 68.999985}
         - {x: -96.9834, y: 55.999985}
         - {x: 5.0166016, y: 57.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0026
       rect:
@@ -3487,15 +2576,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0020
       rect:
@@ -3523,15 +2604,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0009
       rect:
@@ -3559,15 +2632,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0072
       rect:
@@ -3595,15 +2660,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0005
       rect:
@@ -3634,15 +2691,7 @@ TextureImporter:
         - {x: -131.52469, y: -21}
         - {x: -73.52469, y: 40}
         - {x: -97.52468, y: 134}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0078
       rect:
@@ -3670,15 +2719,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0025
       rect:
@@ -3706,15 +2747,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0038
       rect:
@@ -3747,15 +2780,7 @@ TextureImporter:
         - {x: -238.49997, y: -88.00006}
         - {x: -216.5, y: -66.00006}
         - {x: -175.5, y: -64.00005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0064
       rect:
@@ -3783,15 +2808,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0025
       rect:
@@ -3819,15 +2836,7 @@ TextureImporter:
         - {x: -221.00002, y: 9.999939}
         - {x: -184.00002, y: 64.99994}
         - {x: -93.000015, y: 51.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0027
       rect:
@@ -3856,15 +2865,7 @@ TextureImporter:
         - {x: -161.9834, y: 68.999985}
         - {x: -96.9834, y: 55.999985}
         - {x: 5.0166016, y: 57.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0003
       rect:
@@ -3892,15 +2893,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0014
       rect:
@@ -3931,15 +2924,7 @@ TextureImporter:
         - {x: -59.5, y: 57}
         - {x: -92.5, y: 122.999985}
         - {x: -63.499992, y: 180}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0051
       rect:
@@ -3972,15 +2957,7 @@ TextureImporter:
         - {x: -196.4753, y: -108.000046}
         - {x: -243.4753, y: -111.00006}
         - {x: -243.4753, y: -52.00006}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0061
       rect:
@@ -4008,15 +2985,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0073
       rect:
@@ -4044,15 +3013,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0016
       rect:
@@ -4083,15 +3044,7 @@ TextureImporter:
         - {x: -59.5, y: 57}
         - {x: -92.5, y: 122.999985}
         - {x: -63.499992, y: 180}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0042
       rect:
@@ -4124,15 +3077,7 @@ TextureImporter:
         - {x: -241.96194, y: -23.000061}
         - {x: -211.96194, y: -23.000061}
         - {x: -211.96194, y: -54.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0022
       rect:
@@ -4160,15 +3105,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0004
       rect:
@@ -4196,15 +3133,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0017
       rect:
@@ -4232,15 +3161,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0039
       rect:
@@ -4273,15 +3194,7 @@ TextureImporter:
         - {x: -238.49997, y: -88.00006}
         - {x: -216.5, y: -66.00006}
         - {x: -175.5, y: -64.00005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0074
       rect:
@@ -4309,15 +3222,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0007
       rect:
@@ -4348,15 +3253,7 @@ TextureImporter:
         - {x: -131.52469, y: -21}
         - {x: -73.52469, y: 40}
         - {x: -97.52468, y: 134}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0079
       rect:
@@ -4384,15 +3281,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0008
       rect:
@@ -4423,15 +3312,7 @@ TextureImporter:
         - {x: -59.5, y: 57}
         - {x: -92.5, y: 122.999985}
         - {x: -63.499992, y: 180}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0006
       rect:
@@ -4462,15 +3343,7 @@ TextureImporter:
         - {x: -131.52469, y: -21}
         - {x: -73.52469, y: 40}
         - {x: -97.52468, y: 134}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0067
       rect:
@@ -4498,15 +3371,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0037
       rect:
@@ -4532,15 +3397,7 @@ TextureImporter:
         - {x: -10.975296, y: -121.475296}
         - {x: -100.975296, y: -149.4753}
         - {x: -176.97528, y: -150.47528}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_winnie0012
       rect:
@@ -4574,15 +3431,7 @@ TextureImporter:
         - {x: -73.024734, y: 57.999985}
         - {x: -106.024734, y: 122.99997}
         - {x: -77.02473, y: 179.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0070
       rect:
@@ -4610,15 +3459,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0024
       rect:
@@ -4646,15 +3487,7 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0052
       rect:
@@ -4687,15 +3520,7 @@ TextureImporter:
         - {x: -241.96194, y: -23.000061}
         - {x: -211.96194, y: -23.000061}
         - {x: -211.96194, y: -54.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hors_idle0021
       rect:
@@ -4723,142 +3548,9 @@ TextureImporter:
         - {x: -193.97531, y: -84.00006}
         - {x: -205.97531, y: -10.000061}
         - {x: -189.9753, y: 54.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      hors_idle0049: 21300028
-      hors_winnie0021: 21300008
-      hors_run0005: 21300142
-      hors_idle0008: 21300148
-      hors_idle0011: 21300084
-      hors_idle0020: 21300162
-      hors_run0006: 21300026
-      hors_idle0046: 21300002
-      hors_winnie0020: 21300024
-      hors_run0004: 21300030
-      hors_idle0034: 21300092
-      hors_winnie0022: 21300144
-      hors_idle0079: 21300208
-      hors_winnie0013: 21300130
-      hors_idle0004: 21300198
-      hors_idle0042: 21300194
-      hors_idle0028: 21300106
-      hors_idle0077: 21300000
-      hors_idle0035: 21300136
-      hors_idle0044: 21300012
-      hors_idle0017: 21300200
-      hors_idle0031: 21300134
-      hors_idle0010: 21300154
-      hors_idle0033: 21300032
-      hors_idle0067: 21300214
-      hors_winnie0007: 21300206
-      hors_idle0053: 21300086
-      hors_idle0080: 21300020
-      hors_winnie0009: 21300046
-      hors_winnie0016: 21300192
-      hors_idle0050: 21300114
-      hors_idle0022: 21300196
-      hors_idle0019: 21300156
-      hors_idle0041: 21300062
-      hors_winnie0015: 21300078
-      hors_run0001: 21300146
-      hors_idle0064: 21300176
-      hors_winnie0010: 21300048
-      hors_winnie0018: 21300098
-      hors_idle0002: 21300018
-      hors_winnie0019: 21300052
-      hors_idle0005: 21300152
-      hors_idle0062: 21300124
-      hors_winnie0011: 21300034
-      hors_idle0047: 21300068
-      hors_idle0076: 21300104
-      hors_idle0032: 21300112
-      hors_idle0009: 21300164
-      hors_idle0048: 21300116
-      hors_idle0072: 21300166
-      hors_idle0043: 21300044
-      hors_idle0012: 21300074
-      hors_idle0068: 21300038
-      hors_winnie0027: 21300180
-      hors_idle0052: 21300224
-      hors_idle0018: 21300080
-      hors_idle0030: 21300102
-      hors_idle0039: 21300202
-      hors_idle0058: 21300010
-      hors_winnie0002: 21300128
-      hors_winnie0004: 21300022
-      hors_idle0055: 21300050
-      hors_idle0071: 21300150
-      hors_idle0006: 21300058
-      hors_idle0015: 21300090
-      hors_winnie0003: 21300066
-      hors_idle0021: 21300226
-      hors_winnie0025: 21300178
-      hors_idle0070: 21300220
-      hors_winnie0024: 21300040
-      hors_idle0078: 21300170
-      hors_idle0036: 21300132
-      hors_idle0056: 21300006
-      hors_idle0007: 21300060
-      hors_idle0040: 21300072
-      hors_idle0014: 21300120
-      hors_winnie0017: 21300014
-      hors_idle0057: 21300140
-      hors_idle0054: 21300042
-      hors_idle0045: 21300088
-      hors_winnie0023: 21300094
-      hors_idle0073: 21300190
-      hors_idle0065: 21300016
-      hors_idle0075: 21300108
-      hors_winnie0005: 21300168
-      hors_idle0026: 21300160
-      hors_idle0063: 21300056
-      hors_winnie0026: 21300064
-      hors_idle0023: 21300118
-      hors_idle0066: 21300036
-      hors_idle0069: 21300126
-      hors_winnie0028: 21300082
-      hors_idle0037: 21300216
-      hors_idle0074: 21300204
-      hors_idle0013: 21300054
-      hors_idle0016: 21300070
-      hors_winnie0014: 21300184
-      hors_idle0061: 21300188
-      hors_idle0025: 21300172
-      hors_idle0003: 21300182
-      hors_run0003: 21300100
-      hors_idle0051: 21300186
-      hors_winnie0008: 21300210
-      hors_idle0001: 21300076
-      hors_idle0029: 21300122
-      hors_idle0024: 21300222
-      hors_idle0027: 21300110
-      hors_idle0038: 21300174
-      hors_winnie0001: 21300158
-      hors_run0002: 21300096
-      hors_idle0059: 21300138
-      hors_winnie0012: 21300218
-      hors_winnie0006: 21300212
-      hors_idle0060: 21300004
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

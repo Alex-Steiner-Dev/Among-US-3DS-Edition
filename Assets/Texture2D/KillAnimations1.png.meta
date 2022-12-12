@@ -1,1020 +1,345 @@
 fileFormatVersion: 2
 guid: 8a958c10cdae0c544891619fad11e127
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: killstab_victim0046
-  - first:
-      213: 21300002
-    second: killstab_knife0023
-  - first:
-      213: 21300004
-    second: killstab_knifehand0032
-  - first:
-      213: 21300006
-    second: killGun_hand0021
-  - first:
-      213: 21300008
-    second: killGun_gun0047
-  - first:
-      213: 21300010
-    second: killstab_knife0025
-  - first:
-      213: 21300012
-    second: killstab_knife0033
-  - first:
-      213: 21300014
-    second: killGun_gun0004
-  - first:
-      213: 21300016
-    second: killstab_victim0020
-  - first:
-      213: 21300018
-    second: killGun_victim0023
-  - first:
-      213: 21300020
-    second: killGun_gun0026
-  - first:
-      213: 21300022
-    second: killGun_victim0042
-  - first:
-      213: 21300024
-    second: killGun_hand0035
-  - first:
-      213: 21300026
-    second: killstab_knife0022
-  - first:
-      213: 21300028
-    second: killGun_hand0007
-  - first:
-      213: 21300030
-    second: killGun_victim0006
-  - first:
-      213: 21300032
-    second: killGun_victim0038
-  - first:
-      213: 21300034
-    second: killGun_hand0014
-  - first:
-      213: 21300036
-    second: killstab_victim0030
-  - first:
-      213: 21300038
-    second: killGun_hand0018
-  - first:
-      213: 21300040
-    second: killstab_victim0039
-  - first:
-      213: 21300042
-    second: killGun_hand0036
-  - first:
-      213: 21300044
-    second: killstab_knifehand0036
-  - first:
-      213: 21300046
-    second: killstab_knifehand0029
-  - first:
-      213: 21300048
-    second: killstab_knife0009
-  - first:
-      213: 21300050
-    second: killstab_victim0041
-  - first:
-      213: 21300052
-    second: killstab_knife0014
-  - first:
-      213: 21300054
-    second: killstab_knifehand0012
-  - first:
-      213: 21300056
-    second: killGun_hand0045
-  - first:
-      213: 21300058
-    second: killstab_victim0036
-  - first:
-      213: 21300060
-    second: killstab_knifehand0035
-  - first:
-      213: 21300062
-    second: killGun_hand0042
-  - first:
-      213: 21300064
-    second: killGun_gun0022
-  - first:
-      213: 21300066
-    second: killstab_knifehand0048
-  - first:
-      213: 21300068
-    second: killGun_gun0030
-  - first:
-      213: 21300070
-    second: killGun_gun0011
-  - first:
-      213: 21300072
-    second: killGun_hand0041
-  - first:
-      213: 21300074
-    second: killstab_knifehand0045
-  - first:
-      213: 21300076
-    second: killGun_victim0005
-  - first:
-      213: 21300078
-    second: killstab_knifehand0021
-  - first:
-      213: 21300080
-    second: killstab_knife0016
-  - first:
-      213: 21300082
-    second: killGun_gun0006
-  - first:
-      213: 21300084
-    second: killstab_victim0035
-  - first:
-      213: 21300086
-    second: killstab_knifehand0022
-  - first:
-      213: 21300088
-    second: killstab_knife0043
-  - first:
-      213: 21300090
-    second: killstab_knife0002
-  - first:
-      213: 21300092
-    second: killGun_gun0038
-  - first:
-      213: 21300094
-    second: killGun_hand0038
-  - first:
-      213: 21300096
-    second: killGun_gun0043
-  - first:
-      213: 21300098
-    second: killstab_knifehand0039
-  - first:
-      213: 21300100
-    second: killGun_victim0030
-  - first:
-      213: 21300102
-    second: killstab_knifehand0033
-  - first:
-      213: 21300104
-    second: killGun_gun0021
-  - first:
-      213: 21300106
-    second: killstab_knife0030
-  - first:
-      213: 21300108
-    second: killstab_victim0011
-  - first:
-      213: 21300110
-    second: killGun_hand0009
-  - first:
-      213: 21300112
-    second: killstab_knife0047
-  - first:
-      213: 21300114
-    second: killstab_victim0022
-  - first:
-      213: 21300116
-    second: killstab_victim0012
-  - first:
-      213: 21300118
-    second: killstab_knife0034
-  - first:
-      213: 21300120
-    second: killstab_knife0005
-  - first:
-      213: 21300122
-    second: killstab_victim0004
-  - first:
-      213: 21300124
-    second: killGun_hand0043
-  - first:
-      213: 21300126
-    second: killstab_knife0017
-  - first:
-      213: 21300128
-    second: killstab_knife0008
-  - first:
-      213: 21300130
-    second: killGun_victim0007
-  - first:
-      213: 21300132
-    second: killGun_gun0017
-  - first:
-      213: 21300134
-    second: killstab_knifehand0030
-  - first:
-      213: 21300136
-    second: killstab_knife0003
-  - first:
-      213: 21300138
-    second: killstab_victim0044
-  - first:
-      213: 21300140
-    second: killGun_victim0037
-  - first:
-      213: 21300142
-    second: killGun_gun0031
-  - first:
-      213: 21300144
-    second: killGun_victim0013
-  - first:
-      213: 21300146
-    second: killstab_knifehand0027
-  - first:
-      213: 21300148
-    second: killstab_knife0010
-  - first:
-      213: 21300150
-    second: killGun_hand0046
-  - first:
-      213: 21300152
-    second: killstab_knifehand0040
-  - first:
-      213: 21300154
-    second: killGun_hand0028
-  - first:
-      213: 21300156
-    second: killstab_knifehand0014
-  - first:
-      213: 21300158
-    second: killstab_knife0039
-  - first:
-      213: 21300160
-    second: killstab_knife0018
-  - first:
-      213: 21300162
-    second: killGun_hand0011
-  - first:
-      213: 21300164
-    second: killGun_victim0032
-  - first:
-      213: 21300166
-    second: killstab_knifehand0016
-  - first:
-      213: 21300168
-    second: killstab_victim0002
-  - first:
-      213: 21300170
-    second: killGun_gun0005
-  - first:
-      213: 21300172
-    second: killGun_hand0005
-  - first:
-      213: 21300174
-    second: killGun_hand0017
-  - first:
-      213: 21300176
-    second: killstab_knifehand0018
-  - first:
-      213: 21300178
-    second: killGun_victim0044
-  - first:
-      213: 21300180
-    second: killGun_gun0034
-  - first:
-      213: 21300182
-    second: killGun_gun0016
-  - first:
-      213: 21300184
-    second: killstab_knifehand0041
-  - first:
-      213: 21300186
-    second: killGun_victim0014
-  - first:
-      213: 21300188
-    second: killGun_gun0024
-  - first:
-      213: 21300190
-    second: killGun_victim0018
-  - first:
-      213: 21300192
-    second: killGun_hand0010
-  - first:
-      213: 21300194
-    second: killGun_hand0026
-  - first:
-      213: 21300196
-    second: killstab_knifehand0044
-  - first:
-      213: 21300198
-    second: killstab_knifehand0028
-  - first:
-      213: 21300200
-    second: killstab_victim0048
-  - first:
-      213: 21300202
-    second: killGun_hand0008
-  - first:
-      213: 21300204
-    second: killGun_victim0019
-  - first:
-      213: 21300206
-    second: killstab_knife0044
-  - first:
-      213: 21300208
-    second: killGun_gun0046
-  - first:
-      213: 21300210
-    second: killstab_knife0021
-  - first:
-      213: 21300212
-    second: killstab_knife0012
-  - first:
-      213: 21300214
-    second: killGun_gun0025
-  - first:
-      213: 21300216
-    second: killstab_knife0019
-  - first:
-      213: 21300218
-    second: killGun_victim0047
-  - first:
-      213: 21300220
-    second: killGun_victim0025
-  - first:
-      213: 21300222
-    second: killGun_hand0013
-  - first:
-      213: 21300224
-    second: killGun_hand0012
-  - first:
-      213: 21300226
-    second: killGun_gun0041
-  - first:
-      213: 21300228
-    second: killstab_knifehand0009
-  - first:
-      213: 21300230
-    second: killGun_victim0034
-  - first:
-      213: 21300232
-    second: killGun_hand0023
-  - first:
-      213: 21300234
-    second: killstab_knife0027
-  - first:
-      213: 21300236
-    second: killstab_victim0028
-  - first:
-      213: 21300238
-    second: killGun_victim0010
-  - first:
-      213: 21300240
-    second: killGun_victim0020
-  - first:
-      213: 21300242
-    second: killstab_knifehand0031
-  - first:
-      213: 21300244
-    second: killstab_victim0047
-  - first:
-      213: 21300246
-    second: killstab_victim0003
-  - first:
-      213: 21300248
-    second: killstab_knife0004
-  - first:
-      213: 21300250
-    second: killstab_knifehand0002
-  - first:
-      213: 21300252
-    second: killstab_victim0016
-  - first:
-      213: 21300254
-    second: killstab_victim0040
-  - first:
-      213: 21300256
-    second: killGun_gun0001
-  - first:
-      213: 21300258
-    second: killGun_victim0024
-  - first:
-      213: 21300260
-    second: killGun_gun0045
-  - first:
-      213: 21300262
-    second: killstab_victim0023
-  - first:
-      213: 21300264
-    second: killGun_hand0044
-  - first:
-      213: 21300266
-    second: killGun_gun0037
-  - first:
-      213: 21300268
-    second: killstab_knife0036
-  - first:
-      213: 21300270
-    second: killGun_victim0009
-  - first:
-      213: 21300272
-    second: killGun_gun0019
-  - first:
-      213: 21300274
-    second: killstab_victim0001
-  - first:
-      213: 21300276
-    second: killGun_gun0040
-  - first:
-      213: 21300278
-    second: killstab_knife0035
-  - first:
-      213: 21300280
-    second: killstab_victim0009
-  - first:
-      213: 21300282
-    second: killstab_victim0010
-  - first:
-      213: 21300284
-    second: killstab_knife0032
-  - first:
-      213: 21300286
-    second: killstab_knifehand0038
-  - first:
-      213: 21300288
-    second: killGun_hand0048
-  - first:
-      213: 21300290
-    second: killGun_gun0014
-  - first:
-      213: 21300292
-    second: killstab_victim0018
-  - first:
-      213: 21300294
-    second: killGun_victim0012
-  - first:
-      213: 21300296
-    second: killstab_knifehand0042
-  - first:
-      213: 21300298
-    second: killGun_hand0034
-  - first:
-      213: 21300300
-    second: killGun_hand0001
-  - first:
-      213: 21300302
-    second: killstab_victim0005
-  - first:
-      213: 21300304
-    second: killGun_hand0020
-  - first:
-      213: 21300306
-    second: killGun_hand0047
-  - first:
-      213: 21300308
-    second: killGun_victim0026
-  - first:
-      213: 21300310
-    second: killstab_victim0013
-  - first:
-      213: 21300312
-    second: killstab_knifehand0010
-  - first:
-      213: 21300314
-    second: killGun_gun0033
-  - first:
-      213: 21300316
-    second: killGun_gun0008
-  - first:
-      213: 21300318
-    second: killstab_knifehand0004
-  - first:
-      213: 21300320
-    second: killstab_victim0037
-  - first:
-      213: 21300322
-    second: killGun_hand0030
-  - first:
-      213: 21300324
-    second: killGun_victim0001
-  - first:
-      213: 21300326
-    second: killstab_victim0031
-  - first:
-      213: 21300328
-    second: killstab_knife0013
-  - first:
-      213: 21300330
-    second: killstab_victim0042
-  - first:
-      213: 21300332
-    second: killstab_knife0045
-  - first:
-      213: 21300334
-    second: killstab_knifehand0047
-  - first:
-      213: 21300336
-    second: killGun_hand0032
-  - first:
-      213: 21300338
-    second: killstab_knife0041
-  - first:
-      213: 21300340
-    second: killstab_knife0015
-  - first:
-      213: 21300342
-    second: killGun_gun0007
-  - first:
-      213: 21300344
-    second: killGun_victim0033
-  - first:
-      213: 21300346
-    second: killGun_gun0015
-  - first:
-      213: 21300348
-    second: killGun_gun0010
-  - first:
-      213: 21300350
-    second: killstab_victim0017
-  - first:
-      213: 21300352
-    second: killstab_victim0027
-  - first:
-      213: 21300354
-    second: killstab_knifehand0006
-  - first:
-      213: 21300356
-    second: killstab_knife0020
-  - first:
-      213: 21300358
-    second: killGun_hand0002
-  - first:
-      213: 21300360
-    second: killGun_victim0036
-  - first:
-      213: 21300362
-    second: killGun_victim0043
-  - first:
-      213: 21300364
-    second: killstab_knifehand0024
-  - first:
-      213: 21300366
-    second: killstab_knifehand0020
-  - first:
-      213: 21300368
-    second: killstab_knife0038
-  - first:
-      213: 21300370
-    second: killGun_victim0015
-  - first:
-      213: 21300372
-    second: killstab_knifehand0034
-  - first:
-      213: 21300374
-    second: killGun_hand0037
-  - first:
-      213: 21300376
-    second: killstab_knife0001
-  - first:
-      213: 21300378
-    second: killstab_knifehand0043
-  - first:
-      213: 21300380
-    second: killGun_gun0020
-  - first:
-      213: 21300382
-    second: killstab_victim0015
-  - first:
-      213: 21300384
-    second: killstab_knife0037
-  - first:
-      213: 21300386
-    second: killstab_knifehand0025
-  - first:
-      213: 21300388
-    second: killstab_victim0043
-  - first:
-      213: 21300390
-    second: killGun_hand0025
-  - first:
-      213: 21300392
-    second: killstab_knifehand0013
-  - first:
-      213: 21300394
-    second: killGun_gun0018
-  - first:
-      213: 21300396
-    second: killstab_knifehand0046
-  - first:
-      213: 21300398
-    second: killstab_knife0006
-  - first:
-      213: 21300400
-    second: killGun_victim0029
-  - first:
-      213: 21300402
-    second: killGun_hand0039
-  - first:
-      213: 21300404
-    second: killGun_hand0040
-  - first:
-      213: 21300406
-    second: killstab_knife0048
-  - first:
-      213: 21300408
-    second: killGun_gun0027
-  - first:
-      213: 21300410
-    second: killstab_victim0019
-  - first:
-      213: 21300412
-    second: killGun_victim0011
-  - first:
-      213: 21300414
-    second: killGun_victim0004
-  - first:
-      213: 21300416
-    second: killGun_victim0021
-  - first:
-      213: 21300418
-    second: killGun_victim0027
-  - first:
-      213: 21300420
-    second: killGun_hand0003
-  - first:
-      213: 21300422
-    second: killstab_victim0008
-  - first:
-      213: 21300424
-    second: killGun_victim0008
-  - first:
-      213: 21300426
-    second: killGun_victim0041
-  - first:
-      213: 21300428
-    second: killstab_victim0021
-  - first:
-      213: 21300430
-    second: killGun_gun0042
-  - first:
-      213: 21300432
-    second: killGun_victim0045
-  - first:
-      213: 21300434
-    second: killGun_hand0004
-  - first:
-      213: 21300436
-    second: killGun_hand0022
-  - first:
-      213: 21300438
-    second: killGun_hand0029
-  - first:
-      213: 21300440
-    second: killGun_victim0002
-  - first:
-      213: 21300442
-    second: killGun_gun0009
-  - first:
-      213: 21300444
-    second: killGun_gun0029
-  - first:
-      213: 21300446
-    second: killstab_knifehand0037
-  - first:
-      213: 21300448
-    second: killGun_victim0039
-  - first:
-      213: 21300450
-    second: killstab_knife0029
-  - first:
-      213: 21300452
-    second: killstab_knifehand0001
-  - first:
-      213: 21300454
-    second: killstab_knifehand0007
-  - first:
-      213: 21300456
-    second: killGun_victim0046
-  - first:
-      213: 21300458
-    second: killstab_victim0007
-  - first:
-      213: 21300460
-    second: killstab_victim0033
-  - first:
-      213: 21300462
-    second: killstab_knife0024
-  - first:
-      213: 21300464
-    second: killGun_hand0031
-  - first:
-      213: 21300466
-    second: killGun_hand0033
-  - first:
-      213: 21300468
-    second: killGun_victim0016
-  - first:
-      213: 21300470
-    second: killGun_gun0012
-  - first:
-      213: 21300472
-    second: killGun_gun0048
-  - first:
-      213: 21300474
-    second: killGun_victim0048
-  - first:
-      213: 21300476
-    second: killstab_victim0026
-  - first:
-      213: 21300478
-    second: killstab_knife0026
-  - first:
-      213: 21300480
-    second: killGun_hand0019
-  - first:
-      213: 21300482
-    second: killstab_knifehand0015
-  - first:
-      213: 21300484
-    second: killGun_hand0016
-  - first:
-      213: 21300486
-    second: killstab_victim0014
-  - first:
-      213: 21300488
-    second: killstab_victim0038
-  - first:
-      213: 21300490
-    second: killstab_victim0025
-  - first:
-      213: 21300492
-    second: killstab_victim0029
-  - first:
-      213: 21300494
-    second: killGun_hand0015
-  - first:
-      213: 21300496
-    second: killGun_victim0028
-  - first:
-      213: 21300498
-    second: killstab_knifehand0023
-  - first:
-      213: 21300500
-    second: killstab_knife0007
-  - first:
-      213: 21300502
-    second: killstab_victim0006
-  - first:
-      213: 21300504
-    second: killGun_gun0013
-  - first:
-      213: 21300506
-    second: killGun_gun0044
-  - first:
-      213: 21300508
-    second: killstab_knife0028
-  - first:
-      213: 21300510
-    second: killstab_victim0034
-  - first:
-      213: 21300512
-    second: killGun_gun0023
-  - first:
-      213: 21300514
-    second: killstab_knife0046
-  - first:
-      213: 21300516
-    second: killGun_gun0036
-  - first:
-      213: 21300518
-    second: killGun_gun0028
-  - first:
-      213: 21300520
-    second: killGun_victim0031
-  - first:
-      213: 21300522
-    second: killstab_knifehand0011
-  - first:
-      213: 21300524
-    second: killstab_knifehand0003
-  - first:
-      213: 21300526
-    second: killstab_knifehand0008
-  - first:
-      213: 21300528
-    second: killstab_victim0024
-  - first:
-      213: 21300530
-    second: killstab_knifehand0005
-  - first:
-      213: 21300532
-    second: killGun_gun0032
-  - first:
-      213: 21300534
-    second: killstab_knifehand0026
-  - first:
-      213: 21300536
-    second: killGun_gun0002
-  - first:
-      213: 21300538
-    second: killstab_victim0045
-  - first:
-      213: 21300540
-    second: killGun_hand0006
-  - first:
-      213: 21300542
-    second: killGun_hand0024
-  - first:
-      213: 21300544
-    second: killGun_gun0035
-  - first:
-      213: 21300546
-    second: killstab_knife0040
-  - first:
-      213: 21300548
-    second: killGun_hand0027
-  - first:
-      213: 21300550
-    second: killstab_knifehand0017
-  - first:
-      213: 21300552
-    second: killGun_victim0003
-  - first:
-      213: 21300554
-    second: killGun_victim0022
-  - first:
-      213: 21300556
-    second: killstab_knifehand0019
-  - first:
-      213: 21300558
-    second: killstab_knife0031
-  - first:
-      213: 21300560
-    second: killstab_knife0011
-  - first:
-      213: 21300562
-    second: killGun_gun0003
-  - first:
-      213: 21300564
-    second: killGun_victim0040
-  - first:
-      213: 21300566
-    second: killGun_victim0035
-  - first:
-      213: 21300568
-    second: killstab_victim0032
-  - first:
-      213: 21300570
-    second: killGun_gun0039
-  - first:
-      213: 21300572
-    second: killGun_victim0017
-  - first:
-      213: 21300574
-    second: killstab_knife0042
-  - first:
-      213: 21300576
-    second: killGun_imposter0032
-  - first:
-      213: 21300578
-    second: killGun_imposter0017
-  - first:
-      213: 21300580
-    second: killGun_imposter0004
-  - first:
-      213: 21300582
-    second: killGun_imposter0008
-  - first:
-      213: 21300584
-    second: killGun_imposter0019
-  - first:
-      213: 21300586
-    second: killGun_imposter0020
-  - first:
-      213: 21300588
-    second: killGun_imposter0010
-  - first:
-      213: 21300590
-    second: killGun_imposter0037
-  - first:
-      213: 21300592
-    second: killGun_imposter0009
-  - first:
-      213: 21300594
-    second: killGun_imposter0014
-  - first:
-      213: 21300596
-    second: killGun_imposter0027
-  - first:
-      213: 21300598
-    second: killGun_imposter0048
-  - first:
-      213: 21300600
-    second: killGun_imposter0018
-  - first:
-      213: 21300602
-    second: killGun_imposter0046
-  - first:
-      213: 21300604
-    second: killGun_imposter0007
-  - first:
-      213: 21300606
-    second: killGun_imposter0047
-  - first:
-      213: 21300608
-    second: killGun_imposter0026
-  - first:
-      213: 21300610
-    second: killGun_imposter0040
-  - first:
-      213: 21300612
-    second: killGun_imposter0033
-  - first:
-      213: 21300614
-    second: killGun_imposter0011
-  - first:
-      213: 21300616
-    second: killGun_imposter0015
-  - first:
-      213: 21300618
-    second: killGun_imposter0034
-  - first:
-      213: 21300620
-    second: killGun_imposter0028
-  - first:
-      213: 21300622
-    second: killGun_imposter0006
-  - first:
-      213: 21300624
-    second: killGun_imposter0001
-  - first:
-      213: 21300626
-    second: killGun_imposter0021
-  - first:
-      213: 21300628
-    second: killGun_imposter0038
-  - first:
-      213: 21300630
-    second: killGun_imposter0025
-  - first:
-      213: 21300632
-    second: killGun_imposter0005
-  - first:
-      213: 21300634
-    second: killGun_imposter0016
-  - first:
-      213: 21300636
-    second: killGun_imposter0003
-  - first:
-      213: 21300638
-    second: killGun_imposter0039
-  - first:
-      213: 21300640
-    second: killGun_imposter0035
-  - first:
-      213: 21300642
-    second: killGun_imposter0013
-  - first:
-      213: 21300644
-    second: killGun_imposter0012
-  - first:
-      213: 21300646
-    second: killGun_imposter0042
-  - first:
-      213: 21300648
-    second: killstab_Impostor0001
-  - first:
-      213: 21300650
-    second: killGun_imposter0023
-  - first:
-      213: 21300652
-    second: killGun_imposter0043
-  - first:
-      213: 21300654
-    second: killGun_imposter0022
-  - first:
-      213: 21300656
-    second: killGun_imposter0002
-  - first:
-      213: 21300658
-    second: killGun_imposter0030
-  - first:
-      213: 21300660
-    second: killGun_imposter0024
-  - first:
-      213: 21300662
-    second: killGun_imposter0045
-  - first:
-      213: 21300664
-    second: killGun_imposter0031
-  - first:
-      213: 21300666
-    second: killGun_imposter0036
-  - first:
-      213: 21300668
-    second: killGun_imposter0029
-  - first:
-      213: 21300670
-    second: killGun_imposter0044
-  - first:
-      213: 21300672
-    second: killGun_imposter0041
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: killstab_victim0046
+    21300002: killstab_knife0023
+    21300004: killstab_knifehand0032
+    21300006: killGun_hand0021
+    21300008: killGun_gun0047
+    21300010: killstab_knife0025
+    21300012: killstab_knife0033
+    21300014: killGun_gun0004
+    21300016: killstab_victim0020
+    21300018: killGun_victim0023
+    21300020: killGun_gun0026
+    21300022: killGun_victim0042
+    21300024: killGun_hand0035
+    21300026: killstab_knife0022
+    21300028: killGun_hand0007
+    21300030: killGun_victim0006
+    21300032: killGun_victim0038
+    21300034: killGun_hand0014
+    21300036: killstab_victim0030
+    21300038: killGun_hand0018
+    21300040: killstab_victim0039
+    21300042: killGun_hand0036
+    21300044: killstab_knifehand0036
+    21300046: killstab_knifehand0029
+    21300048: killstab_knife0009
+    21300050: killstab_victim0041
+    21300052: killstab_knife0014
+    21300054: killstab_knifehand0012
+    21300056: killGun_hand0045
+    21300058: killstab_victim0036
+    21300060: killstab_knifehand0035
+    21300062: killGun_hand0042
+    21300064: killGun_gun0022
+    21300066: killstab_knifehand0048
+    21300068: killGun_gun0030
+    21300070: killGun_gun0011
+    21300072: killGun_hand0041
+    21300074: killstab_knifehand0045
+    21300076: killGun_victim0005
+    21300078: killstab_knifehand0021
+    21300080: killstab_knife0016
+    21300082: killGun_gun0006
+    21300084: killstab_victim0035
+    21300086: killstab_knifehand0022
+    21300088: killstab_knife0043
+    21300090: killstab_knife0002
+    21300092: killGun_gun0038
+    21300094: killGun_hand0038
+    21300096: killGun_gun0043
+    21300098: killstab_knifehand0039
+    21300100: killGun_victim0030
+    21300102: killstab_knifehand0033
+    21300104: killGun_gun0021
+    21300106: killstab_knife0030
+    21300108: killstab_victim0011
+    21300110: killGun_hand0009
+    21300112: killstab_knife0047
+    21300114: killstab_victim0022
+    21300116: killstab_victim0012
+    21300118: killstab_knife0034
+    21300120: killstab_knife0005
+    21300122: killstab_victim0004
+    21300124: killGun_hand0043
+    21300126: killstab_knife0017
+    21300128: killstab_knife0008
+    21300130: killGun_victim0007
+    21300132: killGun_gun0017
+    21300134: killstab_knifehand0030
+    21300136: killstab_knife0003
+    21300138: killstab_victim0044
+    21300140: killGun_victim0037
+    21300142: killGun_gun0031
+    21300144: killGun_victim0013
+    21300146: killstab_knifehand0027
+    21300148: killstab_knife0010
+    21300150: killGun_hand0046
+    21300152: killstab_knifehand0040
+    21300154: killGun_hand0028
+    21300156: killstab_knifehand0014
+    21300158: killstab_knife0039
+    21300160: killstab_knife0018
+    21300162: killGun_hand0011
+    21300164: killGun_victim0032
+    21300166: killstab_knifehand0016
+    21300168: killstab_victim0002
+    21300170: killGun_gun0005
+    21300172: killGun_hand0005
+    21300174: killGun_hand0017
+    21300176: killstab_knifehand0018
+    21300178: killGun_victim0044
+    21300180: killGun_gun0034
+    21300182: killGun_gun0016
+    21300184: killstab_knifehand0041
+    21300186: killGun_victim0014
+    21300188: killGun_gun0024
+    21300190: killGun_victim0018
+    21300192: killGun_hand0010
+    21300194: killGun_hand0026
+    21300196: killstab_knifehand0044
+    21300198: killstab_knifehand0028
+    21300200: killstab_victim0048
+    21300202: killGun_hand0008
+    21300204: killGun_victim0019
+    21300206: killstab_knife0044
+    21300208: killGun_gun0046
+    21300210: killstab_knife0021
+    21300212: killstab_knife0012
+    21300214: killGun_gun0025
+    21300216: killstab_knife0019
+    21300218: killGun_victim0047
+    21300220: killGun_victim0025
+    21300222: killGun_hand0013
+    21300224: killGun_hand0012
+    21300226: killGun_gun0041
+    21300228: killstab_knifehand0009
+    21300230: killGun_victim0034
+    21300232: killGun_hand0023
+    21300234: killstab_knife0027
+    21300236: killstab_victim0028
+    21300238: killGun_victim0010
+    21300240: killGun_victim0020
+    21300242: killstab_knifehand0031
+    21300244: killstab_victim0047
+    21300246: killstab_victim0003
+    21300248: killstab_knife0004
+    21300250: killstab_knifehand0002
+    21300252: killstab_victim0016
+    21300254: killstab_victim0040
+    21300256: killGun_gun0001
+    21300258: killGun_victim0024
+    21300260: killGun_gun0045
+    21300262: killstab_victim0023
+    21300264: killGun_hand0044
+    21300266: killGun_gun0037
+    21300268: killstab_knife0036
+    21300270: killGun_victim0009
+    21300272: killGun_gun0019
+    21300274: killstab_victim0001
+    21300276: killGun_gun0040
+    21300278: killstab_knife0035
+    21300280: killstab_victim0009
+    21300282: killstab_victim0010
+    21300284: killstab_knife0032
+    21300286: killstab_knifehand0038
+    21300288: killGun_hand0048
+    21300290: killGun_gun0014
+    21300292: killstab_victim0018
+    21300294: killGun_victim0012
+    21300296: killstab_knifehand0042
+    21300298: killGun_hand0034
+    21300300: killGun_hand0001
+    21300302: killstab_victim0005
+    21300304: killGun_hand0020
+    21300306: killGun_hand0047
+    21300308: killGun_victim0026
+    21300310: killstab_victim0013
+    21300312: killstab_knifehand0010
+    21300314: killGun_gun0033
+    21300316: killGun_gun0008
+    21300318: killstab_knifehand0004
+    21300320: killstab_victim0037
+    21300322: killGun_hand0030
+    21300324: killGun_victim0001
+    21300326: killstab_victim0031
+    21300328: killstab_knife0013
+    21300330: killstab_victim0042
+    21300332: killstab_knife0045
+    21300334: killstab_knifehand0047
+    21300336: killGun_hand0032
+    21300338: killstab_knife0041
+    21300340: killstab_knife0015
+    21300342: killGun_gun0007
+    21300344: killGun_victim0033
+    21300346: killGun_gun0015
+    21300348: killGun_gun0010
+    21300350: killstab_victim0017
+    21300352: killstab_victim0027
+    21300354: killstab_knifehand0006
+    21300356: killstab_knife0020
+    21300358: killGun_hand0002
+    21300360: killGun_victim0036
+    21300362: killGun_victim0043
+    21300364: killstab_knifehand0024
+    21300366: killstab_knifehand0020
+    21300368: killstab_knife0038
+    21300370: killGun_victim0015
+    21300372: killstab_knifehand0034
+    21300374: killGun_hand0037
+    21300376: killstab_knife0001
+    21300378: killstab_knifehand0043
+    21300380: killGun_gun0020
+    21300382: killstab_victim0015
+    21300384: killstab_knife0037
+    21300386: killstab_knifehand0025
+    21300388: killstab_victim0043
+    21300390: killGun_hand0025
+    21300392: killstab_knifehand0013
+    21300394: killGun_gun0018
+    21300396: killstab_knifehand0046
+    21300398: killstab_knife0006
+    21300400: killGun_victim0029
+    21300402: killGun_hand0039
+    21300404: killGun_hand0040
+    21300406: killstab_knife0048
+    21300408: killGun_gun0027
+    21300410: killstab_victim0019
+    21300412: killGun_victim0011
+    21300414: killGun_victim0004
+    21300416: killGun_victim0021
+    21300418: killGun_victim0027
+    21300420: killGun_hand0003
+    21300422: killstab_victim0008
+    21300424: killGun_victim0008
+    21300426: killGun_victim0041
+    21300428: killstab_victim0021
+    21300430: killGun_gun0042
+    21300432: killGun_victim0045
+    21300434: killGun_hand0004
+    21300436: killGun_hand0022
+    21300438: killGun_hand0029
+    21300440: killGun_victim0002
+    21300442: killGun_gun0009
+    21300444: killGun_gun0029
+    21300446: killstab_knifehand0037
+    21300448: killGun_victim0039
+    21300450: killstab_knife0029
+    21300452: killstab_knifehand0001
+    21300454: killstab_knifehand0007
+    21300456: killGun_victim0046
+    21300458: killstab_victim0007
+    21300460: killstab_victim0033
+    21300462: killstab_knife0024
+    21300464: killGun_hand0031
+    21300466: killGun_hand0033
+    21300468: killGun_victim0016
+    21300470: killGun_gun0012
+    21300472: killGun_gun0048
+    21300474: killGun_victim0048
+    21300476: killstab_victim0026
+    21300478: killstab_knife0026
+    21300480: killGun_hand0019
+    21300482: killstab_knifehand0015
+    21300484: killGun_hand0016
+    21300486: killstab_victim0014
+    21300488: killstab_victim0038
+    21300490: killstab_victim0025
+    21300492: killstab_victim0029
+    21300494: killGun_hand0015
+    21300496: killGun_victim0028
+    21300498: killstab_knifehand0023
+    21300500: killstab_knife0007
+    21300502: killstab_victim0006
+    21300504: killGun_gun0013
+    21300506: killGun_gun0044
+    21300508: killstab_knife0028
+    21300510: killstab_victim0034
+    21300512: killGun_gun0023
+    21300514: killstab_knife0046
+    21300516: killGun_gun0036
+    21300518: killGun_gun0028
+    21300520: killGun_victim0031
+    21300522: killstab_knifehand0011
+    21300524: killstab_knifehand0003
+    21300526: killstab_knifehand0008
+    21300528: killstab_victim0024
+    21300530: killstab_knifehand0005
+    21300532: killGun_gun0032
+    21300534: killstab_knifehand0026
+    21300536: killGun_gun0002
+    21300538: killstab_victim0045
+    21300540: killGun_hand0006
+    21300542: killGun_hand0024
+    21300544: killGun_gun0035
+    21300546: killstab_knife0040
+    21300548: killGun_hand0027
+    21300550: killstab_knifehand0017
+    21300552: killGun_victim0003
+    21300554: killGun_victim0022
+    21300556: killstab_knifehand0019
+    21300558: killstab_knife0031
+    21300560: killstab_knife0011
+    21300562: killGun_gun0003
+    21300564: killGun_victim0040
+    21300566: killGun_victim0035
+    21300568: killstab_victim0032
+    21300570: killGun_gun0039
+    21300572: killGun_victim0017
+    21300574: killstab_knife0042
+    21300576: killGun_imposter0032
+    21300578: killGun_imposter0017
+    21300580: killGun_imposter0004
+    21300582: killGun_imposter0008
+    21300584: killGun_imposter0019
+    21300586: killGun_imposter0020
+    21300588: killGun_imposter0010
+    21300590: killGun_imposter0037
+    21300592: killGun_imposter0009
+    21300594: killGun_imposter0014
+    21300596: killGun_imposter0027
+    21300598: killGun_imposter0048
+    21300600: killGun_imposter0018
+    21300602: killGun_imposter0046
+    21300604: killGun_imposter0007
+    21300606: killGun_imposter0047
+    21300608: killGun_imposter0026
+    21300610: killGun_imposter0040
+    21300612: killGun_imposter0033
+    21300614: killGun_imposter0011
+    21300616: killGun_imposter0015
+    21300618: killGun_imposter0034
+    21300620: killGun_imposter0028
+    21300622: killGun_imposter0006
+    21300624: killGun_imposter0001
+    21300626: killGun_imposter0021
+    21300628: killGun_imposter0038
+    21300630: killGun_imposter0025
+    21300632: killGun_imposter0005
+    21300634: killGun_imposter0016
+    21300636: killGun_imposter0003
+    21300638: killGun_imposter0039
+    21300640: killGun_imposter0035
+    21300642: killGun_imposter0013
+    21300644: killGun_imposter0012
+    21300646: killGun_imposter0042
+    21300648: killstab_Impostor0001
+    21300650: killGun_imposter0023
+    21300652: killGun_imposter0043
+    21300654: killGun_imposter0022
+    21300656: killGun_imposter0002
+    21300658: killGun_imposter0030
+    21300660: killGun_imposter0024
+    21300662: killGun_imposter0045
+    21300664: killGun_imposter0031
+    21300666: killGun_imposter0036
+    21300668: killGun_imposter0029
+    21300670: killGun_imposter0044
+    21300672: killGun_imposter0041
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -1022,8 +347,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -1031,12 +354,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1044,13 +362,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -1059,97 +374,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1182,15 +465,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0023
       rect:
@@ -1211,15 +486,7 @@ TextureImporter:
         - {x: 81.00001, y: -60}
         - {x: 22, y: -31}
         - {x: -40, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0032
       rect:
@@ -1238,15 +505,7 @@ TextureImporter:
         - {x: -45, y: 22.5}
         - {x: -2, y: 56.5}
         - {x: 53, y: 42.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0021
       rect:
@@ -1266,15 +525,7 @@ TextureImporter:
         - {x: -42.01335, y: 40.51337}
         - {x: 0.9866333, y: 61.51337}
         - {x: 30.986633, y: 47.513367}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0047
       rect:
@@ -1291,15 +542,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0025
       rect:
@@ -1319,15 +562,7 @@ TextureImporter:
         - {x: -34.03804, y: -33.538074}
         - {x: -65.038055, y: -2.5380707}
         - {x: -83.038055, y: 0.46192932}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0033
       rect:
@@ -1347,15 +582,7 @@ TextureImporter:
         - {x: 68.5, y: -33}
         - {x: 68.5, y: -79}
         - {x: -1.4999924, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0004
       rect:
@@ -1372,15 +599,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0020
       rect:
@@ -1403,15 +622,7 @@ TextureImporter:
         - {x: -55.999992, y: -95.46194}
         - {x: -90, y: -19.461937}
         - {x: -80, y: 35.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0023
       rect:
@@ -1432,15 +643,7 @@ TextureImporter:
         - {x: -116.5, y: -62.038048}
         - {x: -125.5, y: -25.038048}
         - {x: -109.5, y: 12.961952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0026
       rect:
@@ -1461,15 +664,7 @@ TextureImporter:
         - {x: -12.4253235, y: -25.96194}
         - {x: -58.425323, y: -57.96194}
         - {x: -84.42532, y: -46.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0042
       rect:
@@ -1489,15 +684,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0035
       rect:
@@ -1514,15 +701,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0022
       rect:
@@ -1542,15 +721,7 @@ TextureImporter:
         - {x: 66.5, y: -24.999998}
         - {x: 66.5, y: -82}
         - {x: 0.5, y: -27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0007
       rect:
@@ -1569,15 +740,7 @@ TextureImporter:
         - {x: 47.5, y: -42.5}
         - {x: -8.5, y: -49.5}
         - {x: -36.49997, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0006
       rect:
@@ -1598,15 +761,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0038
       rect:
@@ -1626,15 +781,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0014
       rect:
@@ -1653,15 +800,7 @@ TextureImporter:
         - {x: 15.961884, y: -44.01336}
         - {x: -38.038116, y: -57.01336}
         - {x: -45.038116, y: -5.013359}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0030
       rect:
@@ -1684,15 +823,7 @@ TextureImporter:
         - {x: -55.999992, y: -95.46194}
         - {x: -90, y: -19.461937}
         - {x: -80, y: 35.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0018
       rect:
@@ -1710,15 +841,7 @@ TextureImporter:
         - {x: -28.5, y: -80}
         - {x: -65.5, y: -12.999998}
         - {x: 31.5, y: 80}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0039
       rect:
@@ -1747,15 +870,7 @@ TextureImporter:
         - {x: -204, y: -74.99999}
         - {x: -184, y: -36}
         - {x: -105, y: 12}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0036
       rect:
@@ -1772,15 +887,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0036
       rect:
@@ -1799,15 +906,7 @@ TextureImporter:
         - {x: 51, y: 46.499992}
         - {x: 58.000008, y: -0.5}
         - {x: 27, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0029
       rect:
@@ -1827,15 +926,7 @@ TextureImporter:
         - {x: 4.9866333, y: -53}
         - {x: -31.013351, y: -45.000004}
         - {x: -56.013367, y: -16}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0009
       rect:
@@ -1862,15 +953,7 @@ TextureImporter:
         - {x: -42.499985, y: 31.5}
         - {x: 26.5, y: 43.5}
         - {x: 65.5, y: 38.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0041
       rect:
@@ -1899,15 +982,7 @@ TextureImporter:
         - {x: -180.5, y: -28.486626}
         - {x: -99.5, y: 27.513374}
         - {x: -113.5, y: 58.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0014
       rect:
@@ -1927,15 +1002,7 @@ TextureImporter:
         - {x: 69.96836, y: -3.5133896}
         - {x: 90.96835, y: -50.513393}
         - {x: -34.03163, y: -33.51339}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0012
       rect:
@@ -1953,15 +1020,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0045
       rect:
@@ -1978,15 +1037,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0036
       rect:
@@ -2011,15 +1062,7 @@ TextureImporter:
         - {x: 137.5, y: 68}
         - {x: 81.5, y: 16}
         - {x: 33.5, y: 41}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0035
       rect:
@@ -2038,15 +1081,7 @@ TextureImporter:
         - {x: 51, y: 46.499992}
         - {x: 58.000008, y: -0.5}
         - {x: 27, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0042
       rect:
@@ -2063,15 +1098,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0022
       rect:
@@ -2093,15 +1120,7 @@ TextureImporter:
         - {x: 28.5, y: -19.474342}
         - {x: 58.500004, y: -60.474342}
         - {x: 40.5, y: -88.47434}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0048
       rect:
@@ -2118,15 +1137,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0030
       rect:
@@ -2148,15 +1159,7 @@ TextureImporter:
         - {x: -13, y: -18.5}
         - {x: -47.999992, y: -62.5}
         - {x: -83, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0011
       rect:
@@ -2173,15 +1176,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0041
       rect:
@@ -2198,15 +1193,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0045
       rect:
@@ -2223,15 +1210,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0005
       rect:
@@ -2252,15 +1231,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0021
       rect:
@@ -2278,15 +1249,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0016
       rect:
@@ -2307,15 +1270,7 @@ TextureImporter:
         - {x: 66, y: -68.5}
         - {x: 52, y: -82.5}
         - {x: 0.0000076293945, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0006
       rect:
@@ -2332,15 +1287,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0035
       rect:
@@ -2365,15 +1312,7 @@ TextureImporter:
         - {x: 29.5, y: 87.53154}
         - {x: 86.49999, y: 137.53152}
         - {x: 142.5, y: 131.53154}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0022
       rect:
@@ -2391,15 +1330,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0043
       rect:
@@ -2416,15 +1347,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0002
       rect:
@@ -2441,15 +1364,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0038
       rect:
@@ -2470,15 +1385,7 @@ TextureImporter:
         - {x: 5, y: -75}
         - {x: -44, y: -99}
         - {x: -68, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0038
       rect:
@@ -2495,15 +1402,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0043
       rect:
@@ -2523,15 +1422,7 @@ TextureImporter:
         - {x: -9.961929, y: -30.5}
         - {x: -15.961937, y: -90.5}
         - {x: -73.96194, y: -82.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0039
       rect:
@@ -2551,15 +1442,7 @@ TextureImporter:
         - {x: -59, y: 3}
         - {x: -17, y: 41.999992}
         - {x: 28.000008, y: 59}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0030
       rect:
@@ -2589,15 +1472,7 @@ TextureImporter:
         - {x: -13.961945, y: 51.5}
         - {x: 42.038055, y: 42.5}
         - {x: 58.038055, y: 18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0033
       rect:
@@ -2616,15 +1491,7 @@ TextureImporter:
         - {x: -45, y: 22.499998}
         - {x: -2, y: 56.5}
         - {x: 53, y: 42.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0021
       rect:
@@ -2646,15 +1513,7 @@ TextureImporter:
         - {x: 28.5, y: -19.474342}
         - {x: 58.500004, y: -60.474342}
         - {x: 40.5, y: -88.47434}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0030
       rect:
@@ -2674,15 +1533,7 @@ TextureImporter:
         - {x: 82.50001, y: -16.5}
         - {x: 90.5, y: -46.5}
         - {x: -29.499985, y: -34.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0011
       rect:
@@ -2701,15 +1552,7 @@ TextureImporter:
         - {x: -83.5, y: -9}
         - {x: -16.5, y: 95}
         - {x: 83.5, y: 91}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0009
       rect:
@@ -2726,15 +1569,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0047
       rect:
@@ -2751,15 +1586,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0022
       rect:
@@ -2778,15 +1605,7 @@ TextureImporter:
         - {x: -83.5, y: -9}
         - {x: -16.5, y: 95}
         - {x: 83.5, y: 91}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0012
       rect:
@@ -2805,15 +1624,7 @@ TextureImporter:
         - {x: -83.5, y: -9}
         - {x: -16.5, y: 95}
         - {x: 83.5, y: 91}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0034
       rect:
@@ -2834,15 +1645,7 @@ TextureImporter:
         - {x: 76.5, y: -81}
         - {x: -10.5, y: -24}
         - {x: -39.5, y: -13.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0005
       rect:
@@ -2864,15 +1667,7 @@ TextureImporter:
         - {x: 2.5, y: -23.500004}
         - {x: -13.499985, y: -39.500004}
         - {x: -41.5, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0004
       rect:
@@ -2893,15 +1688,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0043
       rect:
@@ -2918,15 +1705,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0017
       rect:
@@ -2947,15 +1726,7 @@ TextureImporter:
         - {x: 66, y: -68.5}
         - {x: 52, y: -82.5}
         - {x: 0.0000076293945, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0008
       rect:
@@ -2982,15 +1753,7 @@ TextureImporter:
         - {x: -99.5, y: -33.5}
         - {x: -98.5, y: 0.5}
         - {x: -46.499985, y: 30.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0007
       rect:
@@ -3011,15 +1774,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0017
       rect:
@@ -3040,15 +1795,7 @@ TextureImporter:
         - {x: 71.038055, y: -55.971817}
         - {x: 29.038055, y: -97.97182}
         - {x: -59.961945, y: -37.971817}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0030
       rect:
@@ -3068,15 +1815,7 @@ TextureImporter:
         - {x: 4.9866333, y: -53}
         - {x: -31.013351, y: -45.000004}
         - {x: -56.013367, y: -16}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0003
       rect:
@@ -3093,15 +1832,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0044
       rect:
@@ -3131,15 +1862,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0037
       rect:
@@ -3169,15 +1892,7 @@ TextureImporter:
       - - {x: 170.49997, y: 87}
         - {x: 208.49997, y: 68}
         - {x: 170.49997, y: 68}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0031
       rect:
@@ -3199,15 +1914,7 @@ TextureImporter:
         - {x: -13, y: -18.5}
         - {x: -47.999992, y: -62.5}
         - {x: -83, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0013
       rect:
@@ -3229,15 +1936,7 @@ TextureImporter:
         - {x: 71.461945, y: -76}
         - {x: -113.538055, y: -61.999992}
         - {x: -118.538055, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0027
       rect:
@@ -3255,15 +1954,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0010
       rect:
@@ -3284,15 +1975,7 @@ TextureImporter:
         - {x: -9.512451, y: -38.461945}
         - {x: -87.51245, y: -49.461945}
         - {x: -95.51245, y: -7.4619446}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0046
       rect:
@@ -3309,15 +1992,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0040
       rect:
@@ -3336,15 +2011,7 @@ TextureImporter:
         - {x: -55.024673, y: 0.48662567}
         - {x: -9.024689, y: 55.486626}
         - {x: 53.97532, y: 48.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0028
       rect:
@@ -3361,15 +2028,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0014
       rect:
@@ -3388,15 +2047,7 @@ TextureImporter:
         - {x: 35.013367, y: -51.038055}
         - {x: -32.986633, y: -50.038055}
         - {x: -47.986633, y: -8.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0039
       rect:
@@ -3413,15 +2064,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0018
       rect:
@@ -3442,15 +2085,7 @@ TextureImporter:
         - {x: 88, y: -60}
         - {x: 7, y: -21}
         - {x: -23, y: -40}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0011
       rect:
@@ -3467,15 +2102,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0032
       rect:
@@ -3511,15 +2138,7 @@ TextureImporter:
         - {x: 59.5, y: 3.5}
         - {x: 97.49997, y: 3.5}
         - {x: 97.49997, y: -22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0016
       rect:
@@ -3537,15 +2156,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0002
       rect:
@@ -3566,15 +2177,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0005
       rect:
@@ -3591,15 +2194,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0005
       rect:
@@ -3618,15 +2213,7 @@ TextureImporter:
         - {x: 47.5, y: -42.5}
         - {x: -8.5, y: -49.5}
         - {x: -36.49997, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0017
       rect:
@@ -3644,15 +2231,7 @@ TextureImporter:
         - {x: -28.5, y: -80}
         - {x: -65.499985, y: -13}
         - {x: 31.500008, y: 80}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0018
       rect:
@@ -3672,15 +2251,7 @@ TextureImporter:
         - {x: -2.0133514, y: -57.5}
         - {x: -44.01335, y: -23.5}
         - {x: -51.013367, y: 5.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0044
       rect:
@@ -3700,15 +2271,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0034
       rect:
@@ -3728,15 +2291,7 @@ TextureImporter:
         - {x: 16, y: -23.961937}
         - {x: 42, y: -80.96194}
         - {x: -18, y: -99.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0016
       rect:
@@ -3757,15 +2312,7 @@ TextureImporter:
         - {x: 71.038055, y: -55.971817}
         - {x: 29.038055, y: -97.97182}
         - {x: -59.961945, y: -37.971817}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0041
       rect:
@@ -3784,15 +2331,7 @@ TextureImporter:
         - {x: -55.024673, y: 0.48662567}
         - {x: -9.024689, y: 55.486626}
         - {x: 53.97532, y: 48.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0014
       rect:
@@ -3812,15 +2351,7 @@ TextureImporter:
         - {x: 30.53804, y: -72.96194}
         - {x: -112.461945, y: -56.961937}
         - {x: -113.461945, y: 10.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0024
       rect:
@@ -3842,15 +2373,7 @@ TextureImporter:
         - {x: 28.5, y: -19.474342}
         - {x: 58.500004, y: -60.474342}
         - {x: 40.5, y: -88.47434}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0018
       rect:
@@ -3872,15 +2395,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0010
       rect:
@@ -3897,15 +2412,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0026
       rect:
@@ -3922,15 +2429,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0044
       rect:
@@ -3947,15 +2446,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0028
       rect:
@@ -3974,15 +2465,7 @@ TextureImporter:
         - {x: 34.5, y: -38.5}
         - {x: -8.499985, y: -56.500004}
         - {x: -53.5, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0048
       rect:
@@ -4012,15 +2495,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0008
       rect:
@@ -4037,15 +2512,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0019
       rect:
@@ -4067,15 +2534,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0044
       rect:
@@ -4092,15 +2551,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0046
       rect:
@@ -4119,15 +2570,7 @@ TextureImporter:
         - {x: 51.5, y: -3.4785461}
         - {x: -37.5, y: -65.478546}
         - {x: -51.5, y: -11.478546}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0021
       rect:
@@ -4147,15 +2590,7 @@ TextureImporter:
         - {x: 66.5, y: -24.999998}
         - {x: 66.5, y: -82}
         - {x: 0.5, y: -27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0012
       rect:
@@ -4176,15 +2611,7 @@ TextureImporter:
         - {x: 66, y: -68.5}
         - {x: 52, y: -82.5}
         - {x: 0.0000076293945, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0025
       rect:
@@ -4208,15 +2635,7 @@ TextureImporter:
         - {x: -21.5, y: -105}
         - {x: -67.5, y: -89}
         - {x: -99.5, y: -22.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0019
       rect:
@@ -4236,15 +2655,7 @@ TextureImporter:
         - {x: 65, y: 7.9999924}
         - {x: 88, y: -49}
         - {x: 20, y: -35.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0047
       rect:
@@ -4264,15 +2675,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0025
       rect:
@@ -4298,15 +2701,7 @@ TextureImporter:
         - {x: -174.5, y: -20.5}
         - {x: -110.5, y: 23.5}
         - {x: -88.5, y: 64.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0013
       rect:
@@ -4323,15 +2718,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0012
       rect:
@@ -4348,15 +2735,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0041
       rect:
@@ -4377,15 +2756,7 @@ TextureImporter:
         - {x: 5, y: -75}
         - {x: -44, y: -99}
         - {x: -68, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0009
       rect:
@@ -4404,15 +2775,7 @@ TextureImporter:
         - {x: -55.038055, y: 36.521454}
         - {x: -23.038055, y: 50.521454}
         - {x: 15.961945, y: 53.52144}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0034
       rect:
@@ -4452,15 +2815,7 @@ TextureImporter:
         - {x: 80.48663, y: 93}
         - {x: 149.4866, y: 93}
         - {x: 149.4866, y: 64}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0023
       rect:
@@ -4480,15 +2835,7 @@ TextureImporter:
         - {x: 47, y: -13.013359}
         - {x: 18, y: -38.01336}
         - {x: -37.999985, y: -58.01335}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0027
       rect:
@@ -4508,15 +2855,7 @@ TextureImporter:
         - {x: 70, y: -48}
         - {x: 56, y: -79.99999}
         - {x: -10, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0028
       rect:
@@ -4539,15 +2878,7 @@ TextureImporter:
         - {x: -55.999992, y: -95.46194}
         - {x: -90, y: -19.461937}
         - {x: -80, y: 35.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0010
       rect:
@@ -4568,15 +2899,7 @@ TextureImporter:
         - {x: -8.500002, y: 85.5}
         - {x: 36.5, y: 108.5}
         - {x: 87.49999, y: 91.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0020
       rect:
@@ -4598,15 +2921,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0031
       rect:
@@ -4625,15 +2940,7 @@ TextureImporter:
         - {x: -45, y: 22.5}
         - {x: -2, y: 56.5}
         - {x: 53, y: 42.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0047
       rect:
@@ -4663,15 +2970,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0003
       rect:
@@ -4692,15 +2991,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0004
       rect:
@@ -4722,15 +3013,7 @@ TextureImporter:
         - {x: 2.5, y: -23.500004}
         - {x: -13.499985, y: -39.500004}
         - {x: -41.5, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0002
       rect:
@@ -4747,15 +3030,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0016
       rect:
@@ -4778,15 +3053,7 @@ TextureImporter:
         - {x: 74, y: 66}
         - {x: 95, y: 19}
         - {x: 83, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0040
       rect:
@@ -4815,15 +3082,7 @@ TextureImporter:
         - {x: -204, y: -74.99999}
         - {x: -184, y: -36}
         - {x: -105, y: 12}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0001
       rect:
@@ -4840,15 +3099,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0024
       rect:
@@ -4875,15 +3126,7 @@ TextureImporter:
         - {x: -22.486618, y: -76.96194}
         - {x: -157.48662, y: -76.96194}
         - {x: -173.48662, y: -45.96193}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0045
       rect:
@@ -4904,15 +3147,7 @@ TextureImporter:
         - {x: 4, y: -78.98661}
         - {x: -21.999985, y: -75.98661}
         - {x: -50, y: -51.986618}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0023
       rect:
@@ -4933,15 +3168,7 @@ TextureImporter:
         - {x: -67, y: -110.53811}
         - {x: -49.999992, y: -41.53811}
         - {x: -76.999985, y: -24.538109}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0044
       rect:
@@ -4958,15 +3185,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0037
       rect:
@@ -4986,15 +3205,7 @@ TextureImporter:
         - {x: 14.000008, y: -27}
         - {x: 14.000008, y: -86}
         - {x: -40, y: -97}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0036
       rect:
@@ -5015,15 +3226,7 @@ TextureImporter:
         - {x: 76.5, y: -81}
         - {x: -10.5, y: -24}
         - {x: -39.5, y: -13.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0009
       rect:
@@ -5043,15 +3246,7 @@ TextureImporter:
         - {x: 2, y: 116}
         - {x: 77, y: 97}
         - {x: 91, y: 44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0019
       rect:
@@ -5075,15 +3270,7 @@ TextureImporter:
         - {x: -5.5, y: -62}
         - {x: -31.5, y: -93}
         - {x: -67.5, y: -75}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0001
       rect:
@@ -5104,15 +3291,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0040
       rect:
@@ -5133,15 +3312,7 @@ TextureImporter:
         - {x: 5, y: -75}
         - {x: -44, y: -99}
         - {x: -68, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0035
       rect:
@@ -5162,15 +3333,7 @@ TextureImporter:
         - {x: 76.5, y: -81}
         - {x: -10.5, y: -24}
         - {x: -39.5, y: -13.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0009
       rect:
@@ -5191,15 +3354,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0010
       rect:
@@ -5220,15 +3375,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0032
       rect:
@@ -5248,15 +3395,7 @@ TextureImporter:
         - {x: 68.5, y: -33}
         - {x: 68.5, y: -79}
         - {x: -1.4999924, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0038
       rect:
@@ -5276,15 +3415,7 @@ TextureImporter:
         - {x: -59, y: 3}
         - {x: -17, y: 41.999992}
         - {x: 28.000008, y: 59}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0048
       rect:
@@ -5301,15 +3432,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04405410000000000800000000000000
-      internalID: 21300288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0014
       rect:
@@ -5330,15 +3453,7 @@ TextureImporter:
         - {x: -2.5, y: -21.5}
         - {x: -5.5, y: -90.49999}
         - {x: -63.5, y: -84.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24405410000000000800000000000000
-      internalID: 21300290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0018
       rect:
@@ -5361,15 +3476,7 @@ TextureImporter:
         - {x: -55.999992, y: -95.46194}
         - {x: -90, y: -19.461937}
         - {x: -80, y: 35.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44405410000000000800000000000000
-      internalID: 21300292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0012
       rect:
@@ -5390,15 +3497,7 @@ TextureImporter:
         - {x: -16.038055, y: -72.03806}
         - {x: -120.038055, y: -61.038063}
         - {x: -116.038055, y: 8.961941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64405410000000000800000000000000
-      internalID: 21300294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0042
       rect:
@@ -5418,15 +3517,7 @@ TextureImporter:
         - {x: 37.500008, y: -32.538055}
         - {x: -36.5, y: -50.53805}
         - {x: -60.5, y: -3.5380554}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84405410000000000800000000000000
-      internalID: 21300296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0034
       rect:
@@ -5443,15 +3534,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4405410000000000800000000000000
-      internalID: 21300298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0001
       rect:
@@ -5468,15 +3551,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4405410000000000800000000000000
-      internalID: 21300300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0005
       rect:
@@ -5497,15 +3572,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4405410000000000800000000000000
-      internalID: 21300302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0020
       rect:
@@ -5524,15 +3591,7 @@ TextureImporter:
         - {x: 30, y: -21.5}
         - {x: -19.999985, y: -59.499992}
         - {x: -46.999985, y: -5.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05405410000000000800000000000000
-      internalID: 21300304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0047
       rect:
@@ -5549,15 +3608,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25405410000000000800000000000000
-      internalID: 21300306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0026
       rect:
@@ -5586,15 +3637,7 @@ TextureImporter:
         - {x: -86, y: 52}
         - {x: 37, y: 52}
         - {x: 58, y: 27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45405410000000000800000000000000
-      internalID: 21300308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0013
       rect:
@@ -5615,15 +3658,7 @@ TextureImporter:
         - {x: -67, y: -110.53811}
         - {x: -49.999992, y: -41.53811}
         - {x: -76.999985, y: -24.538109}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65405410000000000800000000000000
-      internalID: 21300310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0010
       rect:
@@ -5642,15 +3677,7 @@ TextureImporter:
         - {x: -55.038055, y: 36.521454}
         - {x: -23.038055, y: 50.521454}
         - {x: 15.961945, y: 53.52144}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85405410000000000800000000000000
-      internalID: 21300312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0033
       rect:
@@ -5681,15 +3708,7 @@ TextureImporter:
         - {x: -143.03807, y: 50.025665}
         - {x: -60.03807, y: 58.025665}
         - {x: -42.03807, y: 34.025665}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5405410000000000800000000000000
-      internalID: 21300314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0008
       rect:
@@ -5706,15 +3725,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5405410000000000800000000000000
-      internalID: 21300316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0004
       rect:
@@ -5734,15 +3745,7 @@ TextureImporter:
         - {x: -48.5, y: 9}
         - {x: -22.5, y: 43}
         - {x: 25.5, y: 54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5405410000000000800000000000000
-      internalID: 21300318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0037
       rect:
@@ -5767,15 +3770,7 @@ TextureImporter:
         - {x: 29.5, y: 87.53154}
         - {x: 86.49999, y: 137.53152}
         - {x: 142.5, y: 131.53154}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06405410000000000800000000000000
-      internalID: 21300320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0030
       rect:
@@ -5792,15 +3787,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26405410000000000800000000000000
-      internalID: 21300322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0001
       rect:
@@ -5821,15 +3808,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46405410000000000800000000000000
-      internalID: 21300324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0031
       rect:
@@ -5851,15 +3830,7 @@ TextureImporter:
         - {x: -120, y: -90.98661}
         - {x: -102, y: -35.986626}
         - {x: -122.999985, y: -14.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66405410000000000800000000000000
-      internalID: 21300326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0013
       rect:
@@ -5879,15 +3850,7 @@ TextureImporter:
         - {x: 46.000008, y: 19}
         - {x: 79.00001, y: -29}
         - {x: 79.00001, y: -58}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86405410000000000800000000000000
-      internalID: 21300328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0042
       rect:
@@ -5917,15 +3880,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6405410000000000800000000000000
-      internalID: 21300330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0045
       rect:
@@ -5942,15 +3897,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6405410000000000800000000000000
-      internalID: 21300332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0047
       rect:
@@ -5967,15 +3914,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6405410000000000800000000000000
-      internalID: 21300334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0032
       rect:
@@ -5992,15 +3931,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07405410000000000800000000000000
-      internalID: 21300336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0041
       rect:
@@ -6017,15 +3948,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27405410000000000800000000000000
-      internalID: 21300338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0015
       rect:
@@ -6045,15 +3968,7 @@ TextureImporter:
         - {x: 69.96836, y: -3.5133896}
         - {x: 90.96835, y: -50.513393}
         - {x: -34.03163, y: -33.51339}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47405410000000000800000000000000
-      internalID: 21300340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0007
       rect:
@@ -6070,15 +3985,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67405410000000000800000000000000
-      internalID: 21300342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0033
       rect:
@@ -6112,15 +4019,7 @@ TextureImporter:
         - {x: 92.9866, y: 6}
         - {x: 42.986618, y: 39}
         - {x: 21.986633, y: 38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87405410000000000800000000000000
-      internalID: 21300344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0015
       rect:
@@ -6141,15 +4040,7 @@ TextureImporter:
         - {x: 71.038055, y: -55.971817}
         - {x: 29.038055, y: -97.97182}
         - {x: -59.961945, y: -37.971817}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7405410000000000800000000000000
-      internalID: 21300346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0010
       rect:
@@ -6166,15 +4057,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7405410000000000800000000000000
-      internalID: 21300348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0017
       rect:
@@ -6197,15 +4080,7 @@ TextureImporter:
         - {x: 74, y: 66}
         - {x: 95, y: 19}
         - {x: 83, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7405410000000000800000000000000
-      internalID: 21300350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0027
       rect:
@@ -6228,15 +4103,7 @@ TextureImporter:
         - {x: 74, y: 66}
         - {x: 95, y: 19}
         - {x: 83, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08405410000000000800000000000000
-      internalID: 21300352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0006
       rect:
@@ -6255,15 +4122,7 @@ TextureImporter:
         - {x: 43.986633, y: -41.538055}
         - {x: -2.0133667, y: -53.538055}
         - {x: -43.013367, y: -42.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28405410000000000800000000000000
-      internalID: 21300354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0020
       rect:
@@ -6283,15 +4142,7 @@ TextureImporter:
         - {x: 65, y: 7.9999924}
         - {x: 88, y: -49}
         - {x: 20, y: -35.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48405410000000000800000000000000
-      internalID: 21300356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0002
       rect:
@@ -6310,15 +4161,7 @@ TextureImporter:
         - {x: -28.5, y: 33.53806}
         - {x: 16.5, y: 47.53806}
         - {x: 49.50003, y: 29.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68405410000000000800000000000000
-      internalID: 21300358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0036
       rect:
@@ -6355,15 +4198,7 @@ TextureImporter:
         - {x: 137.99997, y: 90}
         - {x: 172.99997, y: 90}
         - {x: 172.99997, y: 63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88405410000000000800000000000000
-      internalID: 21300360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0043
       rect:
@@ -6383,15 +4218,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8405410000000000800000000000000
-      internalID: 21300362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0024
       rect:
@@ -6411,15 +4238,7 @@ TextureImporter:
         - {x: -1.4729156, y: -51.53806}
         - {x: -35.47293, y: -39.538055}
         - {x: -48.47293, y: -9.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8405410000000000800000000000000
-      internalID: 21300364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0020
       rect:
@@ -6438,15 +4257,7 @@ TextureImporter:
         - {x: 35.013367, y: -51.038063}
         - {x: -32.986633, y: -50.038063}
         - {x: -47.986633, y: -8.038071}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8405410000000000800000000000000
-      internalID: 21300366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0038
       rect:
@@ -6467,15 +4278,7 @@ TextureImporter:
         - {x: 70, y: -78}
         - {x: 29.000008, y: -51}
         - {x: -41, y: -17.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09405410000000000800000000000000
-      internalID: 21300368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0015
       rect:
@@ -6497,15 +4300,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29405410000000000800000000000000
-      internalID: 21300370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0034
       rect:
@@ -6524,15 +4319,7 @@ TextureImporter:
         - {x: 51, y: 46.499992}
         - {x: 58.000008, y: -0.5}
         - {x: 27, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49405410000000000800000000000000
-      internalID: 21300372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0037
       rect:
@@ -6549,15 +4336,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69405410000000000800000000000000
-      internalID: 21300374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0001
       rect:
@@ -6574,15 +4353,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89405410000000000800000000000000
-      internalID: 21300376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0043
       rect:
@@ -6601,15 +4372,7 @@ TextureImporter:
         - {x: 49.98664, y: 11}
         - {x: 59.986633, y: -35}
         - {x: 1.9866333, y: -59}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9405410000000000800000000000000
-      internalID: 21300378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0020
       rect:
@@ -6632,15 +4395,7 @@ TextureImporter:
         - {x: -40, y: 6}
         - {x: -31, y: 66}
         - {x: 14, y: 102}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9405410000000000800000000000000
-      internalID: 21300380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0015
       rect:
@@ -6661,15 +4416,7 @@ TextureImporter:
         - {x: -67, y: -110.53811}
         - {x: -49.999992, y: -41.53811}
         - {x: -76.999985, y: -24.538109}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9405410000000000800000000000000
-      internalID: 21300382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0037
       rect:
@@ -6690,15 +4437,7 @@ TextureImporter:
         - {x: 76.5, y: -81}
         - {x: -10.5, y: -24}
         - {x: -39.5, y: -13.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a405410000000000800000000000000
-      internalID: 21300384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0025
       rect:
@@ -6718,15 +4457,7 @@ TextureImporter:
         - {x: -1.4729156, y: -51.53806}
         - {x: -35.47293, y: -39.538055}
         - {x: -48.47293, y: -9.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a405410000000000800000000000000
-      internalID: 21300386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0043
       rect:
@@ -6756,15 +4487,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a405410000000000800000000000000
-      internalID: 21300388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0025
       rect:
@@ -6781,15 +4504,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a405410000000000800000000000000
-      internalID: 21300390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0013
       rect:
@@ -6808,15 +4523,7 @@ TextureImporter:
         - {x: 23.486664, y: 47.46193}
         - {x: 53.486664, y: 11.461929}
         - {x: 12.486664, y: -58.53807}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a405410000000000800000000000000
-      internalID: 21300392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0018
       rect:
@@ -6840,15 +4547,7 @@ TextureImporter:
         - {x: -5.5, y: -62}
         - {x: -31.5, y: -93}
         - {x: -67.5, y: -75}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa405410000000000800000000000000
-      internalID: 21300394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0046
       rect:
@@ -6865,15 +4564,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca405410000000000800000000000000
-      internalID: 21300396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0006
       rect:
@@ -6894,15 +4585,7 @@ TextureImporter:
         - {x: -28.574677, y: -50.000004}
         - {x: -75.57466, y: -22}
         - {x: -117.57468, y: -21}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea405410000000000800000000000000
-      internalID: 21300398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0029
       rect:
@@ -6932,15 +4615,7 @@ TextureImporter:
         - {x: 115.5, y: -19.999996}
         - {x: 78.5, y: -11}
         - {x: 58.5, y: 18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b405410000000000800000000000000
-      internalID: 21300400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0039
       rect:
@@ -6957,15 +4632,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b405410000000000800000000000000
-      internalID: 21300402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0040
       rect:
@@ -6982,15 +4649,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b405410000000000800000000000000
-      internalID: 21300404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0048
       rect:
@@ -7007,15 +4666,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b405410000000000800000000000000
-      internalID: 21300406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0027
       rect:
@@ -7036,15 +4687,7 @@ TextureImporter:
         - {x: 76.5, y: -30.5}
         - {x: -8.5, y: -15.5}
         - {x: -56.499992, y: -64.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b405410000000000800000000000000
-      internalID: 21300408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0019
       rect:
@@ -7067,15 +4710,7 @@ TextureImporter:
         - {x: -55.999992, y: -95.46194}
         - {x: -90, y: -19.461937}
         - {x: -80, y: 35.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab405410000000000800000000000000
-      internalID: 21300410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0011
       rect:
@@ -7096,15 +4731,7 @@ TextureImporter:
         - {x: 66.5, y: -62.538055}
         - {x: -129.5, y: -52.538055}
         - {x: -140.5, y: -19.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb405410000000000800000000000000
-      internalID: 21300412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0004
       rect:
@@ -7125,15 +4752,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb405410000000000800000000000000
-      internalID: 21300414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0021
       rect:
@@ -7155,15 +4774,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c405410000000000800000000000000
-      internalID: 21300416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0027
       rect:
@@ -7193,15 +4804,7 @@ TextureImporter:
         - {x: 115.5, y: -19.999996}
         - {x: 78.5, y: -11}
         - {x: 58.5, y: 18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c405410000000000800000000000000
-      internalID: 21300418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0003
       rect:
@@ -7220,15 +4823,7 @@ TextureImporter:
         - {x: -28.5, y: 33.53806}
         - {x: 16.5, y: 47.53806}
         - {x: 49.50003, y: 29.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c405410000000000800000000000000
-      internalID: 21300420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0008
       rect:
@@ -7249,15 +4844,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c405410000000000800000000000000
-      internalID: 21300422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0008
       rect:
@@ -7279,15 +4866,7 @@ TextureImporter:
         - {x: -56.499985, y: -12.513367}
         - {x: -38.5, y: 53.486633}
         - {x: 6.5, y: 100.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c405410000000000800000000000000
-      internalID: 21300424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0041
       rect:
@@ -7307,15 +4886,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac405410000000000800000000000000
-      internalID: 21300426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0021
       rect:
@@ -7334,15 +4905,7 @@ TextureImporter:
         - {x: -83.5, y: -9}
         - {x: -16.5, y: 95}
         - {x: 83.5, y: 91}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc405410000000000800000000000000
-      internalID: 21300428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0042
       rect:
@@ -7363,15 +4926,7 @@ TextureImporter:
         - {x: 5, y: -75}
         - {x: -44, y: -99}
         - {x: -68, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec405410000000000800000000000000
-      internalID: 21300430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0045
       rect:
@@ -7391,15 +4946,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d405410000000000800000000000000
-      internalID: 21300432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0004
       rect:
@@ -7417,15 +4964,7 @@ TextureImporter:
         - {x: -47.5, y: -34}
         - {x: -43.5, y: 22}
         - {x: 23.5, y: 48.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d405410000000000800000000000000
-      internalID: 21300434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0022
       rect:
@@ -7445,15 +4984,7 @@ TextureImporter:
         - {x: -42.01335, y: 40.51337}
         - {x: 0.9866333, y: 61.51337}
         - {x: 30.986633, y: 47.513367}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d405410000000000800000000000000
-      internalID: 21300436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0029
       rect:
@@ -7470,15 +5001,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d405410000000000800000000000000
-      internalID: 21300438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0002
       rect:
@@ -7499,15 +5022,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d405410000000000800000000000000
-      internalID: 21300440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0009
       rect:
@@ -7524,15 +5039,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad405410000000000800000000000000
-      internalID: 21300442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0029
       rect:
@@ -7554,15 +5061,7 @@ TextureImporter:
         - {x: -13, y: -18.5}
         - {x: -47.999992, y: -62.5}
         - {x: -83, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd405410000000000800000000000000
-      internalID: 21300444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0037
       rect:
@@ -7581,15 +5080,7 @@ TextureImporter:
         - {x: 51, y: 46.499992}
         - {x: 58.000008, y: -0.5}
         - {x: 27, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed405410000000000800000000000000
-      internalID: 21300446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0039
       rect:
@@ -7609,15 +5100,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e405410000000000800000000000000
-      internalID: 21300448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0029
       rect:
@@ -7637,15 +5120,7 @@ TextureImporter:
         - {x: 82.50001, y: -16.5}
         - {x: 90.5, y: -46.5}
         - {x: -29.499985, y: -34.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e405410000000000800000000000000
-      internalID: 21300450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0001
       rect:
@@ -7662,15 +5137,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e405410000000000800000000000000
-      internalID: 21300452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0007
       rect:
@@ -7690,15 +5157,7 @@ TextureImporter:
         - {x: -5.9999847, y: -50.986626}
         - {x: -32.99997, y: -36.986626}
         - {x: -47, y: 21.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e405410000000000800000000000000
-      internalID: 21300454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0046
       rect:
@@ -7718,15 +5177,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e405410000000000800000000000000
-      internalID: 21300456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0007
       rect:
@@ -7747,15 +5198,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae405410000000000800000000000000
-      internalID: 21300458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0033
       rect:
@@ -7781,15 +5224,7 @@ TextureImporter:
         - {x: 30, y: 86.5}
         - {x: 86.99999, y: 136.5}
         - {x: 143, y: 130.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce405410000000000800000000000000
-      internalID: 21300460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0024
       rect:
@@ -7809,15 +5244,7 @@ TextureImporter:
         - {x: -34.03804, y: -33.538074}
         - {x: -65.038055, y: -2.5380707}
         - {x: -83.038055, y: 0.46192932}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee405410000000000800000000000000
-      internalID: 21300462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0031
       rect:
@@ -7834,15 +5261,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f405410000000000800000000000000
-      internalID: 21300464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0033
       rect:
@@ -7859,15 +5278,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f405410000000000800000000000000
-      internalID: 21300466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0016
       rect:
@@ -7889,15 +5300,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f405410000000000800000000000000
-      internalID: 21300468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0012
       rect:
@@ -7914,15 +5317,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f405410000000000800000000000000
-      internalID: 21300470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0048
       rect:
@@ -7939,15 +5334,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f405410000000000800000000000000
-      internalID: 21300472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0048
       rect:
@@ -7967,15 +5354,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af405410000000000800000000000000
-      internalID: 21300474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0026
       rect:
@@ -7998,15 +5377,7 @@ TextureImporter:
         - {x: 74, y: 66}
         - {x: 95, y: 19}
         - {x: 83, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf405410000000000800000000000000
-      internalID: 21300476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0026
       rect:
@@ -8026,15 +5397,7 @@ TextureImporter:
         - {x: 70, y: -48}
         - {x: 56, y: -79.99999}
         - {x: -10, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef405410000000000800000000000000
-      internalID: 21300478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0019
       rect:
@@ -8052,15 +5415,7 @@ TextureImporter:
         - {x: -28.5, y: -80}
         - {x: -65.5, y: -12.999998}
         - {x: 31.5, y: 80}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00505410000000000800000000000000
-      internalID: 21300480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0015
       rect:
@@ -8079,15 +5434,7 @@ TextureImporter:
         - {x: 35.013367, y: -51.038055}
         - {x: -32.986633, y: -50.038055}
         - {x: -47.986633, y: -8.038063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20505410000000000800000000000000
-      internalID: 21300482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0016
       rect:
@@ -8105,15 +5452,7 @@ TextureImporter:
         - {x: -28.5, y: -80}
         - {x: -65.499985, y: -13}
         - {x: 31.500008, y: 80}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40505410000000000800000000000000
-      internalID: 21300484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0014
       rect:
@@ -8134,15 +5473,7 @@ TextureImporter:
         - {x: -67, y: -110.53811}
         - {x: -49.999992, y: -41.53811}
         - {x: -76.999985, y: -24.538109}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60505410000000000800000000000000
-      internalID: 21300486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0038
       rect:
@@ -8170,15 +5501,7 @@ TextureImporter:
         - {x: 138, y: 51.513382}
         - {x: 79.99999, y: 14.513382}
         - {x: 37, y: 36.513382}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80505410000000000800000000000000
-      internalID: 21300488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0025
       rect:
@@ -8199,15 +5522,7 @@ TextureImporter:
         - {x: -67, y: -110.53811}
         - {x: -49.999992, y: -41.53811}
         - {x: -76.999985, y: -24.538109}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0505410000000000800000000000000
-      internalID: 21300490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0029
       rect:
@@ -8230,15 +5545,7 @@ TextureImporter:
         - {x: -55.999992, y: -95.46194}
         - {x: -90, y: -19.461937}
         - {x: -80, y: 35.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0505410000000000800000000000000
-      internalID: 21300492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0015
       rect:
@@ -8256,15 +5563,7 @@ TextureImporter:
         - {x: -28.5, y: -80}
         - {x: -65.499985, y: -13}
         - {x: 31.500008, y: 80}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0505410000000000800000000000000
-      internalID: 21300494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0028
       rect:
@@ -8294,15 +5593,7 @@ TextureImporter:
         - {x: -13.961945, y: 51.5}
         - {x: 42.038055, y: 42.5}
         - {x: 58.038055, y: 18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01505410000000000800000000000000
-      internalID: 21300496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0023
       rect:
@@ -8322,15 +5613,7 @@ TextureImporter:
         - {x: -12.461945, y: -48.486626}
         - {x: -42.46193, y: -27.486626}
         - {x: -49.461945, y: 1.5133743}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21505410000000000800000000000000
-      internalID: 21300498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0007
       rect:
@@ -8352,15 +5635,7 @@ TextureImporter:
         - {x: -65.531586, y: -40.003143}
         - {x: -83.531586, y: -49.003143}
         - {x: -107.531586, y: -12.003143}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41505410000000000800000000000000
-      internalID: 21300500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0006
       rect:
@@ -8381,15 +5656,7 @@ TextureImporter:
         - {x: -72.5, y: 35.5}
         - {x: -19.499992, y: 101.5}
         - {x: 54.5, y: 85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61505410000000000800000000000000
-      internalID: 21300502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0013
       rect:
@@ -8406,15 +5673,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81505410000000000800000000000000
-      internalID: 21300504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0044
       rect:
@@ -8434,15 +5693,7 @@ TextureImporter:
         - {x: 88.5, y: -52}
         - {x: 61.5, y: -75}
         - {x: 16.5, y: -73.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1505410000000000800000000000000
-      internalID: 21300506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0028
       rect:
@@ -8462,15 +5713,7 @@ TextureImporter:
         - {x: 80.5, y: -13.5}
         - {x: 85.5, y: -58.5}
         - {x: 9.500015, y: -22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1505410000000000800000000000000
-      internalID: 21300508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0034
       rect:
@@ -8495,15 +5738,7 @@ TextureImporter:
         - {x: 137.5, y: 68}
         - {x: 81.5, y: 16}
         - {x: 33.5, y: 41}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1505410000000000800000000000000
-      internalID: 21300510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0023
       rect:
@@ -8525,15 +5760,7 @@ TextureImporter:
         - {x: 28.5, y: -19.474342}
         - {x: 58.500004, y: -60.474342}
         - {x: 40.5, y: -88.47434}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02505410000000000800000000000000
-      internalID: 21300512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0046
       rect:
@@ -8550,15 +5777,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22505410000000000800000000000000
-      internalID: 21300514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0036
       rect:
@@ -8578,15 +5797,7 @@ TextureImporter:
         - {x: 16, y: -23.961937}
         - {x: 42, y: -80.96194}
         - {x: -18, y: -99.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42505410000000000800000000000000
-      internalID: 21300516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0028
       rect:
@@ -8608,15 +5819,7 @@ TextureImporter:
         - {x: -13, y: -18.5}
         - {x: -47.999992, y: -62.5}
         - {x: -83, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62505410000000000800000000000000
-      internalID: 21300518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0031
       rect:
@@ -8646,15 +5849,7 @@ TextureImporter:
         - {x: 115.5, y: -19.999996}
         - {x: 78.5, y: -11}
         - {x: 58.5, y: 18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82505410000000000800000000000000
-      internalID: 21300520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0011
       rect:
@@ -8672,15 +5867,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2505410000000000800000000000000
-      internalID: 21300522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0003
       rect:
@@ -8697,15 +5884,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2505410000000000800000000000000
-      internalID: 21300524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0008
       rect:
@@ -8724,15 +5903,7 @@ TextureImporter:
         - {x: -55.038055, y: 36.521454}
         - {x: -23.038055, y: 50.521454}
         - {x: 15.961945, y: 53.52144}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2505410000000000800000000000000
-      internalID: 21300526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0024
       rect:
@@ -8753,15 +5924,7 @@ TextureImporter:
         - {x: -67, y: -110.53811}
         - {x: -49.999992, y: -41.53811}
         - {x: -76.999985, y: -24.538109}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03505410000000000800000000000000
-      internalID: 21300528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0005
       rect:
@@ -8781,15 +5944,7 @@ TextureImporter:
         - {x: -48.5, y: 9}
         - {x: -22.5, y: 43}
         - {x: 25.5, y: 54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23505410000000000800000000000000
-      internalID: 21300530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0032
       rect:
@@ -8820,15 +5975,7 @@ TextureImporter:
         - {x: -143.03807, y: 50.025665}
         - {x: -60.03807, y: 58.025665}
         - {x: -42.03807, y: 34.025665}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43505410000000000800000000000000
-      internalID: 21300532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0026
       rect:
@@ -8846,15 +5993,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63505410000000000800000000000000
-      internalID: 21300534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0002
       rect:
@@ -8871,15 +6010,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83505410000000000800000000000000
-      internalID: 21300536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0045
       rect:
@@ -8909,15 +6040,7 @@ TextureImporter:
         - {x: -201.5, y: -75.49999}
         - {x: -183.5, y: -32.5}
         - {x: -139.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3505410000000000800000000000000
-      internalID: 21300538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0006
       rect:
@@ -8936,15 +6059,7 @@ TextureImporter:
         - {x: 47.5, y: -42.5}
         - {x: -8.5, y: -49.5}
         - {x: -36.49997, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3505410000000000800000000000000
-      internalID: 21300540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0024
       rect:
@@ -8963,15 +6078,7 @@ TextureImporter:
         - {x: 43.461884, y: -19.513374}
         - {x: 12.461884, y: -40.513367}
         - {x: -28.538116, y: -42.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3505410000000000800000000000000
-      internalID: 21300542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0035
       rect:
@@ -8991,15 +6098,7 @@ TextureImporter:
         - {x: 16, y: -23.961937}
         - {x: 42, y: -80.96194}
         - {x: -18, y: -99.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04505410000000000800000000000000
-      internalID: 21300544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0040
       rect:
@@ -9016,15 +6115,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24505410000000000800000000000000
-      internalID: 21300546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_hand0027
       rect:
@@ -9041,15 +6132,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44505410000000000800000000000000
-      internalID: 21300548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0017
       rect:
@@ -9067,15 +6150,7 @@ TextureImporter:
         - {x: 63, y: 6}
         - {x: -12, y: -58}
         - {x: -63, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64505410000000000800000000000000
-      internalID: 21300550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0003
       rect:
@@ -9096,15 +6171,7 @@ TextureImporter:
         - {x: 20.999954, y: 97.024704}
         - {x: 70.999954, y: 49.024704}
         - {x: 79.999954, y: -8.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84505410000000000800000000000000
-      internalID: 21300552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0022
       rect:
@@ -9125,15 +6192,7 @@ TextureImporter:
         - {x: -116.5, y: -62.038048}
         - {x: -125.5, y: -25.038048}
         - {x: -109.5, y: 12.961952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4505410000000000800000000000000
-      internalID: 21300554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knifehand0019
       rect:
@@ -9152,15 +6211,7 @@ TextureImporter:
         - {x: 35.013367, y: -51.038063}
         - {x: -32.986633, y: -50.038063}
         - {x: -47.986633, y: -8.038071}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4505410000000000800000000000000
-      internalID: 21300556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0031
       rect:
@@ -9180,15 +6231,7 @@ TextureImporter:
         - {x: 68.5, y: -33}
         - {x: 68.5, y: -79}
         - {x: -1.4999924, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4505410000000000800000000000000
-      internalID: 21300558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0011
       rect:
@@ -9209,15 +6252,7 @@ TextureImporter:
         - {x: 66, y: -68.5}
         - {x: 52, y: -82.5}
         - {x: 0.0000076293945, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05505410000000000800000000000000
-      internalID: 21300560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0003
       rect:
@@ -9234,15 +6269,7 @@ TextureImporter:
         - {x: 0.5000305, y: 0.5}
         - {x: 0.5000305, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25505410000000000800000000000000
-      internalID: 21300562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0040
       rect:
@@ -9262,15 +6289,7 @@ TextureImporter:
         - {x: 138.00003, y: -15.000046}
         - {x: 111.00003, y: -30.000053}
         - {x: 11.0000305, y: -34.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45505410000000000800000000000000
-      internalID: 21300564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0035
       rect:
@@ -9310,15 +6329,7 @@ TextureImporter:
         - {x: 80.48663, y: 93}
         - {x: 149.4866, y: 93}
         - {x: 149.4866, y: 64}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65505410000000000800000000000000
-      internalID: 21300566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_victim0032
       rect:
@@ -9343,15 +6354,7 @@ TextureImporter:
         - {x: -134, y: -113.999985}
         - {x: -116, y: -59}
         - {x: -138, y: -37}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85505410000000000800000000000000
-      internalID: 21300568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_gun0039
       rect:
@@ -9372,15 +6375,7 @@ TextureImporter:
         - {x: 5, y: -75}
         - {x: -44, y: -99}
         - {x: -68, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5505410000000000800000000000000
-      internalID: 21300570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_victim0017
       rect:
@@ -9402,15 +6397,7 @@ TextureImporter:
         - {x: -93, y: -65}
         - {x: -115, y: -40}
         - {x: -103, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5505410000000000800000000000000
-      internalID: 21300572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_knife0042
       rect:
@@ -9427,15 +6414,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5505410000000000800000000000000
-      internalID: 21300574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0032
       rect:
@@ -9460,15 +6439,7 @@ TextureImporter:
         - {x: 167, y: -2}
         - {x: 113.00001, y: -38}
         - {x: 44, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06505410000000000800000000000000
-      internalID: 21300576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0017
       rect:
@@ -9493,15 +6464,7 @@ TextureImporter:
         - {x: 156, y: 33.5}
         - {x: 110, y: -36.5}
         - {x: 70, y: 11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26505410000000000800000000000000
-      internalID: 21300578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0004
       rect:
@@ -9525,15 +6488,7 @@ TextureImporter:
         - {x: -28.461945, y: -101}
         - {x: -62.461945, y: -96}
         - {x: -57.461914, y: -53.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46505410000000000800000000000000
-      internalID: 21300580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0008
       rect:
@@ -9562,15 +6517,7 @@ TextureImporter:
         - {x: 54, y: 8.5}
         - {x: 44, y: -1.5}
         - {x: 44, y: -78.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66505410000000000800000000000000
-      internalID: 21300582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0019
       rect:
@@ -9596,15 +6543,7 @@ TextureImporter:
         - {x: 152, y: 27}
         - {x: 111.00001, y: -30}
         - {x: 70.000015, y: 12}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86505410000000000800000000000000
-      internalID: 21300584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0020
       rect:
@@ -9630,15 +6569,7 @@ TextureImporter:
         - {x: 161, y: 40.5}
         - {x: 95, y: -25.5}
         - {x: 66, y: 25.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6505410000000000800000000000000
-      internalID: 21300586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0010
       rect:
@@ -9662,15 +6593,7 @@ TextureImporter:
         - {x: 26, y: -110.5}
         - {x: -26, y: -87.5}
         - {x: -111, y: -135.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6505410000000000800000000000000
-      internalID: 21300588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0037
       rect:
@@ -9696,15 +6619,7 @@ TextureImporter:
         - {x: 35.5, y: 40}
         - {x: 80.5, y: 93}
         - {x: 152.5, y: 87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6505410000000000800000000000000
-      internalID: 21300590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0009
       rect:
@@ -9733,15 +6648,7 @@ TextureImporter:
         - {x: -5, y: 68.5}
         - {x: 53, y: 80.49999}
         - {x: 52, y: 102.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07505410000000000800000000000000
-      internalID: 21300592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0014
       rect:
@@ -9767,15 +6674,7 @@ TextureImporter:
         - {x: 97, y: -54.499992}
         - {x: 12.000015, y: -63.5}
         - {x: 6.0000153, y: -87.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27505410000000000800000000000000
-      internalID: 21300594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0027
       rect:
@@ -9800,15 +6699,7 @@ TextureImporter:
         - {x: 70, y: 45}
         - {x: 138, y: 43}
         - {x: 179, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47505410000000000800000000000000
-      internalID: 21300596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0048
       rect:
@@ -9828,15 +6719,7 @@ TextureImporter:
         - {x: -71.961945, y: 38.961952}
         - {x: -16.961914, y: 101.961945}
         - {x: 57.038055, y: 85.96195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67505410000000000800000000000000
-      internalID: 21300598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0018
       rect:
@@ -9862,15 +6745,7 @@ TextureImporter:
         - {x: 152, y: 27}
         - {x: 111.00001, y: -30}
         - {x: 70.000015, y: 12}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87505410000000000800000000000000
-      internalID: 21300600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0046
       rect:
@@ -9890,15 +6765,7 @@ TextureImporter:
         - {x: -89.038055, y: 43}
         - {x: -34.038025, y: 105}
         - {x: 38.961945, y: 90}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7505410000000000800000000000000
-      internalID: 21300602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0007
       rect:
@@ -9923,15 +6790,7 @@ TextureImporter:
         - {x: -27.013397, y: -105.5}
         - {x: -63.013367, y: -97.5}
         - {x: -60.013397, y: -52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7505410000000000800000000000000
-      internalID: 21300604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0047
       rect:
@@ -9951,15 +6810,7 @@ TextureImporter:
         - {x: -71.961945, y: 38.961952}
         - {x: -16.961914, y: 101.961945}
         - {x: 57.038055, y: 85.96195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7505410000000000800000000000000
-      internalID: 21300606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0026
       rect:
@@ -9985,15 +6836,7 @@ TextureImporter:
         - {x: 139.46188, y: -61.5}
         - {x: 85.46188, y: -60.499992}
         - {x: 34.461884, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08505410000000000800000000000000
-      internalID: 21300608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0040
       rect:
@@ -10018,15 +6861,7 @@ TextureImporter:
         - {x: 155, y: 81}
         - {x: 116, y: 2}
         - {x: 38, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28505410000000000800000000000000
-      internalID: 21300610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0033
       rect:
@@ -10051,15 +6886,7 @@ TextureImporter:
         - {x: 167, y: -2}
         - {x: 113.00001, y: -38}
         - {x: 44, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48505410000000000800000000000000
-      internalID: 21300612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0011
       rect:
@@ -10083,15 +6910,7 @@ TextureImporter:
         - {x: 26, y: -110.5}
         - {x: -26, y: -87.5}
         - {x: -111, y: -135.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68505410000000000800000000000000
-      internalID: 21300614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0015
       rect:
@@ -10116,15 +6935,7 @@ TextureImporter:
         - {x: 156, y: 33.5}
         - {x: 110, y: -36.5}
         - {x: 70, y: 11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88505410000000000800000000000000
-      internalID: 21300616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0034
       rect:
@@ -10150,15 +6961,7 @@ TextureImporter:
         - {x: 74.47533, y: -12.5}
         - {x: 53.475327, y: 0.5}
         - {x: 48.475327, y: 46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8505410000000000800000000000000
-      internalID: 21300618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0028
       rect:
@@ -10185,15 +6988,7 @@ TextureImporter:
         - {x: 176.51335, y: 13}
         - {x: 169.51335, y: -16}
         - {x: 103.51336, y: -38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8505410000000000800000000000000
-      internalID: 21300620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0006
       rect:
@@ -10218,15 +7013,7 @@ TextureImporter:
         - {x: -27.013397, y: -105.5}
         - {x: -63.013367, y: -97.5}
         - {x: -60.013397, y: -52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8505410000000000800000000000000
-      internalID: 21300622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0001
       rect:
@@ -10248,15 +7035,7 @@ TextureImporter:
         - {x: 79.500015, y: 2.500002}
         - {x: 62.5, y: -89.5}
         - {x: -27.49997, y: -102.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09505410000000000800000000000000
-      internalID: 21300624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0021
       rect:
@@ -10283,15 +7062,7 @@ TextureImporter:
         - {x: 71.538055, y: 41}
         - {x: 84.538055, y: 87}
         - {x: 117.53806, y: 110}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29505410000000000800000000000000
-      internalID: 21300626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0038
       rect:
@@ -10316,15 +7087,7 @@ TextureImporter:
         - {x: 155, y: 81}
         - {x: 116, y: 2}
         - {x: 38, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49505410000000000800000000000000
-      internalID: 21300628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0025
       rect:
@@ -10349,15 +7112,7 @@ TextureImporter:
         - {x: 73.961945, y: 8.500001}
         - {x: 73.961945, y: 73.5}
         - {x: 101.96195, y: 111.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69505410000000000800000000000000
-      internalID: 21300630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0005
       rect:
@@ -10382,15 +7137,7 @@ TextureImporter:
         - {x: -27.013397, y: -105.5}
         - {x: -63.013367, y: -97.5}
         - {x: -60.013397, y: -52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89505410000000000800000000000000
-      internalID: 21300632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0016
       rect:
@@ -10415,15 +7162,7 @@ TextureImporter:
         - {x: 156, y: 33.5}
         - {x: 110, y: -36.5}
         - {x: 70, y: 11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9505410000000000800000000000000
-      internalID: 21300634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0003
       rect:
@@ -10445,15 +7184,7 @@ TextureImporter:
         - {x: 79.500015, y: 2.500002}
         - {x: 62.5, y: -89.5}
         - {x: -27.49997, y: -102.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9505410000000000800000000000000
-      internalID: 21300636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0039
       rect:
@@ -10478,15 +7209,7 @@ TextureImporter:
         - {x: 155, y: 81}
         - {x: 116, y: 2}
         - {x: 38, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9505410000000000800000000000000
-      internalID: 21300638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0035
       rect:
@@ -10512,15 +7235,7 @@ TextureImporter:
         - {x: 74.47533, y: -12.5}
         - {x: 53.475327, y: 0.5}
         - {x: 48.475327, y: 46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a505410000000000800000000000000
-      internalID: 21300640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0013
       rect:
@@ -10543,15 +7258,7 @@ TextureImporter:
         - {x: -74.49997, y: -66.99999}
         - {x: -81.5, y: -21.999996}
         - {x: -75.49997, y: 38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a505410000000000800000000000000
-      internalID: 21300642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0012
       rect:
@@ -10576,15 +7283,7 @@ TextureImporter:
         - {x: -16, y: -72}
         - {x: -65, y: -105}
         - {x: -85, y: -75}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a505410000000000800000000000000
-      internalID: 21300644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0042
       rect:
@@ -10609,15 +7308,7 @@ TextureImporter:
         - {x: 155, y: 81}
         - {x: 116, y: 2}
         - {x: 38, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a505410000000000800000000000000
-      internalID: 21300646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killstab_Impostor0001
       rect:
@@ -10637,15 +7328,7 @@ TextureImporter:
         - {x: 61.038055, y: -84.96194}
         - {x: -35.961945, y: -99.96194}
         - {x: -76.961945, y: -39.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a505410000000000800000000000000
-      internalID: 21300648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0023
       rect:
@@ -10672,15 +7355,7 @@ TextureImporter:
         - {x: 71.538055, y: 41}
         - {x: 84.538055, y: 87}
         - {x: 117.53806, y: 110}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa505410000000000800000000000000
-      internalID: 21300650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0043
       rect:
@@ -10705,15 +7380,7 @@ TextureImporter:
         - {x: 156, y: 74}
         - {x: 108, y: 2}
         - {x: 19, y: 6}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca505410000000000800000000000000
-      internalID: 21300652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0022
       rect:
@@ -10740,15 +7407,7 @@ TextureImporter:
         - {x: 71.538055, y: 41}
         - {x: 84.538055, y: 87}
         - {x: 117.53806, y: 110}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea505410000000000800000000000000
-      internalID: 21300654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0002
       rect:
@@ -10770,15 +7429,7 @@ TextureImporter:
         - {x: 79.500015, y: 2.500002}
         - {x: 62.5, y: -89.5}
         - {x: -27.49997, y: -102.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b505410000000000800000000000000
-      internalID: 21300656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0030
       rect:
@@ -10805,15 +7456,7 @@ TextureImporter:
         - {x: 176.51335, y: 13}
         - {x: 169.51335, y: -16}
         - {x: 103.51336, y: -38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b505410000000000800000000000000
-      internalID: 21300658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0024
       rect:
@@ -10840,15 +7483,7 @@ TextureImporter:
         - {x: 71.538055, y: 41}
         - {x: 84.538055, y: 87}
         - {x: 117.53806, y: 110}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b505410000000000800000000000000
-      internalID: 21300660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0045
       rect:
@@ -10872,15 +7507,7 @@ TextureImporter:
         - {x: 96.961945, y: -1.5}
         - {x: 38.961945, y: -35.5}
         - {x: 28.96196, y: -84.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b505410000000000800000000000000
-      internalID: 21300662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0031
       rect:
@@ -10907,15 +7534,7 @@ TextureImporter:
         - {x: 176.51335, y: 13}
         - {x: 169.51335, y: -16}
         - {x: 103.51336, y: -38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b505410000000000800000000000000
-      internalID: 21300664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0036
       rect:
@@ -10941,15 +7560,7 @@ TextureImporter:
         - {x: 74.47533, y: -12.5}
         - {x: 53.475327, y: 0.5}
         - {x: 48.475327, y: 46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab505410000000000800000000000000
-      internalID: 21300666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0029
       rect:
@@ -10976,15 +7587,7 @@ TextureImporter:
         - {x: 176.51335, y: 13}
         - {x: 169.51335, y: -16}
         - {x: 103.51336, y: -38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb505410000000000800000000000000
-      internalID: 21300668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0044
       rect:
@@ -11009,15 +7612,7 @@ TextureImporter:
         - {x: -130.5, y: -45}
         - {x: -122.5, y: 32}
         - {x: -68.49997, y: 95.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb505410000000000800000000000000
-      internalID: 21300670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killGun_imposter0041
       rect:
@@ -11042,365 +7637,9 @@ TextureImporter:
         - {x: 155, y: 81}
         - {x: 116, y: 2}
         - {x: 38, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c505410000000000800000000000000
-      internalID: 21300672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      killstab_knife0037: 21300384
-      killstab_knife0012: 21300212
-      killstab_knifehand0030: 21300134
-      killGun_gun0035: 21300544
-      killGun_victim0014: 21300186
-      killGun_imposter0023: 21300650
-      killGun_gun0046: 21300208
-      killstab_knife0020: 21300356
-      killGun_hand0046: 21300150
-      killstab_knife0043: 21300088
-      killGun_gun0045: 21300260
-      killstab_knifehand0011: 21300522
-      killGun_victim0033: 21300344
-      killstab_victim0045: 21300538
-      killstab_knife0018: 21300160
-      killstab_victim0013: 21300310
-      killstab_knife0034: 21300118
-      killGun_victim0002: 21300440
-      killstab_victim0022: 21300114
-      killstab_knife0045: 21300332
-      killGun_imposter0015: 21300616
-      killstab_victim0007: 21300458
-      killGun_victim0001: 21300324
-      killGun_imposter0031: 21300664
-      killGun_gun0033: 21300314
-      killGun_gun0004: 21300014
-      killstab_knifehand0043: 21300378
-      killstab_knifehand0006: 21300354
-      killstab_knifehand0027: 21300146
-      killGun_gun0010: 21300348
-      killGun_hand0028: 21300154
-      killstab_victim0037: 21300320
-      killstab_knife0048: 21300406
-      killstab_victim0008: 21300422
-      killstab_victim0025: 21300490
-      killGun_victim0047: 21300218
-      killstab_knife0017: 21300126
-      killstab_knife0046: 21300514
-      killGun_gun0015: 21300346
-      killstab_knifehand0038: 21300286
-      killGun_victim0035: 21300566
-      killstab_victim0024: 21300528
-      killstab_victim0014: 21300486
-      killGun_imposter0032: 21300576
-      killstab_knifehand0035: 21300060
-      killGun_victim0020: 21300240
-      killstab_knife0013: 21300328
-      killGun_hand0006: 21300540
-      killGun_gun0034: 21300180
-      killstab_victim0011: 21300108
-      killGun_imposter0020: 21300586
-      killGun_victim0027: 21300418
-      killstab_knifehand0003: 21300524
-      killstab_victim0016: 21300252
-      killGun_hand0022: 21300436
-      killstab_Impostor0001: 21300648
-      killstab_knife0002: 21300090
-      killGun_imposter0025: 21300630
-      killGun_hand0042: 21300062
-      killstab_knifehand0048: 21300066
-      killGun_gun0003: 21300562
-      killGun_imposter0035: 21300640
-      killGun_gun0009: 21300442
-      killGun_victim0039: 21300448
-      killGun_victim0034: 21300230
-      killstab_victim0034: 21300510
-      killGun_victim0037: 21300140
-      killstab_victim0010: 21300282
-      killGun_imposter0003: 21300636
-      killstab_victim0023: 21300262
-      killstab_knife0036: 21300268
-      killstab_victim0046: 21300000
-      killstab_knifehand0004: 21300318
-      killstab_knifehand0020: 21300366
-      killGun_imposter0024: 21300660
-      killstab_victim0044: 21300138
-      killGun_hand0014: 21300034
-      killGun_gun0021: 21300104
-      killGun_victim0018: 21300190
-      killGun_hand0011: 21300162
-      killGun_gun0012: 21300470
-      killGun_victim0041: 21300426
-      killGun_gun0008: 21300316
-      killGun_victim0019: 21300204
-      killGun_gun0007: 21300342
-      killGun_hand0002: 21300358
-      killGun_hand0021: 21300006
-      killGun_hand0018: 21300038
-      killstab_knifehand0019: 21300556
-      killGun_hand0012: 21300224
-      killGun_victim0042: 21300022
-      killstab_knife0021: 21300210
-      killstab_knife0038: 21300368
-      killGun_hand0027: 21300548
-      killGun_gun0036: 21300516
-      killGun_imposter0017: 21300578
-      killstab_knifehand0001: 21300452
-      killstab_victim0031: 21300326
-      killGun_victim0030: 21300100
-      killstab_knifehand0032: 21300004
-      killGun_gun0047: 21300008
-      killGun_imposter0040: 21300610
-      killGun_victim0048: 21300474
-      killGun_gun0001: 21300256
-      killstab_knife0044: 21300206
-      killGun_gun0013: 21300504
-      killGun_victim0016: 21300468
-      killGun_victim0015: 21300370
-      killGun_gun0024: 21300188
-      killGun_gun0014: 21300290
-      killstab_knife0014: 21300052
-      killGun_imposter0048: 21300598
-      killGun_gun0040: 21300276
-      killGun_victim0011: 21300412
-      killGun_gun0030: 21300068
-      killstab_knifehand0033: 21300102
-      killGun_hand0005: 21300172
-      killGun_victim0036: 21300360
-      killGun_victim0004: 21300414
-      killstab_knife0029: 21300450
-      killGun_imposter0046: 21300602
-      killGun_imposter0039: 21300638
-      killGun_gun0038: 21300092
-      killGun_victim0013: 21300144
-      killstab_knife0010: 21300148
-      killstab_knifehand0017: 21300550
-      killGun_imposter0045: 21300662
-      killstab_victim0015: 21300382
-      killGun_victim0021: 21300416
-      killstab_victim0043: 21300388
-      killGun_victim0045: 21300432
-      killstab_knife0027: 21300234
-      killGun_imposter0019: 21300584
-      killGun_imposter0026: 21300608
-      killGun_imposter0008: 21300582
-      killGun_imposter0041: 21300672
-      killstab_victim0041: 21300050
-      killGun_victim0022: 21300554
-      killstab_victim0005: 21300302
-      killGun_imposter0047: 21300606
-      killGun_hand0026: 21300194
-      killGun_hand0024: 21300542
-      killGun_victim0005: 21300076
-      killGun_victim0032: 21300164
-      killstab_knife0032: 21300284
-      killGun_victim0029: 21300400
-      killGun_victim0006: 21300030
-      killstab_knife0016: 21300080
-      killGun_gun0011: 21300070
-      killstab_victim0042: 21300330
-      killGun_gun0029: 21300444
-      killstab_knife0028: 21300508
-      killstab_knife0039: 21300158
-      killGun_hand0048: 21300288
-      killGun_imposter0030: 21300658
-      killstab_knifehand0007: 21300454
-      killGun_gun0028: 21300518
-      killstab_knife0026: 21300478
-      killstab_victim0004: 21300122
-      killGun_hand0017: 21300174
-      killstab_knifehand0042: 21300296
-      killGun_hand0031: 21300464
-      killstab_knife0040: 21300546
-      killstab_knifehand0010: 21300312
-      killGun_imposter0042: 21300646
-      killGun_gun0005: 21300170
-      killstab_knife0033: 21300012
-      killstab_knifehand0018: 21300176
-      killstab_victim0020: 21300016
-      killGun_imposter0012: 21300644
-      killGun_imposter0013: 21300642
-      killGun_victim0043: 21300362
-      killstab_victim0012: 21300116
-      killstab_victim0040: 21300254
-      killstab_victim0002: 21300168
-      killGun_hand0030: 21300322
-      killstab_knifehand0041: 21300184
-      killGun_hand0025: 21300390
-      killstab_victim0029: 21300492
-      killGun_imposter0029: 21300668
-      killGun_victim0023: 21300018
-      killstab_knifehand0046: 21300396
-      killstab_knifehand0015: 21300482
-      killstab_knifehand0002: 21300250
-      killstab_knife0042: 21300574
-      killstab_knife0004: 21300248
-      killstab_knifehand0008: 21300526
-      killstab_knife0007: 21300500
-      killGun_hand0008: 21300202
-      killGun_hand0004: 21300434
-      killGun_gun0027: 21300408
-      killGun_hand0033: 21300466
-      killGun_hand0029: 21300438
-      killstab_knifehand0024: 21300364
-      killGun_gun0002: 21300536
-      killstab_knifehand0005: 21300530
-      killGun_hand0035: 21300024
-      killGun_gun0032: 21300532
-      killstab_knifehand0014: 21300156
-      killGun_imposter0027: 21300596
-      killGun_gun0039: 21300570
-      killstab_knife0015: 21300340
-      killstab_knife0023: 21300002
-      killGun_gun0019: 21300272
-      killGun_imposter0009: 21300592
-      killGun_gun0006: 21300082
-      killstab_knifehand0023: 21300498
-      killGun_victim0009: 21300270
-      killstab_knifehand0013: 21300392
-      killstab_knifehand0047: 21300334
-      killstab_knife0001: 21300376
-      killstab_victim0006: 21300502
-      killGun_imposter0016: 21300634
-      killstab_knifehand0045: 21300074
-      killGun_victim0010: 21300238
-      killGun_hand0036: 21300042
-      killstab_knife0009: 21300048
-      killstab_knifehand0009: 21300228
-      killGun_gun0022: 21300064
-      killstab_knife0024: 21300462
-      killGun_victim0024: 21300258
-      killstab_victim0033: 21300460
-      killGun_imposter0014: 21300594
-      killGun_victim0026: 21300308
-      killGun_gun0023: 21300512
-      killstab_victim0038: 21300488
-      killGun_victim0044: 21300178
-      killGun_hand0015: 21300494
-      killstab_knife0005: 21300120
-      killGun_hand0034: 21300298
-      killstab_victim0001: 21300274
-      killstab_knife0011: 21300560
-      killGun_hand0013: 21300222
-      killGun_imposter0006: 21300622
-      killstab_victim0026: 21300476
-      killGun_victim0012: 21300294
-      killGun_imposter0037: 21300590
-      killGun_victim0008: 21300424
-      killGun_gun0026: 21300020
-      killGun_victim0003: 21300552
-      killGun_gun0042: 21300430
-      killGun_gun0044: 21300506
-      killGun_imposter0038: 21300628
-      killGun_victim0046: 21300456
-      killGun_imposter0011: 21300614
-      killGun_victim0040: 21300564
-      killGun_imposter0033: 21300612
-      killGun_gun0017: 21300132
-      killstab_victim0030: 21300036
-      killGun_gun0020: 21300380
-      killstab_victim0017: 21300350
-      killstab_knife0006: 21300398
-      killGun_victim0028: 21300496
-      killGun_hand0038: 21300094
-      killGun_imposter0010: 21300588
-      killGun_victim0007: 21300130
-      killstab_victim0047: 21300244
-      killGun_hand0039: 21300402
-      killstab_knifehand0031: 21300242
-      killGun_gun0016: 21300182
-      killGun_hand0020: 21300304
-      killstab_knifehand0022: 21300086
-      killGun_hand0019: 21300480
-      killGun_hand0037: 21300374
-      killstab_knifehand0037: 21300446
-      killstab_knifehand0021: 21300078
-      killstab_victim0003: 21300246
-      killstab_knife0031: 21300558
-      killGun_imposter0022: 21300654
-      killstab_knifehand0044: 21300196
-      killGun_imposter0004: 21300580
-      killstab_knife0022: 21300026
-      killGun_victim0038: 21300032
-      killGun_gun0041: 21300226
-      killGun_imposter0021: 21300626
-      killGun_imposter0018: 21300600
-      killGun_imposter0005: 21300632
-      killGun_gun0037: 21300266
-      killGun_imposter0043: 21300652
-      killstab_knife0030: 21300106
-      killstab_victim0027: 21300352
-      killGun_gun0018: 21300394
-      killGun_hand0043: 21300124
-      killstab_victim0021: 21300428
-      killGun_gun0043: 21300096
-      killGun_victim0017: 21300572
-      killstab_knifehand0029: 21300046
-      killstab_knifehand0039: 21300098
-      killGun_hand0009: 21300110
-      killGun_gun0031: 21300142
-      killstab_victim0036: 21300058
-      killGun_hand0045: 21300056
-      killGun_imposter0001: 21300624
-      killGun_gun0025: 21300214
-      killstab_victim0019: 21300410
-      killstab_victim0028: 21300236
-      killstab_victim0009: 21300280
-      killGun_hand0047: 21300306
-      killGun_hand0003: 21300420
-      killstab_knife0003: 21300136
-      killGun_imposter0002: 21300656
-      killGun_hand0007: 21300028
-      killstab_knife0008: 21300128
-      killGun_hand0016: 21300484
-      killGun_victim0031: 21300520
-      killstab_knifehand0028: 21300198
-      killstab_knife0025: 21300010
-      killstab_knifehand0016: 21300166
-      killstab_knife0041: 21300338
-      killGun_hand0032: 21300336
-      killGun_imposter0007: 21300604
-      killGun_hand0010: 21300192
-      killGun_imposter0034: 21300618
-      killGun_imposter0036: 21300666
-      killstab_knifehand0036: 21300044
-      killGun_hand0001: 21300300
-      killGun_hand0023: 21300232
-      killstab_knifehand0026: 21300534
-      killstab_victim0039: 21300040
-      killstab_knifehand0040: 21300152
-      killGun_hand0041: 21300072
-      killstab_victim0035: 21300084
-      killstab_victim0032: 21300568
-      killstab_knifehand0025: 21300386
-      killstab_victim0048: 21300200
-      killstab_knife0019: 21300216
-      killstab_knifehand0034: 21300372
-      killGun_gun0048: 21300472
-      killstab_knifehand0012: 21300054
-      killGun_hand0044: 21300264
-      killstab_knife0047: 21300112
-      killGun_hand0040: 21300404
-      killGun_imposter0028: 21300620
-      killstab_knife0035: 21300278
-      killstab_victim0018: 21300292
-      killGun_imposter0044: 21300670
-      killGun_victim0025: 21300220
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,873 +1,296 @@
 fileFormatVersion: 2
 guid: 1c6cb9a5a9c07b7489a7ff5c2c293146
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Clank_Petted0002
-  - first:
-      213: 21300002
-    second: guiltyspark_petted0037
-  - first:
-      213: 21300004
-    second: 2022_foodcube_pet_GummyCrewmate_petted0014
-  - first:
-      213: 21300006
-    second: 2022_foodcube_pet_GummyCrewmate_petted0039
-  - first:
-      213: 21300008
-    second: 2022_foodcube_pet_Bread_petted0029
-  - first:
-      213: 21300010
-    second: 2022_foodcube_pet_GummyCrewmate_petted0028
-  - first:
-      213: 21300012
-    second: dogHW2021_petted0016
-  - first:
-      213: 21300014
-    second: Clank_Petted0023
-  - first:
-      213: 21300016
-    second: guiltyspark_petted0040
-  - first:
-      213: 21300018
-    second: 2022_foodcube_pet_Ham_petted0002
-  - first:
-      213: 21300020
-    second: 2022_foodcube_pet_Bread_petted0041
-  - first:
-      213: 21300022
-    second: Clank_Petted0005
-  - first:
-      213: 21300024
-    second: dogHW2021_petted0013
-  - first:
-      213: 21300026
-    second: 2022_foodcube_pet_GummyCrewmate_petted0024
-  - first:
-      213: 21300028
-    second: dogHW2021_petted0015
-  - first:
-      213: 21300030
-    second: guiltyspark_petted0039
-  - first:
-      213: 21300032
-    second: 2022_foodcube_pet_GummyCrewmate_petted0020
-  - first:
-      213: 21300034
-    second: guiltyspark_petted0030
-  - first:
-      213: 21300036
-    second: Clank_Petted0040
-  - first:
-      213: 21300038
-    second: 2022_foodcube_pet_Bread_petted0035
-  - first:
-      213: 21300040
-    second: guiltyspark_petted0047
-  - first:
-      213: 21300042
-    second: dogHW2021_petted0018
-  - first:
-      213: 21300044
-    second: 2022_foodcube_pet_GummyCrewmate_petted0009
-  - first:
-      213: 21300046
-    second: 2022_foodcube_pet_Ham_petted0010
-  - first:
-      213: 21300048
-    second: Clank_Petted0044
-  - first:
-      213: 21300050
-    second: Clank_Petted0028
-  - first:
-      213: 21300052
-    second: dogHW2021_petted0006
-  - first:
-      213: 21300054
-    second: 2022_foodcube_pet_Ham_petted0004
-  - first:
-      213: 21300056
-    second: 2022_foodcube_pet_GummyCrewmate_petted0030
-  - first:
-      213: 21300058
-    second: guiltyspark_petted0038
-  - first:
-      213: 21300060
-    second: 2022_foodcube_pet_Bread_petted0038
-  - first:
-      213: 21300062
-    second: 2022_foodcube_pet_GummyCrewmate_petted0034
-  - first:
-      213: 21300064
-    second: guiltyspark_petted0036
-  - first:
-      213: 21300066
-    second: 2022_foodcube_pet_Bread_petted0023
-  - first:
-      213: 21300068
-    second: Clank_Petted0045
-  - first:
-      213: 21300070
-    second: 2022_foodcube_pet_Ham_petted0030
-  - first:
-      213: 21300072
-    second: 2022_foodcube_pet_GummyCrewmate_petted0042
-  - first:
-      213: 21300074
-    second: guiltyspark_petted0027
-  - first:
-      213: 21300076
-    second: dogHW2021_petted0034
-  - first:
-      213: 21300078
-    second: guiltyspark_petted0014
-  - first:
-      213: 21300080
-    second: 2022_foodcube_pet_Ham_petted0038
-  - first:
-      213: 21300082
-    second: 2022_foodcube_pet_Ham_petted0040
-  - first:
-      213: 21300084
-    second: 2022_foodcube_pet_Bread_petted0030
-  - first:
-      213: 21300086
-    second: 2022_foodcube_pet_Bread_petted0009
-  - first:
-      213: 21300088
-    second: guiltyspark_petted0026
-  - first:
-      213: 21300090
-    second: dogHW2021_petted0007
-  - first:
-      213: 21300092
-    second: 2022_foodcube_pet_Ham_petted0036
-  - first:
-      213: 21300094
-    second: dogHW2021_petted0030
-  - first:
-      213: 21300096
-    second: guiltyspark_petted0029
-  - first:
-      213: 21300098
-    second: guiltyspark_petted0010
-  - first:
-      213: 21300100
-    second: 2022_foodcube_pet_Ham_petted0047
-  - first:
-      213: 21300102
-    second: dogHW2021_petted0047
-  - first:
-      213: 21300104
-    second: guiltyspark_petted0004
-  - first:
-      213: 21300106
-    second: 2022_foodcube_pet_GummyCrewmate_petted0007
-  - first:
-      213: 21300108
-    second: 2022_foodcube_pet_GummyCrewmate_petted0022
-  - first:
-      213: 21300110
-    second: 2022_foodcube_pet_Bread_petted0040
-  - first:
-      213: 21300112
-    second: Clank_Petted0024
-  - first:
-      213: 21300114
-    second: 2022_foodcube_pet_Bread_petted0033
-  - first:
-      213: 21300116
-    second: Clank_Petted0042
-  - first:
-      213: 21300118
-    second: 2022_foodcube_pet_Ham_petted0023
-  - first:
-      213: 21300120
-    second: Clank_Petted0003
-  - first:
-      213: 21300122
-    second: 2022_foodcube_pet_Bread_petted0026
-  - first:
-      213: 21300124
-    second: 2022_foodcube_pet_GummyCrewmate_petted0011
-  - first:
-      213: 21300126
-    second: Clank_Petted0046
-  - first:
-      213: 21300128
-    second: 2022_foodcube_pet_Bread_petted0024
-  - first:
-      213: 21300130
-    second: Clank_Petted0043
-  - first:
-      213: 21300132
-    second: Clank_Petted0029
-  - first:
-      213: 21300134
-    second: 2022_foodcube_pet_GummyCrewmate_petted0043
-  - first:
-      213: 21300136
-    second: 2022_foodcube_pet_Bread_petted0048
-  - first:
-      213: 21300138
-    second: 2022_foodcube_pet_GummyCrewmate_petted0032
-  - first:
-      213: 21300140
-    second: Clank_Petted0035
-  - first:
-      213: 21300142
-    second: 2022_foodcube_pet_Ham_petted0045
-  - first:
-      213: 21300144
-    second: 2022_foodcube_pet_GummyCrewmate_petted0006
-  - first:
-      213: 21300146
-    second: 2022_foodcube_pet_Ham_petted0018
-  - first:
-      213: 21300148
-    second: guiltyspark_petted0024
-  - first:
-      213: 21300150
-    second: dogHW2021_petted0001
-  - first:
-      213: 21300152
-    second: Clank_Petted0032
-  - first:
-      213: 21300154
-    second: 2022_foodcube_pet_Bread_petted0003
-  - first:
-      213: 21300156
-    second: 2022_foodcube_pet_Ham_petted0015
-  - first:
-      213: 21300158
-    second: dogHW2021_petted0025
-  - first:
-      213: 21300160
-    second: Clank_Petted0038
-  - first:
-      213: 21300162
-    second: dogHW2021_petted0046
-  - first:
-      213: 21300164
-    second: 2022_foodcube_pet_Bread_petted0017
-  - first:
-      213: 21300166
-    second: 2022_foodcube_pet_Ham_petted0033
-  - first:
-      213: 21300168
-    second: dogHW2021_petted0035
-  - first:
-      213: 21300170
-    second: Clank_Petted0008
-  - first:
-      213: 21300172
-    second: Clank_Petted0021
-  - first:
-      213: 21300174
-    second: 2022_foodcube_pet_Ham_petted0034
-  - first:
-      213: 21300176
-    second: guiltyspark_petted0042
-  - first:
-      213: 21300178
-    second: dogHW2021_petted0027
-  - first:
-      213: 21300180
-    second: guiltyspark_petted0043
-  - first:
-      213: 21300182
-    second: guiltyspark_petted0021
-  - first:
-      213: 21300184
-    second: 2022_foodcube_pet_GummyCrewmate_petted0031
-  - first:
-      213: 21300186
-    second: 2022_foodcube_pet_Bread_petted0002
-  - first:
-      213: 21300188
-    second: 2022_foodcube_pet_Ham_petted0003
-  - first:
-      213: 21300190
-    second: 2022_foodcube_pet_Ham_petted0027
-  - first:
-      213: 21300192
-    second: Clank_Petted0016
-  - first:
-      213: 21300194
-    second: 2022_foodcube_pet_Bread_petted0039
-  - first:
-      213: 21300196
-    second: Clank_Petted0034
-  - first:
-      213: 21300198
-    second: 2022_foodcube_pet_Bread_petted0012
-  - first:
-      213: 21300200
-    second: 2022_foodcube_pet_Bread_petted0043
-  - first:
-      213: 21300202
-    second: 2022_foodcube_pet_Bread_petted0010
-  - first:
-      213: 21300204
-    second: 2022_foodcube_pet_GummyCrewmate_petted0015
-  - first:
-      213: 21300206
-    second: 2022_foodcube_pet_GummyCrewmate_petted0021
-  - first:
-      213: 21300208
-    second: dogHW2021_petted0039
-  - first:
-      213: 21300210
-    second: dogHW2021_petted0004
-  - first:
-      213: 21300212
-    second: guiltyspark_petted0044
-  - first:
-      213: 21300214
-    second: guiltyspark_petted0019
-  - first:
-      213: 21300216
-    second: guiltyspark_petted0045
-  - first:
-      213: 21300218
-    second: 2022_foodcube_pet_Ham_petted0043
-  - first:
-      213: 21300220
-    second: Clank_Petted0019
-  - first:
-      213: 21300222
-    second: 2022_foodcube_pet_GummyCrewmate_petted0019
-  - first:
-      213: 21300224
-    second: 2022_foodcube_pet_GummyCrewmate_petted0012
-  - first:
-      213: 21300226
-    second: dogHW2021_petted0036
-  - first:
-      213: 21300228
-    second: dogHW2021_petted0022
-  - first:
-      213: 21300230
-    second: Clank_Petted0037
-  - first:
-      213: 21300232
-    second: dogHW2021_petted0008
-  - first:
-      213: 21300234
-    second: guiltyspark_petted0046
-  - first:
-      213: 21300236
-    second: 2022_foodcube_pet_Ham_petted0026
-  - first:
-      213: 21300238
-    second: Clank_Petted0048
-  - first:
-      213: 21300240
-    second: 2022_foodcube_pet_Bread_petted0013
-  - first:
-      213: 21300242
-    second: 2022_foodcube_pet_GummyCrewmate_petted0001
-  - first:
-      213: 21300244
-    second: 2022_foodcube_pet_Bread_petted0034
-  - first:
-      213: 21300246
-    second: dogHW2021_petted0011
-  - first:
-      213: 21300248
-    second: dogHW2021_petted0040
-  - first:
-      213: 21300250
-    second: 2022_foodcube_pet_GummyCrewmate_petted0023
-  - first:
-      213: 21300252
-    second: Clank_Petted0027
-  - first:
-      213: 21300254
-    second: dogHW2021_petted0041
-  - first:
-      213: 21300256
-    second: 2022_foodcube_pet_Bread_petted0007
-  - first:
-      213: 21300258
-    second: guiltyspark_petted0020
-  - first:
-      213: 21300260
-    second: 2022_foodcube_pet_Ham_petted0031
-  - first:
-      213: 21300262
-    second: 2022_foodcube_pet_Bread_petted0025
-  - first:
-      213: 21300264
-    second: 2022_foodcube_pet_GummyCrewmate_petted0041
-  - first:
-      213: 21300266
-    second: 2022_foodcube_pet_Bread_petted0019
-  - first:
-      213: 21300268
-    second: Clank_Petted0014
-  - first:
-      213: 21300270
-    second: 2022_foodcube_pet_Bread_petted0004
-  - first:
-      213: 21300272
-    second: dogHW2021_petted0009
-  - first:
-      213: 21300274
-    second: 2022_foodcube_pet_GummyCrewmate_petted0016
-  - first:
-      213: 21300276
-    second: 2022_foodcube_pet_Bread_petted0028
-  - first:
-      213: 21300278
-    second: guiltyspark_petted0011
-  - first:
-      213: 21300280
-    second: 2022_foodcube_pet_Ham_petted0011
-  - first:
-      213: 21300282
-    second: 2022_foodcube_pet_Bread_petted0046
-  - first:
-      213: 21300284
-    second: 2022_foodcube_pet_Ham_petted0009
-  - first:
-      213: 21300286
-    second: Clank_Petted0041
-  - first:
-      213: 21300288
-    second: guiltyspark_petted0001
-  - first:
-      213: 21300290
-    second: Clank_Petted0025
-  - first:
-      213: 21300292
-    second: Clank_Petted0026
-  - first:
-      213: 21300294
-    second: dogHW2021_petted0005
-  - first:
-      213: 21300296
-    second: guiltyspark_petted0041
-  - first:
-      213: 21300298
-    second: 2022_foodcube_pet_Bread_petted0045
-  - first:
-      213: 21300300
-    second: dogHW2021_petted0037
-  - first:
-      213: 21300302
-    second: 2022_foodcube_pet_Ham_petted0044
-  - first:
-      213: 21300304
-    second: dogHW2021_petted0033
-  - first:
-      213: 21300306
-    second: 2022_foodcube_pet_Ham_petted0020
-  - first:
-      213: 21300308
-    second: dogHW2021_petted0002
-  - first:
-      213: 21300310
-    second: Clank_Petted0030
-  - first:
-      213: 21300312
-    second: dogHW2021_petted0023
-  - first:
-      213: 21300314
-    second: Clank_Petted0004
-  - first:
-      213: 21300316
-    second: Clank_Petted0047
-  - first:
-      213: 21300318
-    second: 2022_foodcube_pet_Ham_petted0006
-  - first:
-      213: 21300320
-    second: 2022_foodcube_pet_GummyCrewmate_petted0037
-  - first:
-      213: 21300322
-    second: 2022_foodcube_pet_Ham_petted0041
-  - first:
-      213: 21300324
-    second: 2022_foodcube_pet_Bread_petted0037
-  - first:
-      213: 21300326
-    second: 2022_foodcube_pet_Ham_petted0029
-  - first:
-      213: 21300328
-    second: 2022_foodcube_pet_Ham_petted0024
-  - first:
-      213: 21300330
-    second: guiltyspark_petted0015
-  - first:
-      213: 21300332
-    second: 2022_foodcube_pet_Bread_petted0021
-  - first:
-      213: 21300334
-    second: dogHW2021_petted0029
-  - first:
-      213: 21300336
-    second: 2022_foodcube_pet_Bread_petted0001
-  - first:
-      213: 21300338
-    second: dogHW2021_petted0031
-  - first:
-      213: 21300340
-    second: 2022_foodcube_pet_Ham_petted0037
-  - first:
-      213: 21300342
-    second: 2022_foodcube_pet_Bread_petted0005
-  - first:
-      213: 21300344
-    second: dogHW2021_petted0032
-  - first:
-      213: 21300346
-    second: 2022_foodcube_pet_GummyCrewmate_petted0029
-  - first:
-      213: 21300348
-    second: dogHW2021_petted0048
-  - first:
-      213: 21300350
-    second: 2022_foodcube_pet_GummyCrewmate_petted0027
-  - first:
-      213: 21300352
-    second: guiltyspark_petted0008
-  - first:
-      213: 21300354
-    second: Clank_Petted0017
-  - first:
-      213: 21300356
-    second: Clank_Petted0015
-  - first:
-      213: 21300358
-    second: dogHW2021_petted0028
-  - first:
-      213: 21300360
-    second: 2022_foodcube_pet_Bread_petted0015
-  - first:
-      213: 21300362
-    second: guiltyspark_petted0016
-  - first:
-      213: 21300364
-    second: guiltyspark_petted0013
-  - first:
-      213: 21300366
-    second: guiltyspark_petted0048
-  - first:
-      213: 21300368
-    second: guiltyspark_petted0028
-  - first:
-      213: 21300370
-    second: guiltyspark_petted0007
-  - first:
-      213: 21300372
-    second: 2022_foodcube_pet_Ham_petted0008
-  - first:
-      213: 21300374
-    second: Clank_Petted0031
-  - first:
-      213: 21300376
-    second: Clank_Petted0039
-  - first:
-      213: 21300378
-    second: 2022_foodcube_pet_GummyCrewmate_petted0026
-  - first:
-      213: 21300380
-    second: dogHW2021_petted0045
-  - first:
-      213: 21300382
-    second: 2022_foodcube_pet_Bread_petted0016
-  - first:
-      213: 21300384
-    second: 2022_foodcube_pet_GummyCrewmate_petted0003
-  - first:
-      213: 21300386
-    second: 2022_foodcube_pet_Bread_petted0042
-  - first:
-      213: 21300388
-    second: Clank_Petted0011
-  - first:
-      213: 21300390
-    second: 2022_foodcube_pet_GummyCrewmate_petted0018
-  - first:
-      213: 21300392
-    second: dogHW2021_petted0042
-  - first:
-      213: 21300394
-    second: dogHW2021_petted0010
-  - first:
-      213: 21300396
-    second: 2022_foodcube_pet_GummyCrewmate_petted0045
-  - first:
-      213: 21300398
-    second: Clank_Petted0033
-  - first:
-      213: 21300400
-    second: 2022_foodcube_pet_GummyCrewmate_petted0002
-  - first:
-      213: 21300402
-    second: Clank_Petted0010
-  - first:
-      213: 21300404
-    second: guiltyspark_petted0006
-  - first:
-      213: 21300406
-    second: dogHW2021_petted0012
-  - first:
-      213: 21300408
-    second: 2022_foodcube_pet_Bread_petted0020
-  - first:
-      213: 21300410
-    second: 2022_foodcube_pet_Ham_petted0021
-  - first:
-      213: 21300412
-    second: 2022_foodcube_pet_GummyCrewmate_petted0010
-  - first:
-      213: 21300414
-    second: guiltyspark_petted0034
-  - first:
-      213: 21300416
-    second: guiltyspark_petted0003
-  - first:
-      213: 21300418
-    second: 2022_foodcube_pet_Ham_petted0016
-  - first:
-      213: 21300420
-    second: 2022_foodcube_pet_GummyCrewmate_petted0038
-  - first:
-      213: 21300422
-    second: guiltyspark_petted0012
-  - first:
-      213: 21300424
-    second: 2022_foodcube_pet_Bread_petted0031
-  - first:
-      213: 21300426
-    second: 2022_foodcube_pet_Bread_petted0036
-  - first:
-      213: 21300428
-    second: Clank_Petted0009
-  - first:
-      213: 21300430
-    second: 2022_foodcube_pet_Bread_petted0044
-  - first:
-      213: 21300432
-    second: 2022_foodcube_pet_GummyCrewmate_petted0013
-  - first:
-      213: 21300434
-    second: guiltyspark_petted0017
-  - first:
-      213: 21300436
-    second: 2022_foodcube_pet_Ham_petted0013
-  - first:
-      213: 21300438
-    second: 2022_foodcube_pet_GummyCrewmate_petted0046
-  - first:
-      213: 21300440
-    second: guiltyspark_petted0033
-  - first:
-      213: 21300442
-    second: 2022_foodcube_pet_Ham_petted0039
-  - first:
-      213: 21300444
-    second: 2022_foodcube_pet_GummyCrewmate_petted0036
-  - first:
-      213: 21300446
-    second: 2022_foodcube_pet_Ham_petted0012
-  - first:
-      213: 21300448
-    second: 2022_foodcube_pet_Ham_petted0001
-  - first:
-      213: 21300450
-    second: 2022_foodcube_pet_Bread_petted0022
-  - first:
-      213: 21300452
-    second: 2022_foodcube_pet_Ham_petted0019
-  - first:
-      213: 21300454
-    second: 2022_foodcube_pet_Bread_petted0008
-  - first:
-      213: 21300456
-    second: 2022_foodcube_pet_Bread_petted0011
-  - first:
-      213: 21300458
-    second: guiltyspark_petted0002
-  - first:
-      213: 21300460
-    second: dogHW2021_petted0038
-  - first:
-      213: 21300462
-    second: 2022_foodcube_pet_Ham_petted0005
-  - first:
-      213: 21300464
-    second: Clank_Petted0022
-  - first:
-      213: 21300466
-    second: Clank_Petted0036
-  - first:
-      213: 21300468
-    second: dogHW2021_petted0003
-  - first:
-      213: 21300470
-    second: 2022_foodcube_pet_Ham_petted0046
-  - first:
-      213: 21300472
-    second: 2022_foodcube_pet_GummyCrewmate_petted0017
-  - first:
-      213: 21300474
-    second: Clank_Petted0007
-  - first:
-      213: 21300476
-    second: Clank_Petted0006
-  - first:
-      213: 21300478
-    second: 2022_foodcube_pet_GummyCrewmate_petted0040
-  - first:
-      213: 21300480
-    second: 2022_foodcube_pet_Bread_petted0018
-  - first:
-      213: 21300482
-    second: dogHW2021_petted0020
-  - first:
-      213: 21300484
-    second: 2022_foodcube_pet_Bread_petted0032
-  - first:
-      213: 21300486
-    second: guiltyspark_petted0023
-  - first:
-      213: 21300488
-    second: Clank_Petted0001
-  - first:
-      213: 21300490
-    second: guiltyspark_petted0022
-  - first:
-      213: 21300492
-    second: 2022_foodcube_pet_GummyCrewmate_petted0047
-  - first:
-      213: 21300494
-    second: 2022_foodcube_pet_GummyCrewmate_petted0025
-  - first:
-      213: 21300496
-    second: 2022_foodcube_pet_Ham_petted0028
-  - first:
-      213: 21300498
-    second: 2022_foodcube_pet_GummyCrewmate_petted0048
-  - first:
-      213: 21300500
-    second: dogHW2021_petted0026
-  - first:
-      213: 21300502
-    second: guiltyspark_petted0031
-  - first:
-      213: 21300504
-    second: 2022_foodcube_pet_Bread_petted0027
-  - first:
-      213: 21300506
-    second: 2022_foodcube_pet_GummyCrewmate_petted0033
-  - first:
-      213: 21300508
-    second: 2022_foodcube_pet_Bread_petted0014
-  - first:
-      213: 21300510
-    second: 2022_foodcube_pet_Ham_petted0014
-  - first:
-      213: 21300512
-    second: 2022_foodcube_pet_Ham_petted0042
-  - first:
-      213: 21300514
-    second: 2022_foodcube_pet_Ham_petted0017
-  - first:
-      213: 21300516
-    second: 2022_foodcube_pet_GummyCrewmate_petted0008
-  - first:
-      213: 21300518
-    second: Clank_Petted0020
-  - first:
-      213: 21300520
-    second: 2022_foodcube_pet_Ham_petted0025
-  - first:
-      213: 21300522
-    second: dogHW2021_petted0017
-  - first:
-      213: 21300524
-    second: dogHW2021_petted0014
-  - first:
-      213: 21300526
-    second: 2022_foodcube_pet_GummyCrewmate_petted0044
-  - first:
-      213: 21300528
-    second: 2022_foodcube_pet_Ham_petted0035
-  - first:
-      213: 21300530
-    second: Clank_Petted0012
-  - first:
-      213: 21300532
-    second: 2022_foodcube_pet_GummyCrewmate_petted0035
-  - first:
-      213: 21300534
-    second: guiltyspark_petted0035
-  - first:
-      213: 21300536
-    second: guiltyspark_petted0009
-  - first:
-      213: 21300538
-    second: Clank_Petted0018
-  - first:
-      213: 21300540
-    second: guiltyspark_petted0005
-  - first:
-      213: 21300542
-    second: 2022_foodcube_pet_Ham_petted0048
-  - first:
-      213: 21300544
-    second: 2022_foodcube_pet_Ham_petted0032
-  - first:
-      213: 21300546
-    second: dogHW2021_petted0024
-  - first:
-      213: 21300548
-    second: 2022_foodcube_pet_GummyCrewmate_petted0005
-  - first:
-      213: 21300550
-    second: 2022_foodcube_pet_Bread_petted0047
-  - first:
-      213: 21300552
-    second: Clank_Petted0013
-  - first:
-      213: 21300554
-    second: dogHW2021_petted0019
-  - first:
-      213: 21300556
-    second: guiltyspark_petted0032
-  - first:
-      213: 21300558
-    second: dogHW2021_petted0043
-  - first:
-      213: 21300560
-    second: dogHW2021_petted0021
-  - first:
-      213: 21300562
-    second: 2022_foodcube_pet_Ham_petted0007
-  - first:
-      213: 21300564
-    second: 2022_foodcube_pet_Bread_petted0006
-  - first:
-      213: 21300566
-    second: 2022_foodcube_pet_GummyCrewmate_petted0004
-  - first:
-      213: 21300568
-    second: 2022_foodcube_pet_Ham_petted0022
-  - first:
-      213: 21300570
-    second: dogHW2021_petted0044
-  - first:
-      213: 21300572
-    second: guiltyspark_petted0018
-  - first:
-      213: 21300574
-    second: guiltyspark_petted0025
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Clank_Petted0002
+    21300002: guiltyspark_petted0037
+    21300004: 2022_foodcube_pet_GummyCrewmate_petted0014
+    21300006: 2022_foodcube_pet_GummyCrewmate_petted0039
+    21300008: 2022_foodcube_pet_Bread_petted0029
+    21300010: 2022_foodcube_pet_GummyCrewmate_petted0028
+    21300012: dogHW2021_petted0016
+    21300014: Clank_Petted0023
+    21300016: guiltyspark_petted0040
+    21300018: 2022_foodcube_pet_Ham_petted0002
+    21300020: 2022_foodcube_pet_Bread_petted0041
+    21300022: Clank_Petted0005
+    21300024: dogHW2021_petted0013
+    21300026: 2022_foodcube_pet_GummyCrewmate_petted0024
+    21300028: dogHW2021_petted0015
+    21300030: guiltyspark_petted0039
+    21300032: 2022_foodcube_pet_GummyCrewmate_petted0020
+    21300034: guiltyspark_petted0030
+    21300036: Clank_Petted0040
+    21300038: 2022_foodcube_pet_Bread_petted0035
+    21300040: guiltyspark_petted0047
+    21300042: dogHW2021_petted0018
+    21300044: 2022_foodcube_pet_GummyCrewmate_petted0009
+    21300046: 2022_foodcube_pet_Ham_petted0010
+    21300048: Clank_Petted0044
+    21300050: Clank_Petted0028
+    21300052: dogHW2021_petted0006
+    21300054: 2022_foodcube_pet_Ham_petted0004
+    21300056: 2022_foodcube_pet_GummyCrewmate_petted0030
+    21300058: guiltyspark_petted0038
+    21300060: 2022_foodcube_pet_Bread_petted0038
+    21300062: 2022_foodcube_pet_GummyCrewmate_petted0034
+    21300064: guiltyspark_petted0036
+    21300066: 2022_foodcube_pet_Bread_petted0023
+    21300068: Clank_Petted0045
+    21300070: 2022_foodcube_pet_Ham_petted0030
+    21300072: 2022_foodcube_pet_GummyCrewmate_petted0042
+    21300074: guiltyspark_petted0027
+    21300076: dogHW2021_petted0034
+    21300078: guiltyspark_petted0014
+    21300080: 2022_foodcube_pet_Ham_petted0038
+    21300082: 2022_foodcube_pet_Ham_petted0040
+    21300084: 2022_foodcube_pet_Bread_petted0030
+    21300086: 2022_foodcube_pet_Bread_petted0009
+    21300088: guiltyspark_petted0026
+    21300090: dogHW2021_petted0007
+    21300092: 2022_foodcube_pet_Ham_petted0036
+    21300094: dogHW2021_petted0030
+    21300096: guiltyspark_petted0029
+    21300098: guiltyspark_petted0010
+    21300100: 2022_foodcube_pet_Ham_petted0047
+    21300102: dogHW2021_petted0047
+    21300104: guiltyspark_petted0004
+    21300106: 2022_foodcube_pet_GummyCrewmate_petted0007
+    21300108: 2022_foodcube_pet_GummyCrewmate_petted0022
+    21300110: 2022_foodcube_pet_Bread_petted0040
+    21300112: Clank_Petted0024
+    21300114: 2022_foodcube_pet_Bread_petted0033
+    21300116: Clank_Petted0042
+    21300118: 2022_foodcube_pet_Ham_petted0023
+    21300120: Clank_Petted0003
+    21300122: 2022_foodcube_pet_Bread_petted0026
+    21300124: 2022_foodcube_pet_GummyCrewmate_petted0011
+    21300126: Clank_Petted0046
+    21300128: 2022_foodcube_pet_Bread_petted0024
+    21300130: Clank_Petted0043
+    21300132: Clank_Petted0029
+    21300134: 2022_foodcube_pet_GummyCrewmate_petted0043
+    21300136: 2022_foodcube_pet_Bread_petted0048
+    21300138: 2022_foodcube_pet_GummyCrewmate_petted0032
+    21300140: Clank_Petted0035
+    21300142: 2022_foodcube_pet_Ham_petted0045
+    21300144: 2022_foodcube_pet_GummyCrewmate_petted0006
+    21300146: 2022_foodcube_pet_Ham_petted0018
+    21300148: guiltyspark_petted0024
+    21300150: dogHW2021_petted0001
+    21300152: Clank_Petted0032
+    21300154: 2022_foodcube_pet_Bread_petted0003
+    21300156: 2022_foodcube_pet_Ham_petted0015
+    21300158: dogHW2021_petted0025
+    21300160: Clank_Petted0038
+    21300162: dogHW2021_petted0046
+    21300164: 2022_foodcube_pet_Bread_petted0017
+    21300166: 2022_foodcube_pet_Ham_petted0033
+    21300168: dogHW2021_petted0035
+    21300170: Clank_Petted0008
+    21300172: Clank_Petted0021
+    21300174: 2022_foodcube_pet_Ham_petted0034
+    21300176: guiltyspark_petted0042
+    21300178: dogHW2021_petted0027
+    21300180: guiltyspark_petted0043
+    21300182: guiltyspark_petted0021
+    21300184: 2022_foodcube_pet_GummyCrewmate_petted0031
+    21300186: 2022_foodcube_pet_Bread_petted0002
+    21300188: 2022_foodcube_pet_Ham_petted0003
+    21300190: 2022_foodcube_pet_Ham_petted0027
+    21300192: Clank_Petted0016
+    21300194: 2022_foodcube_pet_Bread_petted0039
+    21300196: Clank_Petted0034
+    21300198: 2022_foodcube_pet_Bread_petted0012
+    21300200: 2022_foodcube_pet_Bread_petted0043
+    21300202: 2022_foodcube_pet_Bread_petted0010
+    21300204: 2022_foodcube_pet_GummyCrewmate_petted0015
+    21300206: 2022_foodcube_pet_GummyCrewmate_petted0021
+    21300208: dogHW2021_petted0039
+    21300210: dogHW2021_petted0004
+    21300212: guiltyspark_petted0044
+    21300214: guiltyspark_petted0019
+    21300216: guiltyspark_petted0045
+    21300218: 2022_foodcube_pet_Ham_petted0043
+    21300220: Clank_Petted0019
+    21300222: 2022_foodcube_pet_GummyCrewmate_petted0019
+    21300224: 2022_foodcube_pet_GummyCrewmate_petted0012
+    21300226: dogHW2021_petted0036
+    21300228: dogHW2021_petted0022
+    21300230: Clank_Petted0037
+    21300232: dogHW2021_petted0008
+    21300234: guiltyspark_petted0046
+    21300236: 2022_foodcube_pet_Ham_petted0026
+    21300238: Clank_Petted0048
+    21300240: 2022_foodcube_pet_Bread_petted0013
+    21300242: 2022_foodcube_pet_GummyCrewmate_petted0001
+    21300244: 2022_foodcube_pet_Bread_petted0034
+    21300246: dogHW2021_petted0011
+    21300248: dogHW2021_petted0040
+    21300250: 2022_foodcube_pet_GummyCrewmate_petted0023
+    21300252: Clank_Petted0027
+    21300254: dogHW2021_petted0041
+    21300256: 2022_foodcube_pet_Bread_petted0007
+    21300258: guiltyspark_petted0020
+    21300260: 2022_foodcube_pet_Ham_petted0031
+    21300262: 2022_foodcube_pet_Bread_petted0025
+    21300264: 2022_foodcube_pet_GummyCrewmate_petted0041
+    21300266: 2022_foodcube_pet_Bread_petted0019
+    21300268: Clank_Petted0014
+    21300270: 2022_foodcube_pet_Bread_petted0004
+    21300272: dogHW2021_petted0009
+    21300274: 2022_foodcube_pet_GummyCrewmate_petted0016
+    21300276: 2022_foodcube_pet_Bread_petted0028
+    21300278: guiltyspark_petted0011
+    21300280: 2022_foodcube_pet_Ham_petted0011
+    21300282: 2022_foodcube_pet_Bread_petted0046
+    21300284: 2022_foodcube_pet_Ham_petted0009
+    21300286: Clank_Petted0041
+    21300288: guiltyspark_petted0001
+    21300290: Clank_Petted0025
+    21300292: Clank_Petted0026
+    21300294: dogHW2021_petted0005
+    21300296: guiltyspark_petted0041
+    21300298: 2022_foodcube_pet_Bread_petted0045
+    21300300: dogHW2021_petted0037
+    21300302: 2022_foodcube_pet_Ham_petted0044
+    21300304: dogHW2021_petted0033
+    21300306: 2022_foodcube_pet_Ham_petted0020
+    21300308: dogHW2021_petted0002
+    21300310: Clank_Petted0030
+    21300312: dogHW2021_petted0023
+    21300314: Clank_Petted0004
+    21300316: Clank_Petted0047
+    21300318: 2022_foodcube_pet_Ham_petted0006
+    21300320: 2022_foodcube_pet_GummyCrewmate_petted0037
+    21300322: 2022_foodcube_pet_Ham_petted0041
+    21300324: 2022_foodcube_pet_Bread_petted0037
+    21300326: 2022_foodcube_pet_Ham_petted0029
+    21300328: 2022_foodcube_pet_Ham_petted0024
+    21300330: guiltyspark_petted0015
+    21300332: 2022_foodcube_pet_Bread_petted0021
+    21300334: dogHW2021_petted0029
+    21300336: 2022_foodcube_pet_Bread_petted0001
+    21300338: dogHW2021_petted0031
+    21300340: 2022_foodcube_pet_Ham_petted0037
+    21300342: 2022_foodcube_pet_Bread_petted0005
+    21300344: dogHW2021_petted0032
+    21300346: 2022_foodcube_pet_GummyCrewmate_petted0029
+    21300348: dogHW2021_petted0048
+    21300350: 2022_foodcube_pet_GummyCrewmate_petted0027
+    21300352: guiltyspark_petted0008
+    21300354: Clank_Petted0017
+    21300356: Clank_Petted0015
+    21300358: dogHW2021_petted0028
+    21300360: 2022_foodcube_pet_Bread_petted0015
+    21300362: guiltyspark_petted0016
+    21300364: guiltyspark_petted0013
+    21300366: guiltyspark_petted0048
+    21300368: guiltyspark_petted0028
+    21300370: guiltyspark_petted0007
+    21300372: 2022_foodcube_pet_Ham_petted0008
+    21300374: Clank_Petted0031
+    21300376: Clank_Petted0039
+    21300378: 2022_foodcube_pet_GummyCrewmate_petted0026
+    21300380: dogHW2021_petted0045
+    21300382: 2022_foodcube_pet_Bread_petted0016
+    21300384: 2022_foodcube_pet_GummyCrewmate_petted0003
+    21300386: 2022_foodcube_pet_Bread_petted0042
+    21300388: Clank_Petted0011
+    21300390: 2022_foodcube_pet_GummyCrewmate_petted0018
+    21300392: dogHW2021_petted0042
+    21300394: dogHW2021_petted0010
+    21300396: 2022_foodcube_pet_GummyCrewmate_petted0045
+    21300398: Clank_Petted0033
+    21300400: 2022_foodcube_pet_GummyCrewmate_petted0002
+    21300402: Clank_Petted0010
+    21300404: guiltyspark_petted0006
+    21300406: dogHW2021_petted0012
+    21300408: 2022_foodcube_pet_Bread_petted0020
+    21300410: 2022_foodcube_pet_Ham_petted0021
+    21300412: 2022_foodcube_pet_GummyCrewmate_petted0010
+    21300414: guiltyspark_petted0034
+    21300416: guiltyspark_petted0003
+    21300418: 2022_foodcube_pet_Ham_petted0016
+    21300420: 2022_foodcube_pet_GummyCrewmate_petted0038
+    21300422: guiltyspark_petted0012
+    21300424: 2022_foodcube_pet_Bread_petted0031
+    21300426: 2022_foodcube_pet_Bread_petted0036
+    21300428: Clank_Petted0009
+    21300430: 2022_foodcube_pet_Bread_petted0044
+    21300432: 2022_foodcube_pet_GummyCrewmate_petted0013
+    21300434: guiltyspark_petted0017
+    21300436: 2022_foodcube_pet_Ham_petted0013
+    21300438: 2022_foodcube_pet_GummyCrewmate_petted0046
+    21300440: guiltyspark_petted0033
+    21300442: 2022_foodcube_pet_Ham_petted0039
+    21300444: 2022_foodcube_pet_GummyCrewmate_petted0036
+    21300446: 2022_foodcube_pet_Ham_petted0012
+    21300448: 2022_foodcube_pet_Ham_petted0001
+    21300450: 2022_foodcube_pet_Bread_petted0022
+    21300452: 2022_foodcube_pet_Ham_petted0019
+    21300454: 2022_foodcube_pet_Bread_petted0008
+    21300456: 2022_foodcube_pet_Bread_petted0011
+    21300458: guiltyspark_petted0002
+    21300460: dogHW2021_petted0038
+    21300462: 2022_foodcube_pet_Ham_petted0005
+    21300464: Clank_Petted0022
+    21300466: Clank_Petted0036
+    21300468: dogHW2021_petted0003
+    21300470: 2022_foodcube_pet_Ham_petted0046
+    21300472: 2022_foodcube_pet_GummyCrewmate_petted0017
+    21300474: Clank_Petted0007
+    21300476: Clank_Petted0006
+    21300478: 2022_foodcube_pet_GummyCrewmate_petted0040
+    21300480: 2022_foodcube_pet_Bread_petted0018
+    21300482: dogHW2021_petted0020
+    21300484: 2022_foodcube_pet_Bread_petted0032
+    21300486: guiltyspark_petted0023
+    21300488: Clank_Petted0001
+    21300490: guiltyspark_petted0022
+    21300492: 2022_foodcube_pet_GummyCrewmate_petted0047
+    21300494: 2022_foodcube_pet_GummyCrewmate_petted0025
+    21300496: 2022_foodcube_pet_Ham_petted0028
+    21300498: 2022_foodcube_pet_GummyCrewmate_petted0048
+    21300500: dogHW2021_petted0026
+    21300502: guiltyspark_petted0031
+    21300504: 2022_foodcube_pet_Bread_petted0027
+    21300506: 2022_foodcube_pet_GummyCrewmate_petted0033
+    21300508: 2022_foodcube_pet_Bread_petted0014
+    21300510: 2022_foodcube_pet_Ham_petted0014
+    21300512: 2022_foodcube_pet_Ham_petted0042
+    21300514: 2022_foodcube_pet_Ham_petted0017
+    21300516: 2022_foodcube_pet_GummyCrewmate_petted0008
+    21300518: Clank_Petted0020
+    21300520: 2022_foodcube_pet_Ham_petted0025
+    21300522: dogHW2021_petted0017
+    21300524: dogHW2021_petted0014
+    21300526: 2022_foodcube_pet_GummyCrewmate_petted0044
+    21300528: 2022_foodcube_pet_Ham_petted0035
+    21300530: Clank_Petted0012
+    21300532: 2022_foodcube_pet_GummyCrewmate_petted0035
+    21300534: guiltyspark_petted0035
+    21300536: guiltyspark_petted0009
+    21300538: Clank_Petted0018
+    21300540: guiltyspark_petted0005
+    21300542: 2022_foodcube_pet_Ham_petted0048
+    21300544: 2022_foodcube_pet_Ham_petted0032
+    21300546: dogHW2021_petted0024
+    21300548: 2022_foodcube_pet_GummyCrewmate_petted0005
+    21300550: 2022_foodcube_pet_Bread_petted0047
+    21300552: Clank_Petted0013
+    21300554: dogHW2021_petted0019
+    21300556: guiltyspark_petted0032
+    21300558: dogHW2021_petted0043
+    21300560: dogHW2021_petted0021
+    21300562: 2022_foodcube_pet_Ham_petted0007
+    21300564: 2022_foodcube_pet_Bread_petted0006
+    21300566: 2022_foodcube_pet_GummyCrewmate_petted0004
+    21300568: 2022_foodcube_pet_Ham_petted0022
+    21300570: dogHW2021_petted0044
+    21300572: guiltyspark_petted0018
+    21300574: guiltyspark_petted0025
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -875,8 +298,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -884,12 +305,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -897,13 +313,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -912,97 +325,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1025,15 +406,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0037
       rect:
@@ -1054,15 +427,7 @@ TextureImporter:
         - {x: -15.508196, y: 58.02467}
         - {x: 39.491806, y: 46.024662}
         - {x: 56.4918, y: -6.9753304}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0014
       rect:
@@ -1082,15 +447,7 @@ TextureImporter:
         - {x: -47.03805, y: 22.000008}
         - {x: -0.038051605, y: 65}
         - {x: 52.96195, y: 30.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0039
       rect:
@@ -1110,15 +467,7 @@ TextureImporter:
         - {x: 39.499996, y: -43.000008}
         - {x: -7.500004, y: -66.00001}
         - {x: -55.500004, y: -9.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0029
       rect:
@@ -1136,15 +485,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0028
       rect:
@@ -1163,15 +504,7 @@ TextureImporter:
         - {x: 28.99192, y: -46.00001}
         - {x: -27.00808, y: -54.000008}
         - {x: -58.00808, y: -20.000011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0016
       rect:
@@ -1192,15 +525,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0023
       rect:
@@ -1220,15 +545,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0040
       rect:
@@ -1249,15 +566,7 @@ TextureImporter:
         - {x: 50.999992, y: -22.961943}
         - {x: 24.999989, y: -48.96194}
         - {x: -21.000008, y: -48.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0002
       rect:
@@ -1277,15 +586,7 @@ TextureImporter:
         - {x: -10.513374, y: -39.46194}
         - {x: -18.513374, y: -20.46194}
         - {x: -64.513374, y: 1.5380611}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0041
       rect:
@@ -1304,15 +605,7 @@ TextureImporter:
         - {x: 55.024673, y: 36.0247}
         - {x: 50.024673, y: -33.975296}
         - {x: -9.975327, y: -44.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0005
       rect:
@@ -1331,15 +624,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0013
       rect:
@@ -1359,15 +644,7 @@ TextureImporter:
         - {x: -31.499996, y: -54.016598}
         - {x: -80.49999, y: 4.9834023}
         - {x: -72.5, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0024
       rect:
@@ -1387,15 +664,7 @@ TextureImporter:
         - {x: 40.975323, y: -49.98761}
         - {x: -13.024677, y: -56.98761}
         - {x: -45.024677, y: -22.987614}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0015
       rect:
@@ -1416,15 +685,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0039
       rect:
@@ -1445,15 +706,7 @@ TextureImporter:
         - {x: 14.475307, y: -60.500008}
         - {x: -42.52469, y: -43.500008}
         - {x: -56.524693, y: 4.4999886}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0020
       rect:
@@ -1473,15 +726,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0030
       rect:
@@ -1500,15 +745,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0040
       rect:
@@ -1526,15 +763,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0035
       rect:
@@ -1554,15 +783,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0047
       rect:
@@ -1581,15 +802,7 @@ TextureImporter:
         - {x: 28.964933, y: -46.024677}
         - {x: -43.03506, y: -52.024677}
         - {x: -59.035065, y: 21.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0018
       rect:
@@ -1610,15 +823,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0009
       rect:
@@ -1637,15 +842,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0010
       rect:
@@ -1664,15 +861,7 @@ TextureImporter:
         - {x: -1.008194, y: -53.4753}
         - {x: -32.008194, y: -22.4753}
         - {x: -57.00819, y: -10.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0044
       rect:
@@ -1692,15 +881,7 @@ TextureImporter:
         - {x: -48.9753, y: 1.5000076}
         - {x: -6.9752994, y: 81.50001}
         - {x: 31.0247, y: 26.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0028
       rect:
@@ -1719,15 +900,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0006
       rect:
@@ -1748,15 +921,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0004
       rect:
@@ -1776,15 +941,7 @@ TextureImporter:
         - {x: 56.486637, y: -7.4999924}
         - {x: 25.48664, y: -38.499992}
         - {x: -11.513357, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0030
       rect:
@@ -1803,15 +960,7 @@ TextureImporter:
         - {x: -63.038048, y: 1.9999924}
         - {x: -4.0380526, y: 63.999992}
         - {x: 51.96195, y: 40.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0038
       rect:
@@ -1832,15 +981,7 @@ TextureImporter:
         - {x: 14.475307, y: -60.500008}
         - {x: -42.52469, y: -43.500008}
         - {x: -56.524693, y: 4.4999886}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0038
       rect:
@@ -1858,15 +999,7 @@ TextureImporter:
         - {x: -17.999985, y: 43.5247}
         - {x: 59.000015, y: 36.5247}
         - {x: 35.000015, y: -36.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0034
       rect:
@@ -1885,15 +1018,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0036
       rect:
@@ -1914,15 +1039,7 @@ TextureImporter:
         - {x: -15.508196, y: 58.02467}
         - {x: 39.491806, y: 46.024662}
         - {x: 56.4918, y: -6.9753304}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0023
       rect:
@@ -1940,15 +1057,7 @@ TextureImporter:
         - {x: -3.0380516, y: 42.517147}
         - {x: 51.96195, y: 36.517147}
         - {x: 51.96195, y: -37.48285}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0045
       rect:
@@ -1966,15 +1075,7 @@ TextureImporter:
         - {x: -34.499992, y: -76.499985}
         - {x: -40.49999, y: 15.500015}
         - {x: -6.4999924, y: 77.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0030
       rect:
@@ -1993,15 +1094,7 @@ TextureImporter:
         - {x: -1.008194, y: -53.4753}
         - {x: -32.008194, y: -22.4753}
         - {x: -57.00819, y: -10.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0042
       rect:
@@ -2021,15 +1114,7 @@ TextureImporter:
         - {x: 48.486607, y: -48.50001}
         - {x: -12.51339, y: -58.500008}
         - {x: -45.51339, y: -18.500011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0027
       rect:
@@ -2049,15 +1134,7 @@ TextureImporter:
         - {x: 40.967392, y: -46.46194}
         - {x: -28.032604, y: -46.46194}
         - {x: -67.03261, y: -7.461941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0034
       rect:
@@ -2078,15 +1155,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0014
       rect:
@@ -2105,15 +1174,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0038
       rect:
@@ -2133,15 +1194,7 @@ TextureImporter:
         - {x: 59.500008, y: 7.0247}
         - {x: 39.500008, y: -42.9753}
         - {x: -4.4999924, y: -43.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0040
       rect:
@@ -2159,15 +1212,7 @@ TextureImporter:
         - {x: -56.475315, y: 11.000015}
         - {x: -53.475315, y: 43.000015}
         - {x: 47.524685, y: 38.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0030
       rect:
@@ -2185,15 +1230,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0009
       rect:
@@ -2213,15 +1250,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0026
       rect:
@@ -2241,15 +1270,7 @@ TextureImporter:
         - {x: 54.475323, y: 16.508095}
         - {x: 51.475323, y: -32.491905}
         - {x: 23.475323, y: -50.491905}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0007
       rect:
@@ -2269,15 +1290,7 @@ TextureImporter:
         - {x: -31.49998, y: -54.016598}
         - {x: -80.49998, y: 4.9834023}
         - {x: -72.499985, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0036
       rect:
@@ -2297,15 +1310,7 @@ TextureImporter:
         - {x: 67.014206, y: 1.5000153}
         - {x: 21.014206, y: -48.499985}
         - {x: -4.985794, y: -40.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0030
       rect:
@@ -2326,15 +1331,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0029
       rect:
@@ -2353,15 +1350,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0010
       rect:
@@ -2382,15 +1371,7 @@ TextureImporter:
         - {x: 14.475307, y: -60.500008}
         - {x: -42.52469, y: -43.500008}
         - {x: -56.524693, y: 4.4999886}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0047
       rect:
@@ -2411,15 +1392,7 @@ TextureImporter:
         - {x: -15.038065, y: -41.975296}
         - {x: -14.038067, y: -15.9753}
         - {x: -52.038063, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0047
       rect:
@@ -2438,15 +1411,7 @@ TextureImporter:
         - {x: 61.46195, y: 43.475323}
         - {x: 61.46195, y: 0.47532272}
         - {x: 36.46195, y: -51.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0004
       rect:
@@ -2466,15 +1431,7 @@ TextureImporter:
         - {x: -17.512394, y: -49.03805}
         - {x: -61.512394, y: -23.038052}
         - {x: -53.51239, y: 22.961948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0007
       rect:
@@ -2493,15 +1450,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0022
       rect:
@@ -2521,15 +1470,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0040
       rect:
@@ -2547,15 +1488,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0024
       rect:
@@ -2575,15 +1508,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0033
       rect:
@@ -2603,15 +1528,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0042
       rect:
@@ -2631,15 +1548,7 @@ TextureImporter:
         - {x: 22.514204, y: 48.47532}
         - {x: 48.514202, y: -34.52468}
         - {x: 33.514206, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0023
       rect:
@@ -2659,15 +1568,7 @@ TextureImporter:
         - {x: 56.486637, y: -7.4999924}
         - {x: 25.48664, y: -38.499992}
         - {x: -11.513357, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0003
       rect:
@@ -2686,15 +1587,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0026
       rect:
@@ -2711,15 +1604,7 @@ TextureImporter:
         - {x: -51.5, y: 37}
         - {x: 51.5, y: 37}
         - {x: 51.5, y: -37}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0011
       rect:
@@ -2737,15 +1622,7 @@ TextureImporter:
         - {x: 59.490128, y: 39.024673}
         - {x: 38.490135, y: -45.975327}
         - {x: -32.509865, y: -54.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0046
       rect:
@@ -2763,15 +1640,7 @@ TextureImporter:
         - {x: -34.499992, y: -76.499985}
         - {x: -40.49999, y: 15.500015}
         - {x: -6.4999924, y: 77.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0024
       rect:
@@ -2789,15 +1658,7 @@ TextureImporter:
         - {x: -3.0380516, y: 42.517147}
         - {x: 51.96195, y: 36.517147}
         - {x: 51.96195, y: -37.48285}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0043
       rect:
@@ -2817,15 +1678,7 @@ TextureImporter:
         - {x: -48.9753, y: 1.5000076}
         - {x: -6.9752994, y: 81.50001}
         - {x: 31.0247, y: 26.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0029
       rect:
@@ -2844,15 +1697,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0043
       rect:
@@ -2872,15 +1717,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0048
       rect:
@@ -2899,15 +1736,7 @@ TextureImporter:
         - {x: 45.499985, y: -41.9753}
         - {x: -38.500015, y: -40.975296}
         - {x: -61.500015, y: 15.0247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0032
       rect:
@@ -2926,15 +1755,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0035
       rect:
@@ -2954,15 +1775,7 @@ TextureImporter:
         - {x: 28.03806, y: 27.475319}
         - {x: 48.038055, y: -34.52468}
         - {x: 33.03806, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0045
       rect:
@@ -2983,15 +1796,7 @@ TextureImporter:
         - {x: -16.995148, y: -38.975296}
         - {x: -16.995148, y: -17.9753}
         - {x: -52.995148, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0006
       rect:
@@ -3010,15 +1815,7 @@ TextureImporter:
         - {x: -63.038048, y: 1.9999924}
         - {x: -4.0380526, y: 63.999992}
         - {x: 51.96195, y: 40.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0018
       rect:
@@ -3038,15 +1835,7 @@ TextureImporter:
         - {x: 59.500008, y: 7.0247}
         - {x: 39.500008, y: -42.9753}
         - {x: -4.4999924, y: -43.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0024
       rect:
@@ -3065,15 +1854,7 @@ TextureImporter:
         - {x: 41.5, y: 44.499992}
         - {x: 57.5, y: -3.5}
         - {x: 35.5, y: -52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0001
       rect:
@@ -3092,15 +1873,7 @@ TextureImporter:
         - {x: 61.46195, y: 43.475323}
         - {x: 61.46195, y: 0.47532272}
         - {x: 36.46195, y: -51.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0032
       rect:
@@ -3119,15 +1892,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0003
       rect:
@@ -3145,15 +1910,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0015
       rect:
@@ -3173,15 +1930,7 @@ TextureImporter:
         - {x: 67.014206, y: 1.5000153}
         - {x: 21.014206, y: -48.499985}
         - {x: -4.985794, y: -40.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0025
       rect:
@@ -3201,15 +1950,7 @@ TextureImporter:
         - {x: -31.499996, y: -54.016598}
         - {x: -80.49999, y: 4.9834023}
         - {x: -72.5, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0038
       rect:
@@ -3227,15 +1968,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0046
       rect:
@@ -3256,15 +1989,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0017
       rect:
@@ -3282,15 +2007,7 @@ TextureImporter:
         - {x: -13.97533, y: 42.517437}
         - {x: 49.02467, y: 35.517437}
         - {x: 55.02467, y: -40.482563}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0033
       rect:
@@ -3310,15 +2027,7 @@ TextureImporter:
         - {x: -5.4753, y: -41.49999}
         - {x: -22.475296, y: -11.499989}
         - {x: -60.4753, y: 7.5000114}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0035
       rect:
@@ -3339,15 +2048,7 @@ TextureImporter:
         - {x: -80.4753, y: 11.461948}
         - {x: -66.47531, y: 26.461948}
         - {x: -39.47531, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0008
       rect:
@@ -3366,15 +2067,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0021
       rect:
@@ -3394,15 +2087,7 @@ TextureImporter:
         - {x: -48.9753, y: 1.5000076}
         - {x: -6.9752994, y: 81.50001}
         - {x: 31.0247, y: 26.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0034
       rect:
@@ -3422,15 +2107,7 @@ TextureImporter:
         - {x: -5.4753, y: -41.49999}
         - {x: -22.475296, y: -11.499989}
         - {x: -60.4753, y: 7.5000114}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0042
       rect:
@@ -3449,15 +2126,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0027
       rect:
@@ -3478,15 +2147,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0043
       rect:
@@ -3505,15 +2166,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0021
       rect:
@@ -3532,15 +2185,7 @@ TextureImporter:
         - {x: 42.500008, y: 42.5247}
         - {x: 56.500008, y: -5.4753}
         - {x: 32.500008, y: -55.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0031
       rect:
@@ -3559,15 +2204,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0002
       rect:
@@ -3585,15 +2222,7 @@ TextureImporter:
         - {x: -13.013702, y: 42.0247}
         - {x: 57.986294, y: 35.0247}
         - {x: 41.986298, y: -41.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0003
       rect:
@@ -3613,15 +2242,7 @@ TextureImporter:
         - {x: 56.486637, y: -7.4999924}
         - {x: 25.48664, y: -38.499992}
         - {x: -11.513357, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0027
       rect:
@@ -3641,15 +2262,7 @@ TextureImporter:
         - {x: -16.975327, y: -40.99998}
         - {x: -18.975325, y: -16.99998}
         - {x: -49.975323, y: -14.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0016
       rect:
@@ -3667,15 +2280,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0039
       rect:
@@ -3693,15 +2298,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0034
       rect:
@@ -3721,15 +2318,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0012
       rect:
@@ -3747,15 +2336,7 @@ TextureImporter:
         - {x: -17.999985, y: 43.5247}
         - {x: 59.000015, y: 36.5247}
         - {x: 35.000015, y: -36.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0043
       rect:
@@ -3773,15 +2354,7 @@ TextureImporter:
         - {x: -13.97533, y: 42.517437}
         - {x: 49.02467, y: 35.517437}
         - {x: 55.02467, y: -40.482563}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0010
       rect:
@@ -3801,15 +2374,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0015
       rect:
@@ -3829,15 +2394,7 @@ TextureImporter:
         - {x: 39.499996, y: -43.000008}
         - {x: -7.500004, y: -66.00001}
         - {x: -55.500004, y: -9.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0021
       rect:
@@ -3857,15 +2414,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0039
       rect:
@@ -3886,15 +2435,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0004
       rect:
@@ -3915,15 +2456,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0044
       rect:
@@ -3943,15 +2476,7 @@ TextureImporter:
         - {x: 52.974316, y: 26.488441}
         - {x: 56.974316, y: -16.511559}
         - {x: 36.974316, y: -45.51156}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0019
       rect:
@@ -3970,15 +2495,7 @@ TextureImporter:
         - {x: -57.524677, y: 7.5000076}
         - {x: -27.524677, y: 57.500008}
         - {x: 41.475323, y: 42.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0045
       rect:
@@ -3998,15 +2515,7 @@ TextureImporter:
         - {x: 52.974316, y: 26.488441}
         - {x: 56.974316, y: -16.511559}
         - {x: 36.974316, y: -45.51156}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0043
       rect:
@@ -4026,15 +2535,7 @@ TextureImporter:
         - {x: 56.486637, y: -7.4999924}
         - {x: 25.48664, y: -38.499992}
         - {x: -11.513357, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0019
       rect:
@@ -4054,15 +2555,7 @@ TextureImporter:
         - {x: 22.514204, y: 48.47532}
         - {x: 48.514202, y: -34.52468}
         - {x: 33.514206, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0019
       rect:
@@ -4082,15 +2575,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0012
       rect:
@@ -4108,15 +2593,7 @@ TextureImporter:
         - {x: 59.490128, y: 39.024673}
         - {x: 38.490135, y: -45.975327}
         - {x: -32.509865, y: -54.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0036
       rect:
@@ -4137,15 +2614,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0022
       rect:
@@ -4166,15 +2635,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0037
       rect:
@@ -4192,15 +2653,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0008
       rect:
@@ -4219,15 +2672,7 @@ TextureImporter:
         - {x: 39.48428, y: -55.016598}
         - {x: -36.515717, y: -53.016598}
         - {x: -78.51572, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0046
       rect:
@@ -4246,15 +2691,7 @@ TextureImporter:
         - {x: 33.467506, y: 46.03806}
         - {x: 62.467503, y: 1.0380592}
         - {x: 38.467506, y: -46.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0026
       rect:
@@ -4275,15 +2712,7 @@ TextureImporter:
         - {x: -16.995148, y: -38.975296}
         - {x: -16.995148, y: -17.9753}
         - {x: -52.995148, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0048
       rect:
@@ -4302,15 +2731,7 @@ TextureImporter:
         - {x: -35.01339, y: -61.97531}
         - {x: -37.01339, y: 10.024689}
         - {x: -6.0133896, y: 80.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0013
       rect:
@@ -4328,15 +2749,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0001
       rect:
@@ -4355,15 +2768,7 @@ TextureImporter:
         - {x: 32.500008, y: -44.000008}
         - {x: -4.4999924, y: -58.000008}
         - {x: -42.499992, y: -44.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0034
       rect:
@@ -4383,15 +2788,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0011
       rect:
@@ -4412,15 +2809,7 @@ TextureImporter:
         - {x: -80.4753, y: 11.461948}
         - {x: -66.47531, y: 26.461948}
         - {x: -39.47531, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0040
       rect:
@@ -4441,15 +2830,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0023
       rect:
@@ -4469,15 +2850,7 @@ TextureImporter:
         - {x: 40.975323, y: -49.98761}
         - {x: -13.024677, y: -56.98761}
         - {x: -45.024677, y: -22.987614}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0027
       rect:
@@ -4496,15 +2869,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0041
       rect:
@@ -4525,15 +2890,7 @@ TextureImporter:
         - {x: -80.4753, y: 11.461948}
         - {x: -66.47531, y: 26.461948}
         - {x: -39.47531, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0007
       rect:
@@ -4553,15 +2910,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0020
       rect:
@@ -4580,15 +2929,7 @@ TextureImporter:
         - {x: -57.524677, y: 7.5000076}
         - {x: -27.524677, y: 57.500008}
         - {x: 41.475323, y: 42.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0031
       rect:
@@ -4607,15 +2948,7 @@ TextureImporter:
         - {x: 55.48661, y: -11.024673}
         - {x: 8.48661, y: -51.024673}
         - {x: -65.51339, y: 5.9753265}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0025
       rect:
@@ -4632,15 +2965,7 @@ TextureImporter:
         - {x: -51.5, y: 37}
         - {x: 51.5, y: 37}
         - {x: 51.5, y: -37}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0041
       rect:
@@ -4660,15 +2985,7 @@ TextureImporter:
         - {x: 48.486607, y: -48.50001}
         - {x: -12.51339, y: -58.500008}
         - {x: -45.51339, y: -18.500011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0019
       rect:
@@ -4686,15 +3003,7 @@ TextureImporter:
         - {x: -3.0133743, y: 45.538055}
         - {x: 51.986626, y: 33.538055}
         - {x: 51.986626, y: -41.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0014
       rect:
@@ -4714,15 +3023,7 @@ TextureImporter:
         - {x: 28.03806, y: 27.475319}
         - {x: 48.038055, y: -34.52468}
         - {x: 33.03806, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0004
       rect:
@@ -4740,15 +3041,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0009
       rect:
@@ -4769,15 +3062,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0016
       rect:
@@ -4797,15 +3082,7 @@ TextureImporter:
         - {x: 39.499996, y: -43.000008}
         - {x: -7.500004, y: -66.00001}
         - {x: -55.500004, y: -9.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0028
       rect:
@@ -4823,15 +3100,7 @@ TextureImporter:
         - {x: -13.013702, y: 42.0247}
         - {x: 57.986294, y: 35.0247}
         - {x: 41.986298, y: -41.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0011
       rect:
@@ -4852,15 +3121,7 @@ TextureImporter:
         - {x: 14.475307, y: -60.500008}
         - {x: -42.52469, y: -43.500008}
         - {x: -56.524693, y: 4.4999886}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0011
       rect:
@@ -4879,15 +3140,7 @@ TextureImporter:
         - {x: 55.48661, y: -11.024673}
         - {x: 8.48661, y: -51.024673}
         - {x: -65.51339, y: 5.9753265}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0046
       rect:
@@ -4905,15 +3158,7 @@ TextureImporter:
         - {x: 2.010468, y: 42.017147}
         - {x: 54.010468, y: 35.017147}
         - {x: 51.010468, y: -39.982853}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0009
       rect:
@@ -4932,15 +3177,7 @@ TextureImporter:
         - {x: -1.008194, y: -53.4753}
         - {x: -32.008194, y: -22.4753}
         - {x: -57.00819, y: -10.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0041
       rect:
@@ -4960,15 +3197,7 @@ TextureImporter:
         - {x: 22.514204, y: 48.47532}
         - {x: 48.514202, y: -34.52468}
         - {x: 33.514206, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0001
       rect:
@@ -4987,15 +3216,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04405410000000000800000000000000
-      internalID: 21300288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0025
       rect:
@@ -5014,15 +3235,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24405410000000000800000000000000
-      internalID: 21300290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0026
       rect:
@@ -5041,15 +3254,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44405410000000000800000000000000
-      internalID: 21300292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0005
       rect:
@@ -5070,15 +3275,7 @@ TextureImporter:
         - {x: -80.47529, y: 11.461948}
         - {x: -66.475296, y: 26.461948}
         - {x: -39.475296, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64405410000000000800000000000000
-      internalID: 21300294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0041
       rect:
@@ -5099,15 +3296,7 @@ TextureImporter:
         - {x: 50.999992, y: -22.961943}
         - {x: 24.999989, y: -48.96194}
         - {x: -21.000008, y: -48.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84405410000000000800000000000000
-      internalID: 21300296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0045
       rect:
@@ -5125,15 +3314,7 @@ TextureImporter:
         - {x: 2.010468, y: 42.017147}
         - {x: 54.010468, y: 35.017147}
         - {x: 51.010468, y: -39.982853}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4405410000000000800000000000000
-      internalID: 21300298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0037
       rect:
@@ -5153,15 +3334,7 @@ TextureImporter:
         - {x: -31.499996, y: -54.016598}
         - {x: -80.49999, y: 4.9834023}
         - {x: -72.5, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4405410000000000800000000000000
-      internalID: 21300300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0044
       rect:
@@ -5181,15 +3354,7 @@ TextureImporter:
         - {x: 56.486637, y: -7.4999924}
         - {x: 25.48664, y: -38.499992}
         - {x: -11.513357, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4405410000000000800000000000000
-      internalID: 21300302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0033
       rect:
@@ -5210,15 +3375,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05405410000000000800000000000000
-      internalID: 21300304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0020
       rect:
@@ -5236,15 +3393,7 @@ TextureImporter:
         - {x: -56.475315, y: 11.000015}
         - {x: -53.475315, y: 43.000015}
         - {x: 47.524685, y: 38.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25405410000000000800000000000000
-      internalID: 21300306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0002
       rect:
@@ -5263,15 +3412,7 @@ TextureImporter:
         - {x: 61.46195, y: 43.475323}
         - {x: 61.46195, y: 0.47532272}
         - {x: 36.46195, y: -51.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45405410000000000800000000000000
-      internalID: 21300308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0030
       rect:
@@ -5290,15 +3431,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65405410000000000800000000000000
-      internalID: 21300310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0023
       rect:
@@ -5319,15 +3452,7 @@ TextureImporter:
         - {x: -80.4753, y: 11.461948}
         - {x: -66.47531, y: 26.461948}
         - {x: -39.47531, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85405410000000000800000000000000
-      internalID: 21300312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0004
       rect:
@@ -5346,15 +3471,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5405410000000000800000000000000
-      internalID: 21300314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0047
       rect:
@@ -5373,15 +3490,7 @@ TextureImporter:
         - {x: -35.01339, y: -61.97531}
         - {x: -37.01339, y: 10.024689}
         - {x: -6.0133896, y: 80.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5405410000000000800000000000000
-      internalID: 21300316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0006
       rect:
@@ -5402,15 +3511,7 @@ TextureImporter:
         - {x: -16.995148, y: -38.975296}
         - {x: -16.995148, y: -17.9753}
         - {x: -52.995148, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5405410000000000800000000000000
-      internalID: 21300318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0037
       rect:
@@ -5430,15 +3531,7 @@ TextureImporter:
         - {x: -47.03805, y: 22.000008}
         - {x: -0.038051605, y: 65}
         - {x: 52.96195, y: 30.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06405410000000000800000000000000
-      internalID: 21300320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0041
       rect:
@@ -5458,15 +3551,7 @@ TextureImporter:
         - {x: -10.513374, y: -39.46194}
         - {x: -18.513374, y: -20.46194}
         - {x: -64.513374, y: 1.5380611}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26405410000000000800000000000000
-      internalID: 21300322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0037
       rect:
@@ -5484,15 +3569,7 @@ TextureImporter:
         - {x: -17.999985, y: 43.5247}
         - {x: 59.000015, y: 36.5247}
         - {x: 35.000015, y: -36.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46405410000000000800000000000000
-      internalID: 21300324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0029
       rect:
@@ -5511,15 +3588,7 @@ TextureImporter:
         - {x: -1.008194, y: -53.4753}
         - {x: -32.008194, y: -22.4753}
         - {x: -57.00819, y: -10.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66405410000000000800000000000000
-      internalID: 21300326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0024
       rect:
@@ -5539,15 +3608,7 @@ TextureImporter:
         - {x: 56.486637, y: -7.4999924}
         - {x: 25.48664, y: -38.499992}
         - {x: -11.513357, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86405410000000000800000000000000
-      internalID: 21300328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0015
       rect:
@@ -5566,15 +3627,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6405410000000000800000000000000
-      internalID: 21300330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0021
       rect:
@@ -5592,15 +3645,7 @@ TextureImporter:
         - {x: -3.0133743, y: 45.538055}
         - {x: 51.986626, y: 33.538055}
         - {x: 51.986626, y: -41.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6405410000000000800000000000000
-      internalID: 21300332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0029
       rect:
@@ -5621,15 +3666,7 @@ TextureImporter:
         - {x: -80.4753, y: 11.461948}
         - {x: -66.47531, y: 26.461948}
         - {x: -39.47531, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6405410000000000800000000000000
-      internalID: 21300334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0001
       rect:
@@ -5647,15 +3684,7 @@ TextureImporter:
         - {x: -13.013702, y: 42.0247}
         - {x: 57.986294, y: 35.0247}
         - {x: 41.986298, y: -41.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07405410000000000800000000000000
-      internalID: 21300336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0031
       rect:
@@ -5675,15 +3704,7 @@ TextureImporter:
         - {x: -31.499996, y: -54.016598}
         - {x: -80.49999, y: 4.9834023}
         - {x: -72.5, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27405410000000000800000000000000
-      internalID: 21300338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0037
       rect:
@@ -5703,15 +3724,7 @@ TextureImporter:
         - {x: 59.500008, y: 7.0247}
         - {x: 39.500008, y: -42.9753}
         - {x: -4.4999924, y: -43.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47405410000000000800000000000000
-      internalID: 21300340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0005
       rect:
@@ -5729,15 +3742,7 @@ TextureImporter:
         - {x: 32.99523, y: -45.4753}
         - {x: -51.00477, y: -36.475296}
         - {x: -52.00477, y: 26.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67405410000000000800000000000000
-      internalID: 21300342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0032
       rect:
@@ -5756,15 +3761,7 @@ TextureImporter:
         - {x: 39.48425, y: -55.016598}
         - {x: -36.515747, y: -53.016598}
         - {x: -78.51575, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87405410000000000800000000000000
-      internalID: 21300344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0029
       rect:
@@ -5783,15 +3780,7 @@ TextureImporter:
         - {x: -63.038048, y: 1.9999924}
         - {x: -4.0380526, y: 63.999992}
         - {x: 51.96195, y: 40.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7405410000000000800000000000000
-      internalID: 21300346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0048
       rect:
@@ -5810,15 +3799,7 @@ TextureImporter:
         - {x: 61.46195, y: 43.475323}
         - {x: 61.46195, y: 0.47532272}
         - {x: 36.46195, y: -51.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7405410000000000800000000000000
-      internalID: 21300348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0027
       rect:
@@ -5837,15 +3818,7 @@ TextureImporter:
         - {x: 28.99192, y: -46.00001}
         - {x: -27.00808, y: -54.000008}
         - {x: -58.00808, y: -20.000011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7405410000000000800000000000000
-      internalID: 21300350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0008
       rect:
@@ -5866,15 +3839,7 @@ TextureImporter:
         - {x: -15.508196, y: 58.02467}
         - {x: 39.491806, y: 46.024662}
         - {x: 56.4918, y: -6.9753304}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08405410000000000800000000000000
-      internalID: 21300352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0017
       rect:
@@ -5892,15 +3857,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28405410000000000800000000000000
-      internalID: 21300354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0015
       rect:
@@ -5918,15 +3875,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48405410000000000800000000000000
-      internalID: 21300356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0028
       rect:
@@ -5947,15 +3896,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68405410000000000800000000000000
-      internalID: 21300358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0015
       rect:
@@ -5974,15 +3915,7 @@ TextureImporter:
         - {x: 55.024673, y: 36.0247}
         - {x: 50.024673, y: -33.975296}
         - {x: -9.975327, y: -44.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88405410000000000800000000000000
-      internalID: 21300360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0016
       rect:
@@ -6002,15 +3935,7 @@ TextureImporter:
         - {x: 52.974316, y: 26.488441}
         - {x: 56.97432, y: -16.511559}
         - {x: 36.97432, y: -45.51156}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8405410000000000800000000000000
-      internalID: 21300362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0013
       rect:
@@ -6031,15 +3956,7 @@ TextureImporter:
         - {x: 50.999992, y: -22.961943}
         - {x: 24.999989, y: -48.96194}
         - {x: -21.000008, y: -48.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8405410000000000800000000000000
-      internalID: 21300364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0048
       rect:
@@ -6060,15 +3977,7 @@ TextureImporter:
         - {x: -16.5166, y: -51.010986}
         - {x: -47.516598, y: -39.010986}
         - {x: -56.5166, y: 19.989014}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8405410000000000800000000000000
-      internalID: 21300366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0028
       rect:
@@ -6088,15 +3997,7 @@ TextureImporter:
         - {x: 40.967392, y: -46.46194}
         - {x: -28.032604, y: -46.46194}
         - {x: -67.03261, y: -7.461941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09405410000000000800000000000000
-      internalID: 21300368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0007
       rect:
@@ -6116,15 +4017,7 @@ TextureImporter:
         - {x: 55.487606, y: -8.499992}
         - {x: 40.487606, y: -37.499992}
         - {x: -6.512394, y: -53.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29405410000000000800000000000000
-      internalID: 21300370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0008
       rect:
@@ -6144,15 +4037,7 @@ TextureImporter:
         - {x: -16.975327, y: -40.99998}
         - {x: -18.975325, y: -16.99998}
         - {x: -49.975323, y: -14.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49405410000000000800000000000000
-      internalID: 21300372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0031
       rect:
@@ -6171,15 +4056,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69405410000000000800000000000000
-      internalID: 21300374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0039
       rect:
@@ -6197,15 +4074,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89405410000000000800000000000000
-      internalID: 21300376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0026
       rect:
@@ -6224,15 +4093,7 @@ TextureImporter:
         - {x: 32.500008, y: -44.000008}
         - {x: -4.4999924, y: -58.000008}
         - {x: -42.499992, y: -44.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9405410000000000800000000000000
-      internalID: 21300378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0045
       rect:
@@ -6253,15 +4114,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9405410000000000800000000000000
-      internalID: 21300380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0016
       rect:
@@ -6280,15 +4133,7 @@ TextureImporter:
         - {x: 55.024673, y: 36.0247}
         - {x: 50.024673, y: -33.975296}
         - {x: -9.975327, y: -44.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9405410000000000800000000000000
-      internalID: 21300382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0003
       rect:
@@ -6307,15 +4152,7 @@ TextureImporter:
         - {x: 28.99192, y: -46.00001}
         - {x: -27.00808, y: -54.000008}
         - {x: -58.00808, y: -20.000011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a405410000000000800000000000000
-      internalID: 21300384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0042
       rect:
@@ -6334,15 +4171,7 @@ TextureImporter:
         - {x: 55.024673, y: 36.0247}
         - {x: 50.024673, y: -33.975296}
         - {x: -9.975327, y: -44.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a405410000000000800000000000000
-      internalID: 21300386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0011
       rect:
@@ -6362,15 +4191,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a405410000000000800000000000000
-      internalID: 21300388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0018
       rect:
@@ -6390,15 +4211,7 @@ TextureImporter:
         - {x: 48.486607, y: -48.50001}
         - {x: -12.51339, y: -58.500008}
         - {x: -45.51339, y: -18.500011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a405410000000000800000000000000
-      internalID: 21300390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0042
       rect:
@@ -6419,15 +4232,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a405410000000000800000000000000
-      internalID: 21300392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0010
       rect:
@@ -6448,15 +4253,7 @@ TextureImporter:
         - {x: -40.49243, y: -60.024693}
         - {x: -68.49243, y: 24.975307}
         - {x: -56.49243, y: 52.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa405410000000000800000000000000
-      internalID: 21300394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0045
       rect:
@@ -6476,15 +4273,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca405410000000000800000000000000
-      internalID: 21300396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0033
       rect:
@@ -6504,15 +4293,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea405410000000000800000000000000
-      internalID: 21300398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0002
       rect:
@@ -6531,15 +4312,7 @@ TextureImporter:
         - {x: 32.500008, y: -44.000008}
         - {x: -4.4999924, y: -58.000008}
         - {x: -42.499992, y: -44.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b405410000000000800000000000000
-      internalID: 21300400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0010
       rect:
@@ -6558,15 +4331,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b405410000000000800000000000000
-      internalID: 21300402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0006
       rect:
@@ -6586,15 +4351,7 @@ TextureImporter:
         - {x: 55.487606, y: -8.499992}
         - {x: 40.487606, y: -37.499992}
         - {x: -6.512394, y: -53.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b405410000000000800000000000000
-      internalID: 21300404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0012
       rect:
@@ -6615,15 +4372,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b405410000000000800000000000000
-      internalID: 21300406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0020
       rect:
@@ -6641,15 +4390,7 @@ TextureImporter:
         - {x: -3.0133743, y: 45.538055}
         - {x: 51.986626, y: 33.538055}
         - {x: 51.986626, y: -41.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b405410000000000800000000000000
-      internalID: 21300408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0021
       rect:
@@ -6669,15 +4410,7 @@ TextureImporter:
         - {x: -10.513374, y: -39.46194}
         - {x: -18.513374, y: -20.46194}
         - {x: -64.513374, y: 1.5380611}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab405410000000000800000000000000
-      internalID: 21300410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0010
       rect:
@@ -6696,15 +4429,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb405410000000000800000000000000
-      internalID: 21300412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0034
       rect:
@@ -6724,15 +4449,7 @@ TextureImporter:
         - {x: 55.487606, y: -8.499992}
         - {x: 40.487606, y: -37.499992}
         - {x: -6.512394, y: -53.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb405410000000000800000000000000
-      internalID: 21300414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0003
       rect:
@@ -6752,15 +4469,7 @@ TextureImporter:
         - {x: -17.512394, y: -49.03805}
         - {x: -61.512394, y: -23.038052}
         - {x: -53.51239, y: 22.961948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c405410000000000800000000000000
-      internalID: 21300416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0016
       rect:
@@ -6780,15 +4489,7 @@ TextureImporter:
         - {x: 67.014206, y: 1.5000153}
         - {x: 21.014206, y: -48.499985}
         - {x: -4.985794, y: -40.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c405410000000000800000000000000
-      internalID: 21300418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0038
       rect:
@@ -6808,15 +4509,7 @@ TextureImporter:
         - {x: -47.03805, y: 22.000008}
         - {x: -0.038051605, y: 65}
         - {x: 52.96195, y: 30.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c405410000000000800000000000000
-      internalID: 21300420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0012
       rect:
@@ -6837,15 +4530,7 @@ TextureImporter:
         - {x: 50.999992, y: -22.961943}
         - {x: 24.999989, y: -48.96194}
         - {x: -21.000008, y: -48.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c405410000000000800000000000000
-      internalID: 21300422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0031
       rect:
@@ -6863,15 +4548,7 @@ TextureImporter:
         - {x: 32.99523, y: -45.4753}
         - {x: -51.00477, y: -36.475296}
         - {x: -52.00477, y: 26.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c405410000000000800000000000000
-      internalID: 21300424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0036
       rect:
@@ -6891,15 +4568,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac405410000000000800000000000000
-      internalID: 21300426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0009
       rect:
@@ -6918,15 +4587,7 @@ TextureImporter:
         - {x: -42.52821, y: -48.52468}
         - {x: -32.52821, y: 22.475319}
         - {x: 17.47179, y: 81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc405410000000000800000000000000
-      internalID: 21300428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0044
       rect:
@@ -6944,15 +4605,7 @@ TextureImporter:
         - {x: -13.97533, y: 42.517437}
         - {x: 49.02467, y: 35.517437}
         - {x: 55.02467, y: -40.482563}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec405410000000000800000000000000
-      internalID: 21300430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0013
       rect:
@@ -6972,15 +4625,7 @@ TextureImporter:
         - {x: -47.03805, y: 22.000008}
         - {x: -0.038051605, y: 65}
         - {x: 52.96195, y: 30.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d405410000000000800000000000000
-      internalID: 21300432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0017
       rect:
@@ -7000,15 +4645,7 @@ TextureImporter:
         - {x: 52.974316, y: 26.488441}
         - {x: 56.97432, y: -16.511559}
         - {x: 36.97432, y: -45.51156}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d405410000000000800000000000000
-      internalID: 21300434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0013
       rect:
@@ -7028,15 +4665,7 @@ TextureImporter:
         - {x: -5.4753, y: -41.49999}
         - {x: -22.475296, y: -11.499989}
         - {x: -60.4753, y: 7.5000114}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d405410000000000800000000000000
-      internalID: 21300436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0046
       rect:
@@ -7056,15 +4685,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d405410000000000800000000000000
-      internalID: 21300438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0033
       rect:
@@ -7084,15 +4705,7 @@ TextureImporter:
         - {x: -13.508186, y: -51.03805}
         - {x: -44.508186, y: -36.03805}
         - {x: -67.50819, y: 10.961945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d405410000000000800000000000000
-      internalID: 21300440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0039
       rect:
@@ -7110,15 +4723,7 @@ TextureImporter:
         - {x: -56.475315, y: 11.000015}
         - {x: -53.475315, y: 43.000015}
         - {x: 47.524685, y: 38.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad405410000000000800000000000000
-      internalID: 21300442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0036
       rect:
@@ -7136,15 +4741,7 @@ TextureImporter:
         - {x: 59.490128, y: 39.024673}
         - {x: 38.490135, y: -45.975327}
         - {x: -32.509865, y: -54.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd405410000000000800000000000000
-      internalID: 21300444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0012
       rect:
@@ -7163,15 +4760,7 @@ TextureImporter:
         - {x: 55.48661, y: -11.024673}
         - {x: 8.48661, y: -51.024673}
         - {x: -65.51339, y: 5.9753265}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed405410000000000800000000000000
-      internalID: 21300446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0001
       rect:
@@ -7191,15 +4780,7 @@ TextureImporter:
         - {x: -10.513374, y: -39.46194}
         - {x: -18.513374, y: -20.46194}
         - {x: -64.513374, y: 1.5380611}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e405410000000000800000000000000
-      internalID: 21300448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0022
       rect:
@@ -7217,15 +4798,7 @@ TextureImporter:
         - {x: -3.0133743, y: 45.538055}
         - {x: 51.986626, y: 33.538055}
         - {x: 51.986626, y: -41.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e405410000000000800000000000000
-      internalID: 21300450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0019
       rect:
@@ -7243,15 +4816,7 @@ TextureImporter:
         - {x: -56.475315, y: 11.000015}
         - {x: -53.475315, y: 43.000015}
         - {x: 47.524685, y: 38.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e405410000000000800000000000000
-      internalID: 21300452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0008
       rect:
@@ -7271,15 +4836,7 @@ TextureImporter:
         - {x: 32.486626, y: -40.4753}
         - {x: -49.513374, y: -41.4753}
         - {x: -58.513374, y: 14.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e405410000000000800000000000000
-      internalID: 21300454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0011
       rect:
@@ -7297,15 +4854,7 @@ TextureImporter:
         - {x: -17.999985, y: 43.5247}
         - {x: 59.000015, y: 36.5247}
         - {x: 35.000015, y: -36.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e405410000000000800000000000000
-      internalID: 21300456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0002
       rect:
@@ -7324,15 +4873,7 @@ TextureImporter:
         - {x: -66.51991, y: 13.019947}
         - {x: -28.519909, y: 45.019947}
         - {x: 32.48009, y: 49.019947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae405410000000000800000000000000
-      internalID: 21300458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0038
       rect:
@@ -7351,15 +4892,7 @@ TextureImporter:
         - {x: 39.48425, y: -55.016598}
         - {x: -36.515747, y: -53.016598}
         - {x: -78.51575, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce405410000000000800000000000000
-      internalID: 21300460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0005
       rect:
@@ -7380,15 +4913,7 @@ TextureImporter:
         - {x: -16.995148, y: -38.975296}
         - {x: -16.995148, y: -17.9753}
         - {x: -52.995148, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee405410000000000800000000000000
-      internalID: 21300462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0022
       rect:
@@ -7408,15 +4933,7 @@ TextureImporter:
         - {x: -48.9753, y: 1.5000076}
         - {x: -6.9752994, y: 81.50001}
         - {x: 31.0247, y: 26.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f405410000000000800000000000000
-      internalID: 21300464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0036
       rect:
@@ -7436,15 +4953,7 @@ TextureImporter:
         - {x: 28.03806, y: 27.475319}
         - {x: 48.038055, y: -34.52468}
         - {x: 33.03806, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f405410000000000800000000000000
-      internalID: 21300466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0003
       rect:
@@ -7465,15 +4974,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f405410000000000800000000000000
-      internalID: 21300468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0046
       rect:
@@ -7494,15 +4995,7 @@ TextureImporter:
         - {x: -15.038065, y: -41.975296}
         - {x: -14.038067, y: -15.9753}
         - {x: -52.038063, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f405410000000000800000000000000
-      internalID: 21300470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0017
       rect:
@@ -7522,15 +5015,7 @@ TextureImporter:
         - {x: 48.486607, y: -48.50001}
         - {x: -12.51339, y: -58.500008}
         - {x: -45.51339, y: -18.500011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f405410000000000800000000000000
-      internalID: 21300472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0007
       rect:
@@ -7549,15 +5034,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af405410000000000800000000000000
-      internalID: 21300474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0006
       rect:
@@ -7576,15 +5053,7 @@ TextureImporter:
         - {x: -43.999077, y: -47.02468}
         - {x: -31.999077, y: 21.975319}
         - {x: 23.000923, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf405410000000000800000000000000
-      internalID: 21300476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0040
       rect:
@@ -7604,15 +5073,7 @@ TextureImporter:
         - {x: 39.499996, y: -43.000008}
         - {x: -7.500004, y: -66.00001}
         - {x: -55.500004, y: -9.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef405410000000000800000000000000
-      internalID: 21300478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0018
       rect:
@@ -7630,15 +5091,7 @@ TextureImporter:
         - {x: -13.97533, y: 42.517437}
         - {x: 49.02467, y: 35.517437}
         - {x: 55.02467, y: -40.482563}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00505410000000000800000000000000
-      internalID: 21300480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0020
       rect:
@@ -7657,15 +5110,7 @@ TextureImporter:
         - {x: 39.48425, y: -55.016598}
         - {x: -36.515747, y: -53.016598}
         - {x: -78.51575, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20505410000000000800000000000000
-      internalID: 21300482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0032
       rect:
@@ -7683,15 +5128,7 @@ TextureImporter:
         - {x: 32.99523, y: -45.4753}
         - {x: -51.00477, y: -36.475296}
         - {x: -52.00477, y: 26.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40505410000000000800000000000000
-      internalID: 21300484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0023
       rect:
@@ -7710,15 +5147,7 @@ TextureImporter:
         - {x: 41.5, y: 44.499992}
         - {x: 57.5, y: -3.5}
         - {x: 35.5, y: -52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60505410000000000800000000000000
-      internalID: 21300486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0001
       rect:
@@ -7738,15 +5167,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80505410000000000800000000000000
-      internalID: 21300488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0022
       rect:
@@ -7765,15 +5186,7 @@ TextureImporter:
         - {x: 42.500008, y: 42.5247}
         - {x: 56.500008, y: -5.4753}
         - {x: 32.500008, y: -55.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0505410000000000800000000000000
-      internalID: 21300490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0047
       rect:
@@ -7793,15 +5206,7 @@ TextureImporter:
         - {x: -45.999985, y: 11.524704}
         - {x: -21.999987, y: 62.5247}
         - {x: 35.00001, y: 47.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0505410000000000800000000000000
-      internalID: 21300492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0025
       rect:
@@ -7820,15 +5225,7 @@ TextureImporter:
         - {x: 32.500008, y: -44.000008}
         - {x: -4.4999924, y: -58.000008}
         - {x: -42.499992, y: -44.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0505410000000000800000000000000
-      internalID: 21300494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0028
       rect:
@@ -7848,15 +5245,7 @@ TextureImporter:
         - {x: -16.975327, y: -40.99998}
         - {x: -18.975325, y: -16.99998}
         - {x: -49.975323, y: -14.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01505410000000000800000000000000
-      internalID: 21300496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0048
       rect:
@@ -7876,15 +5265,7 @@ TextureImporter:
         - {x: -45.999985, y: 11.524704}
         - {x: -21.999987, y: 62.5247}
         - {x: 35.00001, y: 47.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21505410000000000800000000000000
-      internalID: 21300498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0026
       rect:
@@ -7903,15 +5284,7 @@ TextureImporter:
         - {x: 39.48425, y: -55.016598}
         - {x: -36.515747, y: -53.016598}
         - {x: -78.51575, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41505410000000000800000000000000
-      internalID: 21300500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0031
       rect:
@@ -7931,15 +5304,7 @@ TextureImporter:
         - {x: -17.512394, y: -49.03805}
         - {x: -61.512394, y: -23.038052}
         - {x: -53.51239, y: 22.961948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61505410000000000800000000000000
-      internalID: 21300502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0027
       rect:
@@ -7957,15 +5322,7 @@ TextureImporter:
         - {x: -13.013702, y: 42.0247}
         - {x: 57.986294, y: 35.0247}
         - {x: 41.986298, y: -41.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81505410000000000800000000000000
-      internalID: 21300504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0033
       rect:
@@ -7984,15 +5341,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1505410000000000800000000000000
-      internalID: 21300506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0014
       rect:
@@ -8010,15 +5359,7 @@ TextureImporter:
         - {x: -1.9753151, y: 43.0247}
         - {x: 59.024685, y: 33.0247}
         - {x: 38.024685, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1505410000000000800000000000000
-      internalID: 21300508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0014
       rect:
@@ -8038,15 +5379,7 @@ TextureImporter:
         - {x: -5.4753, y: -41.49999}
         - {x: -22.475296, y: -11.499989}
         - {x: -60.4753, y: 7.5000114}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1505410000000000800000000000000
-      internalID: 21300510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0042
       rect:
@@ -8066,15 +5399,7 @@ TextureImporter:
         - {x: -10.513374, y: -39.46194}
         - {x: -18.513374, y: -20.46194}
         - {x: -64.513374, y: 1.5380611}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02505410000000000800000000000000
-      internalID: 21300512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0017
       rect:
@@ -8094,15 +5419,7 @@ TextureImporter:
         - {x: 59.500008, y: 7.0247}
         - {x: 39.500008, y: -42.9753}
         - {x: -4.4999924, y: -43.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22505410000000000800000000000000
-      internalID: 21300514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0008
       rect:
@@ -8121,15 +5438,7 @@ TextureImporter:
         - {x: -54.52468, y: -10.975315}
         - {x: -43.524685, y: 23.024685}
         - {x: 12.475313, y: 68.02469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42505410000000000800000000000000
-      internalID: 21300516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0020
       rect:
@@ -8149,15 +5458,7 @@ TextureImporter:
         - {x: 22.514204, y: 48.47532}
         - {x: 48.514202, y: -34.52468}
         - {x: 33.514206, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62505410000000000800000000000000
-      internalID: 21300518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0025
       rect:
@@ -8178,15 +5479,7 @@ TextureImporter:
         - {x: -16.995148, y: -38.975296}
         - {x: -16.995148, y: -17.9753}
         - {x: -52.995148, y: -13.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82505410000000000800000000000000
-      internalID: 21300520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0017
       rect:
@@ -8207,15 +5500,7 @@ TextureImporter:
         - {x: -80.4753, y: 11.461948}
         - {x: -66.47531, y: 26.461948}
         - {x: -39.47531, y: 15.461948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2505410000000000800000000000000
-      internalID: 21300522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0014
       rect:
@@ -8234,15 +5519,7 @@ TextureImporter:
         - {x: 39.48425, y: -55.016598}
         - {x: -36.515747, y: -53.016598}
         - {x: -78.51575, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2505410000000000800000000000000
-      internalID: 21300524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0044
       rect:
@@ -8262,15 +5539,7 @@ TextureImporter:
         - {x: 40.500008, y: -51.97531}
         - {x: -9.499991, y: -58.97531}
         - {x: -58.499992, y: -1.9753108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2505410000000000800000000000000
-      internalID: 21300526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0035
       rect:
@@ -8290,15 +5559,7 @@ TextureImporter:
         - {x: 67.014206, y: 1.5000153}
         - {x: 21.014206, y: -48.499985}
         - {x: -4.985794, y: -40.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03505410000000000800000000000000
-      internalID: 21300528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0012
       rect:
@@ -8318,15 +5579,7 @@ TextureImporter:
         - {x: -36.487614, y: 19.975319}
         - {x: 9.512386, y: 79.97532}
         - {x: 38.512386, y: 23.975317}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23505410000000000800000000000000
-      internalID: 21300530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0035
       rect:
@@ -8344,15 +5597,7 @@ TextureImporter:
         - {x: 59.490128, y: 39.024673}
         - {x: 38.490135, y: -45.975327}
         - {x: -32.509865, y: -54.975323}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43505410000000000800000000000000
-      internalID: 21300532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0035
       rect:
@@ -8372,15 +5617,7 @@ TextureImporter:
         - {x: 55.487606, y: -8.499992}
         - {x: 40.487606, y: -37.499992}
         - {x: -6.512394, y: -53.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63505410000000000800000000000000
-      internalID: 21300534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0009
       rect:
@@ -8401,15 +5638,7 @@ TextureImporter:
         - {x: -15.508196, y: 58.02467}
         - {x: 39.491806, y: 46.024662}
         - {x: 56.4918, y: -6.9753304}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83505410000000000800000000000000
-      internalID: 21300536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0018
       rect:
@@ -8427,15 +5656,7 @@ TextureImporter:
         - {x: -37.487614, y: -74.02468}
         - {x: -44.487614, y: 14.975319}
         - {x: -17.487614, y: 76.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3505410000000000800000000000000
-      internalID: 21300538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0005
       rect:
@@ -8455,15 +5676,7 @@ TextureImporter:
         - {x: -13.508186, y: -51.03805}
         - {x: -44.508186, y: -36.03805}
         - {x: -67.50819, y: 10.961945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3505410000000000800000000000000
-      internalID: 21300540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0048
       rect:
@@ -8484,15 +5697,7 @@ TextureImporter:
         - {x: -11.51339, y: -46.4753}
         - {x: -14.51339, y: -14.4753}
         - {x: -56.51339, y: -9.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3505410000000000800000000000000
-      internalID: 21300542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0032
       rect:
@@ -8511,15 +5716,7 @@ TextureImporter:
         - {x: 55.48661, y: -11.024673}
         - {x: 8.48661, y: -51.024673}
         - {x: -65.51339, y: 5.9753265}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04505410000000000800000000000000
-      internalID: 21300544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0024
       rect:
@@ -8540,15 +5737,7 @@ TextureImporter:
         - {x: -72.9876, y: 27.980091}
         - {x: -46.98761, y: 51.98009}
         - {x: -24.98761, y: 19.980091}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24505410000000000800000000000000
-      internalID: 21300546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0005
       rect:
@@ -8567,15 +5756,7 @@ TextureImporter:
         - {x: -63.038048, y: 1.9999924}
         - {x: -4.0380526, y: 63.999992}
         - {x: 51.96195, y: 40.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44505410000000000800000000000000
-      internalID: 21300548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0047
       rect:
@@ -8594,15 +5775,7 @@ TextureImporter:
         - {x: 45.499985, y: -41.9753}
         - {x: -38.500015, y: -40.975296}
         - {x: -61.500015, y: 15.0247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64505410000000000800000000000000
-      internalID: 21300550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Petted0013
       rect:
@@ -8622,15 +5795,7 @@ TextureImporter:
         - {x: 28.03806, y: 27.475319}
         - {x: 48.038055, y: -34.52468}
         - {x: 33.03806, y: -63.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84505410000000000800000000000000
-      internalID: 21300552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0019
       rect:
@@ -8650,15 +5815,7 @@ TextureImporter:
         - {x: -31.499996, y: -54.016598}
         - {x: -80.49999, y: 4.9834023}
         - {x: -72.5, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4505410000000000800000000000000
-      internalID: 21300554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0032
       rect:
@@ -8678,15 +5835,7 @@ TextureImporter:
         - {x: -17.512394, y: -49.03805}
         - {x: -61.512394, y: -23.038052}
         - {x: -53.51239, y: 22.961948}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4505410000000000800000000000000
-      internalID: 21300556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0043
       rect:
@@ -8706,15 +5855,7 @@ TextureImporter:
         - {x: -31.499996, y: -54.016598}
         - {x: -80.49999, y: 4.9834023}
         - {x: -72.5, y: 22.983402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4505410000000000800000000000000
-      internalID: 21300558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0021
       rect:
@@ -8735,15 +5876,7 @@ TextureImporter:
         - {x: -74.47529, y: 8.975307}
         - {x: -67.475296, y: 24.975307}
         - {x: -23.475296, y: 22.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05505410000000000800000000000000
-      internalID: 21300560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0007
       rect:
@@ -8763,15 +5896,7 @@ TextureImporter:
         - {x: -16.975327, y: -40.99998}
         - {x: -18.975325, y: -16.99998}
         - {x: -49.975323, y: -14.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25505410000000000800000000000000
-      internalID: 21300562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Bread_petted0006
       rect:
@@ -8789,15 +5914,7 @@ TextureImporter:
         - {x: 32.99523, y: -45.4753}
         - {x: -51.00477, y: -36.475296}
         - {x: -52.00477, y: 26.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45505410000000000800000000000000
-      internalID: 21300564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_GummyCrewmate_petted0004
       rect:
@@ -8816,15 +5933,7 @@ TextureImporter:
         - {x: 28.99192, y: -46.00001}
         - {x: -27.00808, y: -54.000008}
         - {x: -58.00808, y: -20.000011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65505410000000000800000000000000
-      internalID: 21300566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_pet_Ham_petted0022
       rect:
@@ -8844,15 +5953,7 @@ TextureImporter:
         - {x: -10.513374, y: -39.46194}
         - {x: -18.513374, y: -20.46194}
         - {x: -64.513374, y: 1.5380611}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85505410000000000800000000000000
-      internalID: 21300568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: dogHW2021_petted0044
       rect:
@@ -8871,15 +5972,7 @@ TextureImporter:
         - {x: 39.48425, y: -55.016598}
         - {x: -36.515747, y: -53.016598}
         - {x: -78.51575, y: 31.9834}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5505410000000000800000000000000
-      internalID: 21300570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0018
       rect:
@@ -8898,15 +5991,7 @@ TextureImporter:
         - {x: 39.475304, y: 42.999992}
         - {x: 58.475307, y: 2}
         - {x: 44.475307, y: -49}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5505410000000000800000000000000
-      internalID: 21300572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: guiltyspark_petted0025
       rect:
@@ -8926,316 +6011,9 @@ TextureImporter:
         - {x: 54.475323, y: 16.508095}
         - {x: 51.475323, y: -32.491905}
         - {x: 23.475323, y: -50.491905}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5505410000000000800000000000000
-      internalID: 21300574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      guiltyspark_petted0014: 21300078
-      guiltyspark_petted0004: 21300104
-      Clank_Petted0008: 21300170
-      Clank_Petted0025: 21300290
-      2022_foodcube_pet_Ham_petted0008: 21300372
-      2022_foodcube_pet_Ham_petted0004: 21300054
-      guiltyspark_petted0026: 21300088
-      2022_foodcube_pet_Bread_petted0030: 21300084
-      dogHW2021_petted0018: 21300042
-      guiltyspark_petted0010: 21300098
-      guiltyspark_petted0024: 21300148
-      2022_foodcube_pet_Ham_petted0011: 21300280
-      dogHW2021_petted0046: 21300162
-      2022_foodcube_pet_Ham_petted0033: 21300166
-      2022_foodcube_pet_Bread_petted0036: 21300426
-      2022_foodcube_pet_Ham_petted0020: 21300306
-      guiltyspark_petted0018: 21300572
-      2022_foodcube_pet_Ham_petted0030: 21300070
-      2022_foodcube_pet_GummyCrewmate_petted0046: 21300438
-      guiltyspark_petted0007: 21300370
-      2022_foodcube_pet_GummyCrewmate_petted0044: 21300526
-      2022_foodcube_pet_GummyCrewmate_petted0004: 21300566
-      dogHW2021_petted0015: 21300028
-      2022_foodcube_pet_Ham_petted0013: 21300436
-      2022_foodcube_pet_Ham_petted0039: 21300442
-      2022_foodcube_pet_Ham_petted0032: 21300544
-      2022_foodcube_pet_Bread_petted0047: 21300550
-      2022_foodcube_pet_Ham_petted0005: 21300462
-      2022_foodcube_pet_Ham_petted0009: 21300284
-      2022_foodcube_pet_Bread_petted0005: 21300342
-      Clank_Petted0036: 21300466
-      2022_foodcube_pet_Bread_petted0009: 21300086
-      dogHW2021_petted0006: 21300052
-      guiltyspark_petted0032: 21300556
-      dogHW2021_petted0035: 21300168
-      Clank_Petted0017: 21300354
-      2022_foodcube_pet_Bread_petted0012: 21300198
-      2022_foodcube_pet_GummyCrewmate_petted0001: 21300242
-      2022_foodcube_pet_Ham_petted0019: 21300452
-      2022_foodcube_pet_Bread_petted0003: 21300154
-      2022_foodcube_pet_Ham_petted0043: 21300218
-      2022_foodcube_pet_GummyCrewmate_petted0024: 21300026
-      dogHW2021_petted0041: 21300254
-      2022_foodcube_pet_Ham_petted0044: 21300302
-      guiltyspark_petted0020: 21300258
-      guiltyspark_petted0011: 21300278
-      2022_foodcube_pet_Bread_petted0040: 21300110
-      2022_foodcube_pet_Ham_petted0012: 21300446
-      Clank_Petted0039: 21300376
-      dogHW2021_petted0032: 21300344
-      Clank_Petted0012: 21300530
-      Clank_Petted0003: 21300120
-      dogHW2021_petted0016: 21300012
-      2022_foodcube_pet_Ham_petted0027: 21300190
-      2022_foodcube_pet_Ham_petted0040: 21300082
-      Clank_Petted0023: 21300014
-      Clank_Petted0034: 21300196
-      Clank_Petted0032: 21300152
-      2022_foodcube_pet_Ham_petted0022: 21300568
-      Clank_Petted0020: 21300518
-      2022_foodcube_pet_Ham_petted0003: 21300188
-      2022_foodcube_pet_Bread_petted0037: 21300324
-      2022_foodcube_pet_Ham_petted0037: 21300340
-      2022_foodcube_pet_Bread_petted0010: 21300202
-      dogHW2021_petted0042: 21300392
-      dogHW2021_petted0008: 21300232
-      guiltyspark_petted0017: 21300434
-      2022_foodcube_pet_Bread_petted0006: 21300564
-      dogHW2021_petted0013: 21300024
-      2022_foodcube_pet_Bread_petted0021: 21300332
-      Clank_Petted0009: 21300428
-      dogHW2021_petted0014: 21300524
-      2022_foodcube_pet_Ham_petted0024: 21300328
-      Clank_Petted0004: 21300314
-      Clank_Petted0048: 21300238
-      guiltyspark_petted0035: 21300534
-      guiltyspark_petted0001: 21300288
-      Clank_Petted0011: 21300388
-      Clank_Petted0005: 21300022
-      2022_foodcube_pet_Bread_petted0016: 21300382
-      guiltyspark_petted0034: 21300414
-      dogHW2021_petted0048: 21300348
-      dogHW2021_petted0009: 21300272
-      guiltyspark_petted0028: 21300368
-      Clank_Petted0024: 21300112
-      2022_foodcube_pet_GummyCrewmate_petted0039: 21300006
-      2022_foodcube_pet_GummyCrewmate_petted0012: 21300224
-      2022_foodcube_pet_Ham_petted0031: 21300260
-      guiltyspark_petted0003: 21300416
-      2022_foodcube_pet_Bread_petted0035: 21300038
-      dogHW2021_petted0033: 21300304
-      Clank_Petted0033: 21300398
-      guiltyspark_petted0002: 21300458
-      2022_foodcube_pet_GummyCrewmate_petted0036: 21300444
-      2022_foodcube_pet_GummyCrewmate_petted0048: 21300498
-      guiltyspark_petted0037: 21300002
-      dogHW2021_petted0037: 21300300
-      dogHW2021_petted0002: 21300308
-      2022_foodcube_pet_GummyCrewmate_petted0030: 21300056
-      2022_foodcube_pet_GummyCrewmate_petted0035: 21300532
-      dogHW2021_petted0045: 21300380
-      Clank_Petted0040: 21300036
-      2022_foodcube_pet_GummyCrewmate_petted0002: 21300400
-      2022_foodcube_pet_Bread_petted0038: 21300060
-      guiltyspark_petted0012: 21300422
-      dogHW2021_petted0030: 21300094
-      dogHW2021_petted0004: 21300210
-      2022_foodcube_pet_Ham_petted0048: 21300542
-      2022_foodcube_pet_GummyCrewmate_petted0011: 21300124
-      Clank_Petted0043: 21300130
-      dogHW2021_petted0044: 21300570
-      dogHW2021_petted0031: 21300338
-      2022_foodcube_pet_Bread_petted0028: 21300276
-      2022_foodcube_pet_GummyCrewmate_petted0040: 21300478
-      2022_foodcube_pet_Bread_petted0007: 21300256
-      2022_foodcube_pet_Bread_petted0019: 21300266
-      guiltyspark_petted0006: 21300404
-      dogHW2021_petted0025: 21300158
-      guiltyspark_petted0030: 21300034
-      Clank_Petted0001: 21300488
-      2022_foodcube_pet_Bread_petted0039: 21300194
-      2022_foodcube_pet_Ham_petted0006: 21300318
-      Clank_Petted0022: 21300464
-      2022_foodcube_pet_GummyCrewmate_petted0025: 21300494
-      dogHW2021_petted0047: 21300102
-      2022_foodcube_pet_Ham_petted0016: 21300418
-      2022_foodcube_pet_Ham_petted0047: 21300100
-      2022_foodcube_pet_GummyCrewmate_petted0043: 21300134
-      2022_foodcube_pet_Bread_petted0045: 21300298
-      guiltyspark_petted0019: 21300214
-      2022_foodcube_pet_Bread_petted0004: 21300270
-      guiltyspark_petted0041: 21300296
-      Clank_Petted0019: 21300220
-      2022_foodcube_pet_GummyCrewmate_petted0022: 21300108
-      2022_foodcube_pet_Ham_petted0007: 21300562
-      Clank_Petted0016: 21300192
-      dogHW2021_petted0039: 21300208
-      2022_foodcube_pet_Bread_petted0015: 21300360
-      dogHW2021_petted0010: 21300394
-      2022_foodcube_pet_Bread_petted0014: 21300508
-      2022_foodcube_pet_Ham_petted0010: 21300046
-      guiltyspark_petted0045: 21300216
-      guiltyspark_petted0008: 21300352
-      2022_foodcube_pet_Bread_petted0027: 21300504
-      guiltyspark_petted0044: 21300212
-      guiltyspark_petted0029: 21300096
-      2022_foodcube_pet_Ham_petted0041: 21300322
-      dogHW2021_petted0024: 21300546
-      guiltyspark_petted0005: 21300540
-      dogHW2021_petted0012: 21300406
-      2022_foodcube_pet_Bread_petted0042: 21300386
-      dogHW2021_petted0034: 21300076
-      2022_foodcube_pet_Ham_petted0029: 21300326
-      2022_foodcube_pet_Ham_petted0038: 21300080
-      2022_foodcube_pet_Bread_petted0025: 21300262
-      2022_foodcube_pet_GummyCrewmate_petted0032: 21300138
-      Clank_Petted0007: 21300474
-      2022_foodcube_pet_GummyCrewmate_petted0047: 21300492
-      2022_foodcube_pet_Bread_petted0034: 21300244
-      2022_foodcube_pet_GummyCrewmate_petted0016: 21300274
-      2022_foodcube_pet_GummyCrewmate_petted0029: 21300346
-      2022_foodcube_pet_Bread_petted0041: 21300020
-      guiltyspark_petted0013: 21300364
-      dogHW2021_petted0026: 21300500
-      2022_foodcube_pet_GummyCrewmate_petted0033: 21300506
-      Clank_Petted0038: 21300160
-      2022_foodcube_pet_Bread_petted0008: 21300454
-      Clank_Petted0045: 21300068
-      2022_foodcube_pet_Bread_petted0048: 21300136
-      Clank_Petted0026: 21300292
-      2022_foodcube_pet_Bread_petted0002: 21300186
-      2022_foodcube_pet_GummyCrewmate_petted0028: 21300010
-      Clank_Petted0044: 21300048
-      dogHW2021_petted0040: 21300248
-      guiltyspark_petted0023: 21300486
-      2022_foodcube_pet_Ham_petted0042: 21300512
-      dogHW2021_petted0001: 21300150
-      guiltyspark_petted0038: 21300058
-      Clank_Petted0037: 21300230
-      dogHW2021_petted0003: 21300468
-      dogHW2021_petted0043: 21300558
-      Clank_Petted0014: 21300268
-      Clank_Petted0030: 21300310
-      guiltyspark_petted0027: 21300074
-      2022_foodcube_pet_Ham_petted0034: 21300174
-      2022_foodcube_pet_GummyCrewmate_petted0023: 21300250
-      2022_foodcube_pet_Bread_petted0001: 21300336
-      2022_foodcube_pet_Bread_petted0032: 21300484
-      dogHW2021_petted0011: 21300246
-      2022_foodcube_pet_Ham_petted0025: 21300520
-      2022_foodcube_pet_Ham_petted0036: 21300092
-      guiltyspark_petted0015: 21300330
-      guiltyspark_petted0047: 21300040
-      2022_foodcube_pet_GummyCrewmate_petted0026: 21300378
-      guiltyspark_petted0042: 21300176
-      2022_foodcube_pet_Ham_petted0028: 21300496
-      2022_foodcube_pet_Bread_petted0043: 21300200
-      2022_foodcube_pet_Bread_petted0031: 21300424
-      2022_foodcube_pet_Ham_petted0015: 21300156
-      2022_foodcube_pet_GummyCrewmate_petted0034: 21300062
-      2022_foodcube_pet_Bread_petted0023: 21300066
-      2022_foodcube_pet_Bread_petted0026: 21300122
-      Clank_Petted0010: 21300402
-      Clank_Petted0035: 21300140
-      guiltyspark_petted0016: 21300362
-      2022_foodcube_pet_GummyCrewmate_petted0019: 21300222
-      2022_foodcube_pet_GummyCrewmate_petted0020: 21300032
-      2022_foodcube_pet_GummyCrewmate_petted0017: 21300472
-      2022_foodcube_pet_Ham_petted0018: 21300146
-      Clank_Petted0031: 21300374
-      guiltyspark_petted0031: 21300502
-      dogHW2021_petted0017: 21300522
-      2022_foodcube_pet_Bread_petted0018: 21300480
-      2022_foodcube_pet_GummyCrewmate_petted0009: 21300044
-      guiltyspark_petted0036: 21300064
-      2022_foodcube_pet_GummyCrewmate_petted0013: 21300432
-      2022_foodcube_pet_Ham_petted0017: 21300514
-      guiltyspark_petted0025: 21300574
-      2022_foodcube_pet_Bread_petted0017: 21300164
-      guiltyspark_petted0046: 21300234
-      Clank_Petted0013: 21300552
-      Clank_Petted0002: 21300000
-      Clank_Petted0028: 21300050
-      2022_foodcube_pet_Ham_petted0001: 21300448
-      guiltyspark_petted0021: 21300182
-      2022_foodcube_pet_Bread_petted0024: 21300128
-      guiltyspark_petted0040: 21300016
-      2022_foodcube_pet_Bread_petted0046: 21300282
-      2022_foodcube_pet_GummyCrewmate_petted0037: 21300320
-      guiltyspark_petted0022: 21300490
-      Clank_Petted0027: 21300252
-      2022_foodcube_pet_GummyCrewmate_petted0031: 21300184
-      2022_foodcube_pet_GummyCrewmate_petted0010: 21300412
-      2022_foodcube_pet_GummyCrewmate_petted0045: 21300396
-      dogHW2021_petted0027: 21300178
-      guiltyspark_petted0009: 21300536
-      2022_foodcube_pet_Ham_petted0046: 21300470
-      dogHW2021_petted0021: 21300560
-      2022_foodcube_pet_GummyCrewmate_petted0003: 21300384
-      Clank_Petted0021: 21300172
-      2022_foodcube_pet_GummyCrewmate_petted0014: 21300004
-      Clank_Petted0006: 21300476
-      2022_foodcube_pet_Ham_petted0026: 21300236
-      Clank_Petted0018: 21300538
-      2022_foodcube_pet_Ham_petted0021: 21300410
-      2022_foodcube_pet_GummyCrewmate_petted0006: 21300144
-      2022_foodcube_pet_GummyCrewmate_petted0027: 21300350
-      2022_foodcube_pet_GummyCrewmate_petted0007: 21300106
-      Clank_Petted0015: 21300356
-      2022_foodcube_pet_GummyCrewmate_petted0042: 21300072
-      dogHW2021_petted0005: 21300294
-      Clank_Petted0047: 21300316
-      dogHW2021_petted0019: 21300554
-      2022_foodcube_pet_GummyCrewmate_petted0018: 21300390
-      2022_foodcube_pet_Bread_petted0022: 21300450
-      2022_foodcube_pet_Bread_petted0020: 21300408
-      2022_foodcube_pet_GummyCrewmate_petted0005: 21300548
-      guiltyspark_petted0039: 21300030
-      2022_foodcube_pet_GummyCrewmate_petted0041: 21300264
-      Clank_Petted0046: 21300126
-      guiltyspark_petted0043: 21300180
-      2022_foodcube_pet_GummyCrewmate_petted0038: 21300420
-      2022_foodcube_pet_Ham_petted0002: 21300018
-      2022_foodcube_pet_Ham_petted0035: 21300528
-      2022_foodcube_pet_Bread_petted0033: 21300114
-      2022_foodcube_pet_Ham_petted0045: 21300142
-      dogHW2021_petted0029: 21300334
-      dogHW2021_petted0022: 21300228
-      2022_foodcube_pet_Bread_petted0029: 21300008
-      dogHW2021_petted0007: 21300090
-      dogHW2021_petted0023: 21300312
-      Clank_Petted0029: 21300132
-      dogHW2021_petted0028: 21300358
-      2022_foodcube_pet_Bread_petted0013: 21300240
-      2022_foodcube_pet_Ham_petted0014: 21300510
-      Clank_Petted0042: 21300116
-      guiltyspark_petted0048: 21300366
-      dogHW2021_petted0036: 21300226
-      2022_foodcube_pet_GummyCrewmate_petted0021: 21300206
-      2022_foodcube_pet_GummyCrewmate_petted0008: 21300516
-      dogHW2021_petted0038: 21300460
-      2022_foodcube_pet_GummyCrewmate_petted0015: 21300204
-      guiltyspark_petted0033: 21300440
-      2022_foodcube_pet_Ham_petted0023: 21300118
-      dogHW2021_petted0020: 21300482
-      2022_foodcube_pet_Bread_petted0011: 21300456
-      Clank_Petted0041: 21300286
-      2022_foodcube_pet_Bread_petted0044: 21300430
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

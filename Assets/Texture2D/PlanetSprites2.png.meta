@@ -1,153 +1,56 @@
 fileFormatVersion: 2
 guid: 5c943d6fd35d2ee4a95b8b6f6b7dbc43
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: panel_electrical_shower
-  - first:
-      213: 21300002
-    second: panel_security
-  - first:
-      213: 21300004
-    second: panel_drill
-  - first:
-      213: 21300006
-    second: panel_weather
-  - first:
-      213: 21300008
-    second: panel_gascan
-  - first:
-      213: 21300010
-    second: panel_temphot
-  - first:
-      213: 21300012
-    second: panel_boardingpass
-  - first:
-      213: 21300014
-    second: panel_cooler1
-  - first:
-      213: 21300016
-    second: panel_weapons
-  - first:
-      213: 21300018
-    second: panel_cooler2
-  - first:
-      213: 21300020
-    second: panel_node
-  - first:
-      213: 21300022
-    second: panel_manifolds
-  - first:
-      213: 21300024
-    second: panel_garbage
-  - first:
-      213: 21300026
-    second: panel_nodeSnowshadow
-  - first:
-      213: 21300028
-    second: EmergencyButton
-  - first:
-      213: 21300030
-    second: panel_datahome
-  - first:
-      213: 21300032
-    second: room_tunnel1
-  - first:
-      213: 21300034
-    second: panel_02
-  - first:
-      213: 21300036
-    second: panel_comms
-  - first:
-      213: 21300038
-    second: panel_scanID
-  - first:
-      213: 21300040
-    second: panel_samples
-  - first:
-      213: 21300042
-    second: panel_electrical_sciencehall
-  - first:
-      213: 21300044
-    second: panel_treewires
-  - first:
-      213: 21300046
-    second: panel_wifi
-  - first:
-      213: 21300048
-    second: panel_medplatform
-  - first:
-      213: 21300050
-    second: panel_waterjug
-  - first:
-      213: 21300052
-    second: panel_vitals
-  - first:
-      213: 21300054
-    second: panel_electrical_adminhall
-  - first:
-      213: 21300056
-    second: Suppressor_MainOff
-  - first:
-      213: 21300058
-    second: panel_electrical_bathroom
-  - first:
-      213: 21300060
-    second: panel_nav
-  - first:
-      213: 21300062
-    second: panel_fuel
-  - first:
-      213: 21300064
-    second: Suppressor_Main
-  - first:
-      213: 21300066
-    second: panel_electrical_elec
-  - first:
-      213: 21300068
-    second: panel_keys
-  - first:
-      213: 21300070
-    second: vent_map3
-  - first:
-      213: 21300072
-    second: panel_Tree
-  - first:
-      213: 21300074
-    second: panel_simonsays
-  - first:
-      213: 21300076
-    second: projector
-  - first:
-      213: 21300078
-    second: panel_observatory
-  - first:
-      213: 21300080
-    second: panel_tempcold
-  - first:
-      213: 21300082
-    second: panel_data
-  - first:
-      213: 21300084
-    second: treetop
-  - first:
-      213: 21300086
-    second: panel_electric
-  - first:
-      213: 21300088
-    second: panel_hand
-  - first:
-      213: 21300090
-    second: panel_waterwheel
-  - first:
-      213: 21300092
-    second: panel_nodeDirtshadow
-  - first:
-      213: 21300094
-    second: panel_watercooler
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: panel_electrical_shower
+    21300002: panel_security
+    21300004: panel_drill
+    21300006: panel_weather
+    21300008: panel_gascan
+    21300010: panel_temphot
+    21300012: panel_boardingpass
+    21300014: panel_cooler1
+    21300016: panel_weapons
+    21300018: panel_cooler2
+    21300020: panel_node
+    21300022: panel_manifolds
+    21300024: panel_garbage
+    21300026: panel_nodeSnowshadow
+    21300028: EmergencyButton
+    21300030: panel_datahome
+    21300032: room_tunnel1
+    21300034: panel_02
+    21300036: panel_comms
+    21300038: panel_scanID
+    21300040: panel_samples
+    21300042: panel_electrical_sciencehall
+    21300044: panel_treewires
+    21300046: panel_wifi
+    21300048: panel_medplatform
+    21300050: panel_waterjug
+    21300052: panel_vitals
+    21300054: panel_electrical_adminhall
+    21300056: Suppressor_MainOff
+    21300058: panel_electrical_bathroom
+    21300060: panel_nav
+    21300062: panel_fuel
+    21300064: Suppressor_Main
+    21300066: panel_electrical_elec
+    21300068: panel_keys
+    21300070: vent_map3
+    21300072: panel_Tree
+    21300074: panel_simonsays
+    21300076: projector
+    21300078: panel_observatory
+    21300080: panel_tempcold
+    21300082: panel_data
+    21300084: treetop
+    21300086: panel_electric
+    21300088: panel_hand
+    21300090: panel_waterwheel
+    21300092: panel_nodeDirtshadow
+    21300094: panel_watercooler
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -155,8 +58,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -164,12 +65,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -177,13 +73,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -192,97 +85,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -302,15 +163,7 @@ TextureImporter:
         - {x: -16.5, y: 11.5}
         - {x: 16.5, y: 11.5}
         - {x: 16.5, y: -11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_security
       rect:
@@ -330,15 +183,7 @@ TextureImporter:
         - {x: -62.5, y: -12}
         - {x: 65.5, y: -10}
         - {x: 129.5, y: 33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_drill
       rect:
@@ -355,15 +200,7 @@ TextureImporter:
         - {x: -11.5, y: 14.999999}
         - {x: 11.5, y: 14.999999}
         - {x: 11.5, y: -14.999999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_weather
       rect:
@@ -382,15 +219,7 @@ TextureImporter:
         - {x: 27.5, y: -26.499998}
         - {x: 26.499998, y: -27.5}
         - {x: -16.5, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_gascan
       rect:
@@ -408,15 +237,7 @@ TextureImporter:
         - {x: 7, y: 24.021452}
         - {x: 18, y: 16.021452}
         - {x: 18, y: -23.978548}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_temphot
       rect:
@@ -434,15 +255,7 @@ TextureImporter:
         - {x: -32.538048, y: 33.513374}
         - {x: 31.461952, y: 32.513374}
         - {x: 31.461952, y: -19.486624}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_boardingpass
       rect:
@@ -460,15 +273,7 @@ TextureImporter:
         - {x: 35, y: -9.999999}
         - {x: -9.999999, y: -35}
         - {x: -35, y: -35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_cooler1
       rect:
@@ -485,15 +290,7 @@ TextureImporter:
         - {x: -40, y: 23.499998}
         - {x: 40, y: 23.499998}
         - {x: 40, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_weapons
       rect:
@@ -512,15 +309,7 @@ TextureImporter:
         - {x: 4.486643, y: -31.529865}
         - {x: -28.513355, y: -30.529865}
         - {x: -29.513357, y: 24.470133}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_cooler2
       rect:
@@ -537,15 +326,7 @@ TextureImporter:
         - {x: -28, y: 45.5}
         - {x: 28, y: 45.5}
         - {x: 28, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_node
       rect:
@@ -563,15 +344,7 @@ TextureImporter:
         - {x: -19.5, y: -35.961937}
         - {x: -19.5, y: 10.038059}
         - {x: -5.5, y: 36.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_manifolds
       rect:
@@ -590,15 +363,7 @@ TextureImporter:
         - {x: -4.5, y: -18}
         - {x: -22.5, y: -18}
         - {x: -22.5, y: -1}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_garbage
       rect:
@@ -615,15 +380,7 @@ TextureImporter:
         - {x: -11, y: 14}
         - {x: 11, y: 14}
         - {x: 11, y: -13.999999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_nodeSnowshadow
       rect:
@@ -640,15 +397,7 @@ TextureImporter:
         - {x: -21.499998, y: 11}
         - {x: 21.499998, y: 11}
         - {x: 21.499998, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: EmergencyButton
       rect:
@@ -665,15 +414,7 @@ TextureImporter:
         - {x: -25.5, y: 22.999998}
         - {x: 25.5, y: 22.999998}
         - {x: 25.5, y: -22.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_datahome
       rect:
@@ -692,15 +433,7 @@ TextureImporter:
         - {x: 32.000008, y: 22.50989}
         - {x: 54.000004, y: 16.50989}
         - {x: 49.000004, y: -26.490108}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: room_tunnel1
       rect:
@@ -729,15 +462,7 @@ TextureImporter:
         - {x: -296.5, y: 66.5}
         - {x: -296.5, y: 183.49998}
         - {x: -278.5, y: 324.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_02
       rect:
@@ -754,15 +479,7 @@ TextureImporter:
         - {x: -29.499998, y: 18}
         - {x: 29.499998, y: 18}
         - {x: 29.499998, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_comms
       rect:
@@ -779,15 +496,7 @@ TextureImporter:
         - {x: -16.5, y: 17.5}
         - {x: 16.5, y: 17.5}
         - {x: 16.5, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_scanID
       rect:
@@ -807,15 +516,7 @@ TextureImporter:
         - {x: -33.499996, y: -27.5}
         - {x: -33.499996, y: 19.5}
         - {x: -32.5, y: 25.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_samples
       rect:
@@ -832,15 +533,7 @@ TextureImporter:
         - {x: -32, y: 20.5}
         - {x: 32, y: 20.5}
         - {x: 32, y: -20.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_electrical_sciencehall
       rect:
@@ -857,15 +550,7 @@ TextureImporter:
         - {x: -16.5, y: 11.5}
         - {x: 16.5, y: 11.5}
         - {x: 16.5, y: -11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_treewires
       rect:
@@ -888,15 +573,7 @@ TextureImporter:
         - {x: -13, y: -19}
         - {x: -32, y: -19}
         - {x: -32, y: 9}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_wifi
       rect:
@@ -915,15 +592,7 @@ TextureImporter:
         - {x: -12.5, y: -16.5}
         - {x: -12.5, y: 4.5}
         - {x: -4.5, y: 26.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_medplatform
       rect:
@@ -945,15 +614,7 @@ TextureImporter:
         - {x: -63, y: -11.499999}
         - {x: -63, y: 7.4999995}
         - {x: -56, y: 19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_waterjug
       rect:
@@ -970,15 +631,7 @@ TextureImporter:
         - {x: -20, y: 31}
         - {x: 20, y: 31}
         - {x: 20, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_vitals
       rect:
@@ -995,15 +648,7 @@ TextureImporter:
         - {x: -38, y: 22}
         - {x: 38, y: 22}
         - {x: 38, y: -22}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_electrical_adminhall
       rect:
@@ -1020,15 +665,7 @@ TextureImporter:
         - {x: -16.5, y: 11.5}
         - {x: 16.5, y: 11.5}
         - {x: 16.5, y: -11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Suppressor_MainOff
       rect:
@@ -1051,15 +688,7 @@ TextureImporter:
         - {x: -44, y: -71.5}
         - {x: -31, y: -63.5}
         - {x: -32, y: 97.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_electrical_bathroom
       rect:
@@ -1076,15 +705,7 @@ TextureImporter:
         - {x: -16.5, y: 11.5}
         - {x: 16.5, y: 11.5}
         - {x: 16.5, y: -11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_nav
       rect:
@@ -1101,15 +722,7 @@ TextureImporter:
         - {x: -15.5, y: 12.5}
         - {x: 15.5, y: 12.5}
         - {x: 15.5, y: -12.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_fuel
       rect:
@@ -1131,15 +744,7 @@ TextureImporter:
         - {x: -37, y: -16}
         - {x: -37, y: -2}
         - {x: -20, y: 19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Suppressor_Main
       rect:
@@ -1162,15 +767,7 @@ TextureImporter:
         - {x: -44, y: -71.5}
         - {x: -31, y: -63.5}
         - {x: -32, y: 97.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_electrical_elec
       rect:
@@ -1187,15 +784,7 @@ TextureImporter:
         - {x: -16.5, y: 11.5}
         - {x: 16.5, y: 11.5}
         - {x: 16.5, y: -11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_keys
       rect:
@@ -1212,15 +801,7 @@ TextureImporter:
         - {x: -11.499999, y: 17}
         - {x: 11.499999, y: 17}
         - {x: 11.499999, y: -17}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vent_map3
       rect:
@@ -1239,15 +820,7 @@ TextureImporter:
         - {x: 37.46195, y: -18.000004}
         - {x: -33.53805, y: -12.000005}
         - {x: -37.53805, y: -0.0000047683716}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_Tree
       rect:
@@ -1266,15 +839,7 @@ TextureImporter:
         - {x: 24, y: -22.5}
         - {x: 3, y: -22.5}
         - {x: -21, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_simonsays
       rect:
@@ -1293,15 +858,7 @@ TextureImporter:
         - {x: 28, y: -31.5}
         - {x: -28, y: -31.5}
         - {x: -28, y: 8.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: projector
       rect:
@@ -1321,15 +878,7 @@ TextureImporter:
         - {x: -6.5, y: -52.96194}
         - {x: -56.5, y: -52.96194}
         - {x: -56.5, y: 2.0380592}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_observatory
       rect:
@@ -1354,15 +903,7 @@ TextureImporter:
         - {x: -13, y: -26.499998}
         - {x: -28, y: 22.5}
         - {x: -47, y: 54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_tempcold
       rect:
@@ -1380,15 +921,7 @@ TextureImporter:
         - {x: 31, y: -12.518143}
         - {x: 2, y: -33.518143}
         - {x: -31, y: -33.518143}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_data
       rect:
@@ -1405,15 +938,7 @@ TextureImporter:
         - {x: -16.5, y: 13.499999}
         - {x: 16.5, y: 13.499999}
         - {x: 16.5, y: -13.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: treetop
       rect:
@@ -1440,15 +965,7 @@ TextureImporter:
         - {x: -127, y: -55.5}
         - {x: -131, y: 3.5}
         - {x: -149, y: 22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_electric
       rect:
@@ -1465,15 +982,7 @@ TextureImporter:
         - {x: -25, y: 24}
         - {x: 25, y: 24}
         - {x: 25, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_hand
       rect:
@@ -1490,15 +999,7 @@ TextureImporter:
         - {x: -14, y: 14.999999}
         - {x: 14, y: 14.999999}
         - {x: 14, y: -14.999999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_waterwheel
       rect:
@@ -1517,15 +1018,7 @@ TextureImporter:
         - {x: 35.976124, y: 23.000002}
         - {x: 35.976124, y: -25.999996}
         - {x: -29.023876, y: -26.999994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_nodeDirtshadow
       rect:
@@ -1542,15 +1035,7 @@ TextureImporter:
         - {x: -21.499998, y: 11}
         - {x: 21.499998, y: 11}
         - {x: 21.499998, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_watercooler
       rect:
@@ -1567,76 +1052,9 @@ TextureImporter:
         - {x: -20.5, y: 26}
         - {x: 20.5, y: 26}
         - {x: 20.5, y: -25.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      panel_tempcold: 21300080
-      panel_observatory: 21300078
-      panel_electric: 21300086
-      panel_nodeDirtshadow: 21300092
-      panel_data: 21300082
-      panel_node: 21300020
-      panel_02: 21300034
-      panel_samples: 21300040
-      panel_cooler2: 21300018
-      panel_scanID: 21300038
-      panel_Tree: 21300072
-      panel_electrical_bathroom: 21300058
-      Suppressor_Main: 21300064
-      panel_watercooler: 21300094
-      panel_keys: 21300068
-      panel_cooler1: 21300014
-      panel_manifolds: 21300022
-      panel_electrical_sciencehall: 21300042
-      panel_boardingpass: 21300012
-      EmergencyButton: 21300028
-      projector: 21300076
-      panel_datahome: 21300030
-      Suppressor_MainOff: 21300056
-      panel_electrical_elec: 21300066
-      panel_waterwheel: 21300090
-      panel_garbage: 21300024
-      panel_vitals: 21300052
-      treetop: 21300084
-      vent_map3: 21300070
-      panel_security: 21300002
-      room_tunnel1: 21300032
-      panel_gascan: 21300008
-      panel_weather: 21300006
-      panel_simonsays: 21300074
-      panel_wifi: 21300046
-      panel_treewires: 21300044
-      panel_medplatform: 21300048
-      panel_drill: 21300004
-      panel_electrical_adminhall: 21300054
-      panel_waterjug: 21300050
-      panel_electrical_shower: 21300000
-      panel_fuel: 21300062
-      panel_comms: 21300036
-      panel_temphot: 21300010
-      panel_weapons: 21300016
-      panel_hand: 21300088
-      panel_nodeSnowshadow: 21300026
-      panel_nav: 21300060
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

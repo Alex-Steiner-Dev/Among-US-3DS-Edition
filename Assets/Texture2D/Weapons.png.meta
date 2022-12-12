@@ -1,414 +1,143 @@
 fileFormatVersion: 2
 guid: 14df4a2aba4159d49ba2f2a6c80e7769
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: bullettop-capglo0014
-  - first:
-      213: 21300002
-    second: bullettop-capglo0054
-  - first:
-      213: 21300004
-    second: bullettop-capglo0021
-  - first:
-      213: 21300006
-    second: bullettop-capglo0036
-  - first:
-      213: 21300008
-    second: bullettop-capglo0072
-  - first:
-      213: 21300010
-    second: bullettop-capglo0031
-  - first:
-      213: 21300012
-    second: bullettop-capglo0052
-  - first:
-      213: 21300014
-    second: Mainframe-weaponmainframe0008
-  - first:
-      213: 21300016
-    second: glowdot-glowdot0016
-  - first:
-      213: 21300018
-    second: glowdot-glowdot0001
-  - first:
-      213: 21300020
-    second: bullettop-capglo0069
-  - first:
-      213: 21300022
-    second: bullettop-capglo0015
-  - first:
-      213: 21300024
-    second: glowdot-glowdot0025
-  - first:
-      213: 21300026
-    second: weap_rail3
-  - first:
-      213: 21300028
-    second: glowdot-glowdot0022
-  - first:
-      213: 21300030
-    second: bullettop-capglo0057
-  - first:
-      213: 21300032
-    second: Mainframe-weaponmainframe0022
-  - first:
-      213: 21300034
-    second: bullettop-capglo0008
-  - first:
-      213: 21300036
-    second: bullettop-capglo0038
-  - first:
-      213: 21300038
-    second: weap_wall
-  - first:
-      213: 21300040
-    second: bullettop-capglo0046
-  - first:
-      213: 21300042
-    second: Mainframe-weaponmainframe0001
-  - first:
-      213: 21300044
-    second: glowdot-glowdot0021
-  - first:
-      213: 21300046
-    second: Mainframe-weaponmainframe0002
-  - first:
-      213: 21300048
-    second: bullettop-capglo0037
-  - first:
-      213: 21300050
-    second: bullettop-capglo0013
-  - first:
-      213: 21300052
-    second: bullettop-capglo0053
-  - first:
-      213: 21300054
-    second: bullettop-capglo0066
-  - first:
-      213: 21300056
-    second: bullettop-capglo0076
-  - first:
-      213: 21300058
-    second: bullettop-capglo0073
-  - first:
-      213: 21300060
-    second: bullettop-capglo0045
-  - first:
-      213: 21300062
-    second: bullettop-capglo0071
-  - first:
-      213: 21300064
-    second: bullettop-capglo0022
-  - first:
-      213: 21300066
-    second: bullettop-capglo0061
-  - first:
-      213: 21300068
-    second: Mainframe-weaponmainframe0010
-  - first:
-      213: 21300070
-    second: weap_pipeR
-  - first:
-      213: 21300072
-    second: bullettop-capglo0062
-  - first:
-      213: 21300074
-    second: bullettop-capglo0010
-  - first:
-      213: 21300076
-    second: weap_walltop
-  - first:
-      213: 21300078
-    second: bullettop-capglo0018
-  - first:
-      213: 21300080
-    second: glowdot-glowdot0008
-  - first:
-      213: 21300082
-    second: glowdot-glowdot0023
-  - first:
-      213: 21300084
-    second: bullettop-capglo0065
-  - first:
-      213: 21300086
-    second: glowdot-glowdot0012
-  - first:
-      213: 21300088
-    second: bullettop-capglo0064
-  - first:
-      213: 21300090
-    second: glowdot-glowdot0005
-  - first:
-      213: 21300092
-    second: bullettop-capglo0074
-  - first:
-      213: 21300094
-    second: glowdot-glowdot0011
-  - first:
-      213: 21300096
-    second: bullettop-capglo0051
-  - first:
-      213: 21300098
-    second: bullettop-capglo0060
-  - first:
-      213: 21300100
-    second: bullettop-capglo0035
-  - first:
-      213: 21300102
-    second: Mainframe-weaponmainframe0021
-  - first:
-      213: 21300104
-    second: bullettop-capglo0003
-  - first:
-      213: 21300106
-    second: bullettop-capglo0020
-  - first:
-      213: 21300108
-    second: bullettop-capglo0029
-  - first:
-      213: 21300110
-    second: bullettop-capglo0024
-  - first:
-      213: 21300112
-    second: bullettop-capglo0039
-  - first:
-      213: 21300114
-    second: glowdot-glowdot0024
-  - first:
-      213: 21300116
-    second: bullettop-capglo0041
-  - first:
-      213: 21300118
-    second: bullettop-capglo0025
-  - first:
-      213: 21300120
-    second: Mainframe-weaponmainframe0007
-  - first:
-      213: 21300122
-    second: bullettop-capglo0070
-  - first:
-      213: 21300124
-    second: glowdot-glowdot0019
-  - first:
-      213: 21300126
-    second: bullettop-capglo0030
-  - first:
-      213: 21300128
-    second: bullettop-capglo0012
-  - first:
-      213: 21300130
-    second: bullettop-capglo0050
-  - first:
-      213: 21300132
-    second: glowdot-glowdot0009
-  - first:
-      213: 21300134
-    second: bullettop-capglo0017
-  - first:
-      213: 21300136
-    second: bullettop-capglo0063
-  - first:
-      213: 21300138
-    second: bullettop-capglo0007
-  - first:
-      213: 21300140
-    second: glowdot-glowdot0003
-  - first:
-      213: 21300142
-    second: bullettop-capglo0047
-  - first:
-      213: 21300144
-    second: glowdot-glowdot0007
-  - first:
-      213: 21300146
-    second: glowdot-glowdot0014
-  - first:
-      213: 21300148
-    second: bullettop-capglo0068
-  - first:
-      213: 21300150
-    second: Mainframe-weaponmainframe0016
-  - first:
-      213: 21300152
-    second: bullettop-capglo0044
-  - first:
-      213: 21300154
-    second: weap_rail2
-  - first:
-      213: 21300156
-    second: Mainframe-weaponmainframe0012
-  - first:
-      213: 21300158
-    second: bullettop-capglo0016
-  - first:
-      213: 21300160
-    second: glowdot-glowdot0018
-  - first:
-      213: 21300162
-    second: bullettop-capglo0001
-  - first:
-      213: 21300164
-    second: bullettop-capglo0027
-  - first:
-      213: 21300166
-    second: bullettop-capglo0042
-  - first:
-      213: 21300168
-    second: bullettop-capglo0067
-  - first:
-      213: 21300170
-    second: Mainframe-weaponmainframe0015
-  - first:
-      213: 21300172
-    second: bullettop-capglo0011
-  - first:
-      213: 21300174
-    second: Mainframe-weaponmainframe0018
-  - first:
-      213: 21300176
-    second: Mainframe-weaponmainframe0011
-  - first:
-      213: 21300178
-    second: glowdot-glowdot0006
-  - first:
-      213: 21300180
-    second: Mainframe-weaponmainframe0005
-  - first:
-      213: 21300182
-    second: Mainframe-weaponmainframe0009
-  - first:
-      213: 21300184
-    second: bullettop-capglo0009
-  - first:
-      213: 21300186
-    second: bullettop-capglo0043
-  - first:
-      213: 21300188
-    second: glowdot-glowdot0020
-  - first:
-      213: 21300190
-    second: bullettop-capglo0075
-  - first:
-      213: 21300192
-    second: glowdot-glowdot0026
-  - first:
-      213: 21300194
-    second: glowdot-glowdot0015
-  - first:
-      213: 21300196
-    second: bullettop-capglo0033
-  - first:
-      213: 21300198
-    second: bullettop-capglo0028
-  - first:
-      213: 21300200
-    second: bullettop-capglo0004
-  - first:
-      213: 21300202
-    second: Mainframe-weaponmainframe0020
-  - first:
-      213: 21300204
-    second: weap_rail1
-  - first:
-      213: 21300206
-    second: bullettop-capglo0032
-  - first:
-      213: 21300208
-    second: Mainframe-weaponmainframe0014
-  - first:
-      213: 21300210
-    second: weap_platform
-  - first:
-      213: 21300212
-    second: bullettop-capglo0059
-  - first:
-      213: 21300214
-    second: bullettop-capglo0002
-  - first:
-      213: 21300216
-    second: bullettop-capglo0056
-  - first:
-      213: 21300218
-    second: bullettop-capglo0049
-  - first:
-      213: 21300220
-    second: bullettop-capglo0006
-  - first:
-      213: 21300222
-    second: glowdot-glowdot0010
-  - first:
-      213: 21300224
-    second: bullettop-capglo0034
-  - first:
-      213: 21300226
-    second: bullettop-capglo0040
-  - first:
-      213: 21300228
-    second: bullettop-capglo0058
-  - first:
-      213: 21300230
-    second: weap_hall
-  - first:
-      213: 21300232
-    second: glowdot-glowdot0004
-  - first:
-      213: 21300234
-    second: glowdot-glowdot0002
-  - first:
-      213: 21300236
-    second: bullettop-capglo0048
-  - first:
-      213: 21300238
-    second: weap_pipeL
-  - first:
-      213: 21300240
-    second: bullettop-capglo0019
-  - first:
-      213: 21300242
-    second: Mainframe-weaponmainframe0019
-  - first:
-      213: 21300244
-    second: Mainframe-weaponmainframe0006
-  - first:
-      213: 21300246
-    second: bullettop-capglo0023
-  - first:
-      213: 21300248
-    second: bullettop-capglo0055
-  - first:
-      213: 21300250
-    second: weap_floor
-  - first:
-      213: 21300252
-    second: Mainframe-weaponmainframe0004
-  - first:
-      213: 21300254
-    second: panel_weap
-  - first:
-      213: 21300256
-    second: Mainframe-weaponmainframe0003
-  - first:
-      213: 21300258
-    second: glowdot-glowdot0017
-  - first:
-      213: 21300260
-    second: bullettop-capglo0005
-  - first:
-      213: 21300262
-    second: glowdot-glowdot0013
-  - first:
-      213: 21300264
-    second: bullettop-capglo0026
-  - first:
-      213: 21300266
-    second: Mainframe-weaponmainframe0013
-  - first:
-      213: 21300268
-    second: Mainframe-weaponmainframe0017
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: bullettop-capglo0014
+    21300002: bullettop-capglo0054
+    21300004: bullettop-capglo0021
+    21300006: bullettop-capglo0036
+    21300008: bullettop-capglo0072
+    21300010: bullettop-capglo0031
+    21300012: bullettop-capglo0052
+    21300014: Mainframe-weaponmainframe0008
+    21300016: glowdot-glowdot0016
+    21300018: glowdot-glowdot0001
+    21300020: bullettop-capglo0069
+    21300022: bullettop-capglo0015
+    21300024: glowdot-glowdot0025
+    21300026: weap_rail3
+    21300028: glowdot-glowdot0022
+    21300030: bullettop-capglo0057
+    21300032: Mainframe-weaponmainframe0022
+    21300034: bullettop-capglo0008
+    21300036: bullettop-capglo0038
+    21300038: weap_wall
+    21300040: bullettop-capglo0046
+    21300042: Mainframe-weaponmainframe0001
+    21300044: glowdot-glowdot0021
+    21300046: Mainframe-weaponmainframe0002
+    21300048: bullettop-capglo0037
+    21300050: bullettop-capglo0013
+    21300052: bullettop-capglo0053
+    21300054: bullettop-capglo0066
+    21300056: bullettop-capglo0076
+    21300058: bullettop-capglo0073
+    21300060: bullettop-capglo0045
+    21300062: bullettop-capglo0071
+    21300064: bullettop-capglo0022
+    21300066: bullettop-capglo0061
+    21300068: Mainframe-weaponmainframe0010
+    21300070: weap_pipeR
+    21300072: bullettop-capglo0062
+    21300074: bullettop-capglo0010
+    21300076: weap_walltop
+    21300078: bullettop-capglo0018
+    21300080: glowdot-glowdot0008
+    21300082: glowdot-glowdot0023
+    21300084: bullettop-capglo0065
+    21300086: glowdot-glowdot0012
+    21300088: bullettop-capglo0064
+    21300090: glowdot-glowdot0005
+    21300092: bullettop-capglo0074
+    21300094: glowdot-glowdot0011
+    21300096: bullettop-capglo0051
+    21300098: bullettop-capglo0060
+    21300100: bullettop-capglo0035
+    21300102: Mainframe-weaponmainframe0021
+    21300104: bullettop-capglo0003
+    21300106: bullettop-capglo0020
+    21300108: bullettop-capglo0029
+    21300110: bullettop-capglo0024
+    21300112: bullettop-capglo0039
+    21300114: glowdot-glowdot0024
+    21300116: bullettop-capglo0041
+    21300118: bullettop-capglo0025
+    21300120: Mainframe-weaponmainframe0007
+    21300122: bullettop-capglo0070
+    21300124: glowdot-glowdot0019
+    21300126: bullettop-capglo0030
+    21300128: bullettop-capglo0012
+    21300130: bullettop-capglo0050
+    21300132: glowdot-glowdot0009
+    21300134: bullettop-capglo0017
+    21300136: bullettop-capglo0063
+    21300138: bullettop-capglo0007
+    21300140: glowdot-glowdot0003
+    21300142: bullettop-capglo0047
+    21300144: glowdot-glowdot0007
+    21300146: glowdot-glowdot0014
+    21300148: bullettop-capglo0068
+    21300150: Mainframe-weaponmainframe0016
+    21300152: bullettop-capglo0044
+    21300154: weap_rail2
+    21300156: Mainframe-weaponmainframe0012
+    21300158: bullettop-capglo0016
+    21300160: glowdot-glowdot0018
+    21300162: bullettop-capglo0001
+    21300164: bullettop-capglo0027
+    21300166: bullettop-capglo0042
+    21300168: bullettop-capglo0067
+    21300170: Mainframe-weaponmainframe0015
+    21300172: bullettop-capglo0011
+    21300174: Mainframe-weaponmainframe0018
+    21300176: Mainframe-weaponmainframe0011
+    21300178: glowdot-glowdot0006
+    21300180: Mainframe-weaponmainframe0005
+    21300182: Mainframe-weaponmainframe0009
+    21300184: bullettop-capglo0009
+    21300186: bullettop-capglo0043
+    21300188: glowdot-glowdot0020
+    21300190: bullettop-capglo0075
+    21300192: glowdot-glowdot0026
+    21300194: glowdot-glowdot0015
+    21300196: bullettop-capglo0033
+    21300198: bullettop-capglo0028
+    21300200: bullettop-capglo0004
+    21300202: Mainframe-weaponmainframe0020
+    21300204: weap_rail1
+    21300206: bullettop-capglo0032
+    21300208: Mainframe-weaponmainframe0014
+    21300210: weap_platform
+    21300212: bullettop-capglo0059
+    21300214: bullettop-capglo0002
+    21300216: bullettop-capglo0056
+    21300218: bullettop-capglo0049
+    21300220: bullettop-capglo0006
+    21300222: glowdot-glowdot0010
+    21300224: bullettop-capglo0034
+    21300226: bullettop-capglo0040
+    21300228: bullettop-capglo0058
+    21300230: weap_hall
+    21300232: glowdot-glowdot0004
+    21300234: glowdot-glowdot0002
+    21300236: bullettop-capglo0048
+    21300238: weap_pipeL
+    21300240: bullettop-capglo0019
+    21300242: Mainframe-weaponmainframe0019
+    21300244: Mainframe-weaponmainframe0006
+    21300246: bullettop-capglo0023
+    21300248: bullettop-capglo0055
+    21300250: weap_floor
+    21300252: Mainframe-weaponmainframe0004
+    21300254: panel_weap
+    21300256: Mainframe-weaponmainframe0003
+    21300258: glowdot-glowdot0017
+    21300260: bullettop-capglo0005
+    21300262: glowdot-glowdot0013
+    21300264: bullettop-capglo0026
+    21300266: Mainframe-weaponmainframe0013
+    21300268: Mainframe-weaponmainframe0017
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -416,8 +145,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -425,12 +152,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -438,13 +160,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -453,97 +172,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -565,15 +252,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0054
       rect:
@@ -592,15 +271,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0021
       rect:
@@ -619,15 +290,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0036
       rect:
@@ -646,15 +309,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0072
       rect:
@@ -673,15 +328,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0031
       rect:
@@ -700,15 +347,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0052
       rect:
@@ -727,15 +366,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0008
       rect:
@@ -755,15 +386,7 @@ TextureImporter:
         - {x: 42.529102, y: 26.499998}
         - {x: 33.529102, y: -46.5}
         - {x: 27.5291, y: -52.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0016
       rect:
@@ -780,15 +403,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0001
       rect:
@@ -805,15 +420,7 @@ TextureImporter:
         - {x: -8, y: 8}
         - {x: 8, y: 8}
         - {x: 8, y: -8}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0069
       rect:
@@ -832,15 +439,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0015
       rect:
@@ -859,15 +458,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0025
       rect:
@@ -884,15 +475,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_rail3
       rect:
@@ -924,15 +507,7 @@ TextureImporter:
         - {x: -61, y: -24.499998}
         - {x: -44, y: 1.5}
         - {x: -37, y: 49.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0022
       rect:
@@ -949,15 +524,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0057
       rect:
@@ -976,15 +543,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0022
       rect:
@@ -1007,15 +566,7 @@ TextureImporter:
         - {x: 34.5, y: -50.499996}
         - {x: 22.5, y: -51.5}
         - {x: -7.5, y: -31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0008
       rect:
@@ -1034,15 +585,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0038
       rect:
@@ -1061,15 +604,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_wall
       rect:
@@ -1097,15 +632,7 @@ TextureImporter:
         - {x: -122, y: 28.5}
         - {x: -163, y: 7.4999995}
         - {x: -191, y: 21.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0046
       rect:
@@ -1124,15 +651,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0001
       rect:
@@ -1155,15 +674,7 @@ TextureImporter:
         - {x: 34.5, y: -50.499996}
         - {x: 22.5, y: -51.5}
         - {x: -7.5, y: -31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0021
       rect:
@@ -1180,15 +691,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0002
       rect:
@@ -1210,15 +713,7 @@ TextureImporter:
         - {x: 34, y: -50.499996}
         - {x: 22, y: -51.5}
         - {x: -8, y: -31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0037
       rect:
@@ -1237,15 +732,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0013
       rect:
@@ -1264,15 +751,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0053
       rect:
@@ -1291,15 +770,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0066
       rect:
@@ -1318,15 +789,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0076
       rect:
@@ -1345,15 +808,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0073
       rect:
@@ -1372,15 +827,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0045
       rect:
@@ -1399,15 +846,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0071
       rect:
@@ -1426,15 +865,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0022
       rect:
@@ -1453,15 +884,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0061
       rect:
@@ -1480,15 +903,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0010
       rect:
@@ -1509,15 +924,7 @@ TextureImporter:
         - {x: 32, y: -50.499996}
         - {x: 21, y: -51.5}
         - {x: -39, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_pipeR
       rect:
@@ -1542,15 +949,7 @@ TextureImporter:
         - {x: -70, y: 16.5}
         - {x: -70, y: 42.5}
         - {x: -39.999996, y: 89.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0062
       rect:
@@ -1569,15 +968,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0010
       rect:
@@ -1596,15 +987,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_walltop
       rect:
@@ -1643,15 +1026,7 @@ TextureImporter:
         - {x: 260.5, y: 50.5}
         - {x: 83.5, y: 227.49998}
         - {x: 37.5, y: 230.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0018
       rect:
@@ -1670,15 +1045,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0008
       rect:
@@ -1695,15 +1062,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0023
       rect:
@@ -1720,15 +1079,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0065
       rect:
@@ -1747,15 +1098,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0012
       rect:
@@ -1772,15 +1115,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0064
       rect:
@@ -1799,15 +1134,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0005
       rect:
@@ -1824,15 +1151,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0074
       rect:
@@ -1851,15 +1170,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0011
       rect:
@@ -1876,15 +1187,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0051
       rect:
@@ -1903,15 +1206,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0060
       rect:
@@ -1930,15 +1225,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0035
       rect:
@@ -1957,15 +1244,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0021
       rect:
@@ -1986,15 +1265,7 @@ TextureImporter:
         - {x: 34.5, y: 3.5}
         - {x: 33.5, y: -47.5}
         - {x: 28.499998, y: -52.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0003
       rect:
@@ -2013,15 +1284,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0020
       rect:
@@ -2040,15 +1303,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0029
       rect:
@@ -2067,15 +1322,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0024
       rect:
@@ -2094,15 +1341,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0039
       rect:
@@ -2121,15 +1360,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0024
       rect:
@@ -2146,15 +1377,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0041
       rect:
@@ -2173,15 +1396,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0025
       rect:
@@ -2200,15 +1415,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0007
       rect:
@@ -2228,15 +1435,7 @@ TextureImporter:
         - {x: 42.529102, y: 25.486624}
         - {x: 33.529102, y: -47.513374}
         - {x: 27.5291, y: -53.51337}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0070
       rect:
@@ -2255,15 +1454,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0019
       rect:
@@ -2280,15 +1471,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0030
       rect:
@@ -2307,15 +1490,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0012
       rect:
@@ -2334,15 +1509,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0050
       rect:
@@ -2361,15 +1528,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0009
       rect:
@@ -2386,15 +1545,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0017
       rect:
@@ -2413,15 +1564,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0063
       rect:
@@ -2440,15 +1583,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0007
       rect:
@@ -2467,15 +1602,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0003
       rect:
@@ -2492,15 +1619,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0047
       rect:
@@ -2519,15 +1638,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0007
       rect:
@@ -2544,15 +1655,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0014
       rect:
@@ -2569,15 +1672,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0068
       rect:
@@ -2596,15 +1691,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0016
       rect:
@@ -2626,15 +1713,7 @@ TextureImporter:
         - {x: 32, y: -4.5}
         - {x: 31, y: -47.5}
         - {x: 26, y: -52.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0044
       rect:
@@ -2653,15 +1732,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_rail2
       rect:
@@ -2685,15 +1756,7 @@ TextureImporter:
         - {x: -9.5, y: -14}
         - {x: -15.5, y: 8}
         - {x: -43.5, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0012
       rect:
@@ -2716,15 +1779,7 @@ TextureImporter:
         - {x: 33, y: -50.499996}
         - {x: 21, y: -51.5}
         - {x: -38, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0016
       rect:
@@ -2743,15 +1798,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0018
       rect:
@@ -2768,15 +1815,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0001
       rect:
@@ -2795,15 +1834,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0027
       rect:
@@ -2822,15 +1853,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0042
       rect:
@@ -2849,15 +1872,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0067
       rect:
@@ -2876,15 +1891,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0015
       rect:
@@ -2904,15 +1911,7 @@ TextureImporter:
         - {x: 32, y: -49.999996}
         - {x: 18, y: -52}
         - {x: -39, y: -19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0011
       rect:
@@ -2931,15 +1930,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0018
       rect:
@@ -2960,15 +1951,7 @@ TextureImporter:
         - {x: 33.038063, y: -50.499996}
         - {x: 20.038063, y: -51.5}
         - {x: -37.961937, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0011
       rect:
@@ -2989,15 +1972,7 @@ TextureImporter:
         - {x: 32, y: -50.499996}
         - {x: 21, y: -51.5}
         - {x: -39, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0006
       rect:
@@ -3014,15 +1989,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0005
       rect:
@@ -3048,15 +2015,7 @@ TextureImporter:
         - {x: -41, y: -15.5}
         - {x: -41, y: -9.5}
         - {x: -36, y: -1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0009
       rect:
@@ -3075,15 +2034,7 @@ TextureImporter:
         - {x: 42, y: 25.5}
         - {x: 32, y: -47.5}
         - {x: 26.999998, y: -52.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0009
       rect:
@@ -3102,15 +2053,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0043
       rect:
@@ -3129,15 +2072,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0020
       rect:
@@ -3154,15 +2089,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0075
       rect:
@@ -3181,15 +2108,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0026
       rect:
@@ -3206,15 +2125,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0015
       rect:
@@ -3231,15 +2142,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0033
       rect:
@@ -3258,15 +2161,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0028
       rect:
@@ -3285,15 +2180,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0004
       rect:
@@ -3312,15 +2199,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0020
       rect:
@@ -3341,15 +2220,7 @@ TextureImporter:
         - {x: 32.53806, y: -47.5}
         - {x: 27.538057, y: -52.499996}
         - {x: -37.46194, y: -20.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_rail1
       rect:
@@ -3376,15 +2247,7 @@ TextureImporter:
         - {x: -56.5, y: -71.5}
         - {x: -6.5, y: -67.5}
         - {x: 12.5, y: -16.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0032
       rect:
@@ -3403,15 +2266,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0014
       rect:
@@ -3432,15 +2287,7 @@ TextureImporter:
         - {x: 32, y: -49.999996}
         - {x: 18, y: -52}
         - {x: -39, y: -19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_platform
       rect:
@@ -3469,15 +2316,7 @@ TextureImporter:
         - {x: -199.5, y: 33}
         - {x: -138.5, y: 35}
         - {x: -123.5, y: 79.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0059
       rect:
@@ -3496,15 +2335,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0002
       rect:
@@ -3523,15 +2354,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0056
       rect:
@@ -3550,15 +2373,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0049
       rect:
@@ -3577,15 +2392,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0006
       rect:
@@ -3604,15 +2411,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0010
       rect:
@@ -3629,15 +2428,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0034
       rect:
@@ -3656,15 +2447,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0040
       rect:
@@ -3683,15 +2466,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0058
       rect:
@@ -3710,15 +2485,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_hall
       rect:
@@ -3740,15 +2507,7 @@ TextureImporter:
         - {x: 52.499996, y: -89}
         - {x: -79.49999, y: -89}
         - {x: -79.49999, y: 90}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0004
       rect:
@@ -3765,15 +2524,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0002
       rect:
@@ -3790,15 +2541,7 @@ TextureImporter:
         - {x: -8, y: 8}
         - {x: 8, y: 8}
         - {x: 8, y: -8}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0048
       rect:
@@ -3817,15 +2560,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_pipeL
       rect:
@@ -3849,15 +2584,7 @@ TextureImporter:
         - {x: -14.999999, y: -157}
         - {x: -45, y: -130}
         - {x: -52.999996, y: -116.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0019
       rect:
@@ -3876,15 +2603,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0019
       rect:
@@ -3907,15 +2626,7 @@ TextureImporter:
         - {x: -42, y: -15.513374}
         - {x: -42, y: -9.513374}
         - {x: -37, y: -4.5133743}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0006
       rect:
@@ -3941,15 +2652,7 @@ TextureImporter:
         - {x: -41, y: -15.5}
         - {x: -41, y: -9.5}
         - {x: -36, y: -1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0023
       rect:
@@ -3968,15 +2671,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0055
       rect:
@@ -3995,15 +2690,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weap_floor
       rect:
@@ -4035,15 +2722,7 @@ TextureImporter:
         - {x: -187, y: -78.5}
         - {x: -211.99998, y: -78.5}
         - {x: -211.99998, y: 30.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0004
       rect:
@@ -4069,15 +2748,7 @@ TextureImporter:
         - {x: -41, y: -15.5}
         - {x: -41, y: -9.5}
         - {x: -36, y: -1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_weap
       rect:
@@ -4099,15 +2770,7 @@ TextureImporter:
         - {x: -31, y: -28.999998}
         - {x: -39.999996, y: 8}
         - {x: -39.999996, y: 33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0003
       rect:
@@ -4129,15 +2792,7 @@ TextureImporter:
         - {x: 33, y: -50.499996}
         - {x: 20, y: -51.5}
         - {x: -39, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0017
       rect:
@@ -4154,15 +2809,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0005
       rect:
@@ -4181,15 +2828,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: glowdot-glowdot0013
       rect:
@@ -4206,15 +2845,7 @@ TextureImporter:
         - {x: -7.5, y: 7.5}
         - {x: 7.5, y: 7.5}
         - {x: 7.5, y: -7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bullettop-capglo0026
       rect:
@@ -4233,15 +2864,7 @@ TextureImporter:
         - {x: 27.5, y: -29.499998}
         - {x: -27.5, y: -29.499998}
         - {x: -27.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0013
       rect:
@@ -4262,15 +2885,7 @@ TextureImporter:
         - {x: 32.53806, y: -50.51337}
         - {x: 18.53806, y: -52.513374}
         - {x: -38.46194, y: -19.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Mainframe-weaponmainframe0017
       rect:
@@ -4291,163 +2906,9 @@ TextureImporter:
         - {x: 32, y: -49.999996}
         - {x: 18, y: -52}
         - {x: -39, y: -19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Mainframe-weaponmainframe0005: 21300180
-      bullettop-capglo0069: 21300020
-      glowdot-glowdot0026: 21300192
-      bullettop-capglo0012: 21300128
-      bullettop-capglo0072: 21300008
-      bullettop-capglo0065: 21300084
-      glowdot-glowdot0016: 21300016
-      weap_rail3: 21300026
-      bullettop-capglo0037: 21300048
-      glowdot-glowdot0001: 21300018
-      glowdot-glowdot0009: 21300132
-      bullettop-capglo0053: 21300052
-      Mainframe-weaponmainframe0003: 21300256
-      glowdot-glowdot0007: 21300144
-      bullettop-capglo0068: 21300148
-      bullettop-capglo0057: 21300030
-      glowdot-glowdot0021: 21300044
-      Mainframe-weaponmainframe0014: 21300208
-      bullettop-capglo0062: 21300072
-      bullettop-capglo0055: 21300248
-      weap_rail1: 21300204
-      bullettop-capglo0031: 21300010
-      glowdot-glowdot0005: 21300090
-      bullettop-capglo0025: 21300118
-      Mainframe-weaponmainframe0022: 21300032
-      bullettop-capglo0042: 21300166
-      bullettop-capglo0034: 21300224
-      bullettop-capglo0006: 21300220
-      bullettop-capglo0056: 21300216
-      bullettop-capglo0001: 21300162
-      bullettop-capglo0073: 21300058
-      weap_wall: 21300038
-      bullettop-capglo0043: 21300186
-      weap_pipeR: 21300070
-      bullettop-capglo0032: 21300206
-      Mainframe-weaponmainframe0004: 21300252
-      bullettop-capglo0071: 21300062
-      bullettop-capglo0054: 21300002
-      bullettop-capglo0070: 21300122
-      bullettop-capglo0007: 21300138
-      bullettop-capglo0051: 21300096
-      bullettop-capglo0018: 21300078
-      weap_hall: 21300230
-      glowdot-glowdot0012: 21300086
-      glowdot-glowdot0015: 21300194
-      glowdot-glowdot0008: 21300080
-      bullettop-capglo0061: 21300066
-      Mainframe-weaponmainframe0002: 21300046
-      Mainframe-weaponmainframe0012: 21300156
-      bullettop-capglo0059: 21300212
-      bullettop-capglo0060: 21300098
-      bullettop-capglo0063: 21300136
-      panel_weap: 21300254
-      bullettop-capglo0027: 21300164
-      bullettop-capglo0066: 21300054
-      bullettop-capglo0021: 21300004
-      bullettop-capglo0010: 21300074
-      bullettop-capglo0076: 21300056
-      bullettop-capglo0035: 21300100
-      glowdot-glowdot0011: 21300094
-      Mainframe-weaponmainframe0015: 21300170
-      bullettop-capglo0019: 21300240
-      bullettop-capglo0024: 21300110
-      Mainframe-weaponmainframe0019: 21300242
-      bullettop-capglo0052: 21300012
-      Mainframe-weaponmainframe0008: 21300014
-      weap_platform: 21300210
-      bullettop-capglo0004: 21300200
-      glowdot-glowdot0014: 21300146
-      glowdot-glowdot0002: 21300234
-      Mainframe-weaponmainframe0009: 21300182
-      bullettop-capglo0039: 21300112
-      bullettop-capglo0015: 21300022
-      Mainframe-weaponmainframe0020: 21300202
-      bullettop-capglo0046: 21300040
-      weap_floor: 21300250
-      bullettop-capglo0047: 21300142
-      glowdot-glowdot0023: 21300082
-      bullettop-capglo0008: 21300034
-      bullettop-capglo0041: 21300116
-      glowdot-glowdot0013: 21300262
-      Mainframe-weaponmainframe0016: 21300150
-      Mainframe-weaponmainframe0011: 21300176
-      glowdot-glowdot0017: 21300258
-      Mainframe-weaponmainframe0001: 21300042
-      weap_rail2: 21300154
-      glowdot-glowdot0018: 21300160
-      bullettop-capglo0050: 21300130
-      bullettop-capglo0023: 21300246
-      bullettop-capglo0005: 21300260
-      bullettop-capglo0049: 21300218
-      bullettop-capglo0044: 21300152
-      bullettop-capglo0067: 21300168
-      weap_walltop: 21300076
-      bullettop-capglo0020: 21300106
-      bullettop-capglo0013: 21300050
-      Mainframe-weaponmainframe0007: 21300120
-      bullettop-capglo0064: 21300088
-      glowdot-glowdot0019: 21300124
-      glowdot-glowdot0025: 21300024
-      bullettop-capglo0045: 21300060
-      glowdot-glowdot0020: 21300188
-      bullettop-capglo0036: 21300006
-      Mainframe-weaponmainframe0017: 21300268
-      Mainframe-weaponmainframe0021: 21300102
-      bullettop-capglo0048: 21300236
-      bullettop-capglo0030: 21300126
-      bullettop-capglo0040: 21300226
-      Mainframe-weaponmainframe0018: 21300174
-      bullettop-capglo0011: 21300172
-      bullettop-capglo0014: 21300000
-      bullettop-capglo0058: 21300228
-      glowdot-glowdot0004: 21300232
-      bullettop-capglo0016: 21300158
-      bullettop-capglo0033: 21300196
-      Mainframe-weaponmainframe0013: 21300266
-      bullettop-capglo0022: 21300064
-      bullettop-capglo0009: 21300184
-      glowdot-glowdot0003: 21300140
-      Mainframe-weaponmainframe0010: 21300068
-      bullettop-capglo0028: 21300198
-      bullettop-capglo0017: 21300134
-      Mainframe-weaponmainframe0006: 21300244
-      glowdot-glowdot0024: 21300114
-      bullettop-capglo0075: 21300190
-      bullettop-capglo0003: 21300104
-      glowdot-glowdot0022: 21300028
-      glowdot-glowdot0006: 21300178
-      bullettop-capglo0026: 21300264
-      bullettop-capglo0074: 21300092
-      glowdot-glowdot0010: 21300222
-      weap_pipeL: 21300238
-      bullettop-capglo0029: 21300108
-      bullettop-capglo0002: 21300214
-      bullettop-capglo0038: 21300036
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

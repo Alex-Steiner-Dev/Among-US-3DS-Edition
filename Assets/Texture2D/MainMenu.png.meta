@@ -1,93 +1,36 @@
 fileFormatVersion: 2
 guid: 66a3f6cb1900ee542a5efadcd9c62fc7
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: mapAirship_button
-  - first:
-      213: 21300002
-    second: mapMIRA_button
-  - first:
-      213: 21300004
-    second: mapPolus_button
-  - first:
-      213: 21300006
-    second: credits
-  - first:
-      213: 21300008
-    second: settings
-  - first:
-      213: 21300010
-    second: store
-  - first:
-      213: 21300012
-    second: arrowEnter
-  - first:
-      213: 21300014
-    second: Frame1
-  - first:
-      213: 21300016
-    second: Frame2
-  - first:
-      213: 21300018
-    second: Frame3
-  - first:
-      213: 21300020
-    second: annoucementButton
-  - first:
-      213: 21300022
-    second: theSkeld_filterButton
-  - first:
-      213: 21300024
-    second: refresh
-  - first:
-      213: 21300026
-    second: menuHostBanner
-  - first:
-      213: 21300028
-    second: menuBannerBase
-  - first:
-      213: 21300030
-    second: mapAirship_icon
-  - first:
-      213: 21300032
-    second: mapMIRA_icon
-  - first:
-      213: 21300034
-    second: mapAirship_gameBG
-  - first:
-      213: 21300036
-    second: mapMira_gameBG
-  - first:
-      213: 21300038
-    second: mapJourney_gameBG
-  - first:
-      213: 21300040
-    second: mapJourney_icon
-  - first:
-      213: 21300042
-    second: mapPolus_icon
-  - first:
-      213: 21300044
-    second: menuPublicBanner
-  - first:
-      213: 21300046
-    second: menuPrivateBanner
-  - first:
-      213: 21300048
-    second: button_serverGlobe
-  - first:
-      213: 21300050
-    second: mapPolus_gameBG
-  - first:
-      213: 21300052
-    second: mapIcon_crew
-  - first:
-      213: 21300054
-    second: mapIcon_impostor
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: mapAirship_button
+    21300002: mapMIRA_button
+    21300004: mapPolus_button
+    21300006: credits
+    21300008: settings
+    21300010: store
+    21300012: arrowEnter
+    21300014: Frame1
+    21300016: Frame2
+    21300018: Frame3
+    21300020: annoucementButton
+    21300022: theSkeld_filterButton
+    21300024: refresh
+    21300026: menuHostBanner
+    21300028: menuBannerBase
+    21300030: mapAirship_icon
+    21300032: mapMIRA_icon
+    21300034: mapAirship_gameBG
+    21300036: mapMira_gameBG
+    21300038: mapJourney_gameBG
+    21300040: mapJourney_icon
+    21300042: mapPolus_icon
+    21300044: menuPublicBanner
+    21300046: menuPrivateBanner
+    21300048: button_serverGlobe
+    21300050: mapPolus_gameBG
+    21300052: mapIcon_crew
+    21300054: mapIcon_impostor
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -95,8 +38,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -104,12 +45,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -117,13 +53,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -132,97 +65,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -242,15 +143,7 @@ TextureImporter:
         - {x: -98.99999, y: 22}
         - {x: 98.99999, y: 22}
         - {x: 98.99999, y: -22}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapMIRA_button
       rect:
@@ -267,15 +160,7 @@ TextureImporter:
         - {x: -104.99999, y: 23.5}
         - {x: 104.99999, y: 23.5}
         - {x: 104.99999, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapPolus_button
       rect:
@@ -292,15 +177,7 @@ TextureImporter:
         - {x: -72.99999, y: 23.5}
         - {x: 72.99999, y: 23.5}
         - {x: 72.99999, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: credits
       rect:
@@ -317,15 +194,7 @@ TextureImporter:
         - {x: -32.5, y: 32.5}
         - {x: 32.5, y: 32.5}
         - {x: 32.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: settings
       rect:
@@ -342,15 +211,7 @@ TextureImporter:
         - {x: -32.5, y: 32.5}
         - {x: 32.5, y: 32.5}
         - {x: 32.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: store
       rect:
@@ -367,15 +228,7 @@ TextureImporter:
         - {x: -32.5, y: 32.5}
         - {x: 32.5, y: 32.5}
         - {x: 32.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: arrowEnter
       rect:
@@ -394,15 +247,7 @@ TextureImporter:
         - {x: 27.5, y: 3}
         - {x: 27.5, y: -4}
         - {x: -21.499998, y: -25}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Frame1
       rect:
@@ -419,15 +264,7 @@ TextureImporter:
         - {x: -31, y: 18}
         - {x: 31, y: 18}
         - {x: 31, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Frame2
       rect:
@@ -444,15 +281,7 @@ TextureImporter:
         - {x: -31, y: 18}
         - {x: 31, y: 18}
         - {x: 31, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Frame3
       rect:
@@ -469,15 +298,7 @@ TextureImporter:
         - {x: -31, y: 18}
         - {x: 31, y: 18}
         - {x: 31, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: annoucementButton
       rect:
@@ -494,15 +315,7 @@ TextureImporter:
         - {x: -32.5, y: 32.5}
         - {x: 32.5, y: 32.5}
         - {x: 32.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: theSkeld_filterButton
       rect:
@@ -519,15 +332,7 @@ TextureImporter:
         - {x: -104.99999, y: 23.5}
         - {x: 104.99999, y: 23.5}
         - {x: 104.99999, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: refresh
       rect:
@@ -544,15 +349,7 @@ TextureImporter:
         - {x: -32.5, y: 32.5}
         - {x: 32.5, y: 32.5}
         - {x: 32.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: menuHostBanner
       rect:
@@ -575,15 +372,7 @@ TextureImporter:
         - {x: 15.961891, y: -70.5}
         - {x: -49.038105, y: -69.5}
         - {x: -70.03811, y: -15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: menuBannerBase
       rect:
@@ -604,15 +393,7 @@ TextureImporter:
         - {x: 252.49998, y: -2}
         - {x: -185.49998, y: -2}
         - {x: -188.5, y: -8}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapAirship_icon
       rect:
@@ -629,15 +410,7 @@ TextureImporter:
         - {x: -20.5, y: 19.999998}
         - {x: 20.499998, y: 19.999998}
         - {x: 20.499998, y: -19.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapMIRA_icon
       rect:
@@ -654,15 +427,7 @@ TextureImporter:
         - {x: -19, y: 19}
         - {x: 19, y: 19}
         - {x: 19, y: -19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapAirship_gameBG
       rect:
@@ -679,15 +444,7 @@ TextureImporter:
         - {x: -324, y: 110}
         - {x: 324, y: 110}
         - {x: 324, y: -110}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapMira_gameBG
       rect:
@@ -704,15 +461,7 @@ TextureImporter:
         - {x: -325, y: 112}
         - {x: 325, y: 112}
         - {x: 325, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapJourney_gameBG
       rect:
@@ -729,15 +478,7 @@ TextureImporter:
         - {x: -325, y: 112}
         - {x: 325, y: 112}
         - {x: 325, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapJourney_icon
       rect:
@@ -754,15 +495,7 @@ TextureImporter:
         - {x: -19, y: 19}
         - {x: 19, y: 19}
         - {x: 19, y: -19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapPolus_icon
       rect:
@@ -781,15 +514,7 @@ TextureImporter:
         - {x: 19.999998, y: -19.999998}
         - {x: -14, y: -19.999998}
         - {x: -19, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: menuPublicBanner
       rect:
@@ -810,15 +535,7 @@ TextureImporter:
         - {x: 81.48664, y: -41.991936}
         - {x: 59.486637, y: -80.991936}
         - {x: -68.51336, y: -81.991936}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: menuPrivateBanner
       rect:
@@ -841,15 +558,7 @@ TextureImporter:
         - {x: 15.961891, y: -70.5}
         - {x: -49.038105, y: -69.5}
         - {x: -70.03811, y: -15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: button_serverGlobe
       rect:
@@ -866,15 +575,7 @@ TextureImporter:
         - {x: -32.5, y: 32.5}
         - {x: 32.5, y: 32.5}
         - {x: 32.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapPolus_gameBG
       rect:
@@ -891,15 +592,7 @@ TextureImporter:
         - {x: -325, y: 112}
         - {x: 325, y: 112}
         - {x: 325, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapIcon_crew
       rect:
@@ -916,15 +609,7 @@ TextureImporter:
         - {x: -30.5, y: 18.5}
         - {x: 30.5, y: 18.5}
         - {x: 30.5, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: mapIcon_impostor
       rect:
@@ -941,56 +626,9 @@ TextureImporter:
         - {x: -25, y: 19}
         - {x: 25, y: 19}
         - {x: 25, y: -19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      mapPolus_button: 21300004
-      annoucementButton: 21300020
-      store: 21300010
-      mapIcon_crew: 21300052
-      arrowEnter: 21300012
-      mapPolus_gameBG: 21300050
-      refresh: 21300024
-      menuPrivateBanner: 21300046
-      mapMIRA_icon: 21300032
-      mapJourney_gameBG: 21300038
-      mapPolus_icon: 21300042
-      theSkeld_filterButton: 21300022
-      Frame2: 21300016
-      Frame3: 21300018
-      mapAirship_icon: 21300030
-      mapAirship_button: 21300000
-      credits: 21300006
-      Frame1: 21300014
-      menuBannerBase: 21300028
-      mapJourney_icon: 21300040
-      mapAirship_gameBG: 21300034
-      mapMira_gameBG: 21300036
-      menuHostBanner: 21300026
-      menuPublicBanner: 21300044
-      mapMIRA_button: 21300002
-      settings: 21300008
-      mapIcon_impostor: 21300054
-      button_serverGlobe: 21300048
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

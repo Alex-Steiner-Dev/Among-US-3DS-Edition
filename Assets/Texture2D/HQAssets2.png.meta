@@ -1,171 +1,62 @@
 fileFormatVersion: 2
 guid: 0ee0288a216a2c34eb6806c2c3cb7c7e
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: vertical-door
-  - first:
-      213: 21300002
-    second: admind_chartCourse
-  - first:
-      213: 21300004
-    second: launchPadNearShip
-  - first:
-      213: 21300006
-    second: storage-boxes1
-  - first:
-      213: 21300008
-    second: storage-box2
-  - first:
-      213: 21300010
-    second: emergencyButton_Text
-  - first:
-      213: 21300012
-    second: decon-button
-  - first:
-      213: 21300014
-    second: lab-bottom
-  - first:
-      213: 21300016
-    second: decon-1
-  - first:
-      213: 21300018
-    second: reactor_Sabotage
-  - first:
-      213: 21300020
-    second: storage-mop
-  - first:
-      213: 21300022
-    second: lab-cent
-  - first:
-      213: 21300024
-    second: weatherPanel
-  - first:
-      213: 21300026
-    second: reactor-console-elec
-  - first:
-      213: 21300028
-    second: decon-2
-  - first:
-      213: 21300030
-    second: reactor-task-power
-  - first:
-      213: 21300032
-    second: launch-front
-  - first:
-      213: 21300034
-    second: reactor-panel-init
-  - first:
-      213: 21300036
-    second: task_enginerefuel
-  - first:
-      213: 21300038
-    second: caf_table
-  - first:
-      213: 21300040
-    second: divertElevStand
-  - first:
-      213: 21300042
-    second: balcony_WeaponsPanel
-  - first:
-      213: 21300044
-    second: reactor_BorderShadowless
-  - first:
-      213: 21300046
-    second: reactorGlass
-  - first:
-      213: 21300048
-    second: cafe-vending2
-  - first:
-      213: 21300050
-    second: decontamLabReactorWalls
-  - first:
-      213: 21300052
-    second: balconyDoor
-  - first:
-      213: 21300054
-    second: cafe-vending1
-  - first:
-      213: 21300056
-    second: lab_SortSamples
-  - first:
-      213: 21300058
-    second: reactorWallHang
-  - first:
-      213: 21300060
-    second: reactor_Border
-  - first:
-      213: 21300062
-    second: garbagePanel
-  - first:
-      213: 21300064
-    second: reactorArmLeft
-  - first:
-      213: 21300066
-    second: balcony_WeaponsDish
-  - first:
-      213: 21300068
-    second: emergencyButton_mira
-  - first:
-      213: 21300070
-    second: decon-0
-  - first:
-      213: 21300072
-    second: divertElecReceive
-  - first:
-      213: 21300074
-    second: decon-3
-  - first:
-      213: 21300076
-    second: reactorArmRight
-  - first:
-      213: 21300078
-    second: reactorArmMiddle
-  - first:
-      213: 21300080
-    second: balcony_WeaponsBase
-  - first:
-      213: 21300082
-    second: storage-backwall
-  - first:
-      213: 21300084
-    second: reactor-console-lower
-  - first:
-      213: 21300086
-    second: task_shipCalibrate
-  - first:
-      213: 21300088
-    second: storage-shelves1
-  - first:
-      213: 21300090
-    second: reactor-center
-  - first:
-      213: 21300092
-    second: balcony_Weather
-  - first:
-      213: 21300094
-    second: reactor-task-start
-  - first:
-      213: 21300096
-    second: launch-calibrate
-  - first:
-      213: 21300098
-    second: lab-right
-  - first:
-      213: 21300100
-    second: cafe-vending3
-  - first:
-      213: 21300102
-    second: reactor-console-upper
-  - first:
-      213: 21300104
-    second: launch-gas
-  - first:
-      213: 21300106
-    second: storage_WaterCan
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: vertical-door
+    21300002: admind_chartCourse
+    21300004: launchPadNearShip
+    21300006: storage-boxes1
+    21300008: storage-box2
+    21300010: emergencyButton_Text
+    21300012: decon-button
+    21300014: lab-bottom
+    21300016: decon-1
+    21300018: reactor_Sabotage
+    21300020: storage-mop
+    21300022: lab-cent
+    21300024: weatherPanel
+    21300026: reactor-console-elec
+    21300028: decon-2
+    21300030: reactor-task-power
+    21300032: launch-front
+    21300034: reactor-panel-init
+    21300036: task_enginerefuel
+    21300038: caf_table
+    21300040: divertElevStand
+    21300042: balcony_WeaponsPanel
+    21300044: reactor_BorderShadowless
+    21300046: reactorGlass
+    21300048: cafe-vending2
+    21300050: decontamLabReactorWalls
+    21300052: balconyDoor
+    21300054: cafe-vending1
+    21300056: lab_SortSamples
+    21300058: reactorWallHang
+    21300060: reactor_Border
+    21300062: garbagePanel
+    21300064: reactorArmLeft
+    21300066: balcony_WeaponsDish
+    21300068: emergencyButton_mira
+    21300070: decon-0
+    21300072: divertElecReceive
+    21300074: decon-3
+    21300076: reactorArmRight
+    21300078: reactorArmMiddle
+    21300080: balcony_WeaponsBase
+    21300082: storage-backwall
+    21300084: reactor-console-lower
+    21300086: task_shipCalibrate
+    21300088: storage-shelves1
+    21300090: reactor-center
+    21300092: balcony_Weather
+    21300094: reactor-task-start
+    21300096: launch-calibrate
+    21300098: lab-right
+    21300100: cafe-vending3
+    21300102: reactor-console-upper
+    21300104: launch-gas
+    21300106: storage_WaterCan
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -173,8 +64,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -182,12 +71,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -195,13 +79,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -210,97 +91,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -322,15 +171,7 @@ TextureImporter:
         - {x: 113.5, y: -58}
         - {x: -113.5, y: -58}
         - {x: -113.5, y: 38}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admind_chartCourse
       rect:
@@ -347,15 +188,7 @@ TextureImporter:
         - {x: -21, y: 12.5}
         - {x: 21, y: 12.5}
         - {x: 21, y: -12.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: launchPadNearShip
       rect:
@@ -375,15 +208,7 @@ TextureImporter:
         - {x: -61.5, y: -103.5}
         - {x: -92.49999, y: -15.5}
         - {x: -92.49999, y: 78.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage-boxes1
       rect:
@@ -400,15 +225,7 @@ TextureImporter:
         - {x: -31.5, y: 49.499996}
         - {x: 31.5, y: 49.499996}
         - {x: 31.5, y: -49.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage-box2
       rect:
@@ -426,15 +243,7 @@ TextureImporter:
         - {x: 44, y: -26.999998}
         - {x: 8, y: -57}
         - {x: -44, y: -57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: emergencyButton_Text
       rect:
@@ -455,15 +264,7 @@ TextureImporter:
         - {x: -22, y: 29}
         - {x: 22, y: 29}
         - {x: 22, y: 19}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: decon-button
       rect:
@@ -481,15 +282,7 @@ TextureImporter:
         - {x: 15.5, y: -21.499998}
         - {x: -11.5, y: -21.499998}
         - {x: -15.5, y: 15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: lab-bottom
       rect:
@@ -514,15 +307,7 @@ TextureImporter:
         - {x: 62.5, y: 11.499999}
         - {x: 186.5, y: 11.499999}
         - {x: 186.5, y: -11.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: decon-1
       rect:
@@ -539,15 +324,7 @@ TextureImporter:
         - {x: -26, y: 26}
         - {x: 26, y: 26}
         - {x: 26, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor_Sabotage
       rect:
@@ -564,15 +341,7 @@ TextureImporter:
         - {x: -16.000006, y: 17.000011}
         - {x: 15.999994, y: 17.000011}
         - {x: 15.999994, y: -16.999989}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage-mop
       rect:
@@ -591,15 +360,7 @@ TextureImporter:
         - {x: 19.5, y: -30.5}
         - {x: -20.5, y: -30.5}
         - {x: -20.5, y: -16.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: lab-cent
       rect:
@@ -617,15 +378,7 @@ TextureImporter:
         - {x: 119.99999, y: -57}
         - {x: -119.99999, y: -57}
         - {x: -119.99999, y: 48.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: weatherPanel
       rect:
@@ -643,15 +396,7 @@ TextureImporter:
         - {x: 14, y: -48.499996}
         - {x: -11, y: -57.499996}
         - {x: -14, y: -54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-console-elec
       rect:
@@ -668,15 +413,7 @@ TextureImporter:
         - {x: -41, y: 27.5}
         - {x: 41, y: 27.5}
         - {x: 41, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: decon-2
       rect:
@@ -693,15 +430,7 @@ TextureImporter:
         - {x: -26, y: 26}
         - {x: 26, y: 26}
         - {x: 26, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-task-power
       rect:
@@ -718,15 +447,7 @@ TextureImporter:
         - {x: -18.499987, y: 16.499994}
         - {x: 18.500013, y: 16.499994}
         - {x: 18.500013, y: -16.500006}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: launch-front
       rect:
@@ -744,15 +465,7 @@ TextureImporter:
         - {x: 63, y: -65.5}
         - {x: -63, y: -65.5}
         - {x: -63, y: 52.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-panel-init
       rect:
@@ -769,15 +482,7 @@ TextureImporter:
         - {x: -17.499989, y: 19.499996}
         - {x: 17.500011, y: 19.499996}
         - {x: 17.500011, y: -19.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_enginerefuel
       rect:
@@ -795,15 +500,7 @@ TextureImporter:
         - {x: 26.475317, y: 25.000011}
         - {x: 26.475317, y: -26.999987}
         - {x: -26.52468, y: -26.999987}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: caf_table
       rect:
@@ -820,15 +517,7 @@ TextureImporter:
         - {x: -91.5, y: 158.99998}
         - {x: 91.5, y: 158.99998}
         - {x: 91.5, y: -158.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: divertElevStand
       rect:
@@ -845,15 +534,7 @@ TextureImporter:
         - {x: -28, y: 35.5}
         - {x: 28, y: 35.5}
         - {x: 28, y: -35.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balcony_WeaponsPanel
       rect:
@@ -870,15 +551,7 @@ TextureImporter:
         - {x: -38.499985, y: 27.00001}
         - {x: 38.500015, y: 27.00001}
         - {x: 38.500015, y: -26.999987}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor_BorderShadowless
       rect:
@@ -896,15 +569,7 @@ TextureImporter:
         - {x: 31.5, y: -32}
         - {x: -31.5, y: -32}
         - {x: -31.5, y: 0}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactorGlass
       rect:
@@ -925,15 +590,7 @@ TextureImporter:
         - {x: -84, y: 39}
         - {x: -44, y: 79}
         - {x: 59.999996, y: 79}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cafe-vending2
       rect:
@@ -950,15 +607,7 @@ TextureImporter:
         - {x: -32.5, y: 46.5}
         - {x: 32.5, y: 46.5}
         - {x: 32.5, y: -46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: decontamLabReactorWalls
       rect:
@@ -991,15 +640,7 @@ TextureImporter:
         - {x: -129.5, y: -31.5}
         - {x: -132.5, y: -29.499998}
         - {x: -614.5, y: -29.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balconyDoor
       rect:
@@ -1016,15 +657,7 @@ TextureImporter:
         - {x: -56.5, y: 34}
         - {x: 56.5, y: 34}
         - {x: 56.5, y: -34}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cafe-vending1
       rect:
@@ -1041,15 +674,7 @@ TextureImporter:
         - {x: -45.999992, y: 49.516605}
         - {x: 46, y: 49.516605}
         - {x: 46, y: -49.483387}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: lab_SortSamples
       rect:
@@ -1066,15 +691,7 @@ TextureImporter:
         - {x: -70.49999, y: 28.000013}
         - {x: 70.50001, y: 28.000013}
         - {x: 70.50001, y: -27.999987}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactorWallHang
       rect:
@@ -1099,15 +716,7 @@ TextureImporter:
         - {x: -74.5, y: -82}
         - {x: -125.5, y: -32}
         - {x: -239.5, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor_Border
       rect:
@@ -1125,15 +734,7 @@ TextureImporter:
         - {x: -1.5, y: 37}
         - {x: 31.5, y: 4}
         - {x: 31.5, y: -37}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbagePanel
       rect:
@@ -1150,15 +751,7 @@ TextureImporter:
         - {x: -24.999989, y: 21.50001}
         - {x: 25.000011, y: 21.50001}
         - {x: 25.000011, y: -21.499987}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactorArmLeft
       rect:
@@ -1180,15 +773,7 @@ TextureImporter:
         - {x: 6.5, y: -66.49999}
         - {x: -35.5, y: -15.5}
         - {x: -35.5, y: 18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balcony_WeaponsDish
       rect:
@@ -1210,15 +795,7 @@ TextureImporter:
         - {x: -75.5, y: -36}
         - {x: -82.5, y: -24}
         - {x: -82.5, y: 39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: emergencyButton_mira
       rect:
@@ -1235,15 +812,7 @@ TextureImporter:
         - {x: -22.49999, y: 22.50001}
         - {x: 22.50001, y: 22.50001}
         - {x: 22.50001, y: -22.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: decon-0
       rect:
@@ -1260,15 +829,7 @@ TextureImporter:
         - {x: -26, y: 26}
         - {x: 26, y: 26}
         - {x: 26, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: divertElecReceive
       rect:
@@ -1285,15 +846,7 @@ TextureImporter:
         - {x: -17, y: 12}
         - {x: 17, y: 12}
         - {x: 17, y: -12}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: decon-3
       rect:
@@ -1310,15 +863,7 @@ TextureImporter:
         - {x: -26, y: 26}
         - {x: 26, y: 26}
         - {x: 26, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactorArmRight
       rect:
@@ -1340,15 +885,7 @@ TextureImporter:
         - {x: -35.5, y: -41.5}
         - {x: -14.5, y: 25.5}
         - {x: -35.5, y: 46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactorArmMiddle
       rect:
@@ -1366,15 +903,7 @@ TextureImporter:
         - {x: 21.5, y: 65}
         - {x: 21.5, y: -68}
         - {x: -21.5, y: -68}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balcony_WeaponsBase
       rect:
@@ -1393,15 +922,7 @@ TextureImporter:
         - {x: -59.499996, y: -59.499996}
         - {x: -94.5, y: -29.499998}
         - {x: -94.5, y: 42.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage-backwall
       rect:
@@ -1427,15 +948,7 @@ TextureImporter:
         - {x: -144.5, y: 1.5}
         - {x: -95.5, y: 23.5}
         - {x: -61.5, y: 77.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-console-lower
       rect:
@@ -1452,15 +965,7 @@ TextureImporter:
         - {x: -24.499998, y: 48.5}
         - {x: 24.499998, y: 48.5}
         - {x: 24.499998, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_shipCalibrate
       rect:
@@ -1479,15 +984,7 @@ TextureImporter:
         - {x: 23.500011, y: -42.5}
         - {x: -20.499989, y: -51.5}
         - {x: -25.499989, y: -46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage-shelves1
       rect:
@@ -1505,15 +1002,7 @@ TextureImporter:
         - {x: -18, y: 66.5}
         - {x: 101, y: 58.499996}
         - {x: 101, y: -66.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-center
       rect:
@@ -1537,15 +1026,7 @@ TextureImporter:
         - {x: 76.5, y: -73.49999}
         - {x: -77.5, y: -73.49999}
         - {x: -95.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balcony_Weather
       rect:
@@ -1563,15 +1044,7 @@ TextureImporter:
         - {x: 33.499996, y: 79.49999}
         - {x: 33.499996, y: -79.49999}
         - {x: -31.5, y: -79.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-task-start
       rect:
@@ -1588,15 +1061,7 @@ TextureImporter:
         - {x: -24.499998, y: 13.499999}
         - {x: 24.499998, y: 13.499999}
         - {x: 24.499998, y: -13.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: launch-calibrate
       rect:
@@ -1613,15 +1078,7 @@ TextureImporter:
         - {x: -37.000053, y: 70.000015}
         - {x: 36.999947, y: 70.000015}
         - {x: 36.999947, y: -69.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: lab-right
       rect:
@@ -1641,15 +1098,7 @@ TextureImporter:
         - {x: 27.5, y: -101}
         - {x: 21.499998, y: 39}
         - {x: -115.5, y: 39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cafe-vending3
       rect:
@@ -1666,15 +1115,7 @@ TextureImporter:
         - {x: -20.5, y: 48}
         - {x: 20.5, y: 48}
         - {x: 20.5, y: -48}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: reactor-console-upper
       rect:
@@ -1691,15 +1132,7 @@ TextureImporter:
         - {x: -24.499998, y: 48.5}
         - {x: 24.499998, y: 48.5}
         - {x: 24.499998, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: launch-gas
       rect:
@@ -1717,15 +1150,7 @@ TextureImporter:
         - {x: 44, y: 66.99999}
         - {x: 44, y: -66.99999}
         - {x: -28, y: -66.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: storage_WaterCan
       rect:
@@ -1742,82 +1167,9 @@ TextureImporter:
         - {x: -23.024672, y: 16.975327}
         - {x: 22.975325, y: 16.975327}
         - {x: 22.975325, y: -17.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      reactor-console-lower: 21300084
-      balcony_WeaponsBase: 21300080
-      reactor-panel-init: 21300034
-      divertElevStand: 21300040
-      lab-right: 21300098
-      storage-backwall: 21300082
-      launch-gas: 21300104
-      lab_SortSamples: 21300056
-      caf_table: 21300038
-      garbagePanel: 21300062
-      launch-front: 21300032
-      emergencyButton_Text: 21300010
-      lab-cent: 21300022
-      reactorGlass: 21300046
-      decon-1: 21300016
-      balcony_WeaponsDish: 21300066
-      reactorWallHang: 21300058
-      cafe-vending2: 21300048
-      reactor-task-start: 21300094
-      cafe-vending3: 21300100
-      reactor-center: 21300090
-      decon-0: 21300070
-      lab-bottom: 21300014
-      decon-2: 21300028
-      launchPadNearShip: 21300004
-      reactor-task-power: 21300030
-      reactor-console-elec: 21300026
-      reactorArmLeft: 21300064
-      balconyDoor: 21300052
-      reactorArmMiddle: 21300078
-      reactorArmRight: 21300076
-      reactor_Border: 21300060
-      decon-3: 21300074
-      balcony_Weather: 21300092
-      storage_WaterCan: 21300106
-      decontamLabReactorWalls: 21300050
-      divertElecReceive: 21300072
-      storage-box2: 21300008
-      reactor_Sabotage: 21300018
-      cafe-vending1: 21300054
-      task_shipCalibrate: 21300086
-      storage-mop: 21300020
-      reactor_BorderShadowless: 21300044
-      decon-button: 21300012
-      balcony_WeaponsPanel: 21300042
-      emergencyButton_mira: 21300068
-      launch-calibrate: 21300096
-      storage-shelves1: 21300088
-      weatherPanel: 21300024
-      storage-boxes1: 21300006
-      task_enginerefuel: 21300036
-      reactor-console-upper: 21300102
-      admind_chartCourse: 21300002
-      vertical-door: 21300000
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

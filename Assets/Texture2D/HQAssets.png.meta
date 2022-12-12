@@ -1,87 +1,34 @@
 fileFormatVersion: 2
 guid: 28611868f4a081d438702a1be961d1a1
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: electricalPanelOfficeMira
-  - first:
-      213: 21300002
-    second: comms_commsSab
-  - first:
-      213: 21300004
-    second: medbaybottom1
-  - first:
-      213: 21300006
-    second: cafe-misc1
-  - first:
-      213: 21300008
-    second: wires_Storage
-  - first:
-      213: 21300010
-    second: cafe-sidebar
-  - first:
-      213: 21300012
-    second: med-bed-hort
-  - first:
-      213: 21300014
-    second: locker-bench
-  - first:
-      213: 21300016
-    second: cafe-misc2
-  - first:
-      213: 21300018
-    second: wires_reactorLab
-  - first:
-      213: 21300020
-    second: lockers-right
-  - first:
-      213: 21300022
-    second: med-bed-bottom
-  - first:
-      213: 21300024
-    second: medbaybottom2
-  - first:
-      213: 21300026
-    second: med-scanner
-  - first:
-      213: 21300028
-    second: comms-side
-  - first:
-      213: 21300030
-    second: med-bed-top
-  - first:
-      213: 21300032
-    second: locker-bench-side
-  - first:
-      213: 21300034
-    second: wiresHallwayGreen
-  - first:
-      213: 21300036
-    second: med-bed-top-hort
-  - first:
-      213: 21300038
-    second: medBayCommsLockersWalls
-  - first:
-      213: 21300040
-    second: balconyFenceHorz
-  - first:
-      213: 21300042
-    second: lockers-left
-  - first:
-      213: 21300044
-    second: comms-top
-  - first:
-      213: 21300046
-    second: balconyFenceVert
-  - first:
-      213: 21300048
-    second: comms-security
-  - first:
-      213: 21300050
-    second: wires_skybridge
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: electricalPanelOfficeMira
+    21300002: comms_commsSab
+    21300004: medbaybottom1
+    21300006: cafe-misc1
+    21300008: wires_Storage
+    21300010: cafe-sidebar
+    21300012: med-bed-hort
+    21300014: locker-bench
+    21300016: cafe-misc2
+    21300018: wires_reactorLab
+    21300020: lockers-right
+    21300022: med-bed-bottom
+    21300024: medbaybottom2
+    21300026: med-scanner
+    21300028: comms-side
+    21300030: med-bed-top
+    21300032: locker-bench-side
+    21300034: wiresHallwayGreen
+    21300036: med-bed-top-hort
+    21300038: medBayCommsLockersWalls
+    21300040: balconyFenceHorz
+    21300042: lockers-left
+    21300044: comms-top
+    21300046: balconyFenceVert
+    21300048: comms-security
+    21300050: wires_skybridge
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -89,8 +36,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -98,12 +43,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -111,13 +51,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -126,97 +63,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -236,15 +141,7 @@ TextureImporter:
         - {x: -28, y: 24.499998}
         - {x: 28, y: 24.499998}
         - {x: 28, y: -24.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: comms_commsSab
       rect:
@@ -261,15 +158,7 @@ TextureImporter:
         - {x: -29, y: 20.5}
         - {x: 29, y: 20.5}
         - {x: 29, y: -20.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: medbaybottom1
       rect:
@@ -287,15 +176,7 @@ TextureImporter:
         - {x: 4.9999995, y: 22.5}
         - {x: 51, y: 13.499999}
         - {x: 51, y: -22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cafe-misc1
       rect:
@@ -313,15 +194,7 @@ TextureImporter:
         - {x: 18, y: -28.5}
         - {x: -18, y: -28.5}
         - {x: -18, y: 4.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: wires_Storage
       rect:
@@ -338,15 +211,7 @@ TextureImporter:
         - {x: -16, y: 11}
         - {x: 16, y: 11}
         - {x: 16, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cafe-sidebar
       rect:
@@ -363,15 +228,7 @@ TextureImporter:
         - {x: -20.5, y: 142}
         - {x: 20.5, y: 142}
         - {x: 20.5, y: -142}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: med-bed-hort
       rect:
@@ -388,15 +245,7 @@ TextureImporter:
         - {x: -51, y: 38.5}
         - {x: 51, y: 38.5}
         - {x: 51, y: -38.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: locker-bench
       rect:
@@ -413,15 +262,7 @@ TextureImporter:
         - {x: -45.5, y: 25}
         - {x: 45.5, y: 25}
         - {x: 45.5, y: -25}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cafe-misc2
       rect:
@@ -439,15 +280,7 @@ TextureImporter:
         - {x: 15.5, y: 2}
         - {x: 15.5, y: -21}
         - {x: -15.5, y: -21}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: wires_reactorLab
       rect:
@@ -464,15 +297,7 @@ TextureImporter:
         - {x: -16, y: 11}
         - {x: 16, y: 11}
         - {x: 16, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: lockers-right
       rect:
@@ -489,15 +314,7 @@ TextureImporter:
         - {x: -18.5, y: 100.5}
         - {x: 18.5, y: 100.5}
         - {x: 18.5, y: -100.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: med-bed-bottom
       rect:
@@ -515,15 +332,7 @@ TextureImporter:
         - {x: 29.999998, y: 57}
         - {x: 39, y: 53.999996}
         - {x: 39, y: -57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: medbaybottom2
       rect:
@@ -540,15 +349,7 @@ TextureImporter:
         - {x: -51, y: 22.5}
         - {x: 51, y: 22.5}
         - {x: 51, y: -22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: med-scanner
       rect:
@@ -567,15 +368,7 @@ TextureImporter:
         - {x: 82, y: -19.513363}
         - {x: 0, y: -51.513363}
         - {x: -82, y: -19.513363}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: comms-side
       rect:
@@ -593,15 +386,7 @@ TextureImporter:
         - {x: 22, y: 106.99999}
         - {x: 22, y: -106.99999}
         - {x: -22, y: -106.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: med-bed-top
       rect:
@@ -619,15 +404,7 @@ TextureImporter:
         - {x: 39.5, y: -36}
         - {x: -39.5, y: -36}
         - {x: -39.5, y: 11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: locker-bench-side
       rect:
@@ -644,15 +421,7 @@ TextureImporter:
         - {x: -18.5, y: 53.499996}
         - {x: 18.5, y: 53.499996}
         - {x: 18.5, y: -53.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: wiresHallwayGreen
       rect:
@@ -669,15 +438,7 @@ TextureImporter:
         - {x: -16, y: 11}
         - {x: 16, y: 11}
         - {x: 16, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: med-bed-top-hort
       rect:
@@ -694,15 +455,7 @@ TextureImporter:
         - {x: -26, y: 34}
         - {x: 26, y: 34}
         - {x: 26, y: -34}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: medBayCommsLockersWalls
       rect:
@@ -747,15 +500,7 @@ TextureImporter:
         - {x: -250, y: 127}
         - {x: -167, y: 133}
         - {x: -167, y: 456}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balconyFenceHorz
       rect:
@@ -772,15 +517,7 @@ TextureImporter:
         - {x: -25.5, y: -14}
         - {x: -25.5, y: 14}
         - {x: 25.5, y: 14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: lockers-left
       rect:
@@ -797,15 +534,7 @@ TextureImporter:
         - {x: -21, y: 100.5}
         - {x: 21, y: 100.5}
         - {x: 21, y: -100.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: comms-top
       rect:
@@ -836,15 +565,7 @@ TextureImporter:
         - {x: -34, y: -45}
         - {x: -72, y: -68}
         - {x: -137, y: -68}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: balconyFenceVert
       rect:
@@ -861,15 +582,7 @@ TextureImporter:
         - {x: -4.9999995, y: -33}
         - {x: -4.9999995, y: 33}
         - {x: 4.9999995, y: 33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: comms-security
       rect:
@@ -886,15 +599,7 @@ TextureImporter:
         - {x: -32, y: 28}
         - {x: 32, y: 28}
         - {x: 32, y: -28}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: wires_skybridge
       rect:
@@ -911,54 +616,9 @@ TextureImporter:
         - {x: -16, y: 11}
         - {x: 16, y: 11}
         - {x: 16, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      cafe-misc1: 21300006
-      lockers-right: 21300020
-      wires_skybridge: 21300050
-      wiresHallwayGreen: 21300034
-      comms-side: 21300028
-      med-bed-top-hort: 21300036
-      balconyFenceVert: 21300046
-      comms_commsSab: 21300002
-      comms-security: 21300048
-      wires_Storage: 21300008
-      wires_reactorLab: 21300018
-      med-bed-bottom: 21300022
-      med-scanner: 21300026
-      comms-top: 21300044
-      lockers-left: 21300042
-      cafe-misc2: 21300016
-      cafe-sidebar: 21300010
-      locker-bench-side: 21300032
-      medbaybottom1: 21300004
-      med-bed-hort: 21300012
-      electricalPanelOfficeMira: 21300000
-      medbaybottom2: 21300024
-      balconyFenceHorz: 21300040
-      locker-bench: 21300014
-      med-bed-top: 21300030
-      medBayCommsLockersWalls: 21300038
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,810 +1,275 @@
 fileFormatVersion: 2
 guid: b7e06e79e2506554386cb36fac8ff483
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Squig_idle0009
-  - first:
-      213: 21300002
-    second: Squig_Walk0013
-  - first:
-      213: 21300004
-    second: RoBit_Walk0006
-  - first:
-      213: 21300006
-    second: RoBit_Idle0054
-  - first:
-      213: 21300008
-    second: Squig_idle0036
-  - first:
-      213: 21300010
-    second: Squig_scared0003
-  - first:
-      213: 21300012
-    second: RoBit_Idle0078
-  - first:
-      213: 21300014
-    second: RoBit_Idle0122
-  - first:
-      213: 21300016
-    second: Squig_Walk0015
-  - first:
-      213: 21300018
-    second: RoBit_Idle0015
-  - first:
-      213: 21300020
-    second: RoBit_sad0026
-  - first:
-      213: 21300022
-    second: Squig_idle0008
-  - first:
-      213: 21300024
-    second: RoBit_Idle0032
-  - first:
-      213: 21300026
-    second: RoBit_Walk0013
-  - first:
-      213: 21300028
-    second: RoBit_sad0003
-  - first:
-      213: 21300030
-    second: RoBit_Idle0104
-  - first:
-      213: 21300032
-    second: RoBit_Idle0113
-  - first:
-      213: 21300034
-    second: RoBit_Idle0040
-  - first:
-      213: 21300036
-    second: RoBit_Idle0002
-  - first:
-      213: 21300038
-    second: Squig_idle0019
-  - first:
-      213: 21300040
-    second: RoBit_Idle0107
-  - first:
-      213: 21300042
-    second: RoBit_Idle0114
-  - first:
-      213: 21300044
-    second: Squig_scared0004
-  - first:
-      213: 21300046
-    second: RoBit_Idle0019
-  - first:
-      213: 21300048
-    second: RoBit_Idle0043
-  - first:
-      213: 21300050
-    second: RoBit_Idle0080
-  - first:
-      213: 21300052
-    second: RoBit_Walk0005
-  - first:
-      213: 21300054
-    second: RoBit_Idle0024
-  - first:
-      213: 21300056
-    second: RoBit_sad0058
-  - first:
-      213: 21300058
-    second: RoBit_Idle0038
-  - first:
-      213: 21300060
-    second: RoBit_Idle0090
-  - first:
-      213: 21300062
-    second: RoBit_Idle0076
-  - first:
-      213: 21300064
-    second: RoBit_Idle0095
-  - first:
-      213: 21300066
-    second: RoBit_Idle0056
-  - first:
-      213: 21300068
-    second: RoBit_sad0007
-  - first:
-      213: 21300070
-    second: Squig_Walk0004
-  - first:
-      213: 21300072
-    second: RoBit_sad0045
-  - first:
-      213: 21300074
-    second: RoBit_sad0008
-  - first:
-      213: 21300076
-    second: RoBit_Idle0016
-  - first:
-      213: 21300078
-    second: RoBit_Idle0116
-  - first:
-      213: 21300080
-    second: RoBit_sad0061
-  - first:
-      213: 21300082
-    second: RoBit_Idle0012
-  - first:
-      213: 21300084
-    second: RoBit_Idle0105
-  - first:
-      213: 21300086
-    second: RoBit_sad0060
-  - first:
-      213: 21300088
-    second: RoBit_sad0021
-  - first:
-      213: 21300090
-    second: RoBit_sad0042
-  - first:
-      213: 21300092
-    second: RoBit_Idle0094
-  - first:
-      213: 21300094
-    second: RoBit_Idle0108
-  - first:
-      213: 21300096
-    second: Squig_idle0027
-  - first:
-      213: 21300098
-    second: RoBit_Idle0059
-  - first:
-      213: 21300100
-    second: RoBit_sad0001
-  - first:
-      213: 21300102
-    second: RoBit_sad0022
-  - first:
-      213: 21300104
-    second: RoBit_sad0020
-  - first:
-      213: 21300106
-    second: RoBit_Walk0004
-  - first:
-      213: 21300108
-    second: RoBit_Idle0119
-  - first:
-      213: 21300110
-    second: RoBit_Walk0001
-  - first:
-      213: 21300112
-    second: RoBit_scared0004
-  - first:
-      213: 21300114
-    second: RoBit_Walk0007
-  - first:
-      213: 21300116
-    second: RoBit_Idle0042
-  - first:
-      213: 21300118
-    second: RoBit_Idle0030
-  - first:
-      213: 21300120
-    second: RoBit_Idle0041
-  - first:
-      213: 21300122
-    second: Squig_scared0006
-  - first:
-      213: 21300124
-    second: RoBit_Idle0083
-  - first:
-      213: 21300126
-    second: RoBit_scared0002
-  - first:
-      213: 21300128
-    second: RoBit_sad0057
-  - first:
-      213: 21300130
-    second: RoBit_sad0023
-  - first:
-      213: 21300132
-    second: RoBit_Idle0027
-  - first:
-      213: 21300134
-    second: RoBit_sad0029
-  - first:
-      213: 21300136
-    second: RoBit_sad0030
-  - first:
-      213: 21300138
-    second: RoBit_scared0005
-  - first:
-      213: 21300140
-    second: RoBit_Idle0001
-  - first:
-      213: 21300142
-    second: RoBit_Idle0061
-  - first:
-      213: 21300144
-    second: RoBit_Idle0088
-  - first:
-      213: 21300146
-    second: RoBit_sad0049
-  - first:
-      213: 21300148
-    second: RoBit_sad0027
-  - first:
-      213: 21300150
-    second: Squig_Walk0008
-  - first:
-      213: 21300152
-    second: Squig_idle0022
-  - first:
-      213: 21300154
-    second: RoBit_Idle0084
-  - first:
-      213: 21300156
-    second: RoBit_Idle0069
-  - first:
-      213: 21300158
-    second: Squig_Walk0005
-  - first:
-      213: 21300160
-    second: RoBit_Idle0117
-  - first:
-      213: 21300162
-    second: RoBit_sad0004
-  - first:
-      213: 21300164
-    second: RoBit_Idle0072
-  - first:
-      213: 21300166
-    second: RoBit_Idle0081
-  - first:
-      213: 21300168
-    second: RoBit_Walk0012
-  - first:
-      213: 21300170
-    second: RoBit_Idle0037
-  - first:
-      213: 21300172
-    second: RoBit_Idle0018
-  - first:
-      213: 21300174
-    second: RoBit_Idle0011
-  - first:
-      213: 21300176
-    second: RoBit_Idle0023
-  - first:
-      213: 21300178
-    second: RoBit_sad0005
-  - first:
-      213: 21300180
-    second: RoBit_Idle0073
-  - first:
-      213: 21300182
-    second: RoBit_Idle0082
-  - first:
-      213: 21300184
-    second: RoBit_sad0009
-  - first:
-      213: 21300186
-    second: RoBit_sad0024
-  - first:
-      213: 21300188
-    second: RoBit_Walk0011
-  - first:
-      213: 21300190
-    second: RoBit_sad0053
-  - first:
-      213: 21300192
-    second: Squig_idle0011
-  - first:
-      213: 21300194
-    second: Squig_idle0015
-  - first:
-      213: 21300196
-    second: RoBit_Idle0068
-  - first:
-      213: 21300198
-    second: Squig_idle0020
-  - first:
-      213: 21300200
-    second: RoBit_Idle0014
-  - first:
-      213: 21300202
-    second: RoBit_Idle0101
-  - first:
-      213: 21300204
-    second: RoBit_Idle0063
-  - first:
-      213: 21300206
-    second: RoBit_sad0055
-  - first:
-      213: 21300208
-    second: RoBit_Idle0120
-  - first:
-      213: 21300210
-    second: RoBit_Idle0045
-  - first:
-      213: 21300212
-    second: Squig_scared0005
-  - first:
-      213: 21300214
-    second: Squig_idle0035
-  - first:
-      213: 21300216
-    second: RoBit_Idle0064
-  - first:
-      213: 21300218
-    second: RoBit_Idle0096
-  - first:
-      213: 21300220
-    second: Squig_idle0037
-  - first:
-      213: 21300222
-    second: RoBit_sad0031
-  - first:
-      213: 21300224
-    second: RoBit_Idle0085
-  - first:
-      213: 21300226
-    second: RoBit_sad0012
-  - first:
-      213: 21300228
-    second: RoBit_sad0025
-  - first:
-      213: 21300230
-    second: RoBit_Idle0067
-  - first:
-      213: 21300232
-    second: RoBit_sad0016
-  - first:
-      213: 21300234
-    second: Squig_idle0026
-  - first:
-      213: 21300236
-    second: RoBit_sad0046
-  - first:
-      213: 21300238
-    second: RoBit_Idle0020
-  - first:
-      213: 21300240
-    second: Squig_sad
-  - first:
-      213: 21300242
-    second: RoBit_sad0043
-  - first:
-      213: 21300244
-    second: RoBit_sad0032
-  - first:
-      213: 21300246
-    second: RoBit_Idle0051
-  - first:
-      213: 21300248
-    second: RoBit_Idle0048
-  - first:
-      213: 21300250
-    second: RoBit_Idle0121
-  - first:
-      213: 21300252
-    second: RoBit_Idle0008
-  - first:
-      213: 21300254
-    second: RoBit_Idle0086
-  - first:
-      213: 21300256
-    second: RoBit_Idle0089
-  - first:
-      213: 21300258
-    second: RoBit_Walk0003
-  - first:
-      213: 21300260
-    second: RoBit_Idle0026
-  - first:
-      213: 21300262
-    second: RoBit_Idle0005
-  - first:
-      213: 21300264
-    second: RoBit_Idle0025
-  - first:
-      213: 21300266
-    second: RoBit_Idle0058
-  - first:
-      213: 21300268
-    second: Squig_idle0018
-  - first:
-      213: 21300270
-    second: RoBit_Idle0115
-  - first:
-      213: 21300272
-    second: Squig_idle0013
-  - first:
-      213: 21300274
-    second: Squig_idle0002
-  - first:
-      213: 21300276
-    second: Squig_idle0032
-  - first:
-      213: 21300278
-    second: RoBit_Idle0055
-  - first:
-      213: 21300280
-    second: RoBit_Idle0044
-  - first:
-      213: 21300282
-    second: Squig_idle0003
-  - first:
-      213: 21300284
-    second: Squig_idle0017
-  - first:
-      213: 21300286
-    second: Squig_idle0007
-  - first:
-      213: 21300288
-    second: RoBit_sad0039
-  - first:
-      213: 21300290
-    second: Squig_Walk0011
-  - first:
-      213: 21300292
-    second: RoBit_sad0041
-  - first:
-      213: 21300294
-    second: Squig_Walk0007
-  - first:
-      213: 21300296
-    second: Squig_Walk0003
-  - first:
-      213: 21300298
-    second: RoBit_Idle0111
-  - first:
-      213: 21300300
-    second: RoBit_sad0054
-  - first:
-      213: 21300302
-    second: RoBit_Idle0092
-  - first:
-      213: 21300304
-    second: RoBit_Idle0021
-  - first:
-      213: 21300306
-    second: RoBit_Idle0071
-  - first:
-      213: 21300308
-    second: RoBit_Idle0007
-  - first:
-      213: 21300310
-    second: RoBit_Idle0006
-  - first:
-      213: 21300312
-    second: Squig_idle0014
-  - first:
-      213: 21300314
-    second: RoBit_Idle0093
-  - first:
-      213: 21300316
-    second: RoBit_Idle0070
-  - first:
-      213: 21300318
-    second: RoBit_Idle0022
-  - first:
-      213: 21300320
-    second: RoBit_scared0001
-  - first:
-      213: 21300322
-    second: RoBit_Walk0002
-  - first:
-      213: 21300324
-    second: RoBit_Idle0033
-  - first:
-      213: 21300326
-    second: Squig_idle0005
-  - first:
-      213: 21300328
-    second: Squig_idle0004
-  - first:
-      213: 21300330
-    second: RoBit_Walk0014
-  - first:
-      213: 21300332
-    second: Squig_Walk0002
-  - first:
-      213: 21300334
-    second: RoBit_Idle0029
-  - first:
-      213: 21300336
-    second: RoBit_Idle0052
-  - first:
-      213: 21300338
-    second: RoBit_Idle0099
-  - first:
-      213: 21300340
-    second: RoBit_Idle0100
-  - first:
-      213: 21300342
-    second: RoBit_sad0018
-  - first:
-      213: 21300344
-    second: RoBit_sad0036
-  - first:
-      213: 21300346
-    second: RoBit_Idle0118
-  - first:
-      213: 21300348
-    second: RoBit_sad0035
-  - first:
-      213: 21300350
-    second: RoBit_Idle0057
-  - first:
-      213: 21300352
-    second: Squig_idle0039
-  - first:
-      213: 21300354
-    second: RoBit_Idle0079
-  - first:
-      213: 21300356
-    second: RoBit_Idle0066
-  - first:
-      213: 21300358
-    second: RoBit_Idle0087
-  - first:
-      213: 21300360
-    second: RoBit_Idle0034
-  - first:
-      213: 21300362
-    second: RoBit_Walk0015
-  - first:
-      213: 21300364
-    second: RoBit_Idle0039
-  - first:
-      213: 21300366
-    second: RoBit_Idle0017
-  - first:
-      213: 21300368
-    second: RoBit_sad0011
-  - first:
-      213: 21300370
-    second: Squig_idle0021
-  - first:
-      213: 21300372
-    second: RoBit_Walk0016
-  - first:
-      213: 21300374
-    second: RoBit_sad0056
-  - first:
-      213: 21300376
-    second: RoBit_Idle0098
-  - first:
-      213: 21300378
-    second: RoBit_Idle0003
-  - first:
-      213: 21300380
-    second: Squig_idle0034
-  - first:
-      213: 21300382
-    second: RoBit_Idle0004
-  - first:
-      213: 21300384
-    second: RoBit_Idle0049
-  - first:
-      213: 21300386
-    second: Squig_Walk0012
-  - first:
-      213: 21300388
-    second: RoBit_Idle0036
-  - first:
-      213: 21300390
-    second: RoBit_Idle0028
-  - first:
-      213: 21300392
-    second: RoBit_sad0015
-  - first:
-      213: 21300394
-    second: Squig_Walk0014
-  - first:
-      213: 21300396
-    second: Squig_idle0006
-  - first:
-      213: 21300398
-    second: RoBit_Idle0106
-  - first:
-      213: 21300400
-    second: RoBit_sad0051
-  - first:
-      213: 21300402
-    second: RoBit_Idle0050
-  - first:
-      213: 21300404
-    second: RoBit_Idle0009
-  - first:
-      213: 21300406
-    second: RoBit_Idle0031
-  - first:
-      213: 21300408
-    second: Squig_idle0033
-  - first:
-      213: 21300410
-    second: RoBit_Idle0062
-  - first:
-      213: 21300412
-    second: RoBit_Idle0060
-  - first:
-      213: 21300414
-    second: RoBit_Walk0009
-  - first:
-      213: 21300416
-    second: RoBit_Idle0091
-  - first:
-      213: 21300418
-    second: Squig_Walk0016
-  - first:
-      213: 21300420
-    second: RoBit_sad0047
-  - first:
-      213: 21300422
-    second: RoBit_sad0040
-  - first:
-      213: 21300424
-    second: RoBit_Idle0102
-  - first:
-      213: 21300426
-    second: RoBit_sad0014
-  - first:
-      213: 21300428
-    second: RoBit_sad0037
-  - first:
-      213: 21300430
-    second: RoBit_Idle0010
-  - first:
-      213: 21300432
-    second: RoBit_sad0059
-  - first:
-      213: 21300434
-    second: RoBit_Idle0110
-  - first:
-      213: 21300436
-    second: Squig_Walk0010
-  - first:
-      213: 21300438
-    second: RoBit_Idle0074
-  - first:
-      213: 21300440
-    second: Squig_scared0002
-  - first:
-      213: 21300442
-    second: RoBit_sad0002
-  - first:
-      213: 21300444
-    second: Squig_idle0012
-  - first:
-      213: 21300446
-    second: RoBit_Walk0010
-  - first:
-      213: 21300448
-    second: RoBit_Idle0077
-  - first:
-      213: 21300450
-    second: RoBit_Idle0075
-  - first:
-      213: 21300452
-    second: Squig_idle0040
-  - first:
-      213: 21300454
-    second: Squig_idle0023
-  - first:
-      213: 21300456
-    second: Squig_idle0029
-  - first:
-      213: 21300458
-    second: Squig_idle0010
-  - first:
-      213: 21300460
-    second: RoBit_sad0019
-  - first:
-      213: 21300462
-    second: Squig_idle0001
-  - first:
-      213: 21300464
-    second: Squig_Walk0001
-  - first:
-      213: 21300466
-    second: RoBit_Walk0008
-  - first:
-      213: 21300468
-    second: RoBit_Idle0053
-  - first:
-      213: 21300470
-    second: Squig_idle0016
-  - first:
-      213: 21300472
-    second: Squig_scared0001
-  - first:
-      213: 21300474
-    second: RoBit_sad0050
-  - first:
-      213: 21300476
-    second: RoBit_sad0006
-  - first:
-      213: 21300478
-    second: RoBit_sad0033
-  - first:
-      213: 21300480
-    second: RoBit_sad0028
-  - first:
-      213: 21300482
-    second: RoBit_sad0038
-  - first:
-      213: 21300484
-    second: RoBit_sad0052
-  - first:
-      213: 21300486
-    second: RoBit_Idle0046
-  - first:
-      213: 21300488
-    second: Squig_idle0024
-  - first:
-      213: 21300490
-    second: RoBit_Idle0047
-  - first:
-      213: 21300492
-    second: RoBit_Idle0013
-  - first:
-      213: 21300494
-    second: RoBit_Idle0109
-  - first:
-      213: 21300496
-    second: Squig_idle0031
-  - first:
-      213: 21300498
-    second: RoBit_sad0017
-  - first:
-      213: 21300500
-    second: Squig_Walk0006
-  - first:
-      213: 21300502
-    second: Squig_Walk0009
-  - first:
-      213: 21300504
-    second: Squig_idle0038
-  - first:
-      213: 21300506
-    second: Squig_idle0025
-  - first:
-      213: 21300508
-    second: RoBit_Idle0103
-  - first:
-      213: 21300510
-    second: RoBit_sad0013
-  - first:
-      213: 21300512
-    second: RoBit_sad0034
-  - first:
-      213: 21300514
-    second: RoBit_Idle0097
-  - first:
-      213: 21300516
-    second: Squig_idle0028
-  - first:
-      213: 21300518
-    second: Squig_idle0030
-  - first:
-      213: 21300520
-    second: RoBit_Idle0035
-  - first:
-      213: 21300522
-    second: RoBit_Idle0065
-  - first:
-      213: 21300524
-    second: RoBit_sad0048
-  - first:
-      213: 21300526
-    second: RoBit_sad0044
-  - first:
-      213: 21300528
-    second: RoBit_Idle0112
-  - first:
-      213: 21300530
-    second: RoBit_scared0003
-  - first:
-      213: 21300532
-    second: RoBit_sad0010
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Squig_idle0009
+    21300002: Squig_Walk0013
+    21300004: RoBit_Walk0006
+    21300006: RoBit_Idle0054
+    21300008: Squig_idle0036
+    21300010: Squig_scared0003
+    21300012: RoBit_Idle0078
+    21300014: RoBit_Idle0122
+    21300016: Squig_Walk0015
+    21300018: RoBit_Idle0015
+    21300020: RoBit_sad0026
+    21300022: Squig_idle0008
+    21300024: RoBit_Idle0032
+    21300026: RoBit_Walk0013
+    21300028: RoBit_sad0003
+    21300030: RoBit_Idle0104
+    21300032: RoBit_Idle0113
+    21300034: RoBit_Idle0040
+    21300036: RoBit_Idle0002
+    21300038: Squig_idle0019
+    21300040: RoBit_Idle0107
+    21300042: RoBit_Idle0114
+    21300044: Squig_scared0004
+    21300046: RoBit_Idle0019
+    21300048: RoBit_Idle0043
+    21300050: RoBit_Idle0080
+    21300052: RoBit_Walk0005
+    21300054: RoBit_Idle0024
+    21300056: RoBit_sad0058
+    21300058: RoBit_Idle0038
+    21300060: RoBit_Idle0090
+    21300062: RoBit_Idle0076
+    21300064: RoBit_Idle0095
+    21300066: RoBit_Idle0056
+    21300068: RoBit_sad0007
+    21300070: Squig_Walk0004
+    21300072: RoBit_sad0045
+    21300074: RoBit_sad0008
+    21300076: RoBit_Idle0016
+    21300078: RoBit_Idle0116
+    21300080: RoBit_sad0061
+    21300082: RoBit_Idle0012
+    21300084: RoBit_Idle0105
+    21300086: RoBit_sad0060
+    21300088: RoBit_sad0021
+    21300090: RoBit_sad0042
+    21300092: RoBit_Idle0094
+    21300094: RoBit_Idle0108
+    21300096: Squig_idle0027
+    21300098: RoBit_Idle0059
+    21300100: RoBit_sad0001
+    21300102: RoBit_sad0022
+    21300104: RoBit_sad0020
+    21300106: RoBit_Walk0004
+    21300108: RoBit_Idle0119
+    21300110: RoBit_Walk0001
+    21300112: RoBit_scared0004
+    21300114: RoBit_Walk0007
+    21300116: RoBit_Idle0042
+    21300118: RoBit_Idle0030
+    21300120: RoBit_Idle0041
+    21300122: Squig_scared0006
+    21300124: RoBit_Idle0083
+    21300126: RoBit_scared0002
+    21300128: RoBit_sad0057
+    21300130: RoBit_sad0023
+    21300132: RoBit_Idle0027
+    21300134: RoBit_sad0029
+    21300136: RoBit_sad0030
+    21300138: RoBit_scared0005
+    21300140: RoBit_Idle0001
+    21300142: RoBit_Idle0061
+    21300144: RoBit_Idle0088
+    21300146: RoBit_sad0049
+    21300148: RoBit_sad0027
+    21300150: Squig_Walk0008
+    21300152: Squig_idle0022
+    21300154: RoBit_Idle0084
+    21300156: RoBit_Idle0069
+    21300158: Squig_Walk0005
+    21300160: RoBit_Idle0117
+    21300162: RoBit_sad0004
+    21300164: RoBit_Idle0072
+    21300166: RoBit_Idle0081
+    21300168: RoBit_Walk0012
+    21300170: RoBit_Idle0037
+    21300172: RoBit_Idle0018
+    21300174: RoBit_Idle0011
+    21300176: RoBit_Idle0023
+    21300178: RoBit_sad0005
+    21300180: RoBit_Idle0073
+    21300182: RoBit_Idle0082
+    21300184: RoBit_sad0009
+    21300186: RoBit_sad0024
+    21300188: RoBit_Walk0011
+    21300190: RoBit_sad0053
+    21300192: Squig_idle0011
+    21300194: Squig_idle0015
+    21300196: RoBit_Idle0068
+    21300198: Squig_idle0020
+    21300200: RoBit_Idle0014
+    21300202: RoBit_Idle0101
+    21300204: RoBit_Idle0063
+    21300206: RoBit_sad0055
+    21300208: RoBit_Idle0120
+    21300210: RoBit_Idle0045
+    21300212: Squig_scared0005
+    21300214: Squig_idle0035
+    21300216: RoBit_Idle0064
+    21300218: RoBit_Idle0096
+    21300220: Squig_idle0037
+    21300222: RoBit_sad0031
+    21300224: RoBit_Idle0085
+    21300226: RoBit_sad0012
+    21300228: RoBit_sad0025
+    21300230: RoBit_Idle0067
+    21300232: RoBit_sad0016
+    21300234: Squig_idle0026
+    21300236: RoBit_sad0046
+    21300238: RoBit_Idle0020
+    21300240: Squig_sad
+    21300242: RoBit_sad0043
+    21300244: RoBit_sad0032
+    21300246: RoBit_Idle0051
+    21300248: RoBit_Idle0048
+    21300250: RoBit_Idle0121
+    21300252: RoBit_Idle0008
+    21300254: RoBit_Idle0086
+    21300256: RoBit_Idle0089
+    21300258: RoBit_Walk0003
+    21300260: RoBit_Idle0026
+    21300262: RoBit_Idle0005
+    21300264: RoBit_Idle0025
+    21300266: RoBit_Idle0058
+    21300268: Squig_idle0018
+    21300270: RoBit_Idle0115
+    21300272: Squig_idle0013
+    21300274: Squig_idle0002
+    21300276: Squig_idle0032
+    21300278: RoBit_Idle0055
+    21300280: RoBit_Idle0044
+    21300282: Squig_idle0003
+    21300284: Squig_idle0017
+    21300286: Squig_idle0007
+    21300288: RoBit_sad0039
+    21300290: Squig_Walk0011
+    21300292: RoBit_sad0041
+    21300294: Squig_Walk0007
+    21300296: Squig_Walk0003
+    21300298: RoBit_Idle0111
+    21300300: RoBit_sad0054
+    21300302: RoBit_Idle0092
+    21300304: RoBit_Idle0021
+    21300306: RoBit_Idle0071
+    21300308: RoBit_Idle0007
+    21300310: RoBit_Idle0006
+    21300312: Squig_idle0014
+    21300314: RoBit_Idle0093
+    21300316: RoBit_Idle0070
+    21300318: RoBit_Idle0022
+    21300320: RoBit_scared0001
+    21300322: RoBit_Walk0002
+    21300324: RoBit_Idle0033
+    21300326: Squig_idle0005
+    21300328: Squig_idle0004
+    21300330: RoBit_Walk0014
+    21300332: Squig_Walk0002
+    21300334: RoBit_Idle0029
+    21300336: RoBit_Idle0052
+    21300338: RoBit_Idle0099
+    21300340: RoBit_Idle0100
+    21300342: RoBit_sad0018
+    21300344: RoBit_sad0036
+    21300346: RoBit_Idle0118
+    21300348: RoBit_sad0035
+    21300350: RoBit_Idle0057
+    21300352: Squig_idle0039
+    21300354: RoBit_Idle0079
+    21300356: RoBit_Idle0066
+    21300358: RoBit_Idle0087
+    21300360: RoBit_Idle0034
+    21300362: RoBit_Walk0015
+    21300364: RoBit_Idle0039
+    21300366: RoBit_Idle0017
+    21300368: RoBit_sad0011
+    21300370: Squig_idle0021
+    21300372: RoBit_Walk0016
+    21300374: RoBit_sad0056
+    21300376: RoBit_Idle0098
+    21300378: RoBit_Idle0003
+    21300380: Squig_idle0034
+    21300382: RoBit_Idle0004
+    21300384: RoBit_Idle0049
+    21300386: Squig_Walk0012
+    21300388: RoBit_Idle0036
+    21300390: RoBit_Idle0028
+    21300392: RoBit_sad0015
+    21300394: Squig_Walk0014
+    21300396: Squig_idle0006
+    21300398: RoBit_Idle0106
+    21300400: RoBit_sad0051
+    21300402: RoBit_Idle0050
+    21300404: RoBit_Idle0009
+    21300406: RoBit_Idle0031
+    21300408: Squig_idle0033
+    21300410: RoBit_Idle0062
+    21300412: RoBit_Idle0060
+    21300414: RoBit_Walk0009
+    21300416: RoBit_Idle0091
+    21300418: Squig_Walk0016
+    21300420: RoBit_sad0047
+    21300422: RoBit_sad0040
+    21300424: RoBit_Idle0102
+    21300426: RoBit_sad0014
+    21300428: RoBit_sad0037
+    21300430: RoBit_Idle0010
+    21300432: RoBit_sad0059
+    21300434: RoBit_Idle0110
+    21300436: Squig_Walk0010
+    21300438: RoBit_Idle0074
+    21300440: Squig_scared0002
+    21300442: RoBit_sad0002
+    21300444: Squig_idle0012
+    21300446: RoBit_Walk0010
+    21300448: RoBit_Idle0077
+    21300450: RoBit_Idle0075
+    21300452: Squig_idle0040
+    21300454: Squig_idle0023
+    21300456: Squig_idle0029
+    21300458: Squig_idle0010
+    21300460: RoBit_sad0019
+    21300462: Squig_idle0001
+    21300464: Squig_Walk0001
+    21300466: RoBit_Walk0008
+    21300468: RoBit_Idle0053
+    21300470: Squig_idle0016
+    21300472: Squig_scared0001
+    21300474: RoBit_sad0050
+    21300476: RoBit_sad0006
+    21300478: RoBit_sad0033
+    21300480: RoBit_sad0028
+    21300482: RoBit_sad0038
+    21300484: RoBit_sad0052
+    21300486: RoBit_Idle0046
+    21300488: Squig_idle0024
+    21300490: RoBit_Idle0047
+    21300492: RoBit_Idle0013
+    21300494: RoBit_Idle0109
+    21300496: Squig_idle0031
+    21300498: RoBit_sad0017
+    21300500: Squig_Walk0006
+    21300502: Squig_Walk0009
+    21300504: Squig_idle0038
+    21300506: Squig_idle0025
+    21300508: RoBit_Idle0103
+    21300510: RoBit_sad0013
+    21300512: RoBit_sad0034
+    21300514: RoBit_Idle0097
+    21300516: Squig_idle0028
+    21300518: Squig_idle0030
+    21300520: RoBit_Idle0035
+    21300522: RoBit_Idle0065
+    21300524: RoBit_sad0048
+    21300526: RoBit_sad0044
+    21300528: RoBit_Idle0112
+    21300530: RoBit_scared0003
+    21300532: RoBit_sad0010
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -812,8 +277,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -821,12 +284,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -834,13 +292,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -849,97 +304,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -962,15 +385,7 @@ TextureImporter:
         - {x: 5.038063, y: -73.51336}
         - {x: -52.961933, y: -44.51336}
         - {x: -52.961933, y: -2.513359}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0013
       rect:
@@ -991,15 +406,7 @@ TextureImporter:
         - {x: -72.03812, y: -31.538048}
         - {x: -19.038113, y: -18.538048}
         - {x: -21.03811, y: 28.46195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0006
       rect:
@@ -1016,15 +423,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0054
       rect:
@@ -1041,15 +440,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0036
       rect:
@@ -1070,15 +461,7 @@ TextureImporter:
         - {x: -36.504158, y: 28.48866}
         - {x: -0.504158, y: 74.48866}
         - {x: 40.495842, y: 65.48866}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_scared0003
       rect:
@@ -1104,15 +487,7 @@ TextureImporter:
         - {x: -55.5124, y: -70.999985}
         - {x: -55.5124, y: -57.999985}
         - {x: -24.512405, y: -47.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0078
       rect:
@@ -1129,15 +504,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0122
       rect:
@@ -1154,15 +521,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0015
       rect:
@@ -1183,15 +542,7 @@ TextureImporter:
         - {x: -21.499985, y: -26.499983}
         - {x: -19.499983, y: 28.500015}
         - {x: 19.500015, y: 71.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0015
       rect:
@@ -1208,15 +559,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0026
       rect:
@@ -1233,15 +576,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0008
       rect:
@@ -1261,15 +596,7 @@ TextureImporter:
         - {x: -53.499985, y: 12.024704}
         - {x: -15.499987, y: 75.0247}
         - {x: 27.50001, y: 69.024704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0032
       rect:
@@ -1286,15 +613,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0013
       rect:
@@ -1311,15 +630,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0003
       rect:
@@ -1336,15 +647,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0104
       rect:
@@ -1361,15 +664,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0113
       rect:
@@ -1386,15 +681,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0040
       rect:
@@ -1411,15 +698,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0002
       rect:
@@ -1436,15 +715,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0019
       rect:
@@ -1464,15 +735,7 @@ TextureImporter:
         - {x: -53.524734, y: 8.988663}
         - {x: -7.5247345, y: 72.98866}
         - {x: 36.475266, y: 66.98866}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0107
       rect:
@@ -1489,15 +752,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0114
       rect:
@@ -1514,15 +769,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_scared0004
       rect:
@@ -1547,15 +794,7 @@ TextureImporter:
         - {x: -14.512402, y: -71.975296}
         - {x: -66.512405, y: -71.975296}
         - {x: -32.5124, y: -37.975292}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0019
       rect:
@@ -1572,15 +811,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0043
       rect:
@@ -1597,15 +828,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0080
       rect:
@@ -1622,15 +845,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0005
       rect:
@@ -1647,15 +862,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0024
       rect:
@@ -1672,15 +879,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0058
       rect:
@@ -1697,15 +896,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0038
       rect:
@@ -1722,15 +913,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0090
       rect:
@@ -1747,15 +930,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0076
       rect:
@@ -1772,15 +947,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0095
       rect:
@@ -1797,15 +964,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0056
       rect:
@@ -1822,15 +981,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0007
       rect:
@@ -1847,15 +998,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0004
       rect:
@@ -1876,15 +1019,7 @@ TextureImporter:
         - {x: -18.999985, y: -14.024673}
         - {x: -18.999985, y: 23.975327}
         - {x: 19.000015, y: 70.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0045
       rect:
@@ -1901,15 +1036,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0008
       rect:
@@ -1926,15 +1053,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0016
       rect:
@@ -1951,15 +1070,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0116
       rect:
@@ -1976,15 +1087,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0061
       rect:
@@ -2001,15 +1104,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0012
       rect:
@@ -2026,15 +1121,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0105
       rect:
@@ -2051,15 +1138,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0060
       rect:
@@ -2076,15 +1155,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0021
       rect:
@@ -2101,15 +1172,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0042
       rect:
@@ -2126,15 +1189,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0094
       rect:
@@ -2151,15 +1206,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0108
       rect:
@@ -2176,15 +1223,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0027
       rect:
@@ -2205,15 +1244,7 @@ TextureImporter:
         - {x: 4.4752617, y: -74.487595}
         - {x: -64.524734, y: -39.487595}
         - {x: -36.52474, y: -22.487593}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0059
       rect:
@@ -2230,15 +1261,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0001
       rect:
@@ -2255,15 +1278,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0022
       rect:
@@ -2280,15 +1295,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0020
       rect:
@@ -2305,15 +1312,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0004
       rect:
@@ -2330,15 +1329,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0119
       rect:
@@ -2355,15 +1346,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0001
       rect:
@@ -2380,15 +1363,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_scared0004
       rect:
@@ -2405,15 +1380,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0007
       rect:
@@ -2430,15 +1397,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0042
       rect:
@@ -2455,15 +1414,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0030
       rect:
@@ -2480,15 +1431,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0041
       rect:
@@ -2505,15 +1448,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_scared0006
       rect:
@@ -2538,15 +1473,7 @@ TextureImporter:
         - {x: -14.512402, y: -70.999985}
         - {x: -66.512405, y: -70.999985}
         - {x: -30.512402, y: -28.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0083
       rect:
@@ -2563,15 +1490,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_scared0002
       rect:
@@ -2588,15 +1507,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0057
       rect:
@@ -2613,15 +1524,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0023
       rect:
@@ -2638,15 +1541,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0027
       rect:
@@ -2663,15 +1558,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0029
       rect:
@@ -2688,15 +1575,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0030
       rect:
@@ -2713,15 +1592,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_scared0005
       rect:
@@ -2738,15 +1609,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0001
       rect:
@@ -2763,15 +1626,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0061
       rect:
@@ -2788,15 +1643,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0088
       rect:
@@ -2813,15 +1660,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0049
       rect:
@@ -2838,15 +1677,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0027
       rect:
@@ -2863,15 +1694,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0008
       rect:
@@ -2893,15 +1716,7 @@ TextureImporter:
         - {x: -58.513363, y: -54.524673}
         - {x: -61.51336, y: -23.524673}
         - {x: -21.513363, y: -29.524672}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0022
       rect:
@@ -2922,15 +1737,7 @@ TextureImporter:
         - {x: 4.4877625, y: -73.999985}
         - {x: -64.51224, y: -38.999985}
         - {x: -29.512238, y: -20.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0084
       rect:
@@ -2947,15 +1754,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0069
       rect:
@@ -2972,15 +1771,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0005
       rect:
@@ -3001,15 +1792,7 @@ TextureImporter:
         - {x: -72.03812, y: -31.538048}
         - {x: -19.038113, y: -18.538048}
         - {x: -21.03811, y: 28.46195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0117
       rect:
@@ -3026,15 +1809,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0004
       rect:
@@ -3051,15 +1826,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0072
       rect:
@@ -3076,15 +1843,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0081
       rect:
@@ -3101,15 +1860,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0012
       rect:
@@ -3126,15 +1877,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0037
       rect:
@@ -3151,15 +1894,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0018
       rect:
@@ -3176,15 +1911,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0011
       rect:
@@ -3201,15 +1928,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0023
       rect:
@@ -3226,15 +1945,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0005
       rect:
@@ -3251,15 +1962,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0073
       rect:
@@ -3276,15 +1979,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0082
       rect:
@@ -3301,15 +1996,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0009
       rect:
@@ -3326,15 +2013,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0024
       rect:
@@ -3351,15 +2030,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0011
       rect:
@@ -3376,15 +2047,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0053
       rect:
@@ -3401,15 +2064,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0011
       rect:
@@ -3429,15 +2084,7 @@ TextureImporter:
         - {x: 5.038063, y: -73.51336}
         - {x: -52.961933, y: -44.51336}
         - {x: -52.961933, y: -2.513359}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0015
       rect:
@@ -3458,15 +2105,7 @@ TextureImporter:
         - {x: 30.499998, y: 66.5}
         - {x: 31.5, y: -19.499998}
         - {x: 72.5, y: -47.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0068
       rect:
@@ -3483,15 +2122,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0020
       rect:
@@ -3510,15 +2141,7 @@ TextureImporter:
         - {x: -64.499985, y: -39.499985}
         - {x: -17.499989, y: 75.500015}
         - {x: 37.50001, y: 66.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0014
       rect:
@@ -3535,15 +2158,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0101
       rect:
@@ -3560,15 +2175,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0063
       rect:
@@ -3585,15 +2192,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0055
       rect:
@@ -3610,15 +2209,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0120
       rect:
@@ -3635,15 +2226,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0045
       rect:
@@ -3660,15 +2243,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_scared0005
       rect:
@@ -3693,15 +2268,7 @@ TextureImporter:
         - {x: -17.024693, y: -70.975296}
         - {x: -77.02469, y: -70.975296}
         - {x: -26.024693, y: -40.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0035
       rect:
@@ -3722,15 +2289,7 @@ TextureImporter:
         - {x: 5.01038, y: -74.499985}
         - {x: -57.98962, y: -45.499985}
         - {x: -30.98962, y: -3.4999847}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0064
       rect:
@@ -3747,15 +2306,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0096
       rect:
@@ -3772,15 +2323,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0037
       rect:
@@ -3800,15 +2343,7 @@ TextureImporter:
         - {x: -33.998074, y: 32.02471}
         - {x: -0.9980731, y: 75.02471}
         - {x: 40.001926, y: 67.02471}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0031
       rect:
@@ -3825,15 +2360,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0085
       rect:
@@ -3850,15 +2377,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0012
       rect:
@@ -3875,15 +2394,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0025
       rect:
@@ -3900,15 +2411,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0067
       rect:
@@ -3925,15 +2428,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0016
       rect:
@@ -3950,15 +2445,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0026
       rect:
@@ -3979,15 +2466,7 @@ TextureImporter:
         - {x: 5.01038, y: -74.5123}
         - {x: -57.98962, y: -45.512295}
         - {x: -31.98962, y: -5.5122986}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0046
       rect:
@@ -4004,15 +2483,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0020
       rect:
@@ -4029,15 +2500,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_sad
       rect:
@@ -4058,15 +2521,7 @@ TextureImporter:
         - {x: -11.986625, y: -47.495792}
         - {x: -70.986626, y: -23.495792}
         - {x: -70.986626, y: 2.5042038}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0043
       rect:
@@ -4083,15 +2538,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0032
       rect:
@@ -4108,15 +2555,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0051
       rect:
@@ -4133,15 +2572,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0048
       rect:
@@ -4158,15 +2589,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0121
       rect:
@@ -4183,15 +2606,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0008
       rect:
@@ -4208,15 +2623,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0086
       rect:
@@ -4233,15 +2640,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0089
       rect:
@@ -4258,15 +2657,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0003
       rect:
@@ -4283,15 +2674,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0026
       rect:
@@ -4308,15 +2691,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0005
       rect:
@@ -4333,15 +2708,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0025
       rect:
@@ -4358,15 +2725,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0058
       rect:
@@ -4383,15 +2742,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0018
       rect:
@@ -4412,15 +2763,7 @@ TextureImporter:
         - {x: 33.47526, y: 68.000015}
         - {x: 33.47526, y: -15.999983}
         - {x: 61.47526, y: -43.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0115
       rect:
@@ -4437,15 +2780,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0013
       rect:
@@ -4465,15 +2800,7 @@ TextureImporter:
         - {x: 29.03806, y: 69}
         - {x: 30.03806, y: -17}
         - {x: 63.038055, y: -43}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0002
       rect:
@@ -4494,15 +2821,7 @@ TextureImporter:
         - {x: 34.47526, y: 66.98864}
         - {x: 40.47526, y: -26.011358}
         - {x: 78.475266, y: -46.01136}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0032
       rect:
@@ -4523,15 +2842,7 @@ TextureImporter:
         - {x: 4.4752617, y: -74.47531}
         - {x: -64.524734, y: -39.47531}
         - {x: -34.52474, y: -22.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0055
       rect:
@@ -4548,15 +2859,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0044
       rect:
@@ -4573,15 +2876,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0003
       rect:
@@ -4602,15 +2897,7 @@ TextureImporter:
         - {x: 6.4753227, y: -74.999985}
         - {x: -58.524677, y: -42.999985}
         - {x: -39.524677, y: -15.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0017
       rect:
@@ -4630,15 +2917,7 @@ TextureImporter:
         - {x: 32.00002, y: 71.5}
         - {x: 36.000015, y: -15.5}
         - {x: 65.000015, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0007
       rect:
@@ -4659,15 +2938,7 @@ TextureImporter:
         - {x: 28.038063, y: 26.999985}
         - {x: 40.038063, y: -24.000015}
         - {x: 62.038063, y: -46.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0039
       rect:
@@ -4684,15 +2955,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04405410000000000800000000000000
-      internalID: 21300288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0011
       rect:
@@ -4713,15 +2976,7 @@ TextureImporter:
         - {x: -58.52474, y: -58.024673}
         - {x: -62.524742, y: -30.024673}
         - {x: -20.524742, y: -24.024672}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24405410000000000800000000000000
-      internalID: 21300290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0041
       rect:
@@ -4738,15 +2993,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44405410000000000800000000000000
-      internalID: 21300292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0007
       rect:
@@ -4767,15 +3014,7 @@ TextureImporter:
         - {x: -54.499985, y: -58.024673}
         - {x: -63.499985, y: -24.024672}
         - {x: -21.499985, y: -27.024672}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64405410000000000800000000000000
-      internalID: 21300294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0003
       rect:
@@ -4796,15 +3035,7 @@ TextureImporter:
         - {x: -61.499985, y: -57.024673}
         - {x: -61.499985, y: -35.024673}
         - {x: -20.499985, y: -15.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84405410000000000800000000000000
-      internalID: 21300296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0111
       rect:
@@ -4821,15 +3052,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4405410000000000800000000000000
-      internalID: 21300298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0054
       rect:
@@ -4846,15 +3069,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4405410000000000800000000000000
-      internalID: 21300300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0092
       rect:
@@ -4871,15 +3086,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4405410000000000800000000000000
-      internalID: 21300302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0021
       rect:
@@ -4896,15 +3103,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05405410000000000800000000000000
-      internalID: 21300304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0071
       rect:
@@ -4921,15 +3120,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25405410000000000800000000000000
-      internalID: 21300306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0007
       rect:
@@ -4946,15 +3137,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45405410000000000800000000000000
-      internalID: 21300308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0006
       rect:
@@ -4971,15 +3154,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65405410000000000800000000000000
-      internalID: 21300310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0014
       rect:
@@ -4999,15 +3174,7 @@ TextureImporter:
         - {x: 5.5, y: -73.47531}
         - {x: -55.5, y: -46.47531}
         - {x: -42.5, y: 27.524689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85405410000000000800000000000000
-      internalID: 21300312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0093
       rect:
@@ -5024,15 +3191,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5405410000000000800000000000000
-      internalID: 21300314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0070
       rect:
@@ -5049,15 +3208,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5405410000000000800000000000000
-      internalID: 21300316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0022
       rect:
@@ -5074,15 +3225,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5405410000000000800000000000000
-      internalID: 21300318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_scared0001
       rect:
@@ -5099,15 +3242,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06405410000000000800000000000000
-      internalID: 21300320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0002
       rect:
@@ -5124,15 +3259,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26405410000000000800000000000000
-      internalID: 21300322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0033
       rect:
@@ -5149,15 +3276,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46405410000000000800000000000000
-      internalID: 21300324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0005
       rect:
@@ -5178,15 +3297,7 @@ TextureImporter:
         - {x: 11.038063, y: -78.02565}
         - {x: -52.961933, y: -45.02565}
         - {x: -52.961933, y: -8.02565}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66405410000000000800000000000000
-      internalID: 21300326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0004
       rect:
@@ -5206,15 +3317,7 @@ TextureImporter:
         - {x: 5.013378, y: -74.01336}
         - {x: -52.98662, y: -45.013355}
         - {x: -52.98662, y: -7.013359}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86405410000000000800000000000000
-      internalID: 21300328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0014
       rect:
@@ -5231,15 +3334,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6405410000000000800000000000000
-      internalID: 21300330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0002
       rect:
@@ -5260,15 +3355,7 @@ TextureImporter:
         - {x: -17.038109, y: 26.013372}
         - {x: 19.961891, y: 73.013374}
         - {x: 60.961887, y: 61.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6405410000000000800000000000000
-      internalID: 21300332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0029
       rect:
@@ -5285,15 +3372,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6405410000000000800000000000000
-      internalID: 21300334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0052
       rect:
@@ -5310,15 +3389,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07405410000000000800000000000000
-      internalID: 21300336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0099
       rect:
@@ -5335,15 +3406,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27405410000000000800000000000000
-      internalID: 21300338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0100
       rect:
@@ -5360,15 +3423,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47405410000000000800000000000000
-      internalID: 21300340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0018
       rect:
@@ -5385,15 +3440,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67405410000000000800000000000000
-      internalID: 21300342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0036
       rect:
@@ -5410,15 +3457,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87405410000000000800000000000000
-      internalID: 21300344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0118
       rect:
@@ -5435,15 +3474,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7405410000000000800000000000000
-      internalID: 21300346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0035
       rect:
@@ -5460,15 +3491,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7405410000000000800000000000000
-      internalID: 21300348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0057
       rect:
@@ -5485,15 +3508,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7405410000000000800000000000000
-      internalID: 21300350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0039
       rect:
@@ -5514,15 +3529,7 @@ TextureImporter:
         - {x: 36.47526, y: 65.98863}
         - {x: 37.47526, y: -23.011368}
         - {x: 69.475266, y: -42.011368}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08405410000000000800000000000000
-      internalID: 21300352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0079
       rect:
@@ -5539,15 +3546,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28405410000000000800000000000000
-      internalID: 21300354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0066
       rect:
@@ -5564,15 +3563,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48405410000000000800000000000000
-      internalID: 21300356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0087
       rect:
@@ -5589,15 +3580,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68405410000000000800000000000000
-      internalID: 21300358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0034
       rect:
@@ -5614,15 +3597,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88405410000000000800000000000000
-      internalID: 21300360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0015
       rect:
@@ -5639,15 +3614,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8405410000000000800000000000000
-      internalID: 21300362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0039
       rect:
@@ -5664,15 +3631,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8405410000000000800000000000000
-      internalID: 21300364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0017
       rect:
@@ -5689,15 +3648,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8405410000000000800000000000000
-      internalID: 21300366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0011
       rect:
@@ -5714,15 +3665,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09405410000000000800000000000000
-      internalID: 21300368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0021
       rect:
@@ -5743,15 +3686,7 @@ TextureImporter:
         - {x: 36.47526, y: 65.98863}
         - {x: 37.47526, y: -23.011368}
         - {x: 69.475266, y: -42.011368}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29405410000000000800000000000000
-      internalID: 21300370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0016
       rect:
@@ -5768,15 +3703,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49405410000000000800000000000000
-      internalID: 21300372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0056
       rect:
@@ -5793,15 +3720,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69405410000000000800000000000000
-      internalID: 21300374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0098
       rect:
@@ -5818,15 +3737,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89405410000000000800000000000000
-      internalID: 21300376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0003
       rect:
@@ -5843,15 +3754,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9405410000000000800000000000000
-      internalID: 21300378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0034
       rect:
@@ -5872,15 +3775,7 @@ TextureImporter:
         - {x: 5.01038, y: -74.5123}
         - {x: -57.98962, y: -45.512295}
         - {x: -31.98962, y: -5.5122986}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9405410000000000800000000000000
-      internalID: 21300380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0004
       rect:
@@ -5897,15 +3792,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9405410000000000800000000000000
-      internalID: 21300382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0049
       rect:
@@ -5922,15 +3809,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a405410000000000800000000000000
-      internalID: 21300384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0012
       rect:
@@ -5951,15 +3830,7 @@ TextureImporter:
         - {x: -20.024738, y: -23.024672}
         - {x: -19.024738, y: 23.975327}
         - {x: 18.975262, y: 70.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a405410000000000800000000000000
-      internalID: 21300386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0036
       rect:
@@ -5976,15 +3847,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a405410000000000800000000000000
-      internalID: 21300388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0028
       rect:
@@ -6001,15 +3864,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a405410000000000800000000000000
-      internalID: 21300390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0015
       rect:
@@ -6026,15 +3881,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a405410000000000800000000000000
-      internalID: 21300392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0014
       rect:
@@ -6055,15 +3902,7 @@ TextureImporter:
         - {x: -12.038113, y: -79.52467}
         - {x: -73.03812, y: -32.524673}
         - {x: -18.03811, y: -19.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa405410000000000800000000000000
-      internalID: 21300394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0006
       rect:
@@ -6084,15 +3923,7 @@ TextureImporter:
         - {x: 11.475262, y: -76.475296}
         - {x: -55.52474, y: -51.475292}
         - {x: -41.52474, y: 41.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca405410000000000800000000000000
-      internalID: 21300396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0106
       rect:
@@ -6109,15 +3940,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea405410000000000800000000000000
-      internalID: 21300398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0051
       rect:
@@ -6134,15 +3957,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b405410000000000800000000000000
-      internalID: 21300400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0050
       rect:
@@ -6159,15 +3974,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b405410000000000800000000000000
-      internalID: 21300402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0009
       rect:
@@ -6184,15 +3991,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b405410000000000800000000000000
-      internalID: 21300404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0031
       rect:
@@ -6209,15 +4008,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b405410000000000800000000000000
-      internalID: 21300406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0033
       rect:
@@ -6238,15 +4029,7 @@ TextureImporter:
         - {x: 4.4752617, y: -74.48761}
         - {x: -64.524734, y: -39.48761}
         - {x: -36.52474, y: -22.487608}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b405410000000000800000000000000
-      internalID: 21300408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0062
       rect:
@@ -6263,15 +4046,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab405410000000000800000000000000
-      internalID: 21300410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0060
       rect:
@@ -6288,15 +4063,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb405410000000000800000000000000
-      internalID: 21300412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0009
       rect:
@@ -6313,15 +4080,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb405410000000000800000000000000
-      internalID: 21300414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0091
       rect:
@@ -6338,15 +4097,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c405410000000000800000000000000
-      internalID: 21300416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0016
       rect:
@@ -6368,15 +4119,7 @@ TextureImporter:
         - {x: -58.513363, y: -54.524673}
         - {x: -61.51336, y: -23.524673}
         - {x: -21.513363, y: -29.524672}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c405410000000000800000000000000
-      internalID: 21300418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0047
       rect:
@@ -6393,15 +4136,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c405410000000000800000000000000
-      internalID: 21300420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0040
       rect:
@@ -6418,15 +4153,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c405410000000000800000000000000
-      internalID: 21300422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0102
       rect:
@@ -6443,15 +4170,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c405410000000000800000000000000
-      internalID: 21300424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0014
       rect:
@@ -6468,15 +4187,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac405410000000000800000000000000
-      internalID: 21300426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0037
       rect:
@@ -6493,15 +4204,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc405410000000000800000000000000
-      internalID: 21300428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0010
       rect:
@@ -6518,15 +4221,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec405410000000000800000000000000
-      internalID: 21300430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0059
       rect:
@@ -6543,15 +4238,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d405410000000000800000000000000
-      internalID: 21300432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0110
       rect:
@@ -6568,15 +4255,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d405410000000000800000000000000
-      internalID: 21300434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0010
       rect:
@@ -6597,15 +4276,7 @@ TextureImporter:
         - {x: -17.038109, y: 26.013372}
         - {x: 19.961891, y: 73.013374}
         - {x: 60.961887, y: 61.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d405410000000000800000000000000
-      internalID: 21300436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0074
       rect:
@@ -6622,15 +4293,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d405410000000000800000000000000
-      internalID: 21300438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_scared0002
       rect:
@@ -6655,15 +4318,7 @@ TextureImporter:
         - {x: -16.524685, y: -71.999985}
         - {x: -78.52469, y: -71.999985}
         - {x: -26.524685, y: -45.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d405410000000000800000000000000
-      internalID: 21300440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0002
       rect:
@@ -6680,15 +4335,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad405410000000000800000000000000
-      internalID: 21300442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0012
       rect:
@@ -6708,15 +4355,7 @@ TextureImporter:
         - {x: 28.024704, y: 70.024704}
         - {x: 33.024704, y: -12.975296}
         - {x: 63.0247, y: -45.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd405410000000000800000000000000
-      internalID: 21300444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0010
       rect:
@@ -6733,15 +4372,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed405410000000000800000000000000
-      internalID: 21300446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0077
       rect:
@@ -6758,15 +4389,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e405410000000000800000000000000
-      internalID: 21300448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0075
       rect:
@@ -6783,15 +4406,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e405410000000000800000000000000
-      internalID: 21300450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0040
       rect:
@@ -6810,15 +4425,7 @@ TextureImporter:
         - {x: -64.499985, y: -39.499985}
         - {x: -17.499989, y: 75.500015}
         - {x: 37.50001, y: 66.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e405410000000000800000000000000
-      internalID: 21300452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0023
       rect:
@@ -6838,15 +4445,7 @@ TextureImporter:
         - {x: -30.998074, y: 45.024704}
         - {x: -0.9980731, y: 74.024704}
         - {x: 42.001926, y: 67.024704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e405410000000000800000000000000
-      internalID: 21300454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0029
       rect:
@@ -6867,15 +4466,7 @@ TextureImporter:
         - {x: 4.0350647, y: -74.475296}
         - {x: -57.964935, y: -45.475296}
         - {x: -29.964931, y: -1.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e405410000000000800000000000000
-      internalID: 21300456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0010
       rect:
@@ -6895,15 +4486,7 @@ TextureImporter:
         - {x: -44.475304, y: 26.000013}
         - {x: -15.475302, y: 74.000015}
         - {x: 26.524696, y: 70.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae405410000000000800000000000000
-      internalID: 21300458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0019
       rect:
@@ -6920,15 +4503,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce405410000000000800000000000000
-      internalID: 21300460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0001
       rect:
@@ -6947,15 +4522,7 @@ TextureImporter:
         - {x: -64.499985, y: -39.499985}
         - {x: -17.499989, y: 75.500015}
         - {x: 37.50001, y: 66.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee405410000000000800000000000000
-      internalID: 21300462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0001
       rect:
@@ -6976,15 +4543,7 @@ TextureImporter:
         - {x: -36.02474, y: -69.486626}
         - {x: -71.024734, y: -34.486626}
         - {x: -18.024738, y: -17.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f405410000000000800000000000000
-      internalID: 21300464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Walk0008
       rect:
@@ -7001,15 +4560,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f405410000000000800000000000000
-      internalID: 21300466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0053
       rect:
@@ -7026,15 +4577,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f405410000000000800000000000000
-      internalID: 21300468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0016
       rect:
@@ -7054,15 +4597,7 @@ TextureImporter:
         - {x: 30.499949, y: 71.487724}
         - {x: 34.49995, y: -14.512276}
         - {x: 64.49995, y: -47.51227}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f405410000000000800000000000000
-      internalID: 21300470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_scared0001
       rect:
@@ -7086,15 +4621,7 @@ TextureImporter:
         - {x: -61.999992, y: 8.487762}
         - {x: -53.999996, y: 85.48776}
         - {x: -10.999996, y: 99.48776}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f405410000000000800000000000000
-      internalID: 21300472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0050
       rect:
@@ -7111,15 +4638,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af405410000000000800000000000000
-      internalID: 21300474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0006
       rect:
@@ -7136,15 +4655,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf405410000000000800000000000000
-      internalID: 21300476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0033
       rect:
@@ -7161,15 +4672,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef405410000000000800000000000000
-      internalID: 21300478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0028
       rect:
@@ -7186,15 +4689,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00505410000000000800000000000000
-      internalID: 21300480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0038
       rect:
@@ -7211,15 +4706,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20505410000000000800000000000000
-      internalID: 21300482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0052
       rect:
@@ -7236,15 +4723,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40505410000000000800000000000000
-      internalID: 21300484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0046
       rect:
@@ -7261,15 +4740,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60505410000000000800000000000000
-      internalID: 21300486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0024
       rect:
@@ -7290,15 +4761,7 @@ TextureImporter:
         - {x: -36.504158, y: 28.48866}
         - {x: -0.504158, y: 74.48866}
         - {x: 40.495842, y: 65.48866}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80505410000000000800000000000000
-      internalID: 21300488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0047
       rect:
@@ -7315,15 +4778,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0505410000000000800000000000000
-      internalID: 21300490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0013
       rect:
@@ -7340,15 +4795,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0505410000000000800000000000000
-      internalID: 21300492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0109
       rect:
@@ -7365,15 +4812,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0505410000000000800000000000000
-      internalID: 21300494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0031
       rect:
@@ -7394,15 +4833,7 @@ TextureImporter:
         - {x: 4.0350647, y: -74.47531}
         - {x: -57.964935, y: -45.47531}
         - {x: -36.964935, y: -11.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01505410000000000800000000000000
-      internalID: 21300496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0017
       rect:
@@ -7419,15 +4850,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21505410000000000800000000000000
-      internalID: 21300498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0006
       rect:
@@ -7449,15 +4872,7 @@ TextureImporter:
         - {x: -60.52474, y: -53.524673}
         - {x: -59.52474, y: -30.524673}
         - {x: -18.524742, y: -20.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41505410000000000800000000000000
-      internalID: 21300500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_Walk0009
       rect:
@@ -7478,15 +4893,7 @@ TextureImporter:
         - {x: -36.02474, y: -69.486626}
         - {x: -71.024734, y: -34.486626}
         - {x: -18.024738, y: -17.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61505410000000000800000000000000
-      internalID: 21300502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0038
       rect:
@@ -7507,15 +4914,7 @@ TextureImporter:
         - {x: 4.4877625, y: -73.999985}
         - {x: -64.51224, y: -38.999985}
         - {x: -29.512238, y: -20.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81505410000000000800000000000000
-      internalID: 21300504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0025
       rect:
@@ -7536,15 +4935,7 @@ TextureImporter:
         - {x: 5.01038, y: -74.499985}
         - {x: -57.98962, y: -45.499985}
         - {x: -30.98962, y: -3.4999847}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1505410000000000800000000000000
-      internalID: 21300506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0103
       rect:
@@ -7561,15 +4952,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1505410000000000800000000000000
-      internalID: 21300508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0013
       rect:
@@ -7586,15 +4969,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1505410000000000800000000000000
-      internalID: 21300510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0034
       rect:
@@ -7611,15 +4986,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02505410000000000800000000000000
-      internalID: 21300512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0097
       rect:
@@ -7636,15 +5003,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22505410000000000800000000000000
-      internalID: 21300514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0028
       rect:
@@ -7665,15 +5024,7 @@ TextureImporter:
         - {x: 4.4752617, y: -74.47531}
         - {x: -64.524734, y: -39.47531}
         - {x: -34.52474, y: -22.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42505410000000000800000000000000
-      internalID: 21300516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Squig_idle0030
       rect:
@@ -7694,15 +5045,7 @@ TextureImporter:
         - {x: 3.5166056, y: -74.47533}
         - {x: -61.483395, y: -41.475327}
         - {x: -27.48339, y: -17.475327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62505410000000000800000000000000
-      internalID: 21300518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0035
       rect:
@@ -7719,15 +5062,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82505410000000000800000000000000
-      internalID: 21300520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0065
       rect:
@@ -7744,15 +5079,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2505410000000000800000000000000
-      internalID: 21300522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0048
       rect:
@@ -7769,15 +5096,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2505410000000000800000000000000
-      internalID: 21300524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0044
       rect:
@@ -7794,15 +5113,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2505410000000000800000000000000
-      internalID: 21300526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_Idle0112
       rect:
@@ -7819,15 +5130,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03505410000000000800000000000000
-      internalID: 21300528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_scared0003
       rect:
@@ -7844,15 +5147,7 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23505410000000000800000000000000
-      internalID: 21300530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: RoBit_sad0010
       rect:
@@ -7869,295 +5164,9 @@ TextureImporter:
         - {x: -78, y: 87}
         - {x: 78, y: 87}
         - {x: 78, y: -87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43505410000000000800000000000000
-      internalID: 21300532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      RoBit_Idle0020: 21300238
-      Squig_idle0016: 21300470
-      RoBit_sad0006: 21300476
-      RoBit_sad0046: 21300236
-      RoBit_Idle0039: 21300364
-      RoBit_Idle0019: 21300046
-      Squig_idle0037: 21300220
-      RoBit_Idle0105: 21300084
-      Squig_scared0003: 21300010
-      RoBit_Idle0049: 21300384
-      Squig_idle0036: 21300008
-      RoBit_Idle0080: 21300050
-      RoBit_Idle0026: 21300260
-      Squig_idle0033: 21300408
-      RoBit_Walk0010: 21300446
-      RoBit_sad0013: 21300510
-      RoBit_sad0003: 21300028
-      RoBit_sad0057: 21300128
-      RoBit_Idle0044: 21300280
-      RoBit_Idle0005: 21300262
-      Squig_idle0018: 21300268
-      RoBit_Walk0015: 21300362
-      Squig_Walk0005: 21300158
-      RoBit_Idle0081: 21300166
-      RoBit_Idle0115: 21300270
-      RoBit_Idle0076: 21300062
-      RoBit_Idle0094: 21300092
-      RoBit_sad0047: 21300420
-      Squig_idle0030: 21300518
-      RoBit_sad0045: 21300072
-      RoBit_Idle0010: 21300430
-      Squig_idle0010: 21300458
-      RoBit_Idle0099: 21300338
-      Squig_idle0024: 21300488
-      Squig_Walk0015: 21300016
-      RoBit_scared0004: 21300112
-      Squig_Walk0014: 21300394
-      RoBit_Idle0056: 21300066
-      RoBit_Idle0071: 21300306
-      RoBit_scared0003: 21300530
-      RoBit_sad0034: 21300512
-      RoBit_Idle0078: 21300012
-      RoBit_Idle0114: 21300042
-      RoBit_sad0026: 21300020
-      RoBit_sad0009: 21300184
-      RoBit_Idle0096: 21300218
-      RoBit_sad0015: 21300392
-      RoBit_Idle0070: 21300316
-      RoBit_sad0039: 21300288
-      RoBit_Idle0035: 21300520
-      RoBit_Idle0112: 21300528
-      RoBit_Idle0116: 21300078
-      RoBit_scared0005: 21300138
-      RoBit_sad0021: 21300088
-      RoBit_Walk0001: 21300110
-      RoBit_Idle0075: 21300450
-      RoBit_Idle0084: 21300154
-      RoBit_Idle0007: 21300308
-      RoBit_Idle0009: 21300404
-      RoBit_Idle0033: 21300324
-      Squig_idle0040: 21300452
-      RoBit_Idle0050: 21300402
-      RoBit_Idle0053: 21300468
-      RoBit_Idle0037: 21300170
-      RoBit_Idle0090: 21300060
-      RoBit_sad0040: 21300422
-      RoBit_Idle0108: 21300094
-      Squig_Walk0006: 21300500
-      RoBit_Idle0082: 21300182
-      RoBit_sad0001: 21300100
-      RoBit_Idle0104: 21300030
-      RoBit_sad0061: 21300080
-      RoBit_Idle0040: 21300034
-      RoBit_Idle0043: 21300048
-      RoBit_sad0053: 21300190
-      RoBit_Idle0062: 21300410
-      RoBit_Idle0036: 21300388
-      RoBit_Idle0004: 21300382
-      RoBit_Walk0002: 21300322
-      RoBit_sad0036: 21300344
-      Squig_idle0028: 21300516
-      RoBit_Idle0083: 21300124
-      RoBit_sad0002: 21300442
-      RoBit_sad0054: 21300300
-      Squig_scared0004: 21300044
-      RoBit_sad0044: 21300526
-      Squig_idle0021: 21300370
-      RoBit_Idle0023: 21300176
-      Squig_idle0013: 21300272
-      RoBit_sad0038: 21300482
-      Squig_idle0034: 21300380
-      RoBit_Idle0015: 21300018
-      RoBit_Idle0061: 21300142
-      RoBit_Idle0027: 21300132
-      RoBit_Idle0100: 21300340
-      RoBit_Idle0024: 21300054
-      Squig_idle0020: 21300198
-      RoBit_Idle0087: 21300358
-      RoBit_sad0025: 21300228
-      RoBit_Idle0107: 21300040
-      RoBit_Idle0067: 21300230
-      RoBit_Idle0119: 21300108
-      RoBit_Idle0031: 21300406
-      RoBit_Walk0013: 21300026
-      Squig_idle0009: 21300000
-      RoBit_sad0020: 21300104
-      Squig_sad: 21300240
-      RoBit_Idle0030: 21300118
-      RoBit_Idle0102: 21300424
-      RoBit_Idle0122: 21300014
-      Squig_idle0015: 21300194
-      RoBit_sad0031: 21300222
-      RoBit_Idle0054: 21300006
-      RoBit_Idle0110: 21300434
-      Squig_Walk0010: 21300436
-      RoBit_Walk0014: 21300330
-      RoBit_Idle0022: 21300318
-      Squig_idle0004: 21300328
-      Squig_idle0008: 21300022
-      RoBit_Idle0059: 21300098
-      RoBit_sad0018: 21300342
-      Squig_Walk0001: 21300464
-      RoBit_Idle0065: 21300522
-      RoBit_Idle0003: 21300378
-      Squig_idle0022: 21300152
-      RoBit_Idle0086: 21300254
-      Squig_scared0005: 21300212
-      RoBit_sad0023: 21300130
-      Squig_idle0006: 21300396
-      RoBit_Idle0045: 21300210
-      Squig_idle0012: 21300444
-      RoBit_sad0059: 21300432
-      RoBit_sad0043: 21300242
-      Squig_idle0025: 21300506
-      Squig_idle0014: 21300312
-      RoBit_Idle0091: 21300416
-      RoBit_Idle0014: 21300200
-      RoBit_sad0058: 21300056
-      RoBit_sad0056: 21300374
-      Squig_idle0032: 21300276
-      Squig_scared0002: 21300440
-      RoBit_Walk0012: 21300168
-      RoBit_sad0052: 21300484
-      RoBit_sad0037: 21300428
-      RoBit_Walk0009: 21300414
-      RoBit_Idle0006: 21300310
-      RoBit_Idle0051: 21300246
-      RoBit_sad0029: 21300134
-      Squig_scared0006: 21300122
-      RoBit_Walk0003: 21300258
-      Squig_Walk0012: 21300386
-      Squig_idle0026: 21300234
-      RoBit_sad0017: 21300498
-      RoBit_Idle0117: 21300160
-      RoBit_Idle0025: 21300264
-      RoBit_sad0005: 21300178
-      RoBit_Idle0028: 21300390
-      Squig_Walk0016: 21300418
-      RoBit_Idle0063: 21300204
-      RoBit_Idle0052: 21300336
-      RoBit_Idle0046: 21300486
-      RoBit_sad0007: 21300068
-      RoBit_Idle0042: 21300116
-      Squig_idle0005: 21300326
-      RoBit_Idle0029: 21300334
-      RoBit_sad0049: 21300146
-      RoBit_Idle0106: 21300398
-      RoBit_Idle0048: 21300248
-      RoBit_Idle0079: 21300354
-      RoBit_Idle0018: 21300172
-      RoBit_Idle0068: 21300196
-      RoBit_Idle0077: 21300448
-      Squig_idle0031: 21300496
-      Squig_idle0035: 21300214
-      RoBit_sad0041: 21300292
-      RoBit_Idle0072: 21300164
-      RoBit_Idle0073: 21300180
-      RoBit_scared0001: 21300320
-      RoBit_Idle0038: 21300058
-      RoBit_sad0030: 21300136
-      RoBit_Idle0098: 21300376
-      RoBit_sad0022: 21300102
-      Squig_Walk0004: 21300070
-      RoBit_sad0024: 21300186
-      Squig_idle0007: 21300286
-      RoBit_Idle0013: 21300492
-      Squig_idle0003: 21300282
-      RoBit_sad0060: 21300086
-      RoBit_sad0033: 21300478
-      RoBit_Idle0012: 21300082
-      RoBit_Idle0101: 21300202
-      Squig_idle0038: 21300504
-      RoBit_Idle0060: 21300412
-      RoBit_sad0048: 21300524
-      RoBit_Idle0017: 21300366
-      RoBit_scared0002: 21300126
-      RoBit_Idle0041: 21300120
-      RoBit_sad0019: 21300460
-      RoBit_Walk0007: 21300114
-      RoBit_sad0004: 21300162
-      RoBit_Idle0113: 21300032
-      Squig_Walk0002: 21300332
-      RoBit_Idle0011: 21300174
-      Squig_idle0023: 21300454
-      RoBit_Walk0008: 21300466
-      RoBit_Walk0004: 21300106
-      RoBit_sad0008: 21300074
-      RoBit_Walk0011: 21300188
-      RoBit_sad0032: 21300244
-      RoBit_Idle0121: 21300250
-      Squig_Walk0003: 21300296
-      Squig_Walk0007: 21300294
-      RoBit_Idle0002: 21300036
-      Squig_idle0019: 21300038
-      RoBit_sad0042: 21300090
-      RoBit_Idle0047: 21300490
-      Squig_Walk0013: 21300002
-      RoBit_Idle0111: 21300298
-      Squig_idle0029: 21300456
-      Squig_scared0001: 21300472
-      Squig_Walk0008: 21300150
-      Squig_idle0011: 21300192
-      Squig_idle0017: 21300284
-      RoBit_Idle0120: 21300208
-      RoBit_Idle0066: 21300356
-      RoBit_sad0055: 21300206
-      RoBit_Idle0008: 21300252
-      RoBit_Idle0103: 21300508
-      RoBit_Idle0085: 21300224
-      RoBit_Idle0064: 21300216
-      RoBit_Idle0093: 21300314
-      RoBit_Idle0016: 21300076
-      Squig_Walk0011: 21300290
-      RoBit_sad0010: 21300532
-      RoBit_Idle0055: 21300278
-      RoBit_Idle0118: 21300346
-      RoBit_Idle0034: 21300360
-      Squig_idle0002: 21300274
-      Squig_idle0001: 21300462
-      RoBit_Idle0001: 21300140
-      RoBit_sad0012: 21300226
-      RoBit_Idle0074: 21300438
-      RoBit_Idle0095: 21300064
-      Squig_idle0027: 21300096
-      RoBit_Walk0006: 21300004
-      RoBit_Idle0089: 21300256
-      RoBit_Idle0088: 21300144
-      RoBit_sad0016: 21300232
-      RoBit_Idle0021: 21300304
-      RoBit_Walk0005: 21300052
-      RoBit_Idle0069: 21300156
-      RoBit_Idle0057: 21300350
-      RoBit_sad0050: 21300474
-      RoBit_sad0028: 21300480
-      Squig_idle0039: 21300352
-      RoBit_sad0051: 21300400
-      RoBit_Idle0058: 21300266
-      RoBit_sad0035: 21300348
-      RoBit_Idle0109: 21300494
-      RoBit_sad0014: 21300426
-      Squig_Walk0009: 21300502
-      RoBit_Idle0097: 21300514
-      RoBit_sad0011: 21300368
-      RoBit_Walk0016: 21300372
-      RoBit_sad0027: 21300148
-      RoBit_Idle0092: 21300302
-      RoBit_Idle0032: 21300024
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

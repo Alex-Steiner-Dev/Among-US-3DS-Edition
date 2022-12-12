@@ -1,36 +1,17 @@
 fileFormatVersion: 2
 guid: 383203abadb9f7741b487c80691cbbe3
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: vote_PlayerBase0008
-  - first:
-      213: 21300002
-    second: vote_PlayerBase0017
-  - first:
-      213: 21300004
-    second: vote_PlayerBase0014
-  - first:
-      213: 21300006
-    second: vote_PlayerBase0010
-  - first:
-      213: 21300008
-    second: vote_PlayerBase0011
-  - first:
-      213: 21300010
-    second: vote_PlayerBase0013
-  - first:
-      213: 21300012
-    second: vote_PlayerBase0007
-  - first:
-      213: 21300014
-    second: vote_PlayerBase0006
-  - first:
-      213: 21300016
-    second: vote_PlayerBase0009
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: vote_PlayerBase0008
+    21300002: vote_PlayerBase0017
+    21300004: vote_PlayerBase0014
+    21300006: vote_PlayerBase0010
+    21300008: vote_PlayerBase0011
+    21300010: vote_PlayerBase0013
+    21300012: vote_PlayerBase0007
+    21300014: vote_PlayerBase0006
+    21300016: vote_PlayerBase0009
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -38,8 +19,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -47,12 +26,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,13 +34,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -75,97 +46,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -185,15 +124,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0017
       rect:
@@ -210,15 +141,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0014
       rect:
@@ -235,15 +158,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0010
       rect:
@@ -260,15 +175,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0011
       rect:
@@ -285,15 +192,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0013
       rect:
@@ -310,15 +209,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0007
       rect:
@@ -335,15 +226,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0006
       rect:
@@ -360,15 +243,7 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vote_PlayerBase0009
       rect:
@@ -385,37 +260,9 @@ TextureImporter:
         - {x: -136.5, y: 33}
         - {x: 136.5, y: 33}
         - {x: 136.5, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      vote_PlayerBase0017: 21300002
-      vote_PlayerBase0007: 21300012
-      vote_PlayerBase0011: 21300008
-      vote_PlayerBase0014: 21300004
-      vote_PlayerBase0010: 21300006
-      vote_PlayerBase0008: 21300000
-      vote_PlayerBase0013: 21300010
-      vote_PlayerBase0006: 21300014
-      vote_PlayerBase0009: 21300016
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

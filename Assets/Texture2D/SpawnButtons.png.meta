@@ -1,150 +1,55 @@
 fileFormatVersion: 2
 guid: 4795429f457ce9e42b7c88ce82b6f6c2
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Enginebutton0002
-  - first:
-      213: 21300002
-    second: StorageButton0006
-  - first:
-      213: 21300004
-    second: recordsButton0007
-  - first:
-      213: 21300006
-    second: HallwayButton0007
-  - first:
-      213: 21300008
-    second: KitchenButton0002
-  - first:
-      213: 21300010
-    second: recordsButton0006
-  - first:
-      213: 21300012
-    second: KitchenButton0008
-  - first:
-      213: 21300014
-    second: KitchenButton0003
-  - first:
-      213: 21300016
-    second: Enginebutton0007
-  - first:
-      213: 21300018
-    second: Enginebutton0004
-  - first:
-      213: 21300020
-    second: KitchenButton0001
-  - first:
-      213: 21300022
-    second: HallwayButton0002
-  - first:
-      213: 21300024
-    second: StorageButton0003
-  - first:
-      213: 21300026
-    second: recordsButton0002
-  - first:
-      213: 21300028
-    second: Enginebutton0009
-  - first:
-      213: 21300030
-    second: HallwayButton0003
-  - first:
-      213: 21300032
-    second: Enginebutton0008
-  - first:
-      213: 21300034
-    second: StorageButton0001
-  - first:
-      213: 21300036
-    second: recordsButton0004
-  - first:
-      213: 21300038
-    second: StorageButton0008
-  - first:
-      213: 21300040
-    second: KitchenButton0005
-  - first:
-      213: 21300042
-    second: StorageButton0007
-  - first:
-      213: 21300044
-    second: BrigButton0005
-  - first:
-      213: 21300046
-    second: HallwayButton0006
-  - first:
-      213: 21300048
-    second: recordsButton0005
-  - first:
-      213: 21300050
-    second: HallwayButton0005
-  - first:
-      213: 21300052
-    second: Enginebutton0001
-  - first:
-      213: 21300054
-    second: KitchenButton0004
-  - first:
-      213: 21300056
-    second: KitchenButton0007
-  - first:
-      213: 21300058
-    second: HallwayButton0001
-  - first:
-      213: 21300060
-    second: StorageButton0005
-  - first:
-      213: 21300062
-    second: StorageButton0009
-  - first:
-      213: 21300064
-    second: BrigButton0002
-  - first:
-      213: 21300066
-    second: recordsButton0001
-  - first:
-      213: 21300068
-    second: KitchenButton0009
-  - first:
-      213: 21300070
-    second: KitchenButton0006
-  - first:
-      213: 21300072
-    second: Enginebutton0006
-  - first:
-      213: 21300074
-    second: Enginebutton0005
-  - first:
-      213: 21300076
-    second: StorageButton0004
-  - first:
-      213: 21300078
-    second: BrigButton0001
-  - first:
-      213: 21300080
-    second: BrigButton0006
-  - first:
-      213: 21300082
-    second: BrigButton0004
-  - first:
-      213: 21300084
-    second: recordsButton0003
-  - first:
-      213: 21300086
-    second: BrigButton0003
-  - first:
-      213: 21300088
-    second: Enginebutton0003
-  - first:
-      213: 21300090
-    second: HallwayButton0004
-  - first:
-      213: 21300092
-    second: StorageButton0002
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Enginebutton0002
+    21300002: StorageButton0006
+    21300004: recordsButton0007
+    21300006: HallwayButton0007
+    21300008: KitchenButton0002
+    21300010: recordsButton0006
+    21300012: KitchenButton0008
+    21300014: KitchenButton0003
+    21300016: Enginebutton0007
+    21300018: Enginebutton0004
+    21300020: KitchenButton0001
+    21300022: HallwayButton0002
+    21300024: StorageButton0003
+    21300026: recordsButton0002
+    21300028: Enginebutton0009
+    21300030: HallwayButton0003
+    21300032: Enginebutton0008
+    21300034: StorageButton0001
+    21300036: recordsButton0004
+    21300038: StorageButton0008
+    21300040: KitchenButton0005
+    21300042: StorageButton0007
+    21300044: BrigButton0005
+    21300046: HallwayButton0006
+    21300048: recordsButton0005
+    21300050: HallwayButton0005
+    21300052: Enginebutton0001
+    21300054: KitchenButton0004
+    21300056: KitchenButton0007
+    21300058: HallwayButton0001
+    21300060: StorageButton0005
+    21300062: StorageButton0009
+    21300064: BrigButton0002
+    21300066: recordsButton0001
+    21300068: KitchenButton0009
+    21300070: KitchenButton0006
+    21300072: Enginebutton0006
+    21300074: Enginebutton0005
+    21300076: StorageButton0004
+    21300078: BrigButton0001
+    21300080: BrigButton0006
+    21300082: BrigButton0004
+    21300084: recordsButton0003
+    21300086: BrigButton0003
+    21300088: Enginebutton0003
+    21300090: HallwayButton0004
+    21300092: StorageButton0002
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -152,8 +57,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -161,12 +64,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -174,13 +72,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -189,97 +84,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -318,15 +181,7 @@ TextureImporter:
         - {x: -90, y: -33.5}
         - {x: -90, y: 11.5}
         - {x: -28, y: 84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0006
       rect:
@@ -350,15 +205,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0007
       rect:
@@ -387,15 +234,7 @@ TextureImporter:
         - {x: -86.5, y: -14.000004}
         - {x: -86.5, y: 24.999992}
         - {x: -64.5, y: 71}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0007
       rect:
@@ -429,15 +268,7 @@ TextureImporter:
         - {x: -113, y: -6}
         - {x: -113, y: 68}
         - {x: -42.999996, y: 70}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0002
       rect:
@@ -455,15 +286,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0006
       rect:
@@ -492,15 +315,7 @@ TextureImporter:
         - {x: -86.5, y: -14.000004}
         - {x: -86.5, y: 24.999992}
         - {x: -64.5, y: 71}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0008
       rect:
@@ -518,15 +333,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0003
       rect:
@@ -544,15 +351,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0007
       rect:
@@ -581,15 +380,7 @@ TextureImporter:
         - {x: -28, y: -85.5}
         - {x: -90, y: -85.5}
         - {x: -90, y: 12.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0004
       rect:
@@ -625,15 +416,7 @@ TextureImporter:
         - {x: -90, y: -33.5}
         - {x: -90, y: 11.5}
         - {x: -28, y: 84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0001
       rect:
@@ -651,15 +434,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0002
       rect:
@@ -688,15 +463,7 @@ TextureImporter:
         - {x: -72, y: -14.47855}
         - {x: -74, y: 13.521454}
         - {x: -113, y: 0.52145386}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0003
       rect:
@@ -720,15 +487,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 19.5}
         - {x: -75, y: 59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0002
       rect:
@@ -750,15 +509,7 @@ TextureImporter:
         - {x: -86.5, y: -20.000004}
         - {x: -86.5, y: 33.999992}
         - {x: -43.5, y: 69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0009
       rect:
@@ -794,15 +545,7 @@ TextureImporter:
         - {x: -90, y: -33.5}
         - {x: -90, y: 11.5}
         - {x: -28, y: 84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0003
       rect:
@@ -838,15 +581,7 @@ TextureImporter:
         - {x: -52.999996, y: -2.461937}
         - {x: -82, y: 8.538063}
         - {x: -113, y: -2.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0008
       rect:
@@ -882,15 +617,7 @@ TextureImporter:
         - {x: -90, y: -33.5}
         - {x: -90, y: 11.5}
         - {x: -28, y: 84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0001
       rect:
@@ -914,15 +641,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0004
       rect:
@@ -946,15 +665,7 @@ TextureImporter:
         - {x: -24.499998, y: -73}
         - {x: -86.5, y: -25}
         - {x: -86.5, y: 18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0008
       rect:
@@ -978,15 +689,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0005
       rect:
@@ -1004,15 +707,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0007
       rect:
@@ -1036,15 +731,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BrigButton0005
       rect:
@@ -1061,15 +748,7 @@ TextureImporter:
         - {x: -70, y: 63}
         - {x: 70, y: 63}
         - {x: 70, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0006
       rect:
@@ -1103,15 +782,7 @@ TextureImporter:
         - {x: -113, y: -6}
         - {x: -113, y: 68}
         - {x: -42.999996, y: 70}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0005
       rect:
@@ -1139,15 +810,7 @@ TextureImporter:
         - {x: -86.5, y: -25}
         - {x: -86.5, y: 31.999992}
         - {x: -67.5, y: 71}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0005
       rect:
@@ -1185,15 +848,7 @@ TextureImporter:
         - {x: -113, y: -6}
         - {x: -113, y: 58}
         - {x: -103, y: 68}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0001
       rect:
@@ -1224,15 +879,7 @@ TextureImporter:
         - {x: -90, y: -70.5}
         - {x: -90, y: 15.5}
         - {x: -82, y: 17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0004
       rect:
@@ -1250,15 +897,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0007
       rect:
@@ -1276,15 +915,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0001
       rect:
@@ -1313,15 +944,7 @@ TextureImporter:
         - {x: -76, y: -12.478546}
         - {x: -79, y: 12.521446}
         - {x: -113, y: 0.52145386}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0005
       rect:
@@ -1345,15 +968,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0009
       rect:
@@ -1377,15 +992,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BrigButton0002
       rect:
@@ -1406,15 +1013,7 @@ TextureImporter:
         - {x: 70, y: -31.46194}
         - {x: 70, y: -60.46194}
         - {x: -70, y: -60.46194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0001
       rect:
@@ -1436,15 +1035,7 @@ TextureImporter:
         - {x: -86.5, y: -20.000004}
         - {x: -86.5, y: 33.999992}
         - {x: -43.5, y: 69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0009
       rect:
@@ -1462,15 +1053,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: KitchenButton0006
       rect:
@@ -1488,15 +1071,7 @@ TextureImporter:
         - {x: -19, y: 82}
         - {x: 70, y: 16.999992}
         - {x: 70, y: -82}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0006
       rect:
@@ -1532,15 +1107,7 @@ TextureImporter:
         - {x: -90, y: -33.5}
         - {x: -90, y: 11.5}
         - {x: -28, y: 84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0005
       rect:
@@ -1571,15 +1138,7 @@ TextureImporter:
         - {x: -90, y: -70.5}
         - {x: -90, y: 15.5}
         - {x: -82, y: 17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0004
       rect:
@@ -1603,15 +1162,7 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -81, y: 52.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BrigButton0001
       rect:
@@ -1628,15 +1179,7 @@ TextureImporter:
         - {x: -70, y: 63}
         - {x: 70, y: 63}
         - {x: 70, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BrigButton0006
       rect:
@@ -1653,15 +1196,7 @@ TextureImporter:
         - {x: -70, y: 63}
         - {x: 70, y: 63}
         - {x: 70, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BrigButton0004
       rect:
@@ -1678,15 +1213,7 @@ TextureImporter:
         - {x: -70, y: 63}
         - {x: 70, y: 63}
         - {x: 70, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: recordsButton0003
       rect:
@@ -1709,15 +1236,7 @@ TextureImporter:
         - {x: -86.5, y: -14.000004}
         - {x: -86.5, y: 18.999992}
         - {x: -56.5, y: 70}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BrigButton0003
       rect:
@@ -1734,15 +1253,7 @@ TextureImporter:
         - {x: -70, y: 61.03805}
         - {x: 70, y: 61.03805}
         - {x: 70, y: -59.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Enginebutton0003
       rect:
@@ -1771,15 +1282,7 @@ TextureImporter:
         - {x: -28, y: -85.5}
         - {x: -90, y: -85.5}
         - {x: -90, y: 12.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: HallwayButton0004
       rect:
@@ -1808,15 +1311,7 @@ TextureImporter:
         - {x: -66.99999, y: -2}
         - {x: -113, y: -6}
         - {x: -113, y: 66.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: StorageButton0002
       rect:
@@ -1840,75 +1335,9 @@ TextureImporter:
         - {x: -94, y: -58.5}
         - {x: -94, y: 0.5}
         - {x: -83, y: 57.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      recordsButton0007: 21300004
-      StorageButton0003: 21300024
-      KitchenButton0002: 21300008
-      StorageButton0006: 21300002
-      BrigButton0005: 21300044
-      HallwayButton0007: 21300006
-      KitchenButton0006: 21300070
-      HallwayButton0004: 21300090
-      StorageButton0002: 21300092
-      KitchenButton0009: 21300068
-      StorageButton0008: 21300038
-      recordsButton0003: 21300084
-      HallwayButton0006: 21300046
-      BrigButton0001: 21300078
-      KitchenButton0008: 21300012
-      BrigButton0002: 21300064
-      Enginebutton0009: 21300028
-      recordsButton0005: 21300048
-      recordsButton0002: 21300026
-      BrigButton0004: 21300082
-      HallwayButton0003: 21300030
-      KitchenButton0004: 21300054
-      BrigButton0006: 21300080
-      Enginebutton0002: 21300000
-      Enginebutton0003: 21300088
-      StorageButton0004: 21300076
-      Enginebutton0008: 21300032
-      BrigButton0003: 21300086
-      KitchenButton0005: 21300040
-      KitchenButton0007: 21300056
-      StorageButton0007: 21300042
-      StorageButton0001: 21300034
-      StorageButton0009: 21300062
-      HallwayButton0002: 21300022
-      Enginebutton0001: 21300052
-      Enginebutton0006: 21300072
-      recordsButton0006: 21300010
-      HallwayButton0001: 21300058
-      Enginebutton0007: 21300016
-      recordsButton0004: 21300036
-      StorageButton0005: 21300060
-      Enginebutton0005: 21300074
-      Enginebutton0004: 21300018
-      HallwayButton0005: 21300050
-      KitchenButton0003: 21300014
-      KitchenButton0001: 21300020
-      recordsButton0001: 21300066
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

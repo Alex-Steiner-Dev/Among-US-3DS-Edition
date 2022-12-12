@@ -1,93 +1,36 @@
 fileFormatVersion: 2
 guid: 1755c7159de7e54449f2d53b9ed16434
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_holidaycube_hat_Present0003
-  - first:
-      213: 21300002
-    second: 2022_store_bean_nameplate_wrappingPaper
-  - first:
-      213: 21300004
-    second: 2022_holidaycube_hat_Scrudge0003
-  - first:
-      213: 21300006
-    second: 2022_holidaycube_hat_Snowman0003
-  - first:
-      213: 21300008
-    second: 2022_holidaycube_visor_Rudolph0001
-  - first:
-      213: 21300010
-    second: 2022_holidaycube_visor_Candycane0003
-  - first:
-      213: 21300012
-    second: 2022_holidaycube_hat_Scrudge0001
-  - first:
-      213: 21300014
-    second: 2022_holidaycube_hat_Scrudge0002
-  - first:
-      213: 21300016
-    second: 2022_store_bean_nameplate_snowmies
-  - first:
-      213: 21300018
-    second: 2022_store_bean_nameplate_winterForest
-  - first:
-      213: 21300020
-    second: 2022_holidaycube_hat_StarTopper0002
-  - first:
-      213: 21300022
-    second: 2022_holidaycube_visor_Candycane0002
-  - first:
-      213: 21300024
-    second: 2022_store_bean_nameplate_candyCane
-  - first:
-      213: 21300026
-    second: 2022_holidaycube_hat_StarTopper0001
-  - first:
-      213: 21300028
-    second: 2022_holidaycube_hat_Igloo0003
-  - first:
-      213: 21300030
-    second: 2022_holidaycube_hat_Snowman0001
-  - first:
-      213: 21300032
-    second: 2022_holidaycube_hat_Igloo0001
-  - first:
-      213: 21300034
-    second: 2022_holidaycube_hat_Igloo0002
-  - first:
-      213: 21300036
-    second: 2022_holidaycube_hat_Present0004
-  - first:
-      213: 21300038
-    second: 2022_holidaycube_visor_Candycane0001
-  - first:
-      213: 21300040
-    second: 2022_holidaycube_hat_Snowman0002
-  - first:
-      213: 21300042
-    second: 2022_holidaycube_hat_Present0002
-  - first:
-      213: 21300044
-    second: 2022_holidaycube_hat_Present0001
-  - first:
-      213: 21300046
-    second: 2022_holidaycube_visor_IceBeard0001
-  - first:
-      213: 21300048
-    second: 2022_holidaycube_hat_StarTopper0003
-  - first:
-      213: 21300050
-    second: 2022_holidaycube_visor_Rudolph0002
-  - first:
-      213: 21300052
-    second: 2022_holidaycube_visor_IceBeard0002
-  - first:
-      213: 21300054
-    second: 2022_holidaycube_visor_IceBeard0003
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_holidaycube_hat_Present0003
+    21300002: 2022_store_bean_nameplate_wrappingPaper
+    21300004: 2022_holidaycube_hat_Scrudge0003
+    21300006: 2022_holidaycube_hat_Snowman0003
+    21300008: 2022_holidaycube_visor_Rudolph0001
+    21300010: 2022_holidaycube_visor_Candycane0003
+    21300012: 2022_holidaycube_hat_Scrudge0001
+    21300014: 2022_holidaycube_hat_Scrudge0002
+    21300016: 2022_store_bean_nameplate_snowmies
+    21300018: 2022_store_bean_nameplate_winterForest
+    21300020: 2022_holidaycube_hat_StarTopper0002
+    21300022: 2022_holidaycube_visor_Candycane0002
+    21300024: 2022_store_bean_nameplate_candyCane
+    21300026: 2022_holidaycube_hat_StarTopper0001
+    21300028: 2022_holidaycube_hat_Igloo0003
+    21300030: 2022_holidaycube_hat_Snowman0001
+    21300032: 2022_holidaycube_hat_Igloo0001
+    21300034: 2022_holidaycube_hat_Igloo0002
+    21300036: 2022_holidaycube_hat_Present0004
+    21300038: 2022_holidaycube_visor_Candycane0001
+    21300040: 2022_holidaycube_hat_Snowman0002
+    21300042: 2022_holidaycube_hat_Present0002
+    21300044: 2022_holidaycube_hat_Present0001
+    21300046: 2022_holidaycube_visor_IceBeard0001
+    21300048: 2022_holidaycube_hat_StarTopper0003
+    21300050: 2022_holidaycube_visor_Rudolph0002
+    21300052: 2022_holidaycube_visor_IceBeard0002
+    21300054: 2022_holidaycube_visor_IceBeard0003
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -95,8 +38,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -104,12 +45,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -117,13 +53,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -132,97 +65,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -244,15 +145,7 @@ TextureImporter:
         - {x: 74.47532, y: -54.483395}
         - {x: 0.4753189, y: -60.483395}
         - {x: -66.52468, y: -53.483395}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_nameplate_wrappingPaper
       rect:
@@ -269,15 +162,7 @@ TextureImporter:
         - {x: -138, y: 33.5}
         - {x: 138, y: 33.5}
         - {x: 138, y: -33.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Scrudge0003
       rect:
@@ -296,15 +181,7 @@ TextureImporter:
         - {x: -58.49998, y: 21.514183}
         - {x: -8.499985, y: 67.514175}
         - {x: 50.500015, y: 74.51418}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Snowman0003
       rect:
@@ -329,15 +206,7 @@ TextureImporter:
         - {x: -83.46194, y: -57.500015}
         - {x: -83.46194, y: -31.500015}
         - {x: -51.461937, y: -9.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_Rudolph0001
       rect:
@@ -356,15 +225,7 @@ TextureImporter:
         - {x: 39.000008, y: 53.000008}
         - {x: 63.000008, y: -15.999992}
         - {x: 11.000004, y: -63.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_Candycane0003
       rect:
@@ -382,15 +243,7 @@ TextureImporter:
         - {x: -34.02469, y: 5.006897}
         - {x: -11.024685, y: 35.00689}
         - {x: 27.975311, y: 21.00689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Scrudge0001
       rect:
@@ -413,15 +266,7 @@ TextureImporter:
         - {x: -15.000015, y: -62.499985}
         - {x: -39.000015, y: -77.499985}
         - {x: -68.000015, y: -28.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Scrudge0002
       rect:
@@ -441,15 +286,7 @@ TextureImporter:
         - {x: 62.524704, y: -46.499992}
         - {x: -59.475296, y: -63.499992}
         - {x: -85.475296, y: -41.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_nameplate_snowmies
       rect:
@@ -466,15 +303,7 @@ TextureImporter:
         - {x: -138, y: 33.5}
         - {x: 138, y: 33.5}
         - {x: 138, y: -33.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_nameplate_winterForest
       rect:
@@ -491,15 +320,7 @@ TextureImporter:
         - {x: -138, y: 33.5}
         - {x: 138, y: 33.5}
         - {x: 138, y: -33.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_StarTopper0002
       rect:
@@ -519,15 +340,7 @@ TextureImporter:
         - {x: 21.993095, y: -64.499985}
         - {x: -14.006903, y: -69.499985}
         - {x: -50.006905, y: -39.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_Candycane0002
       rect:
@@ -545,15 +358,7 @@ TextureImporter:
         - {x: -40.013374, y: 25.013376}
         - {x: 43.986626, y: 18.013376}
         - {x: 43.986626, y: -21.986622}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_nameplate_candyCane
       rect:
@@ -570,15 +375,7 @@ TextureImporter:
         - {x: -138, y: 33.5}
         - {x: 138, y: 33.5}
         - {x: 138, y: -33.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_StarTopper0001
       rect:
@@ -600,15 +397,7 @@ TextureImporter:
         - {x: 36.000008, y: -57.975327}
         - {x: -1.9999914, y: -68.97533}
         - {x: -43.999992, y: -42.975327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Igloo0003
       rect:
@@ -629,15 +418,7 @@ TextureImporter:
         - {x: 52.524704, y: 20.000008}
         - {x: 68.524704, y: -13.999992}
         - {x: 56.524704, y: -51.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Snowman0001
       rect:
@@ -661,15 +442,7 @@ TextureImporter:
         - {x: -46.993893, y: -16.999985}
         - {x: -64.9939, y: 19.000015}
         - {x: -60.993893, y: 52.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Igloo0001
       rect:
@@ -688,15 +461,7 @@ TextureImporter:
         - {x: 71.96195, y: -37.9753}
         - {x: -11.038048, y: -31.9753}
         - {x: -80.03805, y: -51.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Igloo0002
       rect:
@@ -716,15 +481,7 @@ TextureImporter:
         - {x: 74.000015, y: -42.487614}
         - {x: 9.000015, y: -54.487614}
         - {x: -77.999985, y: -32.487614}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Present0004
       rect:
@@ -741,15 +498,7 @@ TextureImporter:
         - {x: 88, y: 9.5}
         - {x: 50, y: -9.5}
         - {x: -88, y: -9.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_Candycane0001
       rect:
@@ -768,15 +517,7 @@ TextureImporter:
         - {x: 43.986626, y: -27.986626}
         - {x: -5.013382, y: -27.986626}
         - {x: -44.013374, y: -14.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Snowman0002
       rect:
@@ -796,15 +537,7 @@ TextureImporter:
         - {x: 80.99165, y: -42.986626}
         - {x: -73.00834, y: -42.986626}
         - {x: -91.00833, y: -24.986624}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Present0002
       rect:
@@ -824,15 +557,7 @@ TextureImporter:
         - {x: 40.500004, y: 49.475323}
         - {x: 71.50001, y: 19.475319}
         - {x: 89.50001, y: -46.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_Present0001
       rect:
@@ -852,15 +577,7 @@ TextureImporter:
         - {x: -44.529022, y: -33.00179}
         - {x: -75.52902, y: -45.00179}
         - {x: -88.52902, y: -29.00179}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_IceBeard0001
       rect:
@@ -880,15 +597,7 @@ TextureImporter:
         - {x: 64, y: 23.975334}
         - {x: 39, y: 2.9753304}
         - {x: 39, y: -56.024662}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_hat_StarTopper0003
       rect:
@@ -909,15 +618,7 @@ TextureImporter:
         - {x: 40.000008, y: -49.99999}
         - {x: -2.9999924, y: -69.999985}
         - {x: -52.99999, y: -51.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_Rudolph0002
       rect:
@@ -936,15 +637,7 @@ TextureImporter:
         - {x: 35.000008, y: -52.49999}
         - {x: -35.999992, y: -54.499992}
         - {x: -61.999992, y: 5.5000076}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_IceBeard0002
       rect:
@@ -964,15 +657,7 @@ TextureImporter:
         - {x: 79.50001, y: -10.987612}
         - {x: 60.500008, y: -29.987608}
         - {x: 7.5000076, y: -30.987608}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_holidaycube_visor_IceBeard0003
       rect:
@@ -993,56 +678,9 @@ TextureImporter:
         - {x: -69, y: 15.5}
         - {x: -29, y: 15.5}
         - {x: -29, y: -14.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_holidaycube_visor_Candycane0003: 21300010
-      2022_store_bean_nameplate_candyCane: 21300024
-      2022_holidaycube_hat_Igloo0001: 21300032
-      2022_holidaycube_hat_Snowman0001: 21300030
-      2022_holidaycube_visor_IceBeard0001: 21300046
-      2022_store_bean_nameplate_wrappingPaper: 21300002
-      2022_holidaycube_hat_StarTopper0002: 21300020
-      2022_holidaycube_hat_Snowman0002: 21300040
-      2022_store_bean_nameplate_snowmies: 21300016
-      2022_holidaycube_hat_Scrudge0003: 21300004
-      2022_holidaycube_hat_Scrudge0002: 21300014
-      2022_holidaycube_hat_Present0003: 21300000
-      2022_holidaycube_hat_Present0002: 21300042
-      2022_holidaycube_hat_Scrudge0001: 21300012
-      2022_holidaycube_hat_StarTopper0003: 21300048
-      2022_holidaycube_visor_IceBeard0002: 21300052
-      2022_holidaycube_hat_Present0001: 21300044
-      2022_holidaycube_visor_IceBeard0003: 21300054
-      2022_holidaycube_hat_Igloo0002: 21300034
-      2022_holidaycube_hat_StarTopper0001: 21300026
-      2022_holidaycube_visor_Rudolph0002: 21300050
-      2022_holidaycube_hat_Igloo0003: 21300028
-      2022_store_bean_nameplate_winterForest: 21300018
-      2022_holidaycube_visor_Candycane0002: 21300022
-      2022_holidaycube_hat_Snowman0003: 21300006
-      2022_holidaycube_visor_Candycane0001: 21300038
-      2022_holidaycube_visor_Rudolph0001: 21300008
-      2022_holidaycube_hat_Present0004: 21300036
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

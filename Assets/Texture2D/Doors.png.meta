@@ -1,81 +1,32 @@
 fileFormatVersion: 2
 guid: 150f8a5875274784abc809eef86a962c
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: doorsFrontOpen0008
-  - first:
-      213: 21300002
-    second: doorSideOpen0007
-  - first:
-      213: 21300004
-    second: doorsFrontOpen0001
-  - first:
-      213: 21300006
-    second: doorSideOpen0002
-  - first:
-      213: 21300008
-    second: doorSideClose0004
-  - first:
-      213: 21300010
-    second: doorsFrontOpen0006
-  - first:
-      213: 21300012
-    second: doorSideClose0001
-  - first:
-      213: 21300014
-    second: doorSideClose0002
-  - first:
-      213: 21300016
-    second: doorsFrontOpen0007
-  - first:
-      213: 21300018
-    second: doorSideOpen0001
-  - first:
-      213: 21300020
-    second: doorsFrontClose0003
-  - first:
-      213: 21300022
-    second: doorsFrontClose0004
-  - first:
-      213: 21300024
-    second: doorsFrontOpen0005
-  - first:
-      213: 21300026
-    second: doorSideOpen0003
-  - first:
-      213: 21300028
-    second: doorsFrontClose0001
-  - first:
-      213: 21300030
-    second: doorsFrontClose0002
-  - first:
-      213: 21300032
-    second: doorSideOpen0005
-  - first:
-      213: 21300034
-    second: doorsFrontOpen0004
-  - first:
-      213: 21300036
-    second: doorSideOpen0006
-  - first:
-      213: 21300038
-    second: doorSideOpen0008
-  - first:
-      213: 21300040
-    second: doorSideOpen0004
-  - first:
-      213: 21300042
-    second: doorsFrontOpen0002
-  - first:
-      213: 21300044
-    second: doorsFrontOpen0003
-  - first:
-      213: 21300046
-    second: doorSideClose0003
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: doorsFrontOpen0008
+    21300002: doorSideOpen0007
+    21300004: doorsFrontOpen0001
+    21300006: doorSideOpen0002
+    21300008: doorSideClose0004
+    21300010: doorsFrontOpen0006
+    21300012: doorSideClose0001
+    21300014: doorSideClose0002
+    21300016: doorsFrontOpen0007
+    21300018: doorSideOpen0001
+    21300020: doorsFrontClose0003
+    21300022: doorsFrontClose0004
+    21300024: doorsFrontOpen0005
+    21300026: doorSideOpen0003
+    21300028: doorsFrontClose0001
+    21300030: doorsFrontClose0002
+    21300032: doorSideOpen0005
+    21300034: doorsFrontOpen0004
+    21300036: doorSideOpen0006
+    21300038: doorSideOpen0008
+    21300040: doorSideOpen0004
+    21300042: doorsFrontOpen0002
+    21300044: doorsFrontOpen0003
+    21300046: doorSideClose0003
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,8 +34,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -92,12 +41,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -105,13 +49,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -120,97 +61,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -234,15 +143,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -52, y: 47.5}
         - {x: -52, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0007
       rect:
@@ -259,15 +160,7 @@ TextureImporter:
         - {x: -17, y: 43.5}
         - {x: 17, y: 43.5}
         - {x: 17, y: -43.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0001
       rect:
@@ -284,15 +177,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: 64, y: 47.5}
         - {x: 64, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0002
       rect:
@@ -309,15 +194,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -98}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideClose0004
       rect:
@@ -334,15 +211,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -98}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0006
       rect:
@@ -363,15 +232,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -53.999996, y: 47.5}
         - {x: -53.999996, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideClose0001
       rect:
@@ -388,15 +249,7 @@ TextureImporter:
         - {x: -17, y: 45.5}
         - {x: 17, y: 45.5}
         - {x: 17, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideClose0002
       rect:
@@ -417,15 +270,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0007
       rect:
@@ -446,15 +291,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -52.999996, y: 47.5}
         - {x: -52.999996, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0001
       rect:
@@ -471,15 +308,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -98}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontClose0003
       rect:
@@ -500,15 +329,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -21.999998, y: 47.5}
         - {x: -21.999998, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontClose0004
       rect:
@@ -525,15 +346,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: 64, y: 47.5}
         - {x: 64, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0005
       rect:
@@ -554,15 +367,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -43, y: 47.5}
         - {x: -43, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0003
       rect:
@@ -579,15 +384,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -98}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontClose0001
       rect:
@@ -608,15 +405,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -52, y: 47.5}
         - {x: -52, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontClose0002
       rect:
@@ -637,15 +426,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -40, y: 47.5}
         - {x: -40, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0005
       rect:
@@ -666,15 +447,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -3}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0004
       rect:
@@ -695,15 +468,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -32, y: 47.5}
         - {x: -32, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0006
       rect:
@@ -720,15 +485,7 @@ TextureImporter:
         - {x: -17, y: 41.5}
         - {x: 17, y: 41.5}
         - {x: 17, y: -41.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0008
       rect:
@@ -745,15 +502,7 @@ TextureImporter:
         - {x: -17, y: 45.5}
         - {x: 17, y: 45.5}
         - {x: 17, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideOpen0004
       rect:
@@ -774,15 +523,7 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -22}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0002
       rect:
@@ -803,15 +544,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -10, y: 47.5}
         - {x: -10, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorsFrontOpen0003
       rect:
@@ -832,15 +565,7 @@ TextureImporter:
         - {x: -64, y: 47.5}
         - {x: -21, y: 47.5}
         - {x: -21, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: doorSideClose0003
       rect:
@@ -857,52 +582,9 @@ TextureImporter:
         - {x: -17, y: 98}
         - {x: 17, y: 98}
         - {x: 17, y: -98}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      doorsFrontOpen0002: 21300042
-      doorSideClose0004: 21300008
-      doorSideClose0002: 21300014
-      doorSideOpen0003: 21300026
-      doorsFrontOpen0005: 21300024
-      doorSideOpen0004: 21300040
-      doorsFrontOpen0006: 21300010
-      doorSideClose0003: 21300046
-      doorsFrontOpen0004: 21300034
-      doorSideOpen0001: 21300018
-      doorSideOpen0002: 21300006
-      doorsFrontClose0002: 21300030
-      doorSideOpen0008: 21300038
-      doorSideOpen0005: 21300032
-      doorSideClose0001: 21300012
-      doorsFrontOpen0008: 21300000
-      doorsFrontOpen0001: 21300004
-      doorsFrontOpen0007: 21300016
-      doorsFrontClose0001: 21300028
-      doorsFrontClose0004: 21300022
-      doorsFrontClose0003: 21300020
-      doorSideOpen0007: 21300002
-      doorSideOpen0006: 21300036
-      doorsFrontOpen0003: 21300044
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

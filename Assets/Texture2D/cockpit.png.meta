@@ -1,39 +1,18 @@
 fileFormatVersion: 2
 guid: ac5cd5c73a19b6f478dcf65b3ef7823c
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: cockpit_mapfloating
-  - first:
-      213: 21300002
-    second: panel_cockpit_map
-  - first:
-      213: 21300004
-    second: panel_data
-  - first:
-      213: 21300006
-    second: cockpit_comms
-  - first:
-      213: 21300008
-    second: panel_cockpit_code
-  - first:
-      213: 21300010
-    second: cockpit_elect
-  - first:
-      213: 21300012
-    second: panel_cockpit_steering
-  - first:
-      213: 21300014
-    second: cockpit_main
-  - first:
-      213: 21300016
-    second: cockpit_chair
-  - first:
-      213: 21300018
-    second: DivertRecieve
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: cockpit_mapfloating
+    21300002: panel_cockpit_map
+    21300004: panel_data
+    21300006: cockpit_comms
+    21300008: panel_cockpit_code
+    21300010: cockpit_elect
+    21300012: panel_cockpit_steering
+    21300014: cockpit_main
+    21300016: cockpit_chair
+    21300018: DivertRecieve
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -41,8 +20,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -50,12 +27,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,13 +35,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -78,97 +47,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -194,15 +131,7 @@ TextureImporter:
         - {x: -90, y: -45.999996}
         - {x: -90, y: -9}
         - {x: -51, y: 44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_cockpit_map
       rect:
@@ -219,15 +148,7 @@ TextureImporter:
         - {x: -59.499996, y: 39}
         - {x: 59.499996, y: 39}
         - {x: 59.499996, y: -39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_data
       rect:
@@ -244,15 +165,7 @@ TextureImporter:
         - {x: -25.521454, y: 21.513374}
         - {x: 25.478546, y: 21.513374}
         - {x: 25.478546, y: -21.486622}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cockpit_comms
       rect:
@@ -271,15 +184,7 @@ TextureImporter:
         - {x: 35.5, y: 39}
         - {x: 35.5, y: -61}
         - {x: -35.5, y: -61}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_cockpit_code
       rect:
@@ -296,15 +201,7 @@ TextureImporter:
         - {x: -84, y: 81}
         - {x: 84, y: 81}
         - {x: 84, y: -81}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cockpit_elect
       rect:
@@ -321,15 +218,7 @@ TextureImporter:
         - {x: -35.5, y: 48.5}
         - {x: 35.5, y: 48.5}
         - {x: 35.5, y: -48.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_cockpit_steering
       rect:
@@ -346,15 +235,7 @@ TextureImporter:
         - {x: -62.5, y: 88.5}
         - {x: 62.5, y: 88.5}
         - {x: 62.5, y: -88.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cockpit_main
       rect:
@@ -404,15 +285,7 @@ TextureImporter:
         - {x: 48.5, y: 613.5}
         - {x: 194.5, y: 644.5}
         - {x: 354.49997, y: 669.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cockpit_chair
       rect:
@@ -432,15 +305,7 @@ TextureImporter:
         - {x: 19.5, y: -84.5}
         - {x: -54.5, y: -84.5}
         - {x: -54.5, y: 1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: DivertRecieve
       rect:
@@ -457,38 +322,9 @@ TextureImporter:
         - {x: -28.99999, y: 21.024704}
         - {x: 29.00001, y: 21.024704}
         - {x: 29.00001, y: -20.975294}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      panel_cockpit_map: 21300002
-      panel_cockpit_code: 21300008
-      cockpit_comms: 21300006
-      cockpit_chair: 21300016
-      panel_data: 21300004
-      cockpit_mapfloating: 21300000
-      cockpit_main: 21300014
-      panel_cockpit_steering: 21300012
-      cockpit_elect: 21300010
-      DivertRecieve: 21300018
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

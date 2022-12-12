@@ -1,81 +1,32 @@
 fileFormatVersion: 2
 guid: 9b3fb37ffce4f14478d191d93257a0a6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: office-ball
-  - first:
-      213: 21300002
-    second: admin-map
-  - first:
-      213: 21300004
-    second: admin-bottom
-  - first:
-      213: 21300006
-    second: admin-tablelower
-  - first:
-      213: 21300008
-    second: admin-task-keypad
-  - first:
-      213: 21300010
-    second: garden-task-chute
-  - first:
-      213: 21300012
-    second: skyBridgeWalls
-  - first:
-      213: 21300014
-    second: garden-plant1
-  - first:
-      213: 21300016
-    second: garden-vine3
-  - first:
-      213: 21300018
-    second: garden-vine5
-  - first:
-      213: 21300020
-    second: garden-vine2
-  - first:
-      213: 21300022
-    second: admin-task-shields
-  - first:
-      213: 21300024
-    second: office-panel-computer
-  - first:
-      213: 21300026
-    second: oxygen-keypad
-  - first:
-      213: 21300028
-    second: garden-vine4
-  - first:
-      213: 21300030
-    second: garden-plant2
-  - first:
-      213: 21300032
-    second: office-bot
-  - first:
-      213: 21300034
-    second: admin-chart-course
-  - first:
-      213: 21300036
-    second: office-right
-  - first:
-      213: 21300038
-    second: admind_MapPanel
-  - first:
-      213: 21300040
-    second: garden-center
-  - first:
-      213: 21300042
-    second: garden-task
-  - first:
-      213: 21300044
-    second: garden-vine1
-  - first:
-      213: 21300046
-    second: office-mid
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: office-ball
+    21300002: admin-map
+    21300004: admin-bottom
+    21300006: admin-tablelower
+    21300008: admin-task-keypad
+    21300010: garden-task-chute
+    21300012: skyBridgeWalls
+    21300014: garden-plant1
+    21300016: garden-vine3
+    21300018: garden-vine5
+    21300020: garden-vine2
+    21300022: admin-task-shields
+    21300024: office-panel-computer
+    21300026: oxygen-keypad
+    21300028: garden-vine4
+    21300030: garden-plant2
+    21300032: office-bot
+    21300034: admin-chart-course
+    21300036: office-right
+    21300038: admind_MapPanel
+    21300040: garden-center
+    21300042: garden-task
+    21300044: garden-vine1
+    21300046: office-mid
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,8 +34,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -92,12 +41,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -105,13 +49,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -120,97 +61,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -230,15 +139,7 @@ TextureImporter:
         - {x: -26, y: 27.5}
         - {x: 26, y: 27.5}
         - {x: 26, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admin-map
       rect:
@@ -260,15 +161,7 @@ TextureImporter:
         - {x: 77.5, y: 105.49999}
         - {x: 118.49999, y: 64.5}
         - {x: 118.49999, y: -69.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admin-bottom
       rect:
@@ -285,15 +178,7 @@ TextureImporter:
         - {x: -154, y: 7.4999995}
         - {x: 154, y: 7.4999995}
         - {x: 154, y: -7.4999995}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admin-tablelower
       rect:
@@ -310,15 +195,7 @@ TextureImporter:
         - {x: -106.49999, y: 27.5}
         - {x: 106.49999, y: 27.5}
         - {x: 106.49999, y: -27.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admin-task-keypad
       rect:
@@ -335,15 +212,7 @@ TextureImporter:
         - {x: -10.5, y: 15.5}
         - {x: 10.5, y: 15.5}
         - {x: 10.5, y: -15.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-task-chute
       rect:
@@ -361,15 +230,7 @@ TextureImporter:
         - {x: -11.999996, y: 15.978639}
         - {x: 20.000002, y: 6.9786386}
         - {x: 13.000004, y: -14.021361}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skyBridgeWalls
       rect:
@@ -437,15 +298,7 @@ TextureImporter:
         - {x: -130, y: 496.49997}
         - {x: -133.99998, y: 552.5}
         - {x: -196.99998, y: 554.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-plant1
       rect:
@@ -462,15 +315,7 @@ TextureImporter:
         - {x: -78, y: 39.999996}
         - {x: 78, y: 39.999996}
         - {x: 78, y: -39.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-vine3
       rect:
@@ -507,15 +352,7 @@ TextureImporter:
         - {x: -4.5, y: 23.500015}
         - {x: -5.5, y: 123.5}
         - {x: -19.5, y: 153.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-vine5
       rect:
@@ -548,15 +385,7 @@ TextureImporter:
         - {x: -7.4999995, y: -8.499985}
         - {x: -26.499998, y: 4.5}
         - {x: -18.5, y: 84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-vine2
       rect:
@@ -594,15 +423,7 @@ TextureImporter:
         - {x: 45, y: -108}
         - {x: 76, y: -75}
         - {x: -47, y: 83}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admin-task-shields
       rect:
@@ -619,15 +440,7 @@ TextureImporter:
         - {x: -19, y: 16}
         - {x: 19, y: 16}
         - {x: 19, y: -16}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: office-panel-computer
       rect:
@@ -644,15 +457,7 @@ TextureImporter:
         - {x: -32, y: 26.499998}
         - {x: 32, y: 26.499998}
         - {x: 32, y: -26.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: oxygen-keypad
       rect:
@@ -669,15 +474,7 @@ TextureImporter:
         - {x: -14, y: 14.5}
         - {x: 14, y: 14.5}
         - {x: 14, y: -14.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-vine4
       rect:
@@ -713,15 +510,7 @@ TextureImporter:
         - {x: -38, y: 163}
         - {x: -13, y: 226}
         - {x: -26.999998, y: 275}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-plant2
       rect:
@@ -742,15 +531,7 @@ TextureImporter:
         - {x: 72.5, y: 48.999996}
         - {x: 72.5, y: -48.999996}
         - {x: -72.5, y: -48.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: office-bot
       rect:
@@ -773,15 +554,7 @@ TextureImporter:
         - {x: -81.5, y: -42.999996}
         - {x: -81.5, y: -7}
         - {x: -67.5, y: 56}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admin-chart-course
       rect:
@@ -798,15 +571,7 @@ TextureImporter:
         - {x: -77.5, y: 22.5}
         - {x: 77.5, y: 22.5}
         - {x: 77.5, y: -22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: office-right
       rect:
@@ -823,15 +588,7 @@ TextureImporter:
         - {x: -22, y: 61.5}
         - {x: 22, y: 61.5}
         - {x: 22, y: -61.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: admind_MapPanel
       rect:
@@ -854,15 +611,7 @@ TextureImporter:
         - {x: -78.5, y: -59.461933}
         - {x: -89.5, y: -20.461935}
         - {x: -88.5, y: 47.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-center
       rect:
@@ -905,15 +654,7 @@ TextureImporter:
         - {x: -83, y: -100}
         - {x: -97.99999, y: -25}
         - {x: -97.99999, y: -3}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-task
       rect:
@@ -936,15 +677,7 @@ TextureImporter:
         - {x: 65.46195, y: 6.038059}
         - {x: 65.46195, y: -41.96194}
         - {x: -51.538048, y: -41.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garden-vine1
       rect:
@@ -979,15 +712,7 @@ TextureImporter:
         - {x: -85, y: 127.5}
         - {x: -85, y: 220.5}
         - {x: -66.99999, y: 244.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: office-mid
       rect:
@@ -1007,52 +732,9 @@ TextureImporter:
         - {x: 71.5, y: -47}
         - {x: -71.5, y: -47}
         - {x: -71.5, y: 13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      office-panel-computer: 21300024
-      garden-center: 21300040
-      admin-map: 21300002
-      garden-vine3: 21300016
-      admin-chart-course: 21300034
-      garden-plant2: 21300030
-      admin-bottom: 21300004
-      office-bot: 21300032
-      office-ball: 21300000
-      oxygen-keypad: 21300026
-      office-right: 21300036
-      skyBridgeWalls: 21300012
-      garden-task: 21300042
-      garden-vine1: 21300044
-      admin-tablelower: 21300006
-      admin-task-keypad: 21300008
-      garden-vine5: 21300018
-      admind_MapPanel: 21300038
-      office-mid: 21300046
-      garden-vine4: 21300028
-      garden-plant1: 21300014
-      garden-task-chute: 21300010
-      admin-task-shields: 21300022
-      garden-vine2: 21300020
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

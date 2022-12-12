@@ -1,174 +1,63 @@
 fileFormatVersion: 2
 guid: 25e29e52d47614f4ba984fcc00b8b285
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_foodCube_Visor_IceCreamCone_chocolate0003
-  - first:
-      213: 21300002
-    second: 2022_foodCube_Hat_strawberryLeaves0003
-  - first:
-      213: 21300004
-    second: 2022_foodCube_Visor_ToastAnime0002
-  - first:
-      213: 21300006
-    second: 2022_foodCube_hat_orange0002
-  - first:
-      213: 21300008
-    second: 2022_foodCube_Hat_pizzaSlice0001
-  - first:
-      213: 21300010
-    second: 2022_foodCube_Hat_pineappleLeaf0002
-  - first:
-      213: 21300012
-    second: 2022_foodCube_Hat_breadLoaf0003
-  - first:
-      213: 21300014
-    second: 2022_foodCube_Visor_IceCreamCone_strawberry0003
-  - first:
-      213: 21300016
-    second: 2022_foodCube_Hat_pineappleLeaf0003
-  - first:
-      213: 21300018
-    second: 2022_foodCube_Visor_IceCreamCone_mint0001
-  - first:
-      213: 21300020
-    second: 2022_foodCube_hat_butter0003
-  - first:
-      213: 21300022
-    second: 2022_foodCube_Visor_IceCreamCone_mint0002
-  - first:
-      213: 21300024
-    second: 2022_foodCube_Visor_pizzaSlice0002
-  - first:
-      213: 21300026
-    second: 2022_foodCube_Visor_IceCreamCone_ube0003
-  - first:
-      213: 21300028
-    second: 2022_foodCube_Visor_baconSmile0001
-  - first:
-      213: 21300030
-    second: 2022_foodCube_Visor_bananaPeel0001
-  - first:
-      213: 21300032
-    second: 2022_foodCube_Hat_pancakeStack0001
-  - first:
-      213: 21300034
-    second: 2022_foodCube_Hat_pizzaSlice0003
-  - first:
-      213: 21300036
-    second: 2022_foodCube_Hat_baguette0002
-  - first:
-      213: 21300038
-    second: 2022_foodCube_hat_orange0003
-  - first:
-      213: 21300040
-    second: 2022_foodCube_Hat_baguette0001
-  - first:
-      213: 21300042
-    second: 2022_foodCube_Visor_cucumber0002
-  - first:
-      213: 21300044
-    second: 2022_foodCube_Hat_baguette0003
-  - first:
-      213: 21300046
-    second: 2022_foodCube_Visor_IceCreamCone_strawberry0002
-  - first:
-      213: 21300048
-    second: 2022_foodCube_Visor_baconSmile0002
-  - first:
-      213: 21300050
-    second: 2022_foodCube_Hat_pancakeStack0002
-  - first:
-      213: 21300052
-    second: 2022_foodCube_Hat_pineappleLeaf0001
-  - first:
-      213: 21300054
-    second: 2022_foodCube_Visor_pizzaSlice0001
-  - first:
-      213: 21300056
-    second: 2022_foodCube_Visor_bubblebum0002
-  - first:
-      213: 21300058
-    second: 2022_foodCube_Visor_IceCreamCone_chocolate0002
-  - first:
-      213: 21300060
-    second: 2022_foodCube_Visor_IceCreamCone_mint0003
-  - first:
-      213: 21300062
-    second: 2022_foodCube_Hat_toastButter0001
-  - first:
-      213: 21300064
-    second: 2022_foodCube_Visor_bubblebum0003
-  - first:
-      213: 21300066
-    second: 2022_foodCube_Hat_toastButter0002
-  - first:
-      213: 21300068
-    second: 2022_foodCube_Hat_pizzaSlice0002
-  - first:
-      213: 21300070
-    second: 2022_foodCube_Visor_baconSmile0003
-  - first:
-      213: 21300072
-    second: 2022_foodCube_Visor_IceCreamCone_strawberry0001
-  - first:
-      213: 21300074
-    second: 2022_foodCube_Visor_cucumber0001
-  - first:
-      213: 21300076
-    second: 2022_foodCube_Visor_IceCreamCone_ube0002
-  - first:
-      213: 21300078
-    second: 2022_foodCube_Visor_bubblebum0001
-  - first:
-      213: 21300080
-    second: 2022_foodCube_Visor_ToastAnime0001
-  - first:
-      213: 21300082
-    second: 2022_foodCube_Hat_toastButter0003
-  - first:
-      213: 21300084
-    second: 2022_foodCube_Visor_bananaPeel0002
-  - first:
-      213: 21300086
-    second: 2022_foodCube_Hat_pancakeStack0003
-  - first:
-      213: 21300088
-    second: 2022_foodCube_Visor_pizzaSlice0003
-  - first:
-      213: 21300090
-    second: 2022_foodCube_Hat_strawberryLeaves0001
-  - first:
-      213: 21300092
-    second: 2022_foodCube_hat_butter0001
-  - first:
-      213: 21300094
-    second: 2022_foodCube_Visor_IceCreamCone_chocolate0001
-  - first:
-      213: 21300096
-    second: 2022_foodCube_hat_butter0002
-  - first:
-      213: 21300098
-    second: 2022_foodCube_Visor_IceCreamCone_ube0001
-  - first:
-      213: 21300100
-    second: 2022_foodCube_hat_orange0001
-  - first:
-      213: 21300102
-    second: 2022_foodCube_Hat_strawberryLeaves0002
-  - first:
-      213: 21300104
-    second: 2022_foodCube_Visor_bananaPeel0003
-  - first:
-      213: 21300106
-    second: 2022_foodCube_Hat_breadLoaf0001
-  - first:
-      213: 21300108
-    second: 2022_foodCube_Hat_breadLoaf0002
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_foodCube_Visor_IceCreamCone_chocolate0003
+    21300002: 2022_foodCube_Hat_strawberryLeaves0003
+    21300004: 2022_foodCube_Visor_ToastAnime0002
+    21300006: 2022_foodCube_hat_orange0002
+    21300008: 2022_foodCube_Hat_pizzaSlice0001
+    21300010: 2022_foodCube_Hat_pineappleLeaf0002
+    21300012: 2022_foodCube_Hat_breadLoaf0003
+    21300014: 2022_foodCube_Visor_IceCreamCone_strawberry0003
+    21300016: 2022_foodCube_Hat_pineappleLeaf0003
+    21300018: 2022_foodCube_Visor_IceCreamCone_mint0001
+    21300020: 2022_foodCube_hat_butter0003
+    21300022: 2022_foodCube_Visor_IceCreamCone_mint0002
+    21300024: 2022_foodCube_Visor_pizzaSlice0002
+    21300026: 2022_foodCube_Visor_IceCreamCone_ube0003
+    21300028: 2022_foodCube_Visor_baconSmile0001
+    21300030: 2022_foodCube_Visor_bananaPeel0001
+    21300032: 2022_foodCube_Hat_pancakeStack0001
+    21300034: 2022_foodCube_Hat_pizzaSlice0003
+    21300036: 2022_foodCube_Hat_baguette0002
+    21300038: 2022_foodCube_hat_orange0003
+    21300040: 2022_foodCube_Hat_baguette0001
+    21300042: 2022_foodCube_Visor_cucumber0002
+    21300044: 2022_foodCube_Hat_baguette0003
+    21300046: 2022_foodCube_Visor_IceCreamCone_strawberry0002
+    21300048: 2022_foodCube_Visor_baconSmile0002
+    21300050: 2022_foodCube_Hat_pancakeStack0002
+    21300052: 2022_foodCube_Hat_pineappleLeaf0001
+    21300054: 2022_foodCube_Visor_pizzaSlice0001
+    21300056: 2022_foodCube_Visor_bubblebum0002
+    21300058: 2022_foodCube_Visor_IceCreamCone_chocolate0002
+    21300060: 2022_foodCube_Visor_IceCreamCone_mint0003
+    21300062: 2022_foodCube_Hat_toastButter0001
+    21300064: 2022_foodCube_Visor_bubblebum0003
+    21300066: 2022_foodCube_Hat_toastButter0002
+    21300068: 2022_foodCube_Hat_pizzaSlice0002
+    21300070: 2022_foodCube_Visor_baconSmile0003
+    21300072: 2022_foodCube_Visor_IceCreamCone_strawberry0001
+    21300074: 2022_foodCube_Visor_cucumber0001
+    21300076: 2022_foodCube_Visor_IceCreamCone_ube0002
+    21300078: 2022_foodCube_Visor_bubblebum0001
+    21300080: 2022_foodCube_Visor_ToastAnime0001
+    21300082: 2022_foodCube_Hat_toastButter0003
+    21300084: 2022_foodCube_Visor_bananaPeel0002
+    21300086: 2022_foodCube_Hat_pancakeStack0003
+    21300088: 2022_foodCube_Visor_pizzaSlice0003
+    21300090: 2022_foodCube_Hat_strawberryLeaves0001
+    21300092: 2022_foodCube_hat_butter0001
+    21300094: 2022_foodCube_Visor_IceCreamCone_chocolate0001
+    21300096: 2022_foodCube_hat_butter0002
+    21300098: 2022_foodCube_Visor_IceCreamCone_ube0001
+    21300100: 2022_foodCube_hat_orange0001
+    21300102: 2022_foodCube_Hat_strawberryLeaves0002
+    21300104: 2022_foodCube_Visor_bananaPeel0003
+    21300106: 2022_foodCube_Hat_breadLoaf0001
+    21300108: 2022_foodCube_Hat_breadLoaf0002
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -176,8 +65,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -185,12 +72,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -198,13 +80,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -213,97 +92,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -324,15 +171,7 @@ TextureImporter:
         - {x: -52.01241, y: 56.50808}
         - {x: 3.9875927, y: 28.50808}
         - {x: 59.98759, y: -27.49192}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_strawberryLeaves0003
       rect:
@@ -351,15 +190,7 @@ TextureImporter:
         - {x: 14.968391, y: -57.524677}
         - {x: -48.031605, y: -48.524677}
         - {x: -72.0316, y: -17.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_ToastAnime0002
       rect:
@@ -377,15 +208,7 @@ TextureImporter:
         - {x: 5.5000076, y: 34.999947}
         - {x: 44.500008, y: 21.999947}
         - {x: 76.5, y: -2.000054}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_hat_orange0002
       rect:
@@ -404,15 +227,7 @@ TextureImporter:
         - {x: 40.024673, y: 9.0247}
         - {x: 32.024673, y: -24.9753}
         - {x: 1.0246735, y: -37.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pizzaSlice0001
       rect:
@@ -431,15 +246,7 @@ TextureImporter:
         - {x: 60.995224, y: 25.475262}
         - {x: 83.995224, y: 10.475258}
         - {x: 65.995224, y: -7.5247383}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pineappleLeaf0002
       rect:
@@ -462,15 +269,7 @@ TextureImporter:
         - {x: 74.50807, y: 24.51239}
         - {x: 64.50808, y: -20.48761}
         - {x: 78.50808, y: -56.48761}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_breadLoaf0003
       rect:
@@ -489,15 +288,7 @@ TextureImporter:
         - {x: 67.53606, y: 4}
         - {x: 23.536049, y: -57.999992}
         - {x: -38.463947, y: -58.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_strawberry0003
       rect:
@@ -515,15 +306,7 @@ TextureImporter:
         - {x: -51.024677, y: 55.508064}
         - {x: 0.97532463, y: 31.508057}
         - {x: 57.975323, y: -25.49194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pineappleLeaf0003
       rect:
@@ -545,15 +328,7 @@ TextureImporter:
         - {x: 8, y: -59.475296}
         - {x: -70.99999, y: -45.475296}
         - {x: -85, y: -13.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_mint0001
       rect:
@@ -571,15 +346,7 @@ TextureImporter:
         - {x: 32.48339, y: -50.00892}
         - {x: -27.51661, y: -45.008923}
         - {x: -62.51661, y: -16.008923}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_hat_butter0003
       rect:
@@ -597,15 +364,7 @@ TextureImporter:
         - {x: -19.506458, y: 36.999977}
         - {x: 50.49354, y: 29.999985}
         - {x: 50.49354, y: -34.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_mint0002
       rect:
@@ -622,15 +381,7 @@ TextureImporter:
         - {x: -56.497772, y: -39.999992}
         - {x: 38.502228, y: 62.000008}
         - {x: 45.502228, y: -44.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_pizzaSlice0002
       rect:
@@ -649,15 +400,7 @@ TextureImporter:
         - {x: 87.98008, y: -18.006023}
         - {x: -9.01992, y: -39.006023}
         - {x: -82.01992, y: -42.006023}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_ube0003
       rect:
@@ -675,15 +418,7 @@ TextureImporter:
         - {x: -51.0124, y: 55.50808}
         - {x: -3.0123997, y: 33.50807}
         - {x: 64.987595, y: -27.49192}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_baconSmile0001
       rect:
@@ -701,15 +436,7 @@ TextureImporter:
         - {x: -12.996838, y: 38.024696}
         - {x: 76.00316, y: 24.0247}
         - {x: 12.003162, y: -47.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_bananaPeel0001
       rect:
@@ -729,15 +456,7 @@ TextureImporter:
         - {x: 59.999977, y: -51.999992}
         - {x: 9.999985, y: -52.999992}
         - {x: -64.000015, y: 2.0000076}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pancakeStack0001
       rect:
@@ -758,15 +477,7 @@ TextureImporter:
         - {x: -3.0122986, y: -69.52467}
         - {x: -65.0123, y: -54.524673}
         - {x: -72.0123, y: -34.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pizzaSlice0003
       rect:
@@ -783,15 +494,7 @@ TextureImporter:
         - {x: 76.02468, y: 34.5123}
         - {x: 63.02468, y: 7.5122986}
         - {x: -22.975317, y: -41.4877}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_baguette0002
       rect:
@@ -810,15 +513,7 @@ TextureImporter:
         - {x: 93.5, y: 22.475266}
         - {x: 104.50001, y: -1.5247345}
         - {x: 88.50001, y: -32.524734}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_hat_orange0003
       rect:
@@ -837,15 +532,7 @@ TextureImporter:
         - {x: 31.524664, y: -32.038063}
         - {x: -12.475334, y: -39.038063}
         - {x: -48.475334, y: -0.03806305}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_baguette0001
       rect:
@@ -867,15 +554,7 @@ TextureImporter:
         - {x: -48.538055, y: -57.507607}
         - {x: -106.538055, y: -63.507607}
         - {x: -90.538055, y: -21.507607}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_cucumber0002
       rect:
@@ -893,15 +572,7 @@ TextureImporter:
         - {x: 76.98772, y: -9.524673}
         - {x: -41.012287, y: -23.524673}
         - {x: -67.01228, y: -6.5246735}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_baguette0003
       rect:
@@ -920,15 +591,7 @@ TextureImporter:
         - {x: -50.031597, y: -40.524734}
         - {x: -10.031597, y: 82.475266}
         - {x: 33.968403, y: 69.47526}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_strawberry0002
       rect:
@@ -945,15 +608,7 @@ TextureImporter:
         - {x: 38.511417, y: 62}
         - {x: 45.511417, y: -48}
         - {x: -39.48858, y: -50}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_baconSmile0002
       rect:
@@ -972,15 +627,7 @@ TextureImporter:
         - {x: 65.999985, y: 14.475325}
         - {x: 56.999985, y: -4.5246735}
         - {x: 11.999985, y: -22.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pancakeStack0002
       rect:
@@ -1000,15 +647,7 @@ TextureImporter:
         - {x: 42.02469, y: -53.9753}
         - {x: -54.97531, y: -43.9753}
         - {x: -94.9753, y: -23.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pineappleLeaf0001
       rect:
@@ -1031,15 +670,7 @@ TextureImporter:
         - {x: -86.99999, y: -39.012238}
         - {x: -64, y: -8.012238}
         - {x: -64, y: 32.987755}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_pizzaSlice0001
       rect:
@@ -1057,15 +688,7 @@ TextureImporter:
         - {x: -41.500004, y: 19}
         - {x: -34.500004, y: 41}
         - {x: 30.499998, y: 39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_bubblebum0002
       rect:
@@ -1082,15 +705,7 @@ TextureImporter:
         - {x: -82.48954, y: -12.999989}
         - {x: 19.51046, y: 37.00001}
         - {x: 73.51046, y: -16.999989}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_chocolate0002
       rect:
@@ -1107,15 +722,7 @@ TextureImporter:
         - {x: 39.013374, y: 62.999996}
         - {x: 45.013374, y: -50.000004}
         - {x: -43.986626, y: -48.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_mint0003
       rect:
@@ -1133,15 +740,7 @@ TextureImporter:
         - {x: -50.995796, y: 55.508064}
         - {x: -2.9957943, y: 33.508057}
         - {x: 65.0042, y: -27.491936}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_toastButter0001
       rect:
@@ -1160,15 +759,7 @@ TextureImporter:
         - {x: 57.98661, y: -28.499992}
         - {x: -9.01339, y: -39.499992}
         - {x: -62.01339, y: -5.4999924}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_bubblebum0003
       rect:
@@ -1188,15 +779,7 @@ TextureImporter:
         - {x: 55.999992, y: -8.000004}
         - {x: 16.999996, y: -55}
         - {x: -43.000004, y: -41}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_toastButter0002
       rect:
@@ -1219,15 +802,7 @@ TextureImporter:
         - {x: 54.500008, y: -44.978638}
         - {x: 57.500004, y: -24.97864}
         - {x: 3.500008, y: -41.978638}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pizzaSlice0002
       rect:
@@ -1246,15 +821,7 @@ TextureImporter:
         - {x: 78.48339, y: 24.47091}
         - {x: 94.48339, y: -13.529091}
         - {x: 26.48339, y: -24.529089}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_baconSmile0003
       rect:
@@ -1272,15 +839,7 @@ TextureImporter:
         - {x: -54.499996, y: 24.524666}
         - {x: 54.499996, y: 20.524673}
         - {x: 54.499996, y: -34.475327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_strawberry0001
       rect:
@@ -1298,15 +857,7 @@ TextureImporter:
         - {x: 25.49075, y: -54.003384}
         - {x: -33.50925, y: -36.003384}
         - {x: -62.50925, y: -16.003384}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_cucumber0001
       rect:
@@ -1323,15 +874,7 @@ TextureImporter:
         - {x: -54, y: 28.499998}
         - {x: 54, y: 28.499998}
         - {x: 54, y: -28.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_ube0002
       rect:
@@ -1348,15 +891,7 @@ TextureImporter:
         - {x: 39.013374, y: 63}
         - {x: 45.013374, y: -51}
         - {x: -43.986626, y: -48}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_bubblebum0001
       rect:
@@ -1375,15 +910,7 @@ TextureImporter:
         - {x: 33.999992, y: -42.000008}
         - {x: -20, y: -56.000008}
         - {x: -56, y: -6.0000057}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_ToastAnime0001
       rect:
@@ -1402,15 +929,7 @@ TextureImporter:
         - {x: 51.975315, y: -5.0081863}
         - {x: 24.975323, y: -38.008186}
         - {x: -45.024677, y: -24.008186}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_toastButter0003
       rect:
@@ -1430,15 +949,7 @@ TextureImporter:
         - {x: 51.486626, y: -29.483395}
         - {x: 19.486626, y: -45.483395}
         - {x: -48.513374, y: -23.483395}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_bananaPeel0002
       rect:
@@ -1458,15 +969,7 @@ TextureImporter:
         - {x: 27.975311, y: -45.50808}
         - {x: -28.024689, y: -26.50808}
         - {x: -77.02469, y: -25.50808}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_pancakeStack0003
       rect:
@@ -1485,15 +988,7 @@ TextureImporter:
         - {x: 75.000015, y: -67.499985}
         - {x: -1.9999847, y: -82.499985}
         - {x: -62.999985, y: -71.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_pizzaSlice0003
       rect:
@@ -1511,15 +1006,7 @@ TextureImporter:
         - {x: -1.0133896, y: 23.524689}
         - {x: 38.98661, y: 7.5246887}
         - {x: 38.98661, y: -16.475311}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_strawberryLeaves0001
       rect:
@@ -1540,15 +1027,7 @@ TextureImporter:
         - {x: 77.00477, y: -17.499992}
         - {x: 8.004768, y: -26.499992}
         - {x: -17.995232, y: -57.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_hat_butter0001
       rect:
@@ -1568,15 +1047,7 @@ TextureImporter:
         - {x: 49.96195, y: -18.4753}
         - {x: -32.038048, y: -44.4753}
         - {x: -53.03805, y: -21.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_chocolate0001
       rect:
@@ -1594,15 +1065,7 @@ TextureImporter:
         - {x: 25.49075, y: -54.003384}
         - {x: -33.50925, y: -36.003384}
         - {x: -62.50925, y: -16.003384}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_hat_butter0002
       rect:
@@ -1622,15 +1085,7 @@ TextureImporter:
         - {x: 54.510456, y: -27.016596}
         - {x: -54.48954, y: -28.016594}
         - {x: -75.48954, y: -13.016596}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_IceCreamCone_ube0001
       rect:
@@ -1648,15 +1103,7 @@ TextureImporter:
         - {x: 25.490753, y: -54.000008}
         - {x: -33.509247, y: -36.000008}
         - {x: -62.509247, y: -16.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_hat_orange0001
       rect:
@@ -1675,15 +1122,7 @@ TextureImporter:
         - {x: 40.499992, y: 1.9999924}
         - {x: 29.499996, y: -27.000008}
         - {x: -22.500002, y: -43.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_strawberryLeaves0002
       rect:
@@ -1703,15 +1142,7 @@ TextureImporter:
         - {x: -8.51239, y: -38.000053}
         - {x: -30.51239, y: -55.000053}
         - {x: -64.51239, y: -26.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Visor_bananaPeel0003
       rect:
@@ -1732,15 +1163,7 @@ TextureImporter:
         - {x: -0.5026121, y: 10.000008}
         - {x: -21.502613, y: 1.0000038}
         - {x: -62.502613, y: -70.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_breadLoaf0001
       rect:
@@ -1758,15 +1181,7 @@ TextureImporter:
         - {x: 59.486626, y: -40.999992}
         - {x: -34.51337, y: -52.999992}
         - {x: -63.513374, y: 7.0000076}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodCube_Hat_breadLoaf0002
       rect:
@@ -1787,83 +1202,9 @@ TextureImporter:
         - {x: -78.53805, y: -21.999992}
         - {x: -46.538048, y: -3.9999924}
         - {x: -55.538044, y: 38.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_foodCube_Hat_toastButter0002: 21300066
-      2022_foodCube_Visor_IceCreamCone_ube0002: 21300076
-      2022_foodCube_Visor_pizzaSlice0002: 21300024
-      2022_foodCube_hat_butter0002: 21300096
-      2022_foodCube_Visor_bubblebum0003: 21300064
-      2022_foodCube_Hat_pancakeStack0001: 21300032
-      2022_foodCube_Hat_strawberryLeaves0002: 21300102
-      2022_foodCube_Hat_pineappleLeaf0003: 21300016
-      2022_foodCube_Hat_baguette0003: 21300044
-      2022_foodCube_Visor_bananaPeel0002: 21300084
-      2022_foodCube_Hat_strawberryLeaves0003: 21300002
-      2022_foodCube_Visor_bubblebum0002: 21300056
-      2022_foodCube_Visor_IceCreamCone_strawberry0001: 21300072
-      2022_foodCube_Visor_IceCreamCone_chocolate0003: 21300000
-      2022_foodCube_Visor_ToastAnime0001: 21300080
-      2022_foodCube_Hat_pineappleLeaf0001: 21300052
-      2022_foodCube_Visor_IceCreamCone_ube0001: 21300098
-      2022_foodCube_Visor_cucumber0001: 21300074
-      2022_foodCube_Hat_breadLoaf0003: 21300012
-      2022_foodCube_Hat_pizzaSlice0003: 21300034
-      2022_foodCube_Visor_IceCreamCone_mint0002: 21300022
-      2022_foodCube_Hat_toastButter0003: 21300082
-      2022_foodCube_Visor_baconSmile0002: 21300048
-      2022_foodCube_Visor_pizzaSlice0001: 21300054
-      2022_foodCube_Visor_ToastAnime0002: 21300004
-      2022_foodCube_Visor_cucumber0002: 21300042
-      2022_foodCube_Hat_breadLoaf0001: 21300106
-      2022_foodCube_Hat_pancakeStack0003: 21300086
-      2022_foodCube_Hat_pancakeStack0002: 21300050
-      2022_foodCube_Visor_IceCreamCone_strawberry0003: 21300014
-      2022_foodCube_Hat_toastButter0001: 21300062
-      2022_foodCube_Visor_IceCreamCone_ube0003: 21300026
-      2022_foodCube_Visor_IceCreamCone_strawberry0002: 21300046
-      2022_foodCube_Visor_pizzaSlice0003: 21300088
-      2022_foodCube_Visor_bananaPeel0003: 21300104
-      2022_foodCube_Visor_baconSmile0001: 21300028
-      2022_foodCube_Visor_bananaPeel0001: 21300030
-      2022_foodCube_Visor_baconSmile0003: 21300070
-      2022_foodCube_Hat_pizzaSlice0002: 21300068
-      2022_foodCube_hat_orange0003: 21300038
-      2022_foodCube_Hat_pizzaSlice0001: 21300008
-      2022_foodCube_Visor_bubblebum0001: 21300078
-      2022_foodCube_hat_butter0001: 21300092
-      2022_foodCube_Hat_baguette0002: 21300036
-      2022_foodCube_Visor_IceCreamCone_mint0003: 21300060
-      2022_foodCube_Hat_breadLoaf0002: 21300108
-      2022_foodCube_hat_orange0001: 21300100
-      2022_foodCube_hat_orange0002: 21300006
-      2022_foodCube_Hat_baguette0001: 21300040
-      2022_foodCube_hat_butter0003: 21300020
-      2022_foodCube_Visor_IceCreamCone_mint0001: 21300018
-      2022_foodCube_Visor_IceCreamCone_chocolate0001: 21300094
-      2022_foodCube_Hat_strawberryLeaves0001: 21300090
-      2022_foodCube_Hat_pineappleLeaf0002: 21300010
-      2022_foodCube_Visor_IceCreamCone_chocolate0002: 21300058
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

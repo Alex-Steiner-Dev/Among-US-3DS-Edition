@@ -1,39 +1,18 @@
 fileFormatVersion: 2
 guid: 6f986fd061177aa48823ff8cdd50733f
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: dead_GreyedOut
-  - first:
-      213: 21300002
-    second: deadX_border
-  - first:
-      213: 21300004
-    second: playerIcon
-  - first:
-      213: 21300006
-    second: playerVoteResults
-  - first:
-      213: 21300008
-    second: votePlayerBase
-  - first:
-      213: 21300010
-    second: chatBar
-  - first:
-      213: 21300012
-    second: chatBase
-  - first:
-      213: 21300014
-    second: chatIcon
-  - first:
-      213: 21300016
-    second: chatSend
-  - first:
-      213: 21300018
-    second: chatTextBubble
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: dead_GreyedOut
+    21300002: deadX_border
+    21300004: playerIcon
+    21300006: playerVoteResults
+    21300008: votePlayerBase
+    21300010: chatBar
+    21300012: chatBase
+    21300014: chatIcon
+    21300016: chatSend
+    21300018: chatTextBubble
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -41,8 +20,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -50,12 +27,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,13 +35,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -78,97 +47,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -188,15 +125,7 @@ TextureImporter:
         - {x: -172.49998, y: 29.999998}
         - {x: 172.49998, y: 29.999998}
         - {x: 172.49998, y: -29.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: deadX_border
       rect:
@@ -214,15 +143,7 @@ TextureImporter:
         - {x: 28.025658, y: 29.96195}
         - {x: 33.025654, y: -27.03805}
         - {x: -30.974342, y: -31.038048}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: playerIcon
       rect:
@@ -239,15 +160,7 @@ TextureImporter:
         - {x: -27.5, y: 22.999998}
         - {x: 27.5, y: 22.999998}
         - {x: 27.5, y: -22.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: playerVoteResults
       rect:
@@ -264,15 +177,7 @@ TextureImporter:
         - {x: -14.999999, y: 12.5}
         - {x: 14.999999, y: 12.5}
         - {x: 14.999999, y: -12.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: votePlayerBase
       rect:
@@ -289,15 +194,7 @@ TextureImporter:
         - {x: -174, y: 31.5}
         - {x: 174, y: 31.5}
         - {x: 174, y: -31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chatBar
       rect:
@@ -314,15 +211,7 @@ TextureImporter:
         - {x: -303, y: 26.999998}
         - {x: 303, y: 26.999998}
         - {x: 303, y: -26.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chatBase
       rect:
@@ -345,15 +234,7 @@ TextureImporter:
         - {x: -350, y: -248}
         - {x: -350, y: 245}
         - {x: -349, y: 247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chatIcon
       rect:
@@ -371,15 +252,7 @@ TextureImporter:
         - {x: 27.5, y: -9.5}
         - {x: 7.4999995, y: -29.499998}
         - {x: -27.5, y: -29.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chatSend
       rect:
@@ -397,15 +270,7 @@ TextureImporter:
         - {x: 20.5, y: -4.9999995}
         - {x: -14.5, y: -19.999998}
         - {x: -20.5, y: -19.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: chatTextBubble
       rect:
@@ -422,38 +287,9 @@ TextureImporter:
         - {x: -276, y: 31}
         - {x: 276, y: 31}
         - {x: 276, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      chatTextBubble: 21300018
-      playerIcon: 21300004
-      chatIcon: 21300014
-      chatBase: 21300012
-      chatBar: 21300010
-      playerVoteResults: 21300006
-      votePlayerBase: 21300008
-      deadX_border: 21300002
-      dead_GreyedOut: 21300000
-      chatSend: 21300016
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

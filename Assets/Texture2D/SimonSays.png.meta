@@ -1,66 +1,27 @@
 fileFormatVersion: 2
 guid: fabfae81b92a6184dba0cc3a714fbd5d
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: sslights1
-  - first:
-      213: 21300002
-    second: sslights3
-  - first:
-      213: 21300004
-    second: sslights4
-  - first:
-      213: 21300006
-    second: ssbutton1
-  - first:
-      213: 21300008
-    second: ssbutton5
-  - first:
-      213: 21300010
-    second: ssbutton7
-  - first:
-      213: 21300012
-    second: ssbutton6
-  - first:
-      213: 21300014
-    second: simonSaysButtonsShadow
-  - first:
-      213: 21300016
-    second: simonSaysBase
-  - first:
-      213: 21300018
-    second: sslightsHL
-  - first:
-      213: 21300020
-    second: simonSaysLightsIndicationWShadows
-  - first:
-      213: 21300022
-    second: ssbutton9
-  - first:
-      213: 21300024
-    second: sslights5
-  - first:
-      213: 21300026
-    second: sslights2
-  - first:
-      213: 21300028
-    second: ssbutton4
-  - first:
-      213: 21300030
-    second: ssbutton8
-  - first:
-      213: 21300032
-    second: simonSaysScreen
-  - first:
-      213: 21300034
-    second: ssbutton2
-  - first:
-      213: 21300036
-    second: ssbutton3
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: sslights1
+    21300002: sslights3
+    21300004: sslights4
+    21300006: ssbutton1
+    21300008: ssbutton5
+    21300010: ssbutton7
+    21300012: ssbutton6
+    21300014: simonSaysButtonsShadow
+    21300016: simonSaysBase
+    21300018: sslightsHL
+    21300020: simonSaysLightsIndicationWShadows
+    21300022: ssbutton9
+    21300024: sslights5
+    21300026: sslights2
+    21300028: ssbutton4
+    21300030: ssbutton8
+    21300032: simonSaysScreen
+    21300034: ssbutton2
+    21300036: ssbutton3
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -68,8 +29,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -77,12 +36,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -90,13 +44,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -105,97 +56,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -215,15 +134,7 @@ TextureImporter:
         - {x: -11, y: 11}
         - {x: 11, y: 11}
         - {x: 11, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: sslights3
       rect:
@@ -240,15 +151,7 @@ TextureImporter:
         - {x: -11, y: 11}
         - {x: 11, y: 11}
         - {x: 11, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: sslights4
       rect:
@@ -265,15 +168,7 @@ TextureImporter:
         - {x: -11, y: 11}
         - {x: 11, y: 11}
         - {x: 11, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton1
       rect:
@@ -290,15 +185,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton5
       rect:
@@ -315,15 +202,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton7
       rect:
@@ -340,15 +219,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton6
       rect:
@@ -365,15 +236,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: simonSaysButtonsShadow
       rect:
@@ -390,15 +253,7 @@ TextureImporter:
         - {x: -75.5, y: 79}
         - {x: 75.5, y: 79}
         - {x: 75.5, y: -79}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: simonSaysBase
       rect:
@@ -415,15 +270,7 @@ TextureImporter:
         - {x: -123.5, y: 140.5}
         - {x: 123.5, y: 140.5}
         - {x: 123.5, y: -140.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: sslightsHL
       rect:
@@ -440,15 +287,7 @@ TextureImporter:
         - {x: -4, y: 3}
         - {x: 4, y: 3}
         - {x: 4, y: -3}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: simonSaysLightsIndicationWShadows
       rect:
@@ -481,15 +320,7 @@ TextureImporter:
         - {x: 54.5, y: 14}
         - {x: 78.5, y: 14}
         - {x: 78.5, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton9
       rect:
@@ -506,15 +337,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: sslights5
       rect:
@@ -531,15 +354,7 @@ TextureImporter:
         - {x: -11, y: 11}
         - {x: 11, y: 11}
         - {x: 11, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: sslights2
       rect:
@@ -556,15 +371,7 @@ TextureImporter:
         - {x: -11, y: 11}
         - {x: 11, y: 11}
         - {x: 11, y: -11}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton4
       rect:
@@ -581,15 +388,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton8
       rect:
@@ -606,15 +405,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: simonSaysScreen
       rect:
@@ -631,15 +422,7 @@ TextureImporter:
         - {x: -77.5, y: 77.5}
         - {x: 77.5, y: 77.5}
         - {x: 77.5, y: -77.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton2
       rect:
@@ -656,15 +439,7 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ssbutton3
       rect:
@@ -681,47 +456,9 @@ TextureImporter:
         - {x: -23.5, y: 23.5}
         - {x: 23.5, y: 23.5}
         - {x: 23.5, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      sslights1: 21300000
-      ssbutton5: 21300008
-      ssbutton6: 21300012
-      ssbutton8: 21300030
-      ssbutton1: 21300006
-      simonSaysButtonsShadow: 21300014
-      sslights3: 21300002
-      simonSaysBase: 21300016
-      sslights5: 21300024
-      ssbutton7: 21300010
-      ssbutton2: 21300034
-      ssbutton4: 21300028
-      simonSaysScreen: 21300032
-      ssbutton9: 21300022
-      simonSaysLightsIndicationWShadows: 21300020
-      sslights2: 21300026
-      sslights4: 21300004
-      sslightsHL: 21300018
-      ssbutton3: 21300036
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

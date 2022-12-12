@@ -1,39 +1,18 @@
 fileFormatVersion: 2
 guid: 691832f45ea185a4da0f280c454a64e6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: shower_showerhead
-  - first:
-      213: 21300002
-    second: shower_powermaxoff
-  - first:
-      213: 21300004
-    second: showeR_mallet
-  - first:
-      213: 21300006
-    second: shower_powerlow
-  - first:
-      213: 21300008
-    second: shower_powerlowoff
-  - first:
-      213: 21300010
-    second: shower_powermedium
-  - first:
-      213: 21300012
-    second: shower_powermax
-  - first:
-      213: 21300014
-    second: shower_poweroutline
-  - first:
-      213: 21300016
-    second: shower_bg
-  - first:
-      213: 21300018
-    second: shower_powermediumoff
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: shower_showerhead
+    21300002: shower_powermaxoff
+    21300004: showeR_mallet
+    21300006: shower_powerlow
+    21300008: shower_powerlowoff
+    21300010: shower_powermedium
+    21300012: shower_powermax
+    21300014: shower_poweroutline
+    21300016: shower_bg
+    21300018: shower_powermediumoff
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -41,8 +20,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -50,12 +27,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,13 +35,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -78,97 +47,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -197,15 +134,7 @@ TextureImporter:
         - {x: -48.5, y: 30.5}
         - {x: -21.5, y: 112.5}
         - {x: 21.5, y: 112.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_powermaxoff
       rect:
@@ -222,15 +151,7 @@ TextureImporter:
         - {x: -9.999999, y: 31}
         - {x: 9.999999, y: 31}
         - {x: 9.999999, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: showeR_mallet
       rect:
@@ -253,15 +174,7 @@ TextureImporter:
         - {x: -19.5, y: 22.999992}
         - {x: -89.5, y: 27}
         - {x: -99.5, y: 51}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_powerlow
       rect:
@@ -278,15 +191,7 @@ TextureImporter:
         - {x: -9.999999, y: 31}
         - {x: 9.999999, y: 31}
         - {x: 9.999999, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_powerlowoff
       rect:
@@ -303,15 +208,7 @@ TextureImporter:
         - {x: -9.999999, y: 31}
         - {x: 9.999999, y: 31}
         - {x: 9.999999, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_powermedium
       rect:
@@ -328,15 +225,7 @@ TextureImporter:
         - {x: -9.999999, y: 31}
         - {x: 9.999999, y: 31}
         - {x: 9.999999, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_powermax
       rect:
@@ -353,15 +242,7 @@ TextureImporter:
         - {x: -9.999999, y: 31}
         - {x: 9.999999, y: 31}
         - {x: 9.999999, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_poweroutline
       rect:
@@ -378,15 +259,7 @@ TextureImporter:
         - {x: -168, y: -42}
         - {x: -168, y: 42}
         - {x: 168, y: 42}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_bg
       rect:
@@ -403,15 +276,7 @@ TextureImporter:
         - {x: -40.5, y: 146.49998}
         - {x: 40.5, y: 146.49998}
         - {x: 40.5, y: -146.49998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_powermediumoff
       rect:
@@ -428,38 +293,9 @@ TextureImporter:
         - {x: -9.999999, y: 31}
         - {x: 9.999999, y: 31}
         - {x: 9.999999, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      shower_powermedium: 21300010
-      shower_powermax: 21300012
-      showeR_mallet: 21300004
-      shower_showerhead: 21300000
-      shower_bg: 21300016
-      shower_powerlowoff: 21300008
-      shower_powerlow: 21300006
-      shower_poweroutline: 21300014
-      shower_powermaxoff: 21300002
-      shower_powermediumoff: 21300018
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

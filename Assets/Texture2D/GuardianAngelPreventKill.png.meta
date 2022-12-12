@@ -1,99 +1,38 @@
 fileFormatVersion: 2
 guid: 210b918d0ff7b194fbed80e86cccbbbb
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: PreventKill0014
-  - first:
-      213: 21300002
-    second: PreventKill0021
-  - first:
-      213: 21300004
-    second: PreventKill0019
-  - first:
-      213: 21300006
-    second: PreventKill0029
-  - first:
-      213: 21300008
-    second: PreventKill0015
-  - first:
-      213: 21300010
-    second: PreventKill0023
-  - first:
-      213: 21300012
-    second: PreventKill0013
-  - first:
-      213: 21300014
-    second: PreventKill0027
-  - first:
-      213: 21300016
-    second: PreventKill0011
-  - first:
-      213: 21300018
-    second: PreventKill0025
-  - first:
-      213: 21300020
-    second: PreventKill0009
-  - first:
-      213: 21300022
-    second: PreventKill0030
-  - first:
-      213: 21300024
-    second: PreventKill0002
-  - first:
-      213: 21300026
-    second: PreventKill0010
-  - first:
-      213: 21300028
-    second: PreventKill0007
-  - first:
-      213: 21300030
-    second: PreventKill0008
-  - first:
-      213: 21300032
-    second: PreventKill0003
-  - first:
-      213: 21300034
-    second: PreventKill0026
-  - first:
-      213: 21300036
-    second: PreventKill0006
-  - first:
-      213: 21300038
-    second: PreventKill0018
-  - first:
-      213: 21300040
-    second: PreventKill0020
-  - first:
-      213: 21300042
-    second: PreventKill0022
-  - first:
-      213: 21300044
-    second: PreventKill0005
-  - first:
-      213: 21300046
-    second: PreventKill0024
-  - first:
-      213: 21300048
-    second: PreventKill0004
-  - first:
-      213: 21300050
-    second: PreventKill0012
-  - first:
-      213: 21300052
-    second: PreventKill0028
-  - first:
-      213: 21300054
-    second: PreventKill0016
-  - first:
-      213: 21300056
-    second: PreventKill0001
-  - first:
-      213: 21300058
-    second: PreventKill0017
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: PreventKill0014
+    21300002: PreventKill0021
+    21300004: PreventKill0019
+    21300006: PreventKill0029
+    21300008: PreventKill0015
+    21300010: PreventKill0023
+    21300012: PreventKill0013
+    21300014: PreventKill0027
+    21300016: PreventKill0011
+    21300018: PreventKill0025
+    21300020: PreventKill0009
+    21300022: PreventKill0030
+    21300024: PreventKill0002
+    21300026: PreventKill0010
+    21300028: PreventKill0007
+    21300030: PreventKill0008
+    21300032: PreventKill0003
+    21300034: PreventKill0026
+    21300036: PreventKill0006
+    21300038: PreventKill0018
+    21300040: PreventKill0020
+    21300042: PreventKill0022
+    21300044: PreventKill0005
+    21300046: PreventKill0024
+    21300048: PreventKill0004
+    21300050: PreventKill0012
+    21300052: PreventKill0028
+    21300054: PreventKill0016
+    21300056: PreventKill0001
+    21300058: PreventKill0017
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -101,8 +40,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -110,12 +47,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -123,13 +55,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -138,97 +67,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -256,15 +153,7 @@ TextureImporter:
         - {x: -10, y: -138}
         - {x: -78, y: -114.99999}
         - {x: -128, y: -56}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0021
       rect:
@@ -290,15 +179,7 @@ TextureImporter:
         - {x: -113, y: -81}
         - {x: -131, y: -29}
         - {x: -135, y: 27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0019
       rect:
@@ -324,15 +205,7 @@ TextureImporter:
         - {x: -113, y: -81}
         - {x: -131, y: -29}
         - {x: -135, y: 27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0029
       rect:
@@ -381,15 +254,7 @@ TextureImporter:
       - - {x: -17.500061, y: 253.4787}
         - {x: 32.49994, y: 232.4787}
         - {x: -22.500061, y: 232.4787}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0015
       rect:
@@ -414,15 +279,7 @@ TextureImporter:
         - {x: -10, y: -138}
         - {x: -78, y: -114.99999}
         - {x: -128, y: -56}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0023
       rect:
@@ -448,15 +305,7 @@ TextureImporter:
         - {x: -98, y: -94.000015}
         - {x: -131, y: -43.000015}
         - {x: -135, y: 23.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0013
       rect:
@@ -481,15 +330,7 @@ TextureImporter:
         - {x: -10, y: -138.00002}
         - {x: -78, y: -115.00001}
         - {x: -128, y: -56.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0027
       rect:
@@ -560,15 +401,7 @@ TextureImporter:
       - - {x: -8.499999, y: 243.99991}
         - {x: 12.5, y: 222.99992}
         - {x: -58.499996, y: 222.99992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0011
       rect:
@@ -593,15 +426,7 @@ TextureImporter:
         - {x: -10, y: -138}
         - {x: -78, y: -114.99999}
         - {x: -128, y: -56}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0025
       rect:
@@ -710,15 +535,7 @@ TextureImporter:
       - - {x: -102.48754, y: 213.99994}
         - {x: -52.487545, y: 206.99992}
         - {x: -73.48755, y: 184.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0009
       rect:
@@ -743,15 +560,7 @@ TextureImporter:
         - {x: 9, y: -136}
         - {x: -58.999996, y: -129}
         - {x: -125, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0030
       rect:
@@ -796,15 +605,7 @@ TextureImporter:
       - - {x: 16.016602, y: 251.46188}
         - {x: 5.0166016, y: 240.46188}
         - {x: -47.983395, y: 251.46188}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0002
       rect:
@@ -829,15 +630,7 @@ TextureImporter:
         - {x: 6.968384, y: -52.98771}
         - {x: -51.0316, y: -107.98771}
         - {x: -96.0316, y: -28.987709}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0010
       rect:
@@ -862,15 +655,7 @@ TextureImporter:
         - {x: -10.000008, y: -138}
         - {x: -78.00001, y: -114.99999}
         - {x: -128, y: -56}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0007
       rect:
@@ -917,15 +702,7 @@ TextureImporter:
         - {x: 73.99994, y: 178.49992}
         - {x: 91.99994, y: 134.49994}
         - {x: 38.99993, y: 134.49994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0008
       rect:
@@ -950,15 +727,7 @@ TextureImporter:
         - {x: -59.500057, y: -129}
         - {x: -120.50005, y: -68}
         - {x: -138.50006, y: 3}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0003
       rect:
@@ -985,15 +754,7 @@ TextureImporter:
         - {x: -115.031654, y: 78.483406}
         - {x: -68.031654, y: 118.483406}
         - {x: -21.031654, y: 116.483406}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0026
       rect:
@@ -1082,15 +843,7 @@ TextureImporter:
       - - {x: -75.03812, y: 241.97527}
         - {x: -75.03812, y: 223.97527}
         - {x: -101.03812, y: 215.97527}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0006
       rect:
@@ -1144,15 +897,7 @@ TextureImporter:
         - {x: 51.999992, y: 168.99994}
         - {x: 81.99999, y: 129.99994}
         - {x: 67.99999, y: 115.99994}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0018
       rect:
@@ -1178,15 +923,7 @@ TextureImporter:
         - {x: -113, y: -81}
         - {x: -131, y: -29}
         - {x: -135, y: 27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0020
       rect:
@@ -1212,15 +949,7 @@ TextureImporter:
         - {x: -113, y: -81}
         - {x: -131, y: -29}
         - {x: -135, y: 27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0022
       rect:
@@ -1246,15 +975,7 @@ TextureImporter:
         - {x: -98.00006, y: -94}
         - {x: -131.00006, y: -43}
         - {x: -135.00006, y: 24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0005
       rect:
@@ -1299,15 +1020,7 @@ TextureImporter:
         - {x: 83.96193, y: 101.99999}
         - {x: 99.961945, y: 101.99999}
         - {x: 99.961945, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0024
       rect:
@@ -1402,15 +1115,7 @@ TextureImporter:
       - - {x: 140.97533, y: 133.47528}
         - {x: 164.97533, y: 85.47528}
         - {x: 140.97533, y: 93.47528}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0004
       rect:
@@ -1440,15 +1145,7 @@ TextureImporter:
         - {x: -92.961945, y: -113.961945}
         - {x: -131.96194, y: -62.961945}
         - {x: -143.96194, y: -10.961945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0012
       rect:
@@ -1473,15 +1170,7 @@ TextureImporter:
         - {x: -10, y: -138}
         - {x: -78, y: -114.99999}
         - {x: -128, y: -56}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0028
       rect:
@@ -1545,15 +1234,7 @@ TextureImporter:
       - - {x: 122.53805, y: 254.00836}
         - {x: 153.53806, y: 234.00836}
         - {x: 125.538055, y: 233.00836}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0016
       rect:
@@ -1578,15 +1259,7 @@ TextureImporter:
         - {x: -10, y: -138.00002}
         - {x: -78, y: -115.00001}
         - {x: -128, y: -56.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0001
       rect:
@@ -1604,15 +1277,7 @@ TextureImporter:
         - {x: -35.983444, y: 18.999947}
         - {x: 37.016556, y: 29.999947}
         - {x: 45.01654, y: 21.999947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: PreventKill0017
       rect:
@@ -1638,58 +1303,9 @@ TextureImporter:
         - {x: -113, y: -81}
         - {x: -131, y: -29}
         - {x: -135, y: 27}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      PreventKill0012: 21300050
-      PreventKill0015: 21300008
-      PreventKill0008: 21300030
-      PreventKill0014: 21300000
-      PreventKill0029: 21300006
-      PreventKill0006: 21300036
-      PreventKill0017: 21300058
-      PreventKill0004: 21300048
-      PreventKill0019: 21300004
-      PreventKill0030: 21300022
-      PreventKill0027: 21300014
-      PreventKill0011: 21300016
-      PreventKill0002: 21300024
-      PreventKill0007: 21300028
-      PreventKill0026: 21300034
-      PreventKill0028: 21300052
-      PreventKill0009: 21300020
-      PreventKill0025: 21300018
-      PreventKill0020: 21300040
-      PreventKill0005: 21300044
-      PreventKill0003: 21300032
-      PreventKill0018: 21300038
-      PreventKill0022: 21300042
-      PreventKill0013: 21300012
-      PreventKill0010: 21300026
-      PreventKill0021: 21300002
-      PreventKill0016: 21300054
-      PreventKill0001: 21300056
-      PreventKill0024: 21300046
-      PreventKill0023: 21300010
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

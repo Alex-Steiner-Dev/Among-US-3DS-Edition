@@ -1,441 +1,152 @@
 fileFormatVersion: 2
 guid: 4ae769a8cc8988f4a822e612c82196a2
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: killRHM_impskin0048
-  - first:
-      213: 21300002
-    second: killRHM_impskin0043
-  - first:
-      213: 21300004
-    second: killRHM_imp0010
-  - first:
-      213: 21300006
-    second: killRHM_imp0012
-  - first:
-      213: 21300008
-    second: killRHM_impskin0025
-  - first:
-      213: 21300010
-    second: killRHM_victim0007
-  - first:
-      213: 21300012
-    second: killRHM_imp0003
-  - first:
-      213: 21300014
-    second: killRHM_imp0035
-  - first:
-      213: 21300016
-    second: killRHM_impskin0014
-  - first:
-      213: 21300018
-    second: killRHM_imp0025
-  - first:
-      213: 21300020
-    second: killRHM_victim0029
-  - first:
-      213: 21300022
-    second: killRHM_imp0018
-  - first:
-      213: 21300024
-    second: killRHM_impskin0020
-  - first:
-      213: 21300026
-    second: killRHM_imp0031
-  - first:
-      213: 21300028
-    second: killRHM_victim0031
-  - first:
-      213: 21300030
-    second: killRHM_victim0033
-  - first:
-      213: 21300032
-    second: killRHM_imp0002
-  - first:
-      213: 21300034
-    second: killRHM_imp0040
-  - first:
-      213: 21300036
-    second: killRHM_impskin0022
-  - first:
-      213: 21300038
-    second: killRHM_imp0014
-  - first:
-      213: 21300040
-    second: killRHM_impskin0018
-  - first:
-      213: 21300042
-    second: killRHM_impskin0034
-  - first:
-      213: 21300044
-    second: killRHM_imp0011
-  - first:
-      213: 21300046
-    second: killRHM_imp0008
-  - first:
-      213: 21300048
-    second: killRHM_impskin0037
-  - first:
-      213: 21300050
-    second: killRHM_imp0017
-  - first:
-      213: 21300052
-    second: killRHM_impskin0005
-  - first:
-      213: 21300054
-    second: killRHM_imp0019
-  - first:
-      213: 21300056
-    second: killRHM_victim0024
-  - first:
-      213: 21300058
-    second: killRHM_impskin0040
-  - first:
-      213: 21300060
-    second: killRHM_victim0046
-  - first:
-      213: 21300062
-    second: killRHM_victim0003
-  - first:
-      213: 21300064
-    second: killRHM_victim0048
-  - first:
-      213: 21300066
-    second: killRHM_imp0020
-  - first:
-      213: 21300068
-    second: killRHM_victim0027
-  - first:
-      213: 21300070
-    second: killRHM_victim0011
-  - first:
-      213: 21300072
-    second: killRHM_impskin0041
-  - first:
-      213: 21300074
-    second: killRHM_impskin0028
-  - first:
-      213: 21300076
-    second: killRHM_imp0021
-  - first:
-      213: 21300078
-    second: killRHM_imp0023
-  - first:
-      213: 21300080
-    second: killRHM_victim0040
-  - first:
-      213: 21300082
-    second: killRHM_imp0046
-  - first:
-      213: 21300084
-    second: killRHM_imp0034
-  - first:
-      213: 21300086
-    second: killRHM_impskin0045
-  - first:
-      213: 21300088
-    second: killRHM_victim0016
-  - first:
-      213: 21300090
-    second: killRHM_imp0022
-  - first:
-      213: 21300092
-    second: killRHM_imp0015
-  - first:
-      213: 21300094
-    second: killRHM_victim0025
-  - first:
-      213: 21300096
-    second: killRHM_imp0027
-  - first:
-      213: 21300098
-    second: killRHM_impskin0036
-  - first:
-      213: 21300100
-    second: killRHM_victim0038
-  - first:
-      213: 21300102
-    second: killRHM_victim0032
-  - first:
-      213: 21300104
-    second: killRHM_imp0026
-  - first:
-      213: 21300106
-    second: killRHM_victim0020
-  - first:
-      213: 21300108
-    second: killRHM_imp0045
-  - first:
-      213: 21300110
-    second: killRHM_imp0006
-  - first:
-      213: 21300112
-    second: killRHM_victim0044
-  - first:
-      213: 21300114
-    second: killRHM_impskin0003
-  - first:
-      213: 21300116
-    second: killRHM_impskin0047
-  - first:
-      213: 21300118
-    second: killRHM_impskin0001
-  - first:
-      213: 21300120
-    second: killRHM_impskin0029
-  - first:
-      213: 21300122
-    second: killRHM_impskin0012
-  - first:
-      213: 21300124
-    second: killRHM_impskin0011
-  - first:
-      213: 21300126
-    second: killRHM_victim0036
-  - first:
-      213: 21300128
-    second: killRHM_victim0018
-  - first:
-      213: 21300130
-    second: killRHM_impskin0038
-  - first:
-      213: 21300132
-    second: killRHM_victim0023
-  - first:
-      213: 21300134
-    second: killRHM_imp0013
-  - first:
-      213: 21300136
-    second: killRHM_impskin0007
-  - first:
-      213: 21300138
-    second: killRHM_victim0006
-  - first:
-      213: 21300140
-    second: killRHM_imp0041
-  - first:
-      213: 21300142
-    second: killRHM_victim0026
-  - first:
-      213: 21300144
-    second: killRHM_imp0044
-  - first:
-      213: 21300146
-    second: killRHM_victim0010
-  - first:
-      213: 21300148
-    second: killRHM_impskin0032
-  - first:
-      213: 21300150
-    second: killRHM_victim0030
-  - first:
-      213: 21300152
-    second: killRHM_imp0047
-  - first:
-      213: 21300154
-    second: killRHM_victim0021
-  - first:
-      213: 21300156
-    second: killRHM_victim0008
-  - first:
-      213: 21300158
-    second: killRHM_imp0043
-  - first:
-      213: 21300160
-    second: killRHM_victim0035
-  - first:
-      213: 21300162
-    second: killRHM_impskin0009
-  - first:
-      213: 21300164
-    second: killRHM_impskin0015
-  - first:
-      213: 21300166
-    second: killRHM_impskin0030
-  - first:
-      213: 21300168
-    second: killRHM_victim0039
-  - first:
-      213: 21300170
-    second: killRHM_impskin0031
-  - first:
-      213: 21300172
-    second: killRHM_impskin0044
-  - first:
-      213: 21300174
-    second: killRHM_impskin0026
-  - first:
-      213: 21300176
-    second: killRHM_imp0016
-  - first:
-      213: 21300178
-    second: killRHM_victim0042
-  - first:
-      213: 21300180
-    second: killRHM_impskin0035
-  - first:
-      213: 21300182
-    second: killRHM_victim0037
-  - first:
-      213: 21300184
-    second: killRHM_victim0028
-  - first:
-      213: 21300186
-    second: killRHM_impskin0033
-  - first:
-      213: 21300188
-    second: killRHM_victim0001
-  - first:
-      213: 21300190
-    second: killRHM_imp0001
-  - first:
-      213: 21300192
-    second: killRHM_victim0009
-  - first:
-      213: 21300194
-    second: killRHM_impskin0002
-  - first:
-      213: 21300196
-    second: killRHM_imp0036
-  - first:
-      213: 21300198
-    second: killRHM_victim0005
-  - first:
-      213: 21300200
-    second: killRHM_imp0005
-  - first:
-      213: 21300202
-    second: killRHM_impskin0017
-  - first:
-      213: 21300204
-    second: killRHM_impskin0013
-  - first:
-      213: 21300206
-    second: killRHM_impskin0027
-  - first:
-      213: 21300208
-    second: killRHM_imp0029
-  - first:
-      213: 21300210
-    second: killRHM_victim0047
-  - first:
-      213: 21300212
-    second: killRHM_imp0028
-  - first:
-      213: 21300214
-    second: killRHM_impskin0039
-  - first:
-      213: 21300216
-    second: killRHM_impskin0023
-  - first:
-      213: 21300218
-    second: killRHM_imp0033
-  - first:
-      213: 21300220
-    second: killRHM_victim0015
-  - first:
-      213: 21300222
-    second: killRHM_victim0019
-  - first:
-      213: 21300224
-    second: killRHM_imp0030
-  - first:
-      213: 21300226
-    second: killRHM_impskin0019
-  - first:
-      213: 21300228
-    second: killRHM_impskin0006
-  - first:
-      213: 21300230
-    second: killRHM_imp0004
-  - first:
-      213: 21300232
-    second: killRHM_imp0038
-  - first:
-      213: 21300234
-    second: killRHM_imp0039
-  - first:
-      213: 21300236
-    second: killRHM_victim0002
-  - first:
-      213: 21300238
-    second: killRHM_victim0034
-  - first:
-      213: 21300240
-    second: killRHM_impskin0004
-  - first:
-      213: 21300242
-    second: killRHM_imp0009
-  - first:
-      213: 21300244
-    second: killRHM_imp0037
-  - first:
-      213: 21300246
-    second: killRHM_impskin0046
-  - first:
-      213: 21300248
-    second: killRHM_victim0043
-  - first:
-      213: 21300250
-    second: killRHM_imp0024
-  - first:
-      213: 21300252
-    second: killRHM_imp0032
-  - first:
-      213: 21300254
-    second: killRHM_victim0012
-  - first:
-      213: 21300256
-    second: killRHM_victim0013
-  - first:
-      213: 21300258
-    second: killRHM_victim0022
-  - first:
-      213: 21300260
-    second: killRHM_victim0017
-  - first:
-      213: 21300262
-    second: killRHM_imp0048
-  - first:
-      213: 21300264
-    second: killRHM_impskin0016
-  - first:
-      213: 21300266
-    second: killRHM_impskin0010
-  - first:
-      213: 21300268
-    second: killRHM_imp0007
-  - first:
-      213: 21300270
-    second: killRHM_victim0045
-  - first:
-      213: 21300272
-    second: killRHM_impskin0024
-  - first:
-      213: 21300274
-    second: killRHM_imp0042
-  - first:
-      213: 21300276
-    second: killRHM_impskin0042
-  - first:
-      213: 21300278
-    second: killRHM_impskin0008
-  - first:
-      213: 21300280
-    second: killRHM_victim0004
-  - first:
-      213: 21300282
-    second: killRHM_victim0014
-  - first:
-      213: 21300284
-    second: killRHM_impskin0021
-  - first:
-      213: 21300286
-    second: killRHM_victim0041
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: killRHM_impskin0048
+    21300002: killRHM_impskin0043
+    21300004: killRHM_imp0010
+    21300006: killRHM_imp0012
+    21300008: killRHM_impskin0025
+    21300010: killRHM_victim0007
+    21300012: killRHM_imp0003
+    21300014: killRHM_imp0035
+    21300016: killRHM_impskin0014
+    21300018: killRHM_imp0025
+    21300020: killRHM_victim0029
+    21300022: killRHM_imp0018
+    21300024: killRHM_impskin0020
+    21300026: killRHM_imp0031
+    21300028: killRHM_victim0031
+    21300030: killRHM_victim0033
+    21300032: killRHM_imp0002
+    21300034: killRHM_imp0040
+    21300036: killRHM_impskin0022
+    21300038: killRHM_imp0014
+    21300040: killRHM_impskin0018
+    21300042: killRHM_impskin0034
+    21300044: killRHM_imp0011
+    21300046: killRHM_imp0008
+    21300048: killRHM_impskin0037
+    21300050: killRHM_imp0017
+    21300052: killRHM_impskin0005
+    21300054: killRHM_imp0019
+    21300056: killRHM_victim0024
+    21300058: killRHM_impskin0040
+    21300060: killRHM_victim0046
+    21300062: killRHM_victim0003
+    21300064: killRHM_victim0048
+    21300066: killRHM_imp0020
+    21300068: killRHM_victim0027
+    21300070: killRHM_victim0011
+    21300072: killRHM_impskin0041
+    21300074: killRHM_impskin0028
+    21300076: killRHM_imp0021
+    21300078: killRHM_imp0023
+    21300080: killRHM_victim0040
+    21300082: killRHM_imp0046
+    21300084: killRHM_imp0034
+    21300086: killRHM_impskin0045
+    21300088: killRHM_victim0016
+    21300090: killRHM_imp0022
+    21300092: killRHM_imp0015
+    21300094: killRHM_victim0025
+    21300096: killRHM_imp0027
+    21300098: killRHM_impskin0036
+    21300100: killRHM_victim0038
+    21300102: killRHM_victim0032
+    21300104: killRHM_imp0026
+    21300106: killRHM_victim0020
+    21300108: killRHM_imp0045
+    21300110: killRHM_imp0006
+    21300112: killRHM_victim0044
+    21300114: killRHM_impskin0003
+    21300116: killRHM_impskin0047
+    21300118: killRHM_impskin0001
+    21300120: killRHM_impskin0029
+    21300122: killRHM_impskin0012
+    21300124: killRHM_impskin0011
+    21300126: killRHM_victim0036
+    21300128: killRHM_victim0018
+    21300130: killRHM_impskin0038
+    21300132: killRHM_victim0023
+    21300134: killRHM_imp0013
+    21300136: killRHM_impskin0007
+    21300138: killRHM_victim0006
+    21300140: killRHM_imp0041
+    21300142: killRHM_victim0026
+    21300144: killRHM_imp0044
+    21300146: killRHM_victim0010
+    21300148: killRHM_impskin0032
+    21300150: killRHM_victim0030
+    21300152: killRHM_imp0047
+    21300154: killRHM_victim0021
+    21300156: killRHM_victim0008
+    21300158: killRHM_imp0043
+    21300160: killRHM_victim0035
+    21300162: killRHM_impskin0009
+    21300164: killRHM_impskin0015
+    21300166: killRHM_impskin0030
+    21300168: killRHM_victim0039
+    21300170: killRHM_impskin0031
+    21300172: killRHM_impskin0044
+    21300174: killRHM_impskin0026
+    21300176: killRHM_imp0016
+    21300178: killRHM_victim0042
+    21300180: killRHM_impskin0035
+    21300182: killRHM_victim0037
+    21300184: killRHM_victim0028
+    21300186: killRHM_impskin0033
+    21300188: killRHM_victim0001
+    21300190: killRHM_imp0001
+    21300192: killRHM_victim0009
+    21300194: killRHM_impskin0002
+    21300196: killRHM_imp0036
+    21300198: killRHM_victim0005
+    21300200: killRHM_imp0005
+    21300202: killRHM_impskin0017
+    21300204: killRHM_impskin0013
+    21300206: killRHM_impskin0027
+    21300208: killRHM_imp0029
+    21300210: killRHM_victim0047
+    21300212: killRHM_imp0028
+    21300214: killRHM_impskin0039
+    21300216: killRHM_impskin0023
+    21300218: killRHM_imp0033
+    21300220: killRHM_victim0015
+    21300222: killRHM_victim0019
+    21300224: killRHM_imp0030
+    21300226: killRHM_impskin0019
+    21300228: killRHM_impskin0006
+    21300230: killRHM_imp0004
+    21300232: killRHM_imp0038
+    21300234: killRHM_imp0039
+    21300236: killRHM_victim0002
+    21300238: killRHM_victim0034
+    21300240: killRHM_impskin0004
+    21300242: killRHM_imp0009
+    21300244: killRHM_imp0037
+    21300246: killRHM_impskin0046
+    21300248: killRHM_victim0043
+    21300250: killRHM_imp0024
+    21300252: killRHM_imp0032
+    21300254: killRHM_victim0012
+    21300256: killRHM_victim0013
+    21300258: killRHM_victim0022
+    21300260: killRHM_victim0017
+    21300262: killRHM_imp0048
+    21300264: killRHM_impskin0016
+    21300266: killRHM_impskin0010
+    21300268: killRHM_imp0007
+    21300270: killRHM_victim0045
+    21300272: killRHM_impskin0024
+    21300274: killRHM_imp0042
+    21300276: killRHM_impskin0042
+    21300278: killRHM_impskin0008
+    21300280: killRHM_victim0004
+    21300282: killRHM_victim0014
+    21300284: killRHM_impskin0021
+    21300286: killRHM_victim0041
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -443,8 +154,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -452,12 +161,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -465,13 +169,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -480,97 +181,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -596,15 +265,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0043
       rect:
@@ -627,15 +288,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0010
       rect:
@@ -666,15 +319,7 @@ TextureImporter:
         - {x: 159.9472, y: -23.038109}
         - {x: 116.947205, y: -48.03811}
         - {x: 68.947205, y: -38.038105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0012
       rect:
@@ -699,15 +344,7 @@ TextureImporter:
         - {x: -100.97528, y: -90.50003}
         - {x: -99.97531, y: -43.50003}
         - {x: -52.97531, y: 54.49996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0025
       rect:
@@ -759,15 +396,7 @@ TextureImporter:
         - {x: -290.5, y: 86}
         - {x: -148.5, y: 103.99999}
         - {x: -91.5, y: 93}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0007
       rect:
@@ -788,15 +417,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0003
       rect:
@@ -824,15 +445,7 @@ TextureImporter:
         - {x: -109.98663, y: 14}
         - {x: -77.9866, y: 76}
         - {x: -36.986633, y: 92}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0035
       rect:
@@ -855,15 +468,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0014
       rect:
@@ -910,15 +515,7 @@ TextureImporter:
         - {x: -71, y: -91.47182}
         - {x: -101, y: -86.47182}
         - {x: -103, y: -66.47182}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0025
       rect:
@@ -941,15 +538,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0029
       rect:
@@ -971,15 +560,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0018
       rect:
@@ -1002,15 +583,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0020
       rect:
@@ -1057,15 +630,7 @@ TextureImporter:
         - {x: -417.00717, y: -18}
         - {x: -402.00717, y: 21.999998}
         - {x: -425.00717, y: 67}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0031
       rect:
@@ -1088,15 +653,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0031
       rect:
@@ -1118,15 +675,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0033
       rect:
@@ -1148,15 +697,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0002
       rect:
@@ -1177,15 +718,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0040
       rect:
@@ -1206,15 +739,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0022
       rect:
@@ -1261,15 +786,7 @@ TextureImporter:
         - {x: -71, y: -91.5}
         - {x: -101, y: -86.5}
         - {x: -103, y: -66.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0014
       rect:
@@ -1292,15 +809,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0018
       rect:
@@ -1352,15 +861,7 @@ TextureImporter:
         - {x: -286.96194, y: 86}
         - {x: -144.96194, y: 103.99999}
         - {x: -87.961945, y: 93}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0034
       rect:
@@ -1396,15 +897,7 @@ TextureImporter:
         - {x: -325.5, y: -40.499996}
         - {x: -318.5, y: -92.49999}
         - {x: -352.5, y: -97.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0011
       rect:
@@ -1429,15 +922,7 @@ TextureImporter:
         - {x: -100.97528, y: -90.50003}
         - {x: -99.97531, y: -43.50003}
         - {x: -52.97531, y: 54.49996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0008
       rect:
@@ -1468,15 +953,7 @@ TextureImporter:
         - {x: 159.9472, y: -23.038109}
         - {x: 116.947205, y: -48.03811}
         - {x: 68.947205, y: -38.038105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0037
       rect:
@@ -1519,15 +996,7 @@ TextureImporter:
       - - {x: 462, y: 56}
         - {x: 462, y: 47}
         - {x: 452.99997, y: 47}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0017
       rect:
@@ -1550,15 +1019,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0005
       rect:
@@ -1593,15 +1054,7 @@ TextureImporter:
         - {x: 44.51938, y: -41.038116}
         - {x: 11.519379, y: 2.9618835}
         - {x: 13.519379, y: 35.96188}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0019
       rect:
@@ -1624,15 +1077,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0024
       rect:
@@ -1654,15 +1099,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0040
       rect:
@@ -1685,15 +1122,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0046
       rect:
@@ -1715,15 +1144,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0003
       rect:
@@ -1744,15 +1165,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0048
       rect:
@@ -1774,15 +1187,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0020
       rect:
@@ -1805,15 +1210,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0027
       rect:
@@ -1835,15 +1232,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0011
       rect:
@@ -1865,15 +1254,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0041
       rect:
@@ -1896,15 +1277,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0028
       rect:
@@ -1951,15 +1324,7 @@ TextureImporter:
         - {x: -413.5, y: -18}
         - {x: -398.5, y: 21.999998}
         - {x: -421.5, y: 67}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0021
       rect:
@@ -1982,15 +1347,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0023
       rect:
@@ -2013,15 +1370,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0040
       rect:
@@ -2043,15 +1392,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0046
       rect:
@@ -2072,15 +1413,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0034
       rect:
@@ -2103,15 +1436,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0045
       rect:
@@ -2134,15 +1459,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0016
       rect:
@@ -2164,15 +1481,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0022
       rect:
@@ -2195,15 +1504,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0015
       rect:
@@ -2226,15 +1527,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0025
       rect:
@@ -2256,15 +1549,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0027
       rect:
@@ -2287,15 +1572,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0036
       rect:
@@ -2344,15 +1621,7 @@ TextureImporter:
         - {x: 107.038055, y: 50}
         - {x: 154.03804, y: 50}
         - {x: 154.03804, y: 43}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0038
       rect:
@@ -2374,15 +1643,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0032
       rect:
@@ -2404,15 +1665,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0026
       rect:
@@ -2435,15 +1688,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0020
       rect:
@@ -2465,15 +1710,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0045
       rect:
@@ -2494,15 +1731,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0006
       rect:
@@ -2535,15 +1764,7 @@ TextureImporter:
         - {x: 137.00002, y: -23.5}
         - {x: 97, y: -43.5}
         - {x: 60, y: -21.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0044
       rect:
@@ -2565,15 +1786,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0003
       rect:
@@ -2602,15 +1815,7 @@ TextureImporter:
         - {x: -25.538116, y: 95.461945}
         - {x: -23.538116, y: 116.461945}
         - {x: -0.53811646, y: 74.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0047
       rect:
@@ -2633,15 +1838,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0001
       rect:
@@ -2664,15 +1861,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0029
       rect:
@@ -2719,15 +1908,7 @@ TextureImporter:
         - {x: -71, y: -91.5}
         - {x: -101, y: -86.5}
         - {x: -103, y: -66.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0012
       rect:
@@ -2776,15 +1957,7 @@ TextureImporter:
         - {x: -400.53806, y: 27.50299}
         - {x: -417.53806, y: 61.50299}
         - {x: -345.53802, y: 79.50299}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0011
       rect:
@@ -2833,15 +2006,7 @@ TextureImporter:
         - {x: -400.53806, y: 27.50299}
         - {x: -417.53806, y: 61.50299}
         - {x: -345.53802, y: 79.50299}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0036
       rect:
@@ -2863,15 +2028,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0018
       rect:
@@ -2893,15 +2050,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0038
       rect:
@@ -2925,15 +2074,7 @@ TextureImporter:
         - {x: 18.5, y: 13.538063}
         - {x: 74.5, y: -4.461937}
         - {x: 50.5, y: -65.46193}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0023
       rect:
@@ -2955,15 +2096,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0013
       rect:
@@ -2987,15 +2120,7 @@ TextureImporter:
         - {x: -90, y: -111.538055}
         - {x: -102.99997, y: -56.538055}
         - {x: -59, y: 54.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0007
       rect:
@@ -3029,15 +2154,7 @@ TextureImporter:
         - {x: 120.48665, y: -47.961933}
         - {x: 80.48663, y: -67.96194}
         - {x: 43.486633, y: -45.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0006
       rect:
@@ -3058,15 +2175,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0041
       rect:
@@ -3087,15 +2196,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0026
       rect:
@@ -3117,15 +2218,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0044
       rect:
@@ -3146,15 +2239,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0010
       rect:
@@ -3175,15 +2260,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0032
       rect:
@@ -3230,15 +2307,7 @@ TextureImporter:
         - {x: 16.492828, y: -76.486626}
         - {x: -18.50718, y: -85.486626}
         - {x: -82.50717, y: -74.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0030
       rect:
@@ -3260,15 +2329,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0047
       rect:
@@ -3289,15 +2350,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0021
       rect:
@@ -3319,15 +2372,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0008
       rect:
@@ -3348,15 +2393,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0043
       rect:
@@ -3377,15 +2414,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0035
       rect:
@@ -3407,15 +2436,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0009
       rect:
@@ -3446,15 +2467,7 @@ TextureImporter:
         - {x: 147, y: -28.5}
         - {x: 104, y: -53.5}
         - {x: 56, y: -43.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0015
       rect:
@@ -3501,15 +2514,7 @@ TextureImporter:
         - {x: 20, y: -76.5}
         - {x: -15.000008, y: -85.5}
         - {x: -79, y: -74.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0030
       rect:
@@ -3556,15 +2561,7 @@ TextureImporter:
         - {x: -71, y: -91.5}
         - {x: -101, y: -86.5}
         - {x: -103, y: -66.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0039
       rect:
@@ -3586,15 +2583,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0031
       rect:
@@ -3641,15 +2630,7 @@ TextureImporter:
         - {x: 16.492828, y: -76.486626}
         - {x: -18.50718, y: -85.486626}
         - {x: -82.50717, y: -74.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0044
       rect:
@@ -3672,15 +2653,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0026
       rect:
@@ -3732,15 +2705,7 @@ TextureImporter:
         - {x: -290.5, y: 86}
         - {x: -148.5, y: 103.99999}
         - {x: -91.5, y: 93}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0016
       rect:
@@ -3763,15 +2728,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0042
       rect:
@@ -3793,15 +2750,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0035
       rect:
@@ -3845,15 +2794,7 @@ TextureImporter:
         - {x: 36, y: 46.5}
         - {x: 119.999985, y: 46.5}
         - {x: 119.999985, y: 37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0037
       rect:
@@ -3875,15 +2816,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0028
       rect:
@@ -3905,15 +2838,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0033
       rect:
@@ -3950,15 +2875,7 @@ TextureImporter:
         - {x: -320.50714, y: -16}
         - {x: -366.50717, y: -22.999996}
         - {x: -357.50717, y: -88}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0001
       rect:
@@ -3979,15 +2896,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0001
       rect:
@@ -4008,15 +2917,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0009
       rect:
@@ -4037,15 +2938,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0002
       rect:
@@ -4068,15 +2961,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0036
       rect:
@@ -4100,15 +2985,7 @@ TextureImporter:
         - {x: -64.038025, y: -100.5}
         - {x: -88.038055, y: -92.49999}
         - {x: -98.038055, y: -47.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0005
       rect:
@@ -4129,15 +3006,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0005
       rect:
@@ -4170,15 +3039,7 @@ TextureImporter:
         - {x: 59.506042, y: -5.499998}
         - {x: 26.506042, y: 38.5}
         - {x: 28.506042, y: 71.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0017
       rect:
@@ -4230,15 +3091,7 @@ TextureImporter:
         - {x: -294.00717, y: 86}
         - {x: -152.00717, y: 103.99999}
         - {x: -95.00717, y: 93}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0013
       rect:
@@ -4288,15 +3141,7 @@ TextureImporter:
         - {x: -327.98663, y: 64}
         - {x: -277.98663, y: 93.99999}
         - {x: -149.98663, y: 103.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0027
       rect:
@@ -4343,15 +3188,7 @@ TextureImporter:
         - {x: -413.5, y: -18}
         - {x: -398.5, y: 21.999998}
         - {x: -421.5, y: 67}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0029
       rect:
@@ -4374,15 +3211,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0047
       rect:
@@ -4404,15 +3233,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0028
       rect:
@@ -4435,15 +3256,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0039
       rect:
@@ -4466,15 +3279,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0023
       rect:
@@ -4521,15 +3326,7 @@ TextureImporter:
         - {x: 16.492828, y: -76.486626}
         - {x: -18.50718, y: -85.486626}
         - {x: -82.50717, y: -74.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0033
       rect:
@@ -4552,15 +3349,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0015
       rect:
@@ -4582,15 +3371,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0019
       rect:
@@ -4612,15 +3393,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0030
       rect:
@@ -4643,15 +3416,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0019
       rect:
@@ -4698,15 +3463,7 @@ TextureImporter:
         - {x: -413.5, y: -18}
         - {x: -398.5, y: 21.999998}
         - {x: -421.5, y: 67}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0006
       rect:
@@ -4740,15 +3497,7 @@ TextureImporter:
         - {x: 120.48665, y: -47.961933}
         - {x: 80.48663, y: -67.96194}
         - {x: 43.486633, y: -45.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0004
       rect:
@@ -4781,15 +3530,7 @@ TextureImporter:
         - {x: 59.506042, y: -5.499998}
         - {x: 26.506042, y: 38.5}
         - {x: 28.506042, y: 71.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0038
       rect:
@@ -4810,15 +3551,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0039
       rect:
@@ -4839,15 +3572,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0002
       rect:
@@ -4868,15 +3593,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0034
       rect:
@@ -4898,15 +3615,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0004
       rect:
@@ -4941,15 +3650,7 @@ TextureImporter:
         - {x: 44.51938, y: -41.038116}
         - {x: 11.519379, y: 2.9618835}
         - {x: 13.519379, y: 35.96188}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0009
       rect:
@@ -4980,15 +3681,7 @@ TextureImporter:
         - {x: 159.9472, y: -23.038109}
         - {x: 116.947205, y: -48.03811}
         - {x: 68.947205, y: -38.038105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0037
       rect:
@@ -5009,15 +3702,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0046
       rect:
@@ -5040,15 +3725,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0043
       rect:
@@ -5070,15 +3747,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0024
       rect:
@@ -5101,15 +3770,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0032
       rect:
@@ -5132,15 +3793,7 @@ TextureImporter:
         - {x: 0, y: -63.538048}
         - {x: -79.99997, y: -109.53805}
         - {x: -102, y: -66.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0012
       rect:
@@ -5162,15 +3815,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0013
       rect:
@@ -5192,15 +3837,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0022
       rect:
@@ -5222,15 +3859,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0017
       rect:
@@ -5252,15 +3881,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0048
       rect:
@@ -5281,15 +3902,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0016
       rect:
@@ -5336,15 +3949,7 @@ TextureImporter:
         - {x: 20, y: -76.5}
         - {x: -15.000008, y: -85.5}
         - {x: -79, y: -74.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0010
       rect:
@@ -5375,15 +3980,7 @@ TextureImporter:
         - {x: 152, y: -28.5}
         - {x: 109, y: -53.5}
         - {x: 61, y: -43.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0007
       rect:
@@ -5416,15 +4013,7 @@ TextureImporter:
         - {x: 137.00002, y: -23.5}
         - {x: 97, y: -43.5}
         - {x: 60, y: -21.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0045
       rect:
@@ -5446,15 +4035,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0024
       rect:
@@ -5501,15 +4082,7 @@ TextureImporter:
         - {x: 16.492828, y: -76.486626}
         - {x: -18.50718, y: -85.486626}
         - {x: -82.50717, y: -74.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_imp0042
       rect:
@@ -5530,15 +4103,7 @@ TextureImporter:
         - {x: -73.038055, y: 37.961937}
         - {x: -21.038055, y: 100.96194}
         - {x: 55.961945, y: 85.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0042
       rect:
@@ -5561,15 +4126,7 @@ TextureImporter:
         - {x: 46, y: -13.513359}
         - {x: 26, y: -94.51336}
         - {x: -11.9999695, y: -104.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0008
       rect:
@@ -5600,15 +4157,7 @@ TextureImporter:
         - {x: 147, y: -28.5}
         - {x: 104, y: -53.5}
         - {x: 56, y: -43.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0004
       rect:
@@ -5629,15 +4178,7 @@ TextureImporter:
         - {x: 20.461952, y: 95.5}
         - {x: 69.46195, y: 47.5}
         - {x: 78.46195, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0014
       rect:
@@ -5659,15 +4200,7 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_impskin0021
       rect:
@@ -5714,15 +4247,7 @@ TextureImporter:
         - {x: -71, y: -91.5}
         - {x: -101, y: -86.5}
         - {x: -103, y: -66.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: killRHM_victim0041
       rect:
@@ -5744,172 +4269,9 @@ TextureImporter:
         - {x: 75.5, y: 19}
         - {x: 71.5, y: -13}
         - {x: 32.5, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      killRHM_victim0025: 21300094
-      killRHM_victim0014: 21300282
-      killRHM_victim0039: 21300168
-      killRHM_imp0001: 21300190
-      killRHM_victim0008: 21300156
-      killRHM_imp0034: 21300084
-      killRHM_impskin0044: 21300172
-      killRHM_victim0044: 21300112
-      killRHM_victim0028: 21300184
-      killRHM_impskin0016: 21300264
-      killRHM_victim0004: 21300280
-      killRHM_impskin0029: 21300120
-      killRHM_imp0024: 21300250
-      killRHM_victim0042: 21300178
-      killRHM_impskin0022: 21300036
-      killRHM_impskin0003: 21300114
-      killRHM_victim0018: 21300128
-      killRHM_victim0035: 21300160
-      killRHM_impskin0006: 21300228
-      killRHM_impskin0043: 21300002
-      killRHM_imp0038: 21300232
-      killRHM_victim0002: 21300236
-      killRHM_imp0037: 21300244
-      killRHM_imp0011: 21300044
-      killRHM_impskin0036: 21300098
-      killRHM_imp0043: 21300158
-      killRHM_victim0040: 21300080
-      killRHM_imp0002: 21300032
-      killRHM_imp0048: 21300262
-      killRHM_impskin0015: 21300164
-      killRHM_impskin0008: 21300278
-      killRHM_impskin0046: 21300246
-      killRHM_victim0033: 21300030
-      killRHM_impskin0037: 21300048
-      killRHM_impskin0047: 21300116
-      killRHM_victim0026: 21300142
-      killRHM_victim0005: 21300198
-      killRHM_imp0047: 21300152
-      killRHM_victim0029: 21300020
-      killRHM_impskin0048: 21300000
-      killRHM_imp0013: 21300134
-      killRHM_victim0007: 21300010
-      killRHM_impskin0033: 21300186
-      killRHM_imp0012: 21300006
-      killRHM_victim0023: 21300132
-      killRHM_victim0031: 21300028
-      killRHM_imp0044: 21300144
-      killRHM_imp0005: 21300200
-      killRHM_impskin0034: 21300042
-      killRHM_victim0011: 21300070
-      killRHM_impskin0001: 21300118
-      killRHM_victim0043: 21300248
-      killRHM_victim0006: 21300138
-      killRHM_imp0022: 21300090
-      killRHM_impskin0007: 21300136
-      killRHM_impskin0011: 21300124
-      killRHM_impskin0023: 21300216
-      killRHM_victim0022: 21300258
-      killRHM_imp0023: 21300078
-      killRHM_victim0001: 21300188
-      killRHM_impskin0028: 21300074
-      killRHM_impskin0030: 21300166
-      killRHM_impskin0039: 21300214
-      killRHM_impskin0025: 21300008
-      killRHM_impskin0017: 21300202
-      killRHM_victim0012: 21300254
-      killRHM_impskin0024: 21300272
-      killRHM_victim0015: 21300220
-      killRHM_victim0020: 21300106
-      killRHM_impskin0027: 21300206
-      killRHM_imp0032: 21300252
-      killRHM_impskin0026: 21300174
-      killRHM_imp0020: 21300066
-      killRHM_victim0010: 21300146
-      killRHM_victim0016: 21300088
-      killRHM_victim0046: 21300060
-      killRHM_imp0003: 21300012
-      killRHM_impskin0012: 21300122
-      killRHM_imp0031: 21300026
-      killRHM_imp0004: 21300230
-      killRHM_impskin0018: 21300040
-      killRHM_impskin0002: 21300194
-      killRHM_imp0029: 21300208
-      killRHM_victim0041: 21300286
-      killRHM_imp0026: 21300104
-      killRHM_victim0037: 21300182
-      killRHM_imp0007: 21300268
-      killRHM_impskin0010: 21300266
-      killRHM_impskin0014: 21300016
-      killRHM_victim0048: 21300064
-      killRHM_victim0047: 21300210
-      killRHM_victim0036: 21300126
-      killRHM_impskin0042: 21300276
-      killRHM_imp0039: 21300234
-      killRHM_imp0017: 21300050
-      killRHM_imp0042: 21300274
-      killRHM_victim0017: 21300260
-      killRHM_impskin0020: 21300024
-      killRHM_victim0030: 21300150
-      killRHM_imp0041: 21300140
-      killRHM_imp0009: 21300242
-      killRHM_impskin0041: 21300072
-      killRHM_imp0010: 21300004
-      killRHM_imp0025: 21300018
-      killRHM_victim0045: 21300270
-      killRHM_impskin0021: 21300284
-      killRHM_impskin0005: 21300052
-      killRHM_impskin0045: 21300086
-      killRHM_victim0024: 21300056
-      killRHM_imp0019: 21300054
-      killRHM_victim0038: 21300100
-      killRHM_imp0027: 21300096
-      killRHM_imp0046: 21300082
-      killRHM_victim0027: 21300068
-      killRHM_imp0045: 21300108
-      killRHM_imp0036: 21300196
-      killRHM_victim0021: 21300154
-      killRHM_victim0019: 21300222
-      killRHM_impskin0035: 21300180
-      killRHM_impskin0040: 21300058
-      killRHM_victim0013: 21300256
-      killRHM_victim0032: 21300102
-      killRHM_imp0035: 21300014
-      killRHM_imp0040: 21300034
-      killRHM_victim0003: 21300062
-      killRHM_imp0021: 21300076
-      killRHM_imp0033: 21300218
-      killRHM_victim0009: 21300192
-      killRHM_imp0030: 21300224
-      killRHM_victim0034: 21300238
-      killRHM_imp0014: 21300038
-      killRHM_impskin0031: 21300170
-      killRHM_impskin0038: 21300130
-      killRHM_imp0028: 21300212
-      killRHM_imp0015: 21300092
-      killRHM_impskin0009: 21300162
-      killRHM_impskin0013: 21300204
-      killRHM_impskin0004: 21300240
-      killRHM_imp0008: 21300046
-      killRHM_imp0006: 21300110
-      killRHM_impskin0032: 21300148
-      killRHM_impskin0019: 21300226
-      killRHM_imp0016: 21300176
-      killRHM_imp0018: 21300022
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

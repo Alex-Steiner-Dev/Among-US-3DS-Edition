@@ -1,114 +1,43 @@
 fileFormatVersion: 2
 guid: d717c885991a6534bab9b2135073f227
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Shapeshift0031
-  - first:
-      213: 21300002
-    second: Shapeshift0001
-  - first:
-      213: 21300004
-    second: Shapeshift0006
-  - first:
-      213: 21300006
-    second: Shapeshift0023
-  - first:
-      213: 21300008
-    second: Shapeshift0033
-  - first:
-      213: 21300010
-    second: Shapeshift0029
-  - first:
-      213: 21300012
-    second: Shapeshift0027
-  - first:
-      213: 21300014
-    second: Shapeshift0034
-  - first:
-      213: 21300016
-    second: Shapeshift0016
-  - first:
-      213: 21300018
-    second: Shapeshift0032
-  - first:
-      213: 21300020
-    second: Shapeshift0013
-  - first:
-      213: 21300022
-    second: Shapeshift0009
-  - first:
-      213: 21300024
-    second: Shapeshift0026
-  - first:
-      213: 21300026
-    second: Shapeshift0020
-  - first:
-      213: 21300028
-    second: Shapeshift0018
-  - first:
-      213: 21300030
-    second: Shapeshift0002
-  - first:
-      213: 21300032
-    second: Shapeshift0014
-  - first:
-      213: 21300034
-    second: Shapeshift0005
-  - first:
-      213: 21300036
-    second: Shapeshift0004
-  - first:
-      213: 21300038
-    second: Shapeshift0024
-  - first:
-      213: 21300040
-    second: Shapeshift0021
-  - first:
-      213: 21300042
-    second: Shapeshift0012
-  - first:
-      213: 21300044
-    second: Shapeshift0008
-  - first:
-      213: 21300046
-    second: Shapeshift0007
-  - first:
-      213: 21300048
-    second: Shapeshift0017
-  - first:
-      213: 21300050
-    second: Shapeshift0010
-  - first:
-      213: 21300052
-    second: Shapeshift0022
-  - first:
-      213: 21300054
-    second: Shapeshift0015
-  - first:
-      213: 21300056
-    second: Shapeshift0028
-  - first:
-      213: 21300058
-    second: Shapeshift0011
-  - first:
-      213: 21300060
-    second: Shapeshift0030
-  - first:
-      213: 21300062
-    second: Shapeshift0003
-  - first:
-      213: 21300064
-    second: Shapeshift0019
-  - first:
-      213: 21300066
-    second: Shapeshift0025
-  - first:
-      213: 21300068
-    second: Shapeshift0035
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Shapeshift0031
+    21300002: Shapeshift0001
+    21300004: Shapeshift0006
+    21300006: Shapeshift0023
+    21300008: Shapeshift0033
+    21300010: Shapeshift0029
+    21300012: Shapeshift0027
+    21300014: Shapeshift0034
+    21300016: Shapeshift0016
+    21300018: Shapeshift0032
+    21300020: Shapeshift0013
+    21300022: Shapeshift0009
+    21300024: Shapeshift0026
+    21300026: Shapeshift0020
+    21300028: Shapeshift0018
+    21300030: Shapeshift0002
+    21300032: Shapeshift0014
+    21300034: Shapeshift0005
+    21300036: Shapeshift0004
+    21300038: Shapeshift0024
+    21300040: Shapeshift0021
+    21300042: Shapeshift0012
+    21300044: Shapeshift0008
+    21300046: Shapeshift0007
+    21300048: Shapeshift0017
+    21300050: Shapeshift0010
+    21300052: Shapeshift0022
+    21300054: Shapeshift0015
+    21300056: Shapeshift0028
+    21300058: Shapeshift0011
+    21300060: Shapeshift0030
+    21300062: Shapeshift0003
+    21300064: Shapeshift0019
+    21300066: Shapeshift0025
+    21300068: Shapeshift0035
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -116,8 +45,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -125,12 +52,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -138,13 +60,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -153,97 +72,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -290,15 +177,7 @@ TextureImporter:
       - - {x: 71.497574, y: 169.00807}
         - {x: 108.497574, y: 139.00806}
         - {x: 71.497574, y: 139.00806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0001
       rect:
@@ -317,15 +196,7 @@ TextureImporter:
         - {x: 32.03806, y: -24.486618}
         - {x: -21.96194, y: -24.486618}
         - {x: -48.96194, y: -3.486618}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0006
       rect:
@@ -351,15 +222,7 @@ TextureImporter:
         - {x: 72.96193, y: -43.999992}
         - {x: 106.96194, y: -9.999992}
         - {x: 106.96194, y: -41.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0023
       rect:
@@ -383,15 +246,7 @@ TextureImporter:
         - {x: -104.500046, y: 55.020424}
         - {x: -50.500046, y: 117.020424}
         - {x: -9.500044, y: 130.02042}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0033
       rect:
@@ -409,15 +264,7 @@ TextureImporter:
         - {x: -25.990738, y: 20.5}
         - {x: 53.009262, y: 19.5}
         - {x: 84.00926, y: -11.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0029
       rect:
@@ -558,15 +405,7 @@ TextureImporter:
       - - {x: 6.4619446, y: 207}
         - {x: 6.4619446, y: 165}
         - {x: -5.5380554, y: 165}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0027
       rect:
@@ -608,15 +447,7 @@ TextureImporter:
         - {x: -190.50006, y: -44.987606}
         - {x: -140.50006, y: 40.01239}
         - {x: -162.50006, y: 82.01238}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0034
       rect:
@@ -634,15 +465,7 @@ TextureImporter:
         - {x: -25.990738, y: 20.5}
         - {x: 53.009262, y: 19.5}
         - {x: 84.00926, y: -11.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0016
       rect:
@@ -666,15 +489,7 @@ TextureImporter:
         - {x: -104.500046, y: 55.020424}
         - {x: -50.500046, y: 117.020424}
         - {x: -9.500044, y: 130.02042}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0032
       rect:
@@ -695,15 +510,7 @@ TextureImporter:
         - {x: -30.499985, y: -32.4877}
         - {x: -45.499985, y: -8.487701}
         - {x: -85.49998, y: 2.5122833}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0013
       rect:
@@ -727,15 +534,7 @@ TextureImporter:
         - {x: -90.97529, y: 60.5}
         - {x: -63.97529, y: 100.5}
         - {x: -20.975285, y: 131.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0009
       rect:
@@ -761,15 +560,7 @@ TextureImporter:
         - {x: -125.499985, y: 2.5246773}
         - {x: -106.49998, y: 63.524673}
         - {x: -81.499985, y: 103.52467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0026
       rect:
@@ -793,15 +584,7 @@ TextureImporter:
         - {x: -17.538113, y: 131.5247}
         - {x: 42.461884, y: 118.524704}
         - {x: 107.46188, y: 34.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0020
       rect:
@@ -824,15 +607,7 @@ TextureImporter:
         - {x: -92.00004, y: -105.47531}
         - {x: -112.00003, y: -3.4753075}
         - {x: -87.00003, y: 63.52469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0018
       rect:
@@ -857,15 +632,7 @@ TextureImporter:
         - {x: -50.538063, y: 114.52469}
         - {x: -6.538063, y: 129.52469}
         - {x: 36.461937, y: 121.52469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0002
       rect:
@@ -884,15 +651,7 @@ TextureImporter:
         - {x: 27.51574, y: -36.00807}
         - {x: -19.48426, y: -35.00807}
         - {x: -76.48426, y: 2.991928}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0014
       rect:
@@ -916,15 +675,7 @@ TextureImporter:
         - {x: -90.97529, y: 60.5}
         - {x: -63.97529, y: 100.5}
         - {x: -20.975285, y: 131.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0005
       rect:
@@ -947,15 +698,7 @@ TextureImporter:
         - {x: 107.49995, y: 13.499992}
         - {x: 90.49995, y: -58.500015}
         - {x: 62.499947, y: -85.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0004
       rect:
@@ -976,15 +719,7 @@ TextureImporter:
         - {x: 114.500015, y: 8.500008}
         - {x: 71.500015, y: -51.5}
         - {x: 28.500015, y: -66.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0024
       rect:
@@ -1008,15 +743,7 @@ TextureImporter:
         - {x: -104.500046, y: 55.020424}
         - {x: -50.500046, y: 117.020424}
         - {x: -9.500044, y: 130.02042}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0021
       rect:
@@ -1039,15 +766,7 @@ TextureImporter:
         - {x: -112.98006, y: 3.5000153}
         - {x: -91.98005, y: 72.500015}
         - {x: -35.980057, y: 127.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0012
       rect:
@@ -1069,15 +788,7 @@ TextureImporter:
         - {x: 42, y: 126.52469}
         - {x: 117.99999, y: 32.52469}
         - {x: 100, y: -81.47531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0008
       rect:
@@ -1103,15 +814,7 @@ TextureImporter:
         - {x: -103.999985, y: -65.461945}
         - {x: -120.999985, y: 0.5380554}
         - {x: -101.999985, y: 59.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0007
       rect:
@@ -1137,15 +840,7 @@ TextureImporter:
         - {x: -103.999985, y: -65.461945}
         - {x: -120.999985, y: 0.5380554}
         - {x: -101.999985, y: 59.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0017
       rect:
@@ -1170,15 +865,7 @@ TextureImporter:
         - {x: -50.538063, y: 114.52469}
         - {x: -6.538063, y: 129.52469}
         - {x: 36.461937, y: 121.52469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0010
       rect:
@@ -1204,15 +891,7 @@ TextureImporter:
         - {x: -125.499985, y: 2.5246773}
         - {x: -106.49998, y: 63.524673}
         - {x: -81.499985, y: 103.52467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0022
       rect:
@@ -1235,15 +914,7 @@ TextureImporter:
         - {x: -112.98006, y: 3.5000153}
         - {x: -91.98005, y: 72.500015}
         - {x: -35.980057, y: 127.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0015
       rect:
@@ -1267,15 +938,7 @@ TextureImporter:
         - {x: -104.499985, y: 55.020424}
         - {x: -50.499985, y: 117.020424}
         - {x: -9.499983, y: 130.02042}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0028
       rect:
@@ -1372,15 +1035,7 @@ TextureImporter:
       - - {x: -127.53807, y: 189.49998}
         - {x: -59.53807, y: 126.499985}
         - {x: -95.53807, y: 125.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0011
       rect:
@@ -1402,15 +1057,7 @@ TextureImporter:
         - {x: 42, y: 126.52467}
         - {x: 117.99999, y: 32.524673}
         - {x: 100, y: -81.47533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0030
       rect:
@@ -1529,15 +1176,7 @@ TextureImporter:
         - {x: -42.538067, y: 213.5}
         - {x: -35.53807, y: 213.5}
         - {x: -35.53807, y: 203.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0003
       rect:
@@ -1558,15 +1197,7 @@ TextureImporter:
         - {x: -32.475327, y: -46.513367}
         - {x: -79.47532, y: -5.5133667}
         - {x: -90.47533, y: 27.48664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0019
       rect:
@@ -1589,15 +1220,7 @@ TextureImporter:
         - {x: -92.00004, y: -105.47531}
         - {x: -112.00003, y: -3.4753075}
         - {x: -87.00003, y: 63.52469}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0025
       rect:
@@ -1621,15 +1244,7 @@ TextureImporter:
         - {x: -17.538113, y: 131.5247}
         - {x: 42.461884, y: 118.524704}
         - {x: 107.46188, y: 34.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Shapeshift0035
       rect:
@@ -1647,63 +1262,9 @@ TextureImporter:
         - {x: 74.983406, y: -8.981857}
         - {x: -43.01659, y: -25.981857}
         - {x: -70.01659, y: 3.0181427}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Shapeshift0029: 21300010
-      Shapeshift0035: 21300068
-      Shapeshift0027: 21300012
-      Shapeshift0018: 21300028
-      Shapeshift0013: 21300020
-      Shapeshift0003: 21300062
-      Shapeshift0006: 21300004
-      Shapeshift0021: 21300040
-      Shapeshift0005: 21300034
-      Shapeshift0016: 21300016
-      Shapeshift0017: 21300048
-      Shapeshift0033: 21300008
-      Shapeshift0014: 21300032
-      Shapeshift0011: 21300058
-      Shapeshift0019: 21300064
-      Shapeshift0008: 21300044
-      Shapeshift0024: 21300038
-      Shapeshift0012: 21300042
-      Shapeshift0010: 21300050
-      Shapeshift0030: 21300060
-      Shapeshift0001: 21300002
-      Shapeshift0009: 21300022
-      Shapeshift0031: 21300000
-      Shapeshift0034: 21300014
-      Shapeshift0032: 21300018
-      Shapeshift0022: 21300052
-      Shapeshift0026: 21300024
-      Shapeshift0007: 21300046
-      Shapeshift0015: 21300054
-      Shapeshift0020: 21300026
-      Shapeshift0028: 21300056
-      Shapeshift0004: 21300036
-      Shapeshift0025: 21300066
-      Shapeshift0023: 21300006
-      Shapeshift0002: 21300030
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

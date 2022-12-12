@@ -1,240 +1,85 @@
 fileFormatVersion: 2
 guid: 56fec1770026f5e4d9376d43a62882a5
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0011
-  - first:
-      213: 21300002
-    second: 2022_foodcube_skin_Hotdog_IdleMirror
-  - first:
-      213: 21300004
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0052
-  - first:
-      213: 21300006
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0040
-  - first:
-      213: 21300008
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0004
-  - first:
-      213: 21300010
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0039
-  - first:
-      213: 21300012
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0008
-  - first:
-      213: 21300014
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0004
-  - first:
-      213: 21300016
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0001
-  - first:
-      213: 21300018
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0001
-  - first:
-      213: 21300020
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0018
-  - first:
-      213: 21300022
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0044
-  - first:
-      213: 21300024
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0008
-  - first:
-      213: 21300026
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0045
-  - first:
-      213: 21300028
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0027
-  - first:
-      213: 21300030
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0009
-  - first:
-      213: 21300032
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0015
-  - first:
-      213: 21300034
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0037
-  - first:
-      213: 21300036
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0005
-  - first:
-      213: 21300038
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0049
-  - first:
-      213: 21300040
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0003
-  - first:
-      213: 21300042
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0029
-  - first:
-      213: 21300044
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0051
-  - first:
-      213: 21300046
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0001
-  - first:
-      213: 21300048
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0031
-  - first:
-      213: 21300050
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0007
-  - first:
-      213: 21300052
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0003
-  - first:
-      213: 21300054
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0055
-  - first:
-      213: 21300056
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0004
-  - first:
-      213: 21300058
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0010
-  - first:
-      213: 21300060
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0002
-  - first:
-      213: 21300062
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0025
-  - first:
-      213: 21300064
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0017
-  - first:
-      213: 21300066
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0009
-  - first:
-      213: 21300068
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0011
-  - first:
-      213: 21300070
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0050
-  - first:
-      213: 21300072
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0043
-  - first:
-      213: 21300074
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0036
-  - first:
-      213: 21300076
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0022
-  - first:
-      213: 21300078
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0047
-  - first:
-      213: 21300080
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0033
-  - first:
-      213: 21300082
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0014
-  - first:
-      213: 21300084
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0032
-  - first:
-      213: 21300086
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0021
-  - first:
-      213: 21300088
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0002
-  - first:
-      213: 21300090
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0007
-  - first:
-      213: 21300092
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0002
-  - first:
-      213: 21300094
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0030
-  - first:
-      213: 21300096
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0026
-  - first:
-      213: 21300098
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0006
-  - first:
-      213: 21300100
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0023
-  - first:
-      213: 21300102
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0007
-  - first:
-      213: 21300104
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0054
-  - first:
-      213: 21300106
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0038
-  - first:
-      213: 21300108
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0008
-  - first:
-      213: 21300110
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0010
-  - first:
-      213: 21300112
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0012
-  - first:
-      213: 21300114
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0009
-  - first:
-      213: 21300116
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0028
-  - first:
-      213: 21300118
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0053
-  - first:
-      213: 21300120
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0005
-  - first:
-      213: 21300122
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0046
-  - first:
-      213: 21300124
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0016
-  - first:
-      213: 21300126
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0003
-  - first:
-      213: 21300128
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0006
-  - first:
-      213: 21300130
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0019
-  - first:
-      213: 21300132
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0034
-  - first:
-      213: 21300134
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0024
-  - first:
-      213: 21300136
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0042
-  - first:
-      213: 21300138
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0041
-  - first:
-      213: 21300140
-    second: 2022_foodcube_skin_Hotdog_VententerMirror0006
-  - first:
-      213: 21300142
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0013
-  - first:
-      213: 21300144
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0048
-  - first:
-      213: 21300146
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0035
-  - first:
-      213: 21300148
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0012
-  - first:
-      213: 21300150
-    second: 2022_foodcube_skin_Hotdog_WalkMirror0005
-  - first:
-      213: 21300152
-    second: 2022_foodcube_skin_Hotdog_SpawnMirror0020
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_foodcube_skin_Hotdog_SpawnMirror0011
+    21300002: 2022_foodcube_skin_Hotdog_IdleMirror
+    21300004: 2022_foodcube_skin_Hotdog_SpawnMirror0052
+    21300006: 2022_foodcube_skin_Hotdog_SpawnMirror0040
+    21300008: 2022_foodcube_skin_Hotdog_WalkMirror0004
+    21300010: 2022_foodcube_skin_Hotdog_SpawnMirror0039
+    21300012: 2022_foodcube_skin_Hotdog_WalkMirror0008
+    21300014: 2022_foodcube_skin_Hotdog_VententerMirror0004
+    21300016: 2022_foodcube_skin_Hotdog_WalkMirror0001
+    21300018: 2022_foodcube_skin_Hotdog_SpawnMirror0001
+    21300020: 2022_foodcube_skin_Hotdog_SpawnMirror0018
+    21300022: 2022_foodcube_skin_Hotdog_SpawnMirror0044
+    21300024: 2022_foodcube_skin_Hotdog_VententerMirror0008
+    21300026: 2022_foodcube_skin_Hotdog_SpawnMirror0045
+    21300028: 2022_foodcube_skin_Hotdog_SpawnMirror0027
+    21300030: 2022_foodcube_skin_Hotdog_VententerMirror0009
+    21300032: 2022_foodcube_skin_Hotdog_SpawnMirror0015
+    21300034: 2022_foodcube_skin_Hotdog_SpawnMirror0037
+    21300036: 2022_foodcube_skin_Hotdog_VententerMirror0005
+    21300038: 2022_foodcube_skin_Hotdog_SpawnMirror0049
+    21300040: 2022_foodcube_skin_Hotdog_VententerMirror0003
+    21300042: 2022_foodcube_skin_Hotdog_SpawnMirror0029
+    21300044: 2022_foodcube_skin_Hotdog_SpawnMirror0051
+    21300046: 2022_foodcube_skin_Hotdog_VententerMirror0001
+    21300048: 2022_foodcube_skin_Hotdog_SpawnMirror0031
+    21300050: 2022_foodcube_skin_Hotdog_SpawnMirror0007
+    21300052: 2022_foodcube_skin_Hotdog_SpawnMirror0003
+    21300054: 2022_foodcube_skin_Hotdog_SpawnMirror0055
+    21300056: 2022_foodcube_skin_Hotdog_SpawnMirror0004
+    21300058: 2022_foodcube_skin_Hotdog_WalkMirror0010
+    21300060: 2022_foodcube_skin_Hotdog_VententerMirror0002
+    21300062: 2022_foodcube_skin_Hotdog_SpawnMirror0025
+    21300064: 2022_foodcube_skin_Hotdog_SpawnMirror0017
+    21300066: 2022_foodcube_skin_Hotdog_SpawnMirror0009
+    21300068: 2022_foodcube_skin_Hotdog_WalkMirror0011
+    21300070: 2022_foodcube_skin_Hotdog_SpawnMirror0050
+    21300072: 2022_foodcube_skin_Hotdog_SpawnMirror0043
+    21300074: 2022_foodcube_skin_Hotdog_SpawnMirror0036
+    21300076: 2022_foodcube_skin_Hotdog_SpawnMirror0022
+    21300078: 2022_foodcube_skin_Hotdog_SpawnMirror0047
+    21300080: 2022_foodcube_skin_Hotdog_SpawnMirror0033
+    21300082: 2022_foodcube_skin_Hotdog_SpawnMirror0014
+    21300084: 2022_foodcube_skin_Hotdog_SpawnMirror0032
+    21300086: 2022_foodcube_skin_Hotdog_SpawnMirror0021
+    21300088: 2022_foodcube_skin_Hotdog_SpawnMirror0002
+    21300090: 2022_foodcube_skin_Hotdog_WalkMirror0007
+    21300092: 2022_foodcube_skin_Hotdog_WalkMirror0002
+    21300094: 2022_foodcube_skin_Hotdog_SpawnMirror0030
+    21300096: 2022_foodcube_skin_Hotdog_SpawnMirror0026
+    21300098: 2022_foodcube_skin_Hotdog_SpawnMirror0006
+    21300100: 2022_foodcube_skin_Hotdog_SpawnMirror0023
+    21300102: 2022_foodcube_skin_Hotdog_VententerMirror0007
+    21300104: 2022_foodcube_skin_Hotdog_SpawnMirror0054
+    21300106: 2022_foodcube_skin_Hotdog_SpawnMirror0038
+    21300108: 2022_foodcube_skin_Hotdog_SpawnMirror0008
+    21300110: 2022_foodcube_skin_Hotdog_SpawnMirror0010
+    21300112: 2022_foodcube_skin_Hotdog_SpawnMirror0012
+    21300114: 2022_foodcube_skin_Hotdog_WalkMirror0009
+    21300116: 2022_foodcube_skin_Hotdog_SpawnMirror0028
+    21300118: 2022_foodcube_skin_Hotdog_SpawnMirror0053
+    21300120: 2022_foodcube_skin_Hotdog_SpawnMirror0005
+    21300122: 2022_foodcube_skin_Hotdog_SpawnMirror0046
+    21300124: 2022_foodcube_skin_Hotdog_SpawnMirror0016
+    21300126: 2022_foodcube_skin_Hotdog_WalkMirror0003
+    21300128: 2022_foodcube_skin_Hotdog_WalkMirror0006
+    21300130: 2022_foodcube_skin_Hotdog_SpawnMirror0019
+    21300132: 2022_foodcube_skin_Hotdog_SpawnMirror0034
+    21300134: 2022_foodcube_skin_Hotdog_SpawnMirror0024
+    21300136: 2022_foodcube_skin_Hotdog_SpawnMirror0042
+    21300138: 2022_foodcube_skin_Hotdog_SpawnMirror0041
+    21300140: 2022_foodcube_skin_Hotdog_VententerMirror0006
+    21300142: 2022_foodcube_skin_Hotdog_SpawnMirror0013
+    21300144: 2022_foodcube_skin_Hotdog_SpawnMirror0048
+    21300146: 2022_foodcube_skin_Hotdog_SpawnMirror0035
+    21300148: 2022_foodcube_skin_Hotdog_WalkMirror0012
+    21300150: 2022_foodcube_skin_Hotdog_WalkMirror0005
+    21300152: 2022_foodcube_skin_Hotdog_SpawnMirror0020
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -242,8 +87,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -251,12 +94,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -264,13 +102,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -279,97 +114,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -407,15 +210,7 @@ TextureImporter:
         - {x: -55.9684, y: -53.961937}
         - {x: -51.9684, y: -53.961937}
         - {x: -51.9684, y: -56.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_IdleMirror
       rect:
@@ -437,15 +232,7 @@ TextureImporter:
         - {x: 78.00001, y: 48.97532}
         - {x: 92.00001, y: -9.024677}
         - {x: 53.000004, y: -68.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0052
       rect:
@@ -467,15 +254,7 @@ TextureImporter:
         - {x: 47, y: -60.024673}
         - {x: -24, y: -42.024673}
         - {x: -68, y: -53.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0040
       rect:
@@ -493,15 +272,7 @@ TextureImporter:
         - {x: -38.98008, y: 13.4752655}
         - {x: -78.98008, y: 0.47526503}
         - {x: -84.98008, y: -15.5247345}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0004
       rect:
@@ -523,15 +294,7 @@ TextureImporter:
         - {x: 84.461945, y: 47.008095}
         - {x: 84.461945, y: -41.991905}
         - {x: 55.461952, y: -55.991905}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0039
       rect:
@@ -549,15 +312,7 @@ TextureImporter:
         - {x: -38.98008, y: 13.4752655}
         - {x: -78.98008, y: 0.47526503}
         - {x: -84.98008, y: -15.5247345}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0008
       rect:
@@ -578,15 +333,7 @@ TextureImporter:
         - {x: 64.500015, y: -50.49999}
         - {x: 28.500015, y: -59.499992}
         - {x: -65.499985, y: -30.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0004
       rect:
@@ -611,15 +358,7 @@ TextureImporter:
         - {x: -7.5000076, y: 5.0000153}
         - {x: -67.50001, y: 3.0000153}
         - {x: -72.5, y: -46.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0001
       rect:
@@ -641,15 +380,7 @@ TextureImporter:
         - {x: 84.46194, y: 47.008095}
         - {x: 84.46194, y: -41.991905}
         - {x: 55.461945, y: -55.991905}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0001
       rect:
@@ -674,15 +405,7 @@ TextureImporter:
         - {x: -76.46194, y: -19.000046}
         - {x: -105.46194, y: -53.000046}
         - {x: -105.46194, y: 22.999952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0018
       rect:
@@ -709,15 +432,7 @@ TextureImporter:
         - {x: -29.499985, y: -4.000046}
         - {x: -59.499985, y: 4.999954}
         - {x: -98.499985, y: -26.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0044
       rect:
@@ -751,15 +466,7 @@ TextureImporter:
       - - {x: -78.00648, y: 40.524704}
         - {x: -78.00648, y: 17.524704}
         - {x: -101.00648, y: 17.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0008
       rect:
@@ -776,15 +483,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0045
       rect:
@@ -818,15 +517,7 @@ TextureImporter:
       - - {x: -78.00648, y: 40.524704}
         - {x: -78.00648, y: 17.524704}
         - {x: -101.00648, y: 17.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0027
       rect:
@@ -852,15 +543,7 @@ TextureImporter:
       - - {x: -51.506485, y: -41.000042}
         - {x: -29.506485, y: -61.00004}
         - {x: -52.506485, y: -64.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0009
       rect:
@@ -877,15 +560,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0015
       rect:
@@ -907,15 +582,7 @@ TextureImporter:
         - {x: -30.538063, y: -15.000053}
         - {x: -74.53806, y: -12.000053}
         - {x: -87.53806, y: -60.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0037
       rect:
@@ -934,15 +601,7 @@ TextureImporter:
         - {x: -52.038055, y: 17.999952}
         - {x: -83.038055, y: 5.999954}
         - {x: -74.038055, y: -30.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0005
       rect:
@@ -967,15 +626,7 @@ TextureImporter:
         - {x: -7.5000076, y: 5.0000153}
         - {x: -67.50001, y: 3.0000153}
         - {x: -72.5, y: -46.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0049
       rect:
@@ -999,15 +650,7 @@ TextureImporter:
         - {x: -7.9999847, y: -36.009293}
         - {x: -69.999985, y: -47.009293}
         - {x: -91.99997, y: -10.009285}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0003
       rect:
@@ -1032,15 +675,7 @@ TextureImporter:
         - {x: -7.5000076, y: 5.0000153}
         - {x: -67.50001, y: 3.0000153}
         - {x: -72.5, y: -46.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0029
       rect:
@@ -1066,15 +701,7 @@ TextureImporter:
       - - {x: -51.506454, y: -40.99998}
         - {x: -29.506454, y: -60.999977}
         - {x: -52.506454, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0051
       rect:
@@ -1099,15 +726,7 @@ TextureImporter:
         - {x: -38.004227, y: -36.97529}
         - {x: -66.00423, y: -62.97528}
         - {x: -88.00423, y: -2.9752884}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0001
       rect:
@@ -1131,15 +750,7 @@ TextureImporter:
         - {x: 39.46195, y: -70.50004}
         - {x: 16.461952, y: -64.500046}
         - {x: -9.538048, y: 8.499954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0031
       rect:
@@ -1165,15 +776,7 @@ TextureImporter:
       - - {x: -51.506454, y: -40.99998}
         - {x: -29.506454, y: -60.999977}
         - {x: -52.506454, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0007
       rect:
@@ -1199,15 +802,7 @@ TextureImporter:
         - {x: 109.499985, y: 28.038061}
         - {x: 95.5, y: -62.961937}
         - {x: 17.499992, y: -62.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0003
       rect:
@@ -1232,15 +827,7 @@ TextureImporter:
         - {x: -76.46194, y: -19.000046}
         - {x: -105.46194, y: -53.000046}
         - {x: -105.46194, y: 22.999952}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0055
       rect:
@@ -1262,15 +849,7 @@ TextureImporter:
         - {x: 47, y: -60.024673}
         - {x: -24, y: -42.024673}
         - {x: -68, y: -53.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0004
       rect:
@@ -1287,15 +866,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.49998474, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0010
       rect:
@@ -1316,15 +887,7 @@ TextureImporter:
         - {x: 64.500015, y: -50.499992}
         - {x: 28.500015, y: -59.499992}
         - {x: -65.499985, y: -30.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0002
       rect:
@@ -1347,15 +910,7 @@ TextureImporter:
         - {x: -5.506988, y: 6.0076904}
         - {x: -61.50699, y: 5.0076904}
         - {x: -67.50698, y: -49.99231}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0025
       rect:
@@ -1381,15 +936,7 @@ TextureImporter:
       - - {x: -51.506454, y: -40.99998}
         - {x: -29.506454, y: -60.999977}
         - {x: -52.506454, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0017
       rect:
@@ -1417,15 +964,7 @@ TextureImporter:
         - {x: -52.961937, y: -57.98755}
         - {x: -49.961937, y: -57.98755}
         - {x: -49.961937, y: -60.98755}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0009
       rect:
@@ -1447,15 +986,7 @@ TextureImporter:
         - {x: -21.487595, y: -18.000046}
         - {x: -77.487595, y: -19.000046}
         - {x: -90.487595, y: -55.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0011
       rect:
@@ -1478,15 +1009,7 @@ TextureImporter:
         - {x: -15.999983, y: -37.999992}
         - {x: -23.999985, y: -55.999992}
         - {x: -75.999985, y: -43.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0050
       rect:
@@ -1510,15 +1033,7 @@ TextureImporter:
         - {x: -7.9999847, y: -36.009293}
         - {x: -69.999985, y: -47.009293}
         - {x: -91.99997, y: -10.009285}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0043
       rect:
@@ -1553,15 +1068,7 @@ TextureImporter:
       - - {x: -91, y: -11.516659}
         - {x: -55, y: -29.516655}
         - {x: -89.99999, y: -29.516655}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0036
       rect:
@@ -1586,15 +1093,7 @@ TextureImporter:
         - {x: 43.961937, y: -48.48005}
         - {x: -4.038063, y: -4.480049}
         - {x: -83.03806, y: -2.4800482}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0022
       rect:
@@ -1620,15 +1119,7 @@ TextureImporter:
       - - {x: -51.506485, y: -41.000042}
         - {x: -29.506485, y: -61.00004}
         - {x: -52.506485, y: -64.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0047
       rect:
@@ -1656,15 +1147,7 @@ TextureImporter:
         - {x: -92.5, y: -27.960419}
         - {x: -89.5, y: -27.960419}
         - {x: -89.5, y: -32.96042}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0033
       rect:
@@ -1690,15 +1173,7 @@ TextureImporter:
       - - {x: -51.506485, y: -40.99998}
         - {x: -29.506485, y: -60.999977}
         - {x: -52.506485, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0014
       rect:
@@ -1723,15 +1198,7 @@ TextureImporter:
         - {x: -72.98761, y: -14.500053}
         - {x: -91.98761, y: -49.500053}
         - {x: -99.98761, y: -30.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0032
       rect:
@@ -1757,15 +1224,7 @@ TextureImporter:
       - - {x: -51.506485, y: -40.99998}
         - {x: -29.506485, y: -60.999977}
         - {x: -52.506485, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0021
       rect:
@@ -1789,15 +1248,7 @@ TextureImporter:
         - {x: 28.978539, y: -58.9753}
         - {x: -1.0214539, y: -7.9753}
         - {x: -89.021454, y: -8.975299}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0002
       rect:
@@ -1814,15 +1265,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.49998474, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0007
       rect:
@@ -1843,15 +1286,7 @@ TextureImporter:
         - {x: 64.500015, y: -50.49999}
         - {x: 28.500015, y: -59.499992}
         - {x: -65.499985, y: -30.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0002
       rect:
@@ -1873,15 +1308,7 @@ TextureImporter:
         - {x: 84.46194, y: 47.008095}
         - {x: 84.46194, y: -41.991905}
         - {x: 55.461945, y: -55.9919}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0030
       rect:
@@ -1907,15 +1334,7 @@ TextureImporter:
       - - {x: -51.506454, y: -40.99998}
         - {x: -29.506454, y: -60.999977}
         - {x: -52.506454, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0026
       rect:
@@ -1941,15 +1360,7 @@ TextureImporter:
       - - {x: -51.506454, y: -40.99998}
         - {x: -29.506454, y: -60.999977}
         - {x: -52.506454, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0006
       rect:
@@ -1978,15 +1389,7 @@ TextureImporter:
         - {x: -88.97531, y: -55.461937}
         - {x: -106.97531, y: -48.461937}
         - {x: -105.97531, y: -0.46193695}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0023
       rect:
@@ -2012,15 +1415,7 @@ TextureImporter:
       - - {x: -51.506485, y: -41.000042}
         - {x: -29.506485, y: -61.00004}
         - {x: -52.506485, y: -64.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0007
       rect:
@@ -2043,15 +1438,7 @@ TextureImporter:
         - {x: 7.961952, y: -40.486633}
         - {x: -10.038048, y: -12.486633}
         - {x: -85.03804, y: -22.486633}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0054
       rect:
@@ -2073,15 +1460,7 @@ TextureImporter:
         - {x: 47, y: -60.024673}
         - {x: -24, y: -42.024673}
         - {x: -68, y: -53.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0038
       rect:
@@ -2100,15 +1479,7 @@ TextureImporter:
         - {x: -52.038055, y: 17.999952}
         - {x: -83.038055, y: 5.999954}
         - {x: -74.038055, y: -30.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0008
       rect:
@@ -2135,15 +1506,7 @@ TextureImporter:
         - {x: 112.02467, y: -14.000044}
         - {x: 86.02469, y: -47.000042}
         - {x: 44.02469, y: -66.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0010
       rect:
@@ -2165,15 +1528,7 @@ TextureImporter:
         - {x: 91.000015, y: -53.48755}
         - {x: 36.000008, y: -54.48755}
         - {x: -17.999989, y: -11.487549}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0012
       rect:
@@ -2200,15 +1555,7 @@ TextureImporter:
         - {x: -70.999985, y: -5.975295}
         - {x: -84.999985, y: -71.975296}
         - {x: -105.999985, y: -27.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0009
       rect:
@@ -2229,15 +1576,7 @@ TextureImporter:
         - {x: 64.500015, y: -50.49999}
         - {x: 28.500015, y: -59.499992}
         - {x: -65.499985, y: -30.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0028
       rect:
@@ -2263,15 +1602,7 @@ TextureImporter:
       - - {x: -51.506485, y: -40.99998}
         - {x: -29.506485, y: -60.999977}
         - {x: -52.506485, y: -63.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0053
       rect:
@@ -2293,15 +1624,7 @@ TextureImporter:
         - {x: 47, y: -60.024673}
         - {x: -24, y: -42.024673}
         - {x: -68, y: -53.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0005
       rect:
@@ -2318,15 +1641,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.49998474, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0046
       rect:
@@ -2354,15 +1669,7 @@ TextureImporter:
         - {x: -92.5, y: -27.960419}
         - {x: -89.5, y: -27.960419}
         - {x: -89.5, y: -32.96042}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0016
       rect:
@@ -2387,15 +1694,7 @@ TextureImporter:
         - {x: 2.5000153, y: -12.500053}
         - {x: -65.499985, y: -10.500053}
         - {x: -103.499985, y: -46.50005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0003
       rect:
@@ -2417,15 +1716,7 @@ TextureImporter:
         - {x: 84.46194, y: 47.008095}
         - {x: 84.46194, y: -41.991905}
         - {x: 55.461945, y: -55.9919}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0006
       rect:
@@ -2448,15 +1739,7 @@ TextureImporter:
         - {x: -19.999983, y: -37.499992}
         - {x: -43.999985, y: -56.499992}
         - {x: -72.99998, y: -37.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0019
       rect:
@@ -2479,15 +1762,7 @@ TextureImporter:
         - {x: 85.99999, y: -51.500057}
         - {x: 31.000008, y: -61.500053}
         - {x: 5.0000076, y: -19.500057}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0034
       rect:
@@ -2515,15 +1790,7 @@ TextureImporter:
         - {x: -56.98339, y: -47.99998}
         - {x: -49.98339, y: -47.99998}
         - {x: -49.98339, y: -50.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0024
       rect:
@@ -2549,15 +1816,7 @@ TextureImporter:
       - - {x: -51.506454, y: -41.000042}
         - {x: -29.506454, y: -61.00004}
         - {x: -52.506454, y: -64.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0042
       rect:
@@ -2579,15 +1838,7 @@ TextureImporter:
         - {x: -107.53806, y: -39.4753}
         - {x: -111.53806, y: 15.5247}
         - {x: -96.53806, y: 6.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0041
       rect:
@@ -2609,15 +1860,7 @@ TextureImporter:
         - {x: -107.53806, y: -39.4753}
         - {x: -111.53806, y: 15.5247}
         - {x: -96.53806, y: 6.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_VententerMirror0006
       rect:
@@ -2641,15 +1884,7 @@ TextureImporter:
         - {x: 36.961952, y: -72.999985}
         - {x: 13.961952, y: -44.999985}
         - {x: -7.038048, y: 6.0000153}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0013
       rect:
@@ -2679,15 +1914,7 @@ TextureImporter:
         - {x: -48.504623, y: -13.500046}
         - {x: -50.504623, y: -15.500046}
         - {x: -52.504623, y: -13.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0048
       rect:
@@ -2714,15 +1941,7 @@ TextureImporter:
         - {x: -1.4999847, y: -71.98186}
         - {x: 13.500015, y: -22.981857}
         - {x: -36.499985, y: 11.018143}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0035
       rect:
@@ -2750,15 +1969,7 @@ TextureImporter:
         - {x: -56.98339, y: -47.99998}
         - {x: -49.98339, y: -47.99998}
         - {x: -49.98339, y: -50.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0012
       rect:
@@ -2781,15 +1992,7 @@ TextureImporter:
         - {x: -15.999983, y: -37.999992}
         - {x: -23.999985, y: -55.999992}
         - {x: -75.999985, y: -43.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_WalkMirror0005
       rect:
@@ -2812,15 +2015,7 @@ TextureImporter:
         - {x: -19.999983, y: -37.499992}
         - {x: -43.999985, y: -56.499992}
         - {x: -72.99998, y: -37.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_foodcube_skin_Hotdog_SpawnMirror0020
       rect:
@@ -2844,105 +2039,9 @@ TextureImporter:
         - {x: 61.524673, y: -61.4753}
         - {x: 26.524681, y: -49.4753}
         - {x: 5.5246887, y: -21.475298}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_foodcube_skin_Hotdog_SpawnMirror0016: 21300124
-      2022_foodcube_skin_Hotdog_VententerMirror0003: 21300040
-      2022_foodcube_skin_Hotdog_WalkMirror0003: 21300126
-      2022_foodcube_skin_Hotdog_WalkMirror0007: 21300090
-      2022_foodcube_skin_Hotdog_SpawnMirror0041: 21300138
-      2022_foodcube_skin_Hotdog_WalkMirror0012: 21300148
-      2022_foodcube_skin_Hotdog_SpawnMirror0036: 21300074
-      2022_foodcube_skin_Hotdog_SpawnMirror0046: 21300122
-      2022_foodcube_skin_Hotdog_SpawnMirror0022: 21300076
-      2022_foodcube_skin_Hotdog_WalkMirror0005: 21300150
-      2022_foodcube_skin_Hotdog_VententerMirror0002: 21300060
-      2022_foodcube_skin_Hotdog_VententerMirror0001: 21300046
-      2022_foodcube_skin_Hotdog_SpawnMirror0001: 21300018
-      2022_foodcube_skin_Hotdog_VententerMirror0008: 21300024
-      2022_foodcube_skin_Hotdog_SpawnMirror0030: 21300094
-      2022_foodcube_skin_Hotdog_SpawnMirror0020: 21300152
-      2022_foodcube_skin_Hotdog_SpawnMirror0021: 21300086
-      2022_foodcube_skin_Hotdog_SpawnMirror0015: 21300032
-      2022_foodcube_skin_Hotdog_SpawnMirror0044: 21300022
-      2022_foodcube_skin_Hotdog_VententerMirror0005: 21300036
-      2022_foodcube_skin_Hotdog_WalkMirror0010: 21300058
-      2022_foodcube_skin_Hotdog_SpawnMirror0055: 21300054
-      2022_foodcube_skin_Hotdog_SpawnMirror0002: 21300088
-      2022_foodcube_skin_Hotdog_VententerMirror0006: 21300140
-      2022_foodcube_skin_Hotdog_SpawnMirror0014: 21300082
-      2022_foodcube_skin_Hotdog_SpawnMirror0039: 21300010
-      2022_foodcube_skin_Hotdog_SpawnMirror0032: 21300084
-      2022_foodcube_skin_Hotdog_SpawnMirror0029: 21300042
-      2022_foodcube_skin_Hotdog_SpawnMirror0033: 21300080
-      2022_foodcube_skin_Hotdog_SpawnMirror0006: 21300098
-      2022_foodcube_skin_Hotdog_WalkMirror0009: 21300114
-      2022_foodcube_skin_Hotdog_SpawnMirror0048: 21300144
-      2022_foodcube_skin_Hotdog_SpawnMirror0045: 21300026
-      2022_foodcube_skin_Hotdog_SpawnMirror0011: 21300000
-      2022_foodcube_skin_Hotdog_WalkMirror0011: 21300068
-      2022_foodcube_skin_Hotdog_SpawnMirror0017: 21300064
-      2022_foodcube_skin_Hotdog_SpawnMirror0050: 21300070
-      2022_foodcube_skin_Hotdog_SpawnMirror0049: 21300038
-      2022_foodcube_skin_Hotdog_SpawnMirror0038: 21300106
-      2022_foodcube_skin_Hotdog_SpawnMirror0005: 21300120
-      2022_foodcube_skin_Hotdog_SpawnMirror0018: 21300020
-      2022_foodcube_skin_Hotdog_SpawnMirror0007: 21300050
-      2022_foodcube_skin_Hotdog_SpawnMirror0051: 21300044
-      2022_foodcube_skin_Hotdog_SpawnMirror0042: 21300136
-      2022_foodcube_skin_Hotdog_SpawnMirror0037: 21300034
-      2022_foodcube_skin_Hotdog_WalkMirror0002: 21300092
-      2022_foodcube_skin_Hotdog_SpawnMirror0040: 21300006
-      2022_foodcube_skin_Hotdog_SpawnMirror0027: 21300028
-      2022_foodcube_skin_Hotdog_SpawnMirror0053: 21300118
-      2022_foodcube_skin_Hotdog_SpawnMirror0008: 21300108
-      2022_foodcube_skin_Hotdog_SpawnMirror0035: 21300146
-      2022_foodcube_skin_Hotdog_SpawnMirror0024: 21300134
-      2022_foodcube_skin_Hotdog_SpawnMirror0003: 21300052
-      2022_foodcube_skin_Hotdog_SpawnMirror0052: 21300004
-      2022_foodcube_skin_Hotdog_SpawnMirror0004: 21300056
-      2022_foodcube_skin_Hotdog_SpawnMirror0031: 21300048
-      2022_foodcube_skin_Hotdog_SpawnMirror0034: 21300132
-      2022_foodcube_skin_Hotdog_SpawnMirror0028: 21300116
-      2022_foodcube_skin_Hotdog_VententerMirror0007: 21300102
-      2022_foodcube_skin_Hotdog_WalkMirror0004: 21300008
-      2022_foodcube_skin_Hotdog_SpawnMirror0013: 21300142
-      2022_foodcube_skin_Hotdog_SpawnMirror0025: 21300062
-      2022_foodcube_skin_Hotdog_SpawnMirror0023: 21300100
-      2022_foodcube_skin_Hotdog_IdleMirror: 21300002
-      2022_foodcube_skin_Hotdog_SpawnMirror0026: 21300096
-      2022_foodcube_skin_Hotdog_VententerMirror0004: 21300014
-      2022_foodcube_skin_Hotdog_SpawnMirror0043: 21300072
-      2022_foodcube_skin_Hotdog_WalkMirror0006: 21300128
-      2022_foodcube_skin_Hotdog_SpawnMirror0054: 21300104
-      2022_foodcube_skin_Hotdog_WalkMirror0008: 21300012
-      2022_foodcube_skin_Hotdog_SpawnMirror0019: 21300130
-      2022_foodcube_skin_Hotdog_SpawnMirror0012: 21300112
-      2022_foodcube_skin_Hotdog_SpawnMirror0047: 21300078
-      2022_foodcube_skin_Hotdog_SpawnMirror0009: 21300066
-      2022_foodcube_skin_Hotdog_VententerMirror0009: 21300030
-      2022_foodcube_skin_Hotdog_SpawnMirror0010: 21300110
-      2022_foodcube_skin_Hotdog_WalkMirror0001: 21300016
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

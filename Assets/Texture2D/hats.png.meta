@@ -1,144 +1,53 @@
 fileFormatVersion: 2
 guid: 42f297a00ec3f914ab7f6859ae72a7a8
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: vis_holi2021_NutcrackerStache0001
-  - first:
-      213: 21300002
-    second: hat_holi2021_pomBeanie0001
-  - first:
-      213: 21300004
-    second: vis_holi2021_CarrotNose0002
-  - first:
-      213: 21300006
-    second: hat_holi2021_nutcracker0004
-  - first:
-      213: 21300008
-    second: hat_holi2021_holly0001
-  - first:
-      213: 21300010
-    second: hat_holi2021_nutcracker0003
-  - first:
-      213: 21300012
-    second: hat_holi2021_krampus0002
-  - first:
-      213: 21300014
-    second: hat_holi2021_holly0002
-  - first:
-      213: 21300016
-    second: hat_holi2021_frostyTophat0001
-  - first:
-      213: 21300018
-    second: hat_holi2021_pinecone0002
-  - first:
-      213: 21300020
-    second: hat_holi2021_pomBeanie0002
-  - first:
-      213: 21300022
-    second: hat_holi2021_logBirch0002
-  - first:
-      213: 21300024
-    second: hat_holi2021_logBirch0003
-  - first:
-      213: 21300026
-    second: vis_holi2021_SantaBeard0001
-  - first:
-      213: 21300028
-    second: hat_holi2021_snowflakeBand0002
-  - first:
-      213: 21300030
-    second: hat_holi2021_mistletoe0002
-  - first:
-      213: 21300032
-    second: hat_holi2021_mittens0004
-  - first:
-      213: 21300034
-    second: hat_holi2021_nutcracker0002
-  - first:
-      213: 21300036
-    second: hat_holi2021_pinecone0003
-  - first:
-      213: 21300038
-    second: hat_holi2021_holly0003
-  - first:
-      213: 21300040
-    second: vis_holi2021_CarrotNose0001
-  - first:
-      213: 21300042
-    second: hat_holi2021_krampus0004
-  - first:
-      213: 21300044
-    second: vis_holi2021_NutcrackerStache0003
-  - first:
-      213: 21300046
-    second: hat_holi2021_gingerbreadCrew0001
-  - first:
-      213: 21300048
-    second: hat_holi2021_snowflakeBand0001
-  - first:
-      213: 21300050
-    second: hat_holi2021_logBirch0001
-  - first:
-      213: 21300052
-    second: vis_holi2021_CarrotNose0003
-  - first:
-      213: 21300054
-    second: hat_holi2021_krampus0003
-  - first:
-      213: 21300056
-    second: hat_holi2021_snowflakeBand0003
-  - first:
-      213: 21300058
-    second: hat_holi2021_mittens0003
-  - first:
-      213: 21300060
-    second: hat_holi2021_krampus0001
-  - first:
-      213: 21300062
-    second: hat_holi2021_mittens0001
-  - first:
-      213: 21300064
-    second: hat_holi2021_frostyTophat0002
-  - first:
-      213: 21300066
-    second: hat_holi2021_mistletoe0004
-  - first:
-      213: 21300068
-    second: hat_holi2021_gingerbreadCrew0002
-  - first:
-      213: 21300070
-    second: vis_holi2021_NutcrackerStache0002
-  - first:
-      213: 21300072
-    second: hat_holi2021_mittens0002
-  - first:
-      213: 21300074
-    second: hat_holi2021_gingerbreadCrew0003
-  - first:
-      213: 21300076
-    second: hat_holi2021_frostyTophat0003
-  - first:
-      213: 21300078
-    second: hat_holi2021_nutcracker0001
-  - first:
-      213: 21300080
-    second: vis_holi2021_SantaBeard0002
-  - first:
-      213: 21300082
-    second: hat_holi2021_mistletoe0003
-  - first:
-      213: 21300084
-    second: hat_holi2021_pomBeanie0003
-  - first:
-      213: 21300086
-    second: hat_holi2021_pinecone0001
-  - first:
-      213: 21300088
-    second: hat_holi2021_mistletoe0001
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: vis_holi2021_NutcrackerStache0001
+    21300002: hat_holi2021_pomBeanie0001
+    21300004: vis_holi2021_CarrotNose0002
+    21300006: hat_holi2021_nutcracker0004
+    21300008: hat_holi2021_holly0001
+    21300010: hat_holi2021_nutcracker0003
+    21300012: hat_holi2021_krampus0002
+    21300014: hat_holi2021_holly0002
+    21300016: hat_holi2021_frostyTophat0001
+    21300018: hat_holi2021_pinecone0002
+    21300020: hat_holi2021_pomBeanie0002
+    21300022: hat_holi2021_logBirch0002
+    21300024: hat_holi2021_logBirch0003
+    21300026: vis_holi2021_SantaBeard0001
+    21300028: hat_holi2021_snowflakeBand0002
+    21300030: hat_holi2021_mistletoe0002
+    21300032: hat_holi2021_mittens0004
+    21300034: hat_holi2021_nutcracker0002
+    21300036: hat_holi2021_pinecone0003
+    21300038: hat_holi2021_holly0003
+    21300040: vis_holi2021_CarrotNose0001
+    21300042: hat_holi2021_krampus0004
+    21300044: vis_holi2021_NutcrackerStache0003
+    21300046: hat_holi2021_gingerbreadCrew0001
+    21300048: hat_holi2021_snowflakeBand0001
+    21300050: hat_holi2021_logBirch0001
+    21300052: vis_holi2021_CarrotNose0003
+    21300054: hat_holi2021_krampus0003
+    21300056: hat_holi2021_snowflakeBand0003
+    21300058: hat_holi2021_mittens0003
+    21300060: hat_holi2021_krampus0001
+    21300062: hat_holi2021_mittens0001
+    21300064: hat_holi2021_frostyTophat0002
+    21300066: hat_holi2021_mistletoe0004
+    21300068: hat_holi2021_gingerbreadCrew0002
+    21300070: vis_holi2021_NutcrackerStache0002
+    21300072: hat_holi2021_mittens0002
+    21300074: hat_holi2021_gingerbreadCrew0003
+    21300076: hat_holi2021_frostyTophat0003
+    21300078: hat_holi2021_nutcracker0001
+    21300080: vis_holi2021_SantaBeard0002
+    21300082: hat_holi2021_mistletoe0003
+    21300084: hat_holi2021_pomBeanie0003
+    21300086: hat_holi2021_pinecone0001
+    21300088: hat_holi2021_mistletoe0001
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -146,8 +55,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -155,12 +62,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -168,13 +70,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -183,97 +82,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -294,15 +161,7 @@ TextureImporter:
         - {x: 38.013374, y: -9.5}
         - {x: -6.9866276, y: -16.499996}
         - {x: -46.986626, y: -2.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_pomBeanie0001
       rect:
@@ -324,15 +183,7 @@ TextureImporter:
         - {x: -43.5, y: -60}
         - {x: -77.5, y: 8}
         - {x: -67.5, y: 49.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_CarrotNose0002
       rect:
@@ -351,15 +202,7 @@ TextureImporter:
         - {x: 5.550827, y: -0.522707}
         - {x: 12.550827, y: 7.477293}
         - {x: 60.550827, y: -16.522707}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_nutcracker0004
       rect:
@@ -377,15 +220,7 @@ TextureImporter:
         - {x: -13.013378, y: 37.53806}
         - {x: 28.986626, y: 23.53806}
         - {x: 28.986626, y: -3.4619408}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_holly0001
       rect:
@@ -407,15 +242,7 @@ TextureImporter:
         - {x: -14.493546, y: -53}
         - {x: -70.49354, y: -53}
         - {x: -70.49354, y: -15}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_nutcracker0003
       rect:
@@ -439,15 +266,7 @@ TextureImporter:
         - {x: -46.499996, y: -83}
         - {x: -103.5, y: -28.999998}
         - {x: -62.5, y: 30.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_krampus0002
       rect:
@@ -472,15 +291,7 @@ TextureImporter:
         - {x: 111.48186, y: 6.038063}
         - {x: 68.48185, y: -53.961937}
         - {x: -48.518143, y: -75.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_holly0002
       rect:
@@ -504,15 +315,7 @@ TextureImporter:
         - {x: -58.499992, y: -25.51336}
         - {x: -86.5, y: -4.513359}
         - {x: -28.5, y: 6.486637}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_frostyTophat0001
       rect:
@@ -534,15 +337,7 @@ TextureImporter:
         - {x: 60.999996, y: -39.5}
         - {x: -32.999996, y: -72.5}
         - {x: -78.99999, y: -56.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_pinecone0002
       rect:
@@ -562,15 +357,7 @@ TextureImporter:
         - {x: 0.48005295, y: 40.5}
         - {x: 63.480053, y: 9.5}
         - {x: 39.480053, y: -40.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_pomBeanie0002
       rect:
@@ -592,15 +379,7 @@ TextureImporter:
         - {x: 57.53806, y: -46.038113}
         - {x: 5.538063, y: -65.03811}
         - {x: -64.46194, y: -54.038113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_logBirch0002
       rect:
@@ -622,15 +401,7 @@ TextureImporter:
         - {x: 11.5, y: -22}
         - {x: 26.5, y: 12.999996}
         - {x: 72.5, y: 51.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_logBirch0003
       rect:
@@ -651,15 +422,7 @@ TextureImporter:
         - {x: 70.486626, y: 27.999992}
         - {x: 83.486626, y: -14}
         - {x: 67.48662, y: -49}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_SantaBeard0001
       rect:
@@ -677,15 +440,7 @@ TextureImporter:
         - {x: -59.02469, y: 12.487614}
         - {x: -50.02469, y: 46.487614}
         - {x: 53.97531, y: 44.487614}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_snowflakeBand0002
       rect:
@@ -702,15 +457,7 @@ TextureImporter:
         - {x: 54.986626, y: -4.486624}
         - {x: -39.013374, y: -29.486624}
         - {x: -77.01337, y: 33.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mistletoe0002
       rect:
@@ -735,15 +482,7 @@ TextureImporter:
         - {x: -11.474342, y: -50}
         - {x: -36.474342, y: -32}
         - {x: -102.47434, y: -26}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mittens0004
       rect:
@@ -761,15 +500,7 @@ TextureImporter:
         - {x: -24.5, y: 53}
         - {x: 9.5, y: 51}
         - {x: 56.5, y: -44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_nutcracker0002
       rect:
@@ -791,15 +522,7 @@ TextureImporter:
         - {x: 81.52469, y: -56.461937}
         - {x: -89.47531, y: -74.46194}
         - {x: -90.47531, y: -18.46194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_pinecone0003
       rect:
@@ -818,15 +541,7 @@ TextureImporter:
         - {x: -54, y: 4.9619446}
         - {x: -7, y: 51.961937}
         - {x: 39, y: 51.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_holly0003
       rect:
@@ -848,15 +563,7 @@ TextureImporter:
         - {x: -5.531603, y: -36}
         - {x: -80.5316, y: -37}
         - {x: -60.5316, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_CarrotNose0001
       rect:
@@ -873,15 +580,7 @@ TextureImporter:
         - {x: -42.005447, y: -6.5133533}
         - {x: -36.005447, y: 20.486647}
         - {x: 40.994545, y: -5.5133533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_krampus0004
       rect:
@@ -902,15 +601,7 @@ TextureImporter:
         - {x: 9.961937, y: -74.5}
         - {x: -20.038063, y: -82.5}
         - {x: -46.038063, y: -56.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_NutcrackerStache0003
       rect:
@@ -929,15 +620,7 @@ TextureImporter:
         - {x: 64.598854, y: -17.5}
         - {x: 24.598854, y: -12.500004}
         - {x: -64.40114, y: -18.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_gingerbreadCrew0001
       rect:
@@ -956,15 +639,7 @@ TextureImporter:
         - {x: -55.986626, y: -9.013359}
         - {x: -41.98662, y: 30.986633}
         - {x: 7.0133743, y: 63.98664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_snowflakeBand0001
       rect:
@@ -986,15 +661,7 @@ TextureImporter:
         - {x: -0.0000009536743, y: -31.486626}
         - {x: -42, y: -59.486626}
         - {x: -84, y: -17.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_logBirch0001
       rect:
@@ -1016,15 +683,7 @@ TextureImporter:
         - {x: -75.538055, y: -52}
         - {x: -86.538055, y: -7}
         - {x: -77.53805, y: 40}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_CarrotNose0003
       rect:
@@ -1041,15 +700,7 @@ TextureImporter:
         - {x: 0.48662376, y: -49.013363}
         - {x: -29.513376, y: -18.01336}
         - {x: -4.513376, y: 37.98664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_krampus0003
       rect:
@@ -1076,15 +727,7 @@ TextureImporter:
         - {x: -90.63406, y: -19}
         - {x: -114.634056, y: -72}
         - {x: -106.63406, y: 7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_snowflakeBand0003
       rect:
@@ -1103,15 +746,7 @@ TextureImporter:
         - {x: 93.5, y: 10.5}
         - {x: 48.5, y: -19.5}
         - {x: -7.499999, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mittens0003
       rect:
@@ -1135,15 +770,7 @@ TextureImporter:
         - {x: -107.48662, y: -29.500002}
         - {x: -78.48662, y: 1.5}
         - {x: -76.48661, y: 55.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_krampus0001
       rect:
@@ -1165,15 +792,7 @@ TextureImporter:
         - {x: 39.461937, y: 74.49999}
         - {x: 92.46193, y: 26.5}
         - {x: 80.46194, y: -14.500001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mittens0001
       rect:
@@ -1193,15 +812,7 @@ TextureImporter:
         - {x: -36, y: -62}
         - {x: -51.999992, y: -43}
         - {x: -22, y: 10}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_frostyTophat0002
       rect:
@@ -1223,15 +834,7 @@ TextureImporter:
         - {x: 106.03806, y: -5.000002}
         - {x: 87.03806, y: -46}
         - {x: 37.038063, y: -69}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mistletoe0004
       rect:
@@ -1254,15 +857,7 @@ TextureImporter:
         - {x: -48.024677, y: -75.5}
         - {x: -66.02467, y: -17.500004}
         - {x: -47.024677, y: 42.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_gingerbreadCrew0002
       rect:
@@ -1281,15 +876,7 @@ TextureImporter:
         - {x: 48.999996, y: -27.46194}
         - {x: -7, y: -52.461937}
         - {x: -52.999996, y: -40.46194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_NutcrackerStache0002
       rect:
@@ -1308,15 +895,7 @@ TextureImporter:
         - {x: 11.993076, y: 24.99995}
         - {x: 5.9930754, y: -2.0000515}
         - {x: 43.993073, y: -7.0000505}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mittens0002
       rect:
@@ -1339,15 +918,7 @@ TextureImporter:
         - {x: 53, y: -52.5}
         - {x: -37, y: -42.5}
         - {x: -52, y: -19.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_gingerbreadCrew0003
       rect:
@@ -1366,15 +937,7 @@ TextureImporter:
         - {x: 56.038055, y: 19}
         - {x: 62.038055, y: -10.000004}
         - {x: 39.03806, y: -35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_frostyTophat0003
       rect:
@@ -1394,15 +957,7 @@ TextureImporter:
         - {x: 75, y: -9.000002}
         - {x: 34, y: -54}
         - {x: -46, y: -54}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_nutcracker0001
       rect:
@@ -1425,15 +980,7 @@ TextureImporter:
         - {x: -54.5, y: -72}
         - {x: -82.5, y: -34}
         - {x: -48.5, y: -17.000002}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_holi2021_SantaBeard0002
       rect:
@@ -1452,15 +999,7 @@ TextureImporter:
         - {x: 49.02468, y: -33}
         - {x: -15.975315, y: -33}
         - {x: -61.975315, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mistletoe0003
       rect:
@@ -1485,15 +1024,7 @@ TextureImporter:
         - {x: -31, y: -34.5}
         - {x: -24.999998, y: -15.5}
         - {x: -71, y: 31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_pomBeanie0003
       rect:
@@ -1514,15 +1045,7 @@ TextureImporter:
         - {x: 74.461945, y: -35.5}
         - {x: 5.4619446, y: -57.5}
         - {x: -55.538055, y: -41.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_pinecone0001
       rect:
@@ -1542,15 +1065,7 @@ TextureImporter:
         - {x: -29.500004, y: 55.508057}
         - {x: 24.499996, y: 51.508057}
         - {x: 57.499996, y: -14.491936}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_holi2021_mistletoe0001
       rect:
@@ -1573,73 +1088,9 @@ TextureImporter:
         - {x: 69.461945, y: -51.5}
         - {x: -19.538055, y: -52.5}
         - {x: -87.538055, y: -75.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      hat_holi2021_krampus0002: 21300012
-      vis_holi2021_NutcrackerStache0001: 21300000
-      hat_holi2021_holly0003: 21300038
-      hat_holi2021_pinecone0001: 21300086
-      vis_holi2021_NutcrackerStache0002: 21300070
-      vis_holi2021_SantaBeard0001: 21300026
-      hat_holi2021_krampus0001: 21300060
-      vis_holi2021_CarrotNose0002: 21300004
-      hat_holi2021_mittens0001: 21300062
-      hat_holi2021_pomBeanie0003: 21300084
-      hat_holi2021_mittens0002: 21300072
-      hat_holi2021_nutcracker0004: 21300006
-      hat_holi2021_pomBeanie0001: 21300002
-      hat_holi2021_pomBeanie0002: 21300020
-      hat_holi2021_frostyTophat0003: 21300076
-      hat_holi2021_snowflakeBand0001: 21300048
-      hat_holi2021_nutcracker0002: 21300034
-      hat_holi2021_nutcracker0001: 21300078
-      hat_holi2021_mistletoe0002: 21300030
-      hat_holi2021_gingerbreadCrew0001: 21300046
-      hat_holi2021_holly0002: 21300014
-      hat_holi2021_logBirch0002: 21300022
-      hat_holi2021_frostyTophat0002: 21300064
-      hat_holi2021_mistletoe0001: 21300088
-      hat_holi2021_gingerbreadCrew0003: 21300074
-      hat_holi2021_mittens0003: 21300058
-      hat_holi2021_logBirch0001: 21300050
-      hat_holi2021_pinecone0003: 21300036
-      hat_holi2021_snowflakeBand0003: 21300056
-      hat_holi2021_logBirch0003: 21300024
-      hat_holi2021_frostyTophat0001: 21300016
-      vis_holi2021_SantaBeard0002: 21300080
-      vis_holi2021_CarrotNose0003: 21300052
-      vis_holi2021_NutcrackerStache0003: 21300044
-      hat_holi2021_krampus0004: 21300042
-      hat_holi2021_krampus0003: 21300054
-      hat_holi2021_mittens0004: 21300032
-      hat_holi2021_snowflakeBand0002: 21300028
-      vis_holi2021_CarrotNose0001: 21300040
-      hat_holi2021_mistletoe0003: 21300082
-      hat_holi2021_nutcracker0003: 21300010
-      hat_holi2021_holly0001: 21300008
-      hat_holi2021_pinecone0002: 21300018
-      hat_holi2021_gingerbreadCrew0002: 21300068
-      hat_holi2021_mistletoe0004: 21300066
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

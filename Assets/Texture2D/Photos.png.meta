@@ -1,108 +1,41 @@
 fileFormatVersion: 2
 guid: d80270697a253ac42af55b08be0a4b67
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: photos_image0014
-  - first:
-      213: 21300002
-    second: photos_watergraphics0004
-  - first:
-      213: 21300004
-    second: photos_watergraphics0005
-  - first:
-      213: 21300006
-    second: photos_image0008
-  - first:
-      213: 21300008
-    second: photos_bucket
-  - first:
-      213: 21300010
-    second: photos_image0017
-  - first:
-      213: 21300012
-    second: photos_image0006
-  - first:
-      213: 21300014
-    second: photos_bucketfront
-  - first:
-      213: 21300016
-    second: photos_watergraphics0008
-  - first:
-      213: 21300018
-    second: photos_image0010
-  - first:
-      213: 21300020
-    second: photos_image0013
-  - first:
-      213: 21300022
-    second: photos_image0007
-  - first:
-      213: 21300024
-    second: photos_watergraphics0012
-  - first:
-      213: 21300026
-    second: photos_image0005
-  - first:
-      213: 21300028
-    second: photos_image0016
-  - first:
-      213: 21300030
-    second: photos_image0012
-  - first:
-      213: 21300032
-    second: photos_image0002
-  - first:
-      213: 21300034
-    second: photos_image0015
-  - first:
-      213: 21300036
-    second: photos_polaroid
-  - first:
-      213: 21300038
-    second: photos_image0018
-  - first:
-      213: 21300040
-    second: photos_image0009
-  - first:
-      213: 21300042
-    second: photos_image0011
-  - first:
-      213: 21300044
-    second: photos_image0003
-  - first:
-      213: 21300046
-    second: photos_image0004
-  - first:
-      213: 21300048
-    second: photos_watergraphics0003
-  - first:
-      213: 21300050
-    second: photos_watergraphics0001
-  - first:
-      213: 21300052
-    second: photos_watergraphics0002
-  - first:
-      213: 21300054
-    second: photos_watergraphics0010
-  - first:
-      213: 21300056
-    second: photos_watergraphics0009
-  - first:
-      213: 21300058
-    second: photos_watergraphics0006
-  - first:
-      213: 21300060
-    second: photos_image0019
-  - first:
-      213: 21300062
-    second: photos_watergraphics0007
-  - first:
-      213: 21300064
-    second: photos_watergraphics0011
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: photos_image0014
+    21300002: photos_watergraphics0004
+    21300004: photos_watergraphics0005
+    21300006: photos_image0008
+    21300008: photos_bucket
+    21300010: photos_image0017
+    21300012: photos_image0006
+    21300014: photos_bucketfront
+    21300016: photos_watergraphics0008
+    21300018: photos_image0010
+    21300020: photos_image0013
+    21300022: photos_image0007
+    21300024: photos_watergraphics0012
+    21300026: photos_image0005
+    21300028: photos_image0016
+    21300030: photos_image0012
+    21300032: photos_image0002
+    21300034: photos_image0015
+    21300036: photos_polaroid
+    21300038: photos_image0018
+    21300040: photos_image0009
+    21300042: photos_image0011
+    21300044: photos_image0003
+    21300046: photos_image0004
+    21300048: photos_watergraphics0003
+    21300050: photos_watergraphics0001
+    21300052: photos_watergraphics0002
+    21300054: photos_watergraphics0010
+    21300056: photos_watergraphics0009
+    21300058: photos_watergraphics0006
+    21300060: photos_image0019
+    21300062: photos_watergraphics0007
+    21300064: photos_watergraphics0011
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -110,8 +43,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -119,12 +50,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -132,13 +58,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -147,97 +70,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -257,15 +148,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0004
       rect:
@@ -303,15 +186,7 @@ TextureImporter:
         - {x: -160, y: 104.99999}
         - {x: -146, y: 104.99999}
         - {x: -146, y: 87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0005
       rect:
@@ -349,15 +224,7 @@ TextureImporter:
         - {x: -160, y: 104.99999}
         - {x: -146, y: 104.99999}
         - {x: -146, y: 87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0008
       rect:
@@ -374,15 +241,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_bucket
       rect:
@@ -401,15 +260,7 @@ TextureImporter:
         - {x: 187, y: -168}
         - {x: 158, y: -196.99998}
         - {x: -155, y: -196.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0017
       rect:
@@ -426,15 +277,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0006
       rect:
@@ -451,15 +294,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_bucketfront
       rect:
@@ -482,15 +317,7 @@ TextureImporter:
         - {x: 163, y: -45.5}
         - {x: -155, y: -45.5}
         - {x: -187, y: -13.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0008
       rect:
@@ -527,15 +354,7 @@ TextureImporter:
         - {x: -146.52567, y: 103.5}
         - {x: -157.52567, y: 88.5}
         - {x: -163.52567, y: 96.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0010
       rect:
@@ -552,15 +371,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0013
       rect:
@@ -577,15 +388,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0007
       rect:
@@ -602,15 +405,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0012
       rect:
@@ -650,15 +445,7 @@ TextureImporter:
       - - {x: -143.5, y: 105.52566}
         - {x: -158.5, y: 90.52566}
         - {x: -159.5, y: 100.52565}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0005
       rect:
@@ -675,15 +462,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0016
       rect:
@@ -700,15 +479,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0012
       rect:
@@ -725,15 +496,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0002
       rect:
@@ -750,15 +513,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0015
       rect:
@@ -775,15 +530,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_polaroid
       rect:
@@ -800,15 +547,7 @@ TextureImporter:
         - {x: -63, y: 75}
         - {x: 63, y: 75}
         - {x: 63, y: -75}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0018
       rect:
@@ -825,15 +564,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0009
       rect:
@@ -850,15 +581,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0011
       rect:
@@ -875,15 +598,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0003
       rect:
@@ -900,15 +615,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0004
       rect:
@@ -925,15 +632,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0003
       rect:
@@ -969,15 +668,7 @@ TextureImporter:
         - {x: -161.5, y: 104.99999}
         - {x: -145.5, y: 104.99999}
         - {x: -145.5, y: 85.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0001
       rect:
@@ -1013,15 +704,7 @@ TextureImporter:
         - {x: -161.5, y: 104.99999}
         - {x: -145.5, y: 104.99999}
         - {x: -145.5, y: 85.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0002
       rect:
@@ -1057,15 +740,7 @@ TextureImporter:
         - {x: -161.5, y: 104.99999}
         - {x: -145.5, y: 104.99999}
         - {x: -145.5, y: 85.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0010
       rect:
@@ -1105,15 +780,7 @@ TextureImporter:
       - - {x: -143.5, y: 105.52566}
         - {x: -158.5, y: 90.52566}
         - {x: -159.5, y: 100.52565}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0009
       rect:
@@ -1150,15 +817,7 @@ TextureImporter:
         - {x: -146.52567, y: 103.5}
         - {x: -157.52567, y: 88.5}
         - {x: -163.52567, y: 96.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0006
       rect:
@@ -1196,15 +855,7 @@ TextureImporter:
         - {x: -160, y: 104.99999}
         - {x: -146, y: 104.99999}
         - {x: -146, y: 87}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_image0019
       rect:
@@ -1221,15 +872,7 @@ TextureImporter:
         - {x: -51.5, y: 51.5}
         - {x: 51.5, y: 51.5}
         - {x: 51.5, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0007
       rect:
@@ -1266,15 +909,7 @@ TextureImporter:
         - {x: -146.52567, y: 103.5}
         - {x: -157.52567, y: 88.5}
         - {x: -163.52567, y: 96.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: photos_watergraphics0011
       rect:
@@ -1314,61 +949,9 @@ TextureImporter:
       - - {x: -143.5, y: 105.52566}
         - {x: -158.5, y: 90.52566}
         - {x: -159.5, y: 100.52565}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      photos_image0011: 21300042
-      photos_watergraphics0002: 21300052
-      photos_polaroid: 21300036
-      photos_image0013: 21300020
-      photos_image0009: 21300040
-      photos_bucketfront: 21300014
-      photos_image0017: 21300010
-      photos_image0018: 21300038
-      photos_watergraphics0005: 21300004
-      photos_bucket: 21300008
-      photos_image0003: 21300044
-      photos_image0019: 21300060
-      photos_watergraphics0007: 21300062
-      photos_image0004: 21300046
-      photos_image0005: 21300026
-      photos_watergraphics0008: 21300016
-      photos_watergraphics0009: 21300056
-      photos_image0010: 21300018
-      photos_image0008: 21300006
-      photos_watergraphics0001: 21300050
-      photos_image0016: 21300028
-      photos_image0012: 21300030
-      photos_image0006: 21300012
-      photos_watergraphics0006: 21300058
-      photos_watergraphics0010: 21300054
-      photos_image0014: 21300000
-      photos_watergraphics0012: 21300024
-      photos_watergraphics0011: 21300064
-      photos_image0015: 21300034
-      photos_watergraphics0003: 21300048
-      photos_watergraphics0004: 21300002
-      photos_image0007: 21300022
-      photos_image0002: 21300032
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

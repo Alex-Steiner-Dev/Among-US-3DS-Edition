@@ -1,108 +1,41 @@
 fileFormatVersion: 2
 guid: 8036e02aa826516478366c8fe9e65b4d
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: vis_pack01_Hockeymask0002
-  - first:
-      213: 21300002
-    second: vis_pack01_Hazmask0002
-  - first:
-      213: 21300004
-    second: vis_pack01_Angery0002
-  - first:
-      213: 21300006
-    second: vis_pack01_Geoffmask0001
-  - first:
-      213: 21300008
-    second: vis_pack01_Stickynote0004
-  - first:
-      213: 21300010
-    second: vis_pack01_SecGlasses0002
-  - first:
-      213: 21300012
-    second: vis_pack01_Monocles0001
-  - first:
-      213: 21300014
-    second: vis_pack01_Angery0003
-  - first:
-      213: 21300016
-    second: vis_pack01_Facemask0001
-  - first:
-      213: 21300018
-    second: vis_pack01_Stickynote0002
-  - first:
-      213: 21300020
-    second: vis_vr_Vr-Black0002
-  - first:
-      213: 21300022
-    second: vis_pack01_SecGlasses0001
-  - first:
-      213: 21300024
-    second: vis_pack01_Hockeymask0001
-  - first:
-      213: 21300026
-    second: vis_pack01_Stickynote0001
-  - first:
-      213: 21300028
-    second: vis_pack01_Facemask0003
-  - first:
-      213: 21300030
-    second: vis_vr_Vr-White0003
-  - first:
-      213: 21300032
-    second: vis_vr_Vr-Black0003
-  - first:
-      213: 21300034
-    second: vis_pack01_Plaguedoc0003
-  - first:
-      213: 21300036
-    second: vis_pack01_Plaguedoc0002
-  - first:
-      213: 21300038
-    second: vis_pack01_RHM0001
-  - first:
-      213: 21300040
-    second: vis_vr_Vr-White0001
-  - first:
-      213: 21300042
-    second: vis_pack01_Monocles0002
-  - first:
-      213: 21300044
-    second: vis_pack01_Geoffmask0003
-  - first:
-      213: 21300046
-    second: vis_pack01_Hazmask0001
-  - first:
-      213: 21300048
-    second: vis_pack01_Hazmask0003
-  - first:
-      213: 21300050
-    second: vis_vr_Vr-Black0001
-  - first:
-      213: 21300052
-    second: vis_pack01_Plaguedoc0001
-  - first:
-      213: 21300054
-    second: vis_pack01_Geoffmask0002
-  - first:
-      213: 21300056
-    second: vis_pack01_Facemask0002
-  - first:
-      213: 21300058
-    second: vis_pack01_RHM0002
-  - first:
-      213: 21300060
-    second: vis_pack01_Angery0001
-  - first:
-      213: 21300062
-    second: vis_pack01_Hockeymask0003
-  - first:
-      213: 21300064
-    second: vis_vr_Vr-White0002
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: vis_pack01_Hockeymask0002
+    21300002: vis_pack01_Hazmask0002
+    21300004: vis_pack01_Angery0002
+    21300006: vis_pack01_Geoffmask0001
+    21300008: vis_pack01_Stickynote0004
+    21300010: vis_pack01_SecGlasses0002
+    21300012: vis_pack01_Monocles0001
+    21300014: vis_pack01_Angery0003
+    21300016: vis_pack01_Facemask0001
+    21300018: vis_pack01_Stickynote0002
+    21300020: vis_vr_Vr-Black0002
+    21300022: vis_pack01_SecGlasses0001
+    21300024: vis_pack01_Hockeymask0001
+    21300026: vis_pack01_Stickynote0001
+    21300028: vis_pack01_Facemask0003
+    21300030: vis_vr_Vr-White0003
+    21300032: vis_vr_Vr-Black0003
+    21300034: vis_pack01_Plaguedoc0003
+    21300036: vis_pack01_Plaguedoc0002
+    21300038: vis_pack01_RHM0001
+    21300040: vis_vr_Vr-White0001
+    21300042: vis_pack01_Monocles0002
+    21300044: vis_pack01_Geoffmask0003
+    21300046: vis_pack01_Hazmask0001
+    21300048: vis_pack01_Hazmask0003
+    21300050: vis_vr_Vr-Black0001
+    21300052: vis_pack01_Plaguedoc0001
+    21300054: vis_pack01_Geoffmask0002
+    21300056: vis_pack01_Facemask0002
+    21300058: vis_pack01_RHM0002
+    21300060: vis_pack01_Angery0001
+    21300062: vis_pack01_Hockeymask0003
+    21300064: vis_vr_Vr-White0002
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -110,8 +43,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -119,12 +50,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -132,13 +58,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -147,97 +70,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,15 +150,7 @@ TextureImporter:
         - {x: 56.5, y: 36.500008}
         - {x: 56.5, y: -13.499992}
         - {x: 16.5, y: -53.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Hazmask0002
       rect:
@@ -286,15 +169,7 @@ TextureImporter:
         - {x: -32.99012, y: -64.000015}
         - {x: -62.99012, y: -31.000015}
         - {x: -63.99012, y: 10.999983}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Angery0002
       rect:
@@ -311,15 +186,7 @@ TextureImporter:
         - {x: -43.5, y: 10.5}
         - {x: 43.5, y: 10.5}
         - {x: 43.5, y: -10.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Geoffmask0001
       rect:
@@ -342,15 +209,7 @@ TextureImporter:
         - {x: -87.999985, y: -9.499985}
         - {x: -65.999985, y: 12.500015}
         - {x: -43.999985, y: 1.5000148}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Stickynote0004
       rect:
@@ -368,15 +227,7 @@ TextureImporter:
         - {x: 14.475307, y: 34.024685}
         - {x: 58.47531, y: -9.975315}
         - {x: -18.524689, y: -35.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_SecGlasses0002
       rect:
@@ -396,15 +247,7 @@ TextureImporter:
         - {x: 19.48661, y: 29.513374}
         - {x: 54.486607, y: 12.513376}
         - {x: 54.486607, y: -27.486622}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Monocles0001
       rect:
@@ -423,15 +266,7 @@ TextureImporter:
         - {x: 43.96195, y: 39.487606}
         - {x: 43.96195, y: -47.512394}
         - {x: 13.961945, y: -9.512394}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Angery0003
       rect:
@@ -450,15 +285,7 @@ TextureImporter:
         - {x: 59.510464, y: 26.475327}
         - {x: 46.510464, y: -5.5246735}
         - {x: -2.4895363, y: -23.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Facemask0001
       rect:
@@ -477,15 +304,7 @@ TextureImporter:
         - {x: -28.513378, y: 14.03806}
         - {x: 67.48662, y: 11.038059}
         - {x: 67.48662, y: -34.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Stickynote0002
       rect:
@@ -502,15 +321,7 @@ TextureImporter:
         - {x: -30.5, y: 22}
         - {x: 30.499996, y: 22}
         - {x: 30.499996, y: -22}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_vr_Vr-Black0002
       rect:
@@ -530,15 +341,7 @@ TextureImporter:
         - {x: 65.02469, y: -40.499992}
         - {x: 5.024688, y: -46.499992}
         - {x: -89.9753, y: -26.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_SecGlasses0001
       rect:
@@ -557,15 +360,7 @@ TextureImporter:
         - {x: -14.475311, y: -21.49998}
         - {x: -26.475311, y: -1.49998}
         - {x: -72.47531, y: -1.49998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Hockeymask0001
       rect:
@@ -585,15 +380,7 @@ TextureImporter:
         - {x: 72.00001, y: 8.000004}
         - {x: 52.000008, y: -49.999996}
         - {x: 12.000008, y: -59.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Stickynote0001
       rect:
@@ -611,15 +398,7 @@ TextureImporter:
         - {x: 14.475311, y: 34.024685}
         - {x: 58.475315, y: -9.975315}
         - {x: -18.524685, y: -35.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Facemask0003
       rect:
@@ -641,15 +420,7 @@ TextureImporter:
         - {x: 46.987583, y: 29.499996}
         - {x: 59.987583, y: -4.500004}
         - {x: 39.987587, y: -24.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_vr_Vr-White0003
       rect:
@@ -668,15 +439,7 @@ TextureImporter:
         - {x: -58.5, y: 24.53806}
         - {x: -37.5, y: 53.53805}
         - {x: 37.5, y: 50.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_vr_Vr-Black0003
       rect:
@@ -695,15 +458,7 @@ TextureImporter:
         - {x: -58.500015, y: 24.53806}
         - {x: -37.500015, y: 53.53805}
         - {x: 37.499985, y: 50.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Plaguedoc0003
       rect:
@@ -723,15 +478,7 @@ TextureImporter:
         - {x: 54.486607, y: -58.475296}
         - {x: 22.48661, y: -35.475296}
         - {x: -51.51339, y: -52.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Plaguedoc0002
       rect:
@@ -751,15 +498,7 @@ TextureImporter:
         - {x: 63.46194, y: -18.999992}
         - {x: -9.538059, y: -40.99999}
         - {x: -51.538055, y: -25.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_RHM0001
       rect:
@@ -780,15 +519,7 @@ TextureImporter:
         - {x: -14.999992, y: -5.503311}
         - {x: -40.999992, y: -58.50331}
         - {x: -61.999992, y: -20.503304}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_vr_Vr-White0001
       rect:
@@ -809,15 +540,7 @@ TextureImporter:
         - {x: -9.475311, y: -51.499996}
         - {x: -54.47531, y: -35.499996}
         - {x: -91.4753, y: 1.5000038}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Monocles0002
       rect:
@@ -835,15 +558,7 @@ TextureImporter:
         - {x: -47.510998, y: 27.512268}
         - {x: 61.489, y: 10.512268}
         - {x: 45.489, y: -24.48773}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Geoffmask0003
       rect:
@@ -868,15 +583,7 @@ TextureImporter:
         - {x: 56.52469, y: 12.000008}
         - {x: 31.524689, y: 1.0000076}
         - {x: -4.4753113, y: 11.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Hazmask0001
       rect:
@@ -896,15 +603,7 @@ TextureImporter:
         - {x: 76.99914, y: -19.4753}
         - {x: 54.999138, y: -52.4753}
         - {x: -24.000862, y: -51.4753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Hazmask0003
       rect:
@@ -924,15 +623,7 @@ TextureImporter:
         - {x: 34.487717, y: -36.000008}
         - {x: -31.51228, y: -44.000008}
         - {x: -58.512276, y: -17.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_vr_Vr-Black0001
       rect:
@@ -953,15 +644,7 @@ TextureImporter:
         - {x: -9.475311, y: -51.499996}
         - {x: -54.47531, y: -35.499996}
         - {x: -91.4753, y: 1.5000038}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Plaguedoc0001
       rect:
@@ -980,15 +663,7 @@ TextureImporter:
         - {x: 61.999992, y: 8.975323}
         - {x: 69, y: -36.024677}
         - {x: -45, y: -52.024677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Geoffmask0002
       rect:
@@ -1007,15 +682,7 @@ TextureImporter:
         - {x: 65.475334, y: -27.461939}
         - {x: -48.524666, y: -27.461939}
         - {x: -81.524666, y: -2.4619389}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Facemask0002
       rect:
@@ -1034,15 +701,7 @@ TextureImporter:
         - {x: 69.52469, y: -27.499989}
         - {x: -36.47531, y: -27.499989}
         - {x: -68.4753, y: -12.499989}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_RHM0002
       rect:
@@ -1061,15 +720,7 @@ TextureImporter:
         - {x: 74.00001, y: -16.499989}
         - {x: -83.99999, y: -27.499985}
         - {x: -99.99999, y: -7.4999886}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Angery0001
       rect:
@@ -1088,15 +739,7 @@ TextureImporter:
         - {x: 32.4877, y: 21.499989}
         - {x: 45.4877, y: 8.499987}
         - {x: 9.487701, y: -35.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_pack01_Hockeymask0003
       rect:
@@ -1116,15 +759,7 @@ TextureImporter:
         - {x: 51.97531, y: -36.499992}
         - {x: 6.975315, y: -43.499992}
         - {x: -62.024685, y: -38.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_vr_Vr-White0002
       rect:
@@ -1144,61 +779,9 @@ TextureImporter:
         - {x: 72.02469, y: -37.9753}
         - {x: 17.024687, y: -49.9753}
         - {x: -90.97531, y: -28.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      vis_pack01_Stickynote0004: 21300008
-      vis_vr_Vr-White0001: 21300040
-      vis_pack01_Geoffmask0002: 21300054
-      vis_pack01_Hazmask0003: 21300048
-      vis_pack01_Angery0001: 21300060
-      vis_pack01_Angery0002: 21300004
-      vis_pack01_Stickynote0002: 21300018
-      vis_pack01_Stickynote0001: 21300026
-      vis_pack01_SecGlasses0002: 21300010
-      vis_pack01_Geoffmask0003: 21300044
-      vis_vr_Vr-White0003: 21300030
-      vis_pack01_Angery0003: 21300014
-      vis_pack01_Hockeymask0002: 21300000
-      vis_pack01_Hazmask0001: 21300046
-      vis_pack01_Hockeymask0001: 21300024
-      vis_pack01_RHM0001: 21300038
-      vis_pack01_Facemask0002: 21300056
-      vis_vr_Vr-White0002: 21300064
-      vis_pack01_Plaguedoc0003: 21300034
-      vis_pack01_Hazmask0002: 21300002
-      vis_pack01_Monocles0001: 21300012
-      vis_vr_Vr-Black0003: 21300032
-      vis_pack01_RHM0002: 21300058
-      vis_pack01_Geoffmask0001: 21300006
-      vis_pack01_Hockeymask0003: 21300062
-      vis_vr_Vr-Black0002: 21300020
-      vis_pack01_Facemask0003: 21300028
-      vis_pack01_Monocles0002: 21300042
-      vis_pack01_Plaguedoc0001: 21300052
-      vis_pack01_Plaguedoc0002: 21300036
-      vis_pack01_Facemask0001: 21300016
-      vis_pack01_SecGlasses0001: 21300022
-      vis_vr_Vr-Black0001: 21300050
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

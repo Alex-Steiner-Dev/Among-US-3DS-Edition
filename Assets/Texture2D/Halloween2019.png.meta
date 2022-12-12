@@ -1,60 +1,25 @@
 fileFormatVersion: 2
 guid: 52f1a12c50cb88544b111f3a46524993
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: pumpkin5
-  - first:
-      213: 21300002
-    second: candle
-  - first:
-      213: 21300004
-    second: web2
-  - first:
-      213: 21300006
-    second: bat1
-  - first:
-      213: 21300008
-    second: candyBowl
-  - first:
-      213: 21300010
-    second: ghostG
-  - first:
-      213: 21300012
-    second: slime_b1
-  - first:
-      213: 21300014
-    second: slime_g1
-  - first:
-      213: 21300016
-    second: bat2
-  - first:
-      213: 21300018
-    second: slime_g2
-  - first:
-      213: 21300020
-    second: ghostH
-  - first:
-      213: 21300022
-    second: web1
-  - first:
-      213: 21300024
-    second: slime_b2
-  - first:
-      213: 21300026
-    second: pumpkin2
-  - first:
-      213: 21300028
-    second: pumpkin3
-  - first:
-      213: 21300030
-    second: pumpkin4
-  - first:
-      213: 21300032
-    second: pumpkin1
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: pumpkin5
+    21300002: candle
+    21300004: web2
+    21300006: bat1
+    21300008: candyBowl
+    21300010: ghostG
+    21300012: slime_b1
+    21300014: slime_g1
+    21300016: bat2
+    21300018: slime_g2
+    21300020: ghostH
+    21300022: web1
+    21300024: slime_b2
+    21300026: pumpkin2
+    21300028: pumpkin3
+    21300030: pumpkin4
+    21300032: pumpkin1
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -62,8 +27,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -71,12 +34,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -84,13 +42,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -99,97 +54,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -209,15 +132,7 @@ TextureImporter:
         - {x: -32.5, y: 17.5}
         - {x: 32.5, y: 17.5}
         - {x: 32.5, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: candle
       rect:
@@ -235,15 +150,7 @@ TextureImporter:
         - {x: -25.491919, y: -46.98662}
         - {x: -26.491919, y: 35.01338}
         - {x: -1.4919186, y: 48.01338}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: web2
       rect:
@@ -262,15 +169,7 @@ TextureImporter:
         - {x: 31, y: -27.5}
         - {x: 3, y: -27.5}
         - {x: -25, y: -23.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bat1
       rect:
@@ -288,15 +187,7 @@ TextureImporter:
         - {x: 19, y: 9}
         - {x: 25, y: 6}
         - {x: 25, y: -9}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: candyBowl
       rect:
@@ -313,15 +204,7 @@ TextureImporter:
         - {x: -19.999998, y: 18}
         - {x: 19.999998, y: 18}
         - {x: 19.999998, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghostG
       rect:
@@ -339,15 +222,7 @@ TextureImporter:
         - {x: 10.5, y: 25}
         - {x: 26.499998, y: -8}
         - {x: 26.499998, y: -25}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: slime_b1
       rect:
@@ -366,15 +241,7 @@ TextureImporter:
         - {x: 50.5, y: -24.499998}
         - {x: -24.499998, y: -37.5}
         - {x: -34.5, y: -37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: slime_g1
       rect:
@@ -395,15 +262,7 @@ TextureImporter:
         - {x: -12.5, y: -25.5}
         - {x: -24.499998, y: -37.5}
         - {x: -34.5, y: -37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bat2
       rect:
@@ -420,15 +279,7 @@ TextureImporter:
         - {x: -18.5, y: 8.5}
         - {x: 18.5, y: 8.5}
         - {x: 18.5, y: -8.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: slime_g2
       rect:
@@ -451,15 +302,7 @@ TextureImporter:
         - {x: -36.499996, y: -35}
         - {x: -37.5, y: -34}
         - {x: -62.5, y: 7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ghostH
       rect:
@@ -477,15 +320,7 @@ TextureImporter:
         - {x: -9.5, y: 28.5}
         - {x: 19.5, y: -0.5}
         - {x: 19.5, y: -28.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: web1
       rect:
@@ -502,15 +337,7 @@ TextureImporter:
         - {x: -17.5, y: 17.5}
         - {x: 17.5, y: 17.5}
         - {x: 17.5, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: slime_b2
       rect:
@@ -532,15 +359,7 @@ TextureImporter:
         - {x: -12.5, y: -34}
         - {x: -32.5, y: -35}
         - {x: -62.5, y: 4.9999995}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pumpkin2
       rect:
@@ -557,15 +376,7 @@ TextureImporter:
         - {x: -17, y: 22.5}
         - {x: 17, y: 22.5}
         - {x: 17, y: -22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pumpkin3
       rect:
@@ -583,15 +394,7 @@ TextureImporter:
         - {x: 19.999998, y: -19}
         - {x: -19.999998, y: -19}
         - {x: -19.999998, y: 16}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pumpkin4
       rect:
@@ -608,15 +411,7 @@ TextureImporter:
         - {x: -24, y: 29.999998}
         - {x: 24, y: 29.999998}
         - {x: 24, y: -29.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pumpkin1
       rect:
@@ -637,45 +432,9 @@ TextureImporter:
         - {x: -14.5, y: -16.5}
         - {x: -14.5, y: 3.5}
         - {x: -4.5, y: 13.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      slime_g1: 21300014
-      pumpkin2: 21300026
-      ghostH: 21300020
-      pumpkin5: 21300000
-      bat2: 21300016
-      web2: 21300004
-      pumpkin4: 21300030
-      ghostG: 21300010
-      slime_b1: 21300012
-      pumpkin3: 21300028
-      web1: 21300022
-      pumpkin1: 21300032
-      slime_b2: 21300024
-      candle: 21300002
-      candyBowl: 21300008
-      bat1: 21300006
-      slime_g2: 21300018
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

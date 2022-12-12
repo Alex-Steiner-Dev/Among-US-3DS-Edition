@@ -1,90 +1,35 @@
 fileFormatVersion: 2
 guid: 62daf4317f86905448f0c9aebe12c316
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: ICON-LobbyInactive
-  - first:
-      213: 21300002
-    second: BUTTON-ShowCode
-  - first:
-      213: 21300004
-    second: ICON-FriendList
-  - first:
-      213: 21300006
-    second: ICON-OutsidePlatform
-  - first:
-      213: 21300008
-    second: ICON-Block
-  - first:
-      213: 21300010
-    second: BUTTON-TickTap
-  - first:
-      213: 21300012
-    second: ICON-Friend
-  - first:
-      213: 21300014
-    second: IMAGE-MenuTab
-  - first:
-      213: 21300016
-    second: UI_Phone_Glass
-  - first:
-      213: 21300018
-    second: ICON-RecentPlayers
-  - first:
-      213: 21300020
-    second: IMAGE-HeaderDivider
-  - first:
-      213: 21300022
-    second: ICON-BlockedPlayersInactive
-  - first:
-      213: 21300024
-    second: ICON-FriendListInactive
-  - first:
-      213: 21300026
-    second: BUTTON-HideCode
-  - first:
-      213: 21300028
-    second: ICON-BlockedPlayers
-  - first:
-      213: 21300030
-    second: BUTTON-RemoveFriendTap
-  - first:
-      213: 21300032
-    second: BUTTON-RejectInviteActive
-  - first:
-      213: 21300034
-    second: BUTTON-BlockPlayerTap
-  - first:
-      213: 21300036
-    second: BUTTON-InvFriendTap
-  - first:
-      213: 21300038
-    second: IMAGE-PlatformBubble
-  - first:
-      213: 21300040
-    second: ICON-Lobby
-  - first:
-      213: 21300042
-    second: IMAGE-Envelope
-  - first:
-      213: 21300044
-    second: BUTTON-AddFriendTap
-  - first:
-      213: 21300046
-    second: IMAGE-HeaderGradient
-  - first:
-      213: 21300048
-    second: ICON-RecentPlayersInactive
-  - first:
-      213: 21300050
-    second: BUTTON-ReportTap
-  - first:
-      213: 21300052
-    second: ICON-AddFriend
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: ICON-LobbyInactive
+    21300002: BUTTON-ShowCode
+    21300004: ICON-FriendList
+    21300006: ICON-OutsidePlatform
+    21300008: ICON-Block
+    21300010: BUTTON-TickTap
+    21300012: ICON-Friend
+    21300014: IMAGE-MenuTab
+    21300016: UI_Phone_Glass
+    21300018: ICON-RecentPlayers
+    21300020: IMAGE-HeaderDivider
+    21300022: ICON-BlockedPlayersInactive
+    21300024: ICON-FriendListInactive
+    21300026: BUTTON-HideCode
+    21300028: ICON-BlockedPlayers
+    21300030: BUTTON-RemoveFriendTap
+    21300032: BUTTON-RejectInviteActive
+    21300034: BUTTON-BlockPlayerTap
+    21300036: BUTTON-InvFriendTap
+    21300038: IMAGE-PlatformBubble
+    21300040: ICON-Lobby
+    21300042: IMAGE-Envelope
+    21300044: BUTTON-AddFriendTap
+    21300046: IMAGE-HeaderGradient
+    21300048: ICON-RecentPlayersInactive
+    21300050: BUTTON-ReportTap
+    21300052: ICON-AddFriend
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -92,8 +37,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -101,12 +44,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -114,13 +52,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -129,97 +64,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -247,15 +150,7 @@ TextureImporter:
         - {x: -100.01227, y: -41.02469}
         - {x: -125.01227, y: -54.024685}
         - {x: -146.01225, y: -13.024689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-ShowCode
       rect:
@@ -272,15 +167,7 @@ TextureImporter:
         - {x: -112, y: 112}
         - {x: 112, y: 112}
         - {x: 112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-FriendList
       rect:
@@ -306,15 +193,7 @@ TextureImporter:
         - {x: -125.5, y: -12}
         - {x: -75.5, y: 39.999996}
         - {x: 23.5, y: 104}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-OutsidePlatform
       rect:
@@ -338,15 +217,7 @@ TextureImporter:
         - {x: -17, y: 95}
         - {x: 26.999998, y: 95}
         - {x: 66, y: 76}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-Block
       rect:
@@ -366,15 +237,7 @@ TextureImporter:
         - {x: 46.5, y: -28}
         - {x: 15.5, y: -48.999996}
         - {x: -28.5, y: -48.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-TickTap
       rect:
@@ -392,15 +255,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-Friend
       rect:
@@ -419,15 +274,7 @@ TextureImporter:
         - {x: 44, y: -19.5}
         - {x: 6, y: -38.5}
         - {x: -26, y: -38.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMAGE-MenuTab
       rect:
@@ -444,15 +291,7 @@ TextureImporter:
         - {x: -25.5, y: 22.999998}
         - {x: 25.5, y: 22.999998}
         - {x: 25.5, y: -22.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Phone_Glass
       rect:
@@ -469,15 +308,7 @@ TextureImporter:
         - {x: -399, y: 216.99998}
         - {x: 399, y: 216.99998}
         - {x: 399, y: -216.99998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-RecentPlayers
       rect:
@@ -503,15 +334,7 @@ TextureImporter:
         - {x: -133.49998, y: -29.999998}
         - {x: -102.5, y: 7}
         - {x: -58.499996, y: 94}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMAGE-HeaderDivider
       rect:
@@ -528,15 +351,7 @@ TextureImporter:
         - {x: -122, y: 1.5}
         - {x: 122, y: 1.5}
         - {x: 122, y: -1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-BlockedPlayersInactive
       rect:
@@ -557,15 +372,7 @@ TextureImporter:
         - {x: 63.51245, y: 65.48761}
         - {x: 93.51245, y: 12.48761}
         - {x: 106.51244, y: -71.51239}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-FriendListInactive
       rect:
@@ -587,15 +394,7 @@ TextureImporter:
         - {x: -58.000034, y: -96.99999}
         - {x: -106.00004, y: -81.99999}
         - {x: -120.00004, y: -22.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-HideCode
       rect:
@@ -612,15 +411,7 @@ TextureImporter:
         - {x: -112, y: 112}
         - {x: 112, y: 112}
         - {x: 112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-BlockedPlayers
       rect:
@@ -644,15 +435,7 @@ TextureImporter:
         - {x: -116.99999, y: 8}
         - {x: -116.99999, y: 79}
         - {x: -96, y: 102}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-RemoveFriendTap
       rect:
@@ -670,15 +453,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-RejectInviteActive
       rect:
@@ -696,15 +471,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-BlockPlayerTap
       rect:
@@ -722,15 +489,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-InvFriendTap
       rect:
@@ -748,15 +507,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMAGE-PlatformBubble
       rect:
@@ -777,15 +528,7 @@ TextureImporter:
         - {x: 27.038061, y: -53.49998}
         - {x: -85.96193, y: -63.499985}
         - {x: -111.96194, y: 40.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-Lobby
       rect:
@@ -812,15 +555,7 @@ TextureImporter:
         - {x: -157, y: 13.499999}
         - {x: -122, y: 94.5}
         - {x: -45, y: 112.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMAGE-Envelope
       rect:
@@ -843,15 +578,7 @@ TextureImporter:
         - {x: -72.5, y: -16}
         - {x: -72.5, y: 25}
         - {x: -67.5, y: 33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-AddFriendTap
       rect:
@@ -869,15 +596,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IMAGE-HeaderGradient
       rect:
@@ -894,15 +613,7 @@ TextureImporter:
         - {x: -122, y: 51.5}
         - {x: 122, y: 51.5}
         - {x: 122, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-RecentPlayersInactive
       rect:
@@ -924,15 +635,7 @@ TextureImporter:
         - {x: -98.96842, y: -104.975296}
         - {x: -125.96842, y: -47.975304}
         - {x: -87.96842, y: -3.9753036}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: BUTTON-ReportTap
       rect:
@@ -950,15 +653,7 @@ TextureImporter:
         - {x: 112, y: -96}
         - {x: 85.99999, y: -112}
         - {x: -112, y: -112}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ICON-AddFriend
       rect:
@@ -980,55 +675,9 @@ TextureImporter:
         - {x: 44.5, y: -73.49999}
         - {x: -68.5, y: -73.49999}
         - {x: -68.5, y: -12.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      IMAGE-HeaderDivider: 21300020
-      ICON-Friend: 21300012
-      ICON-OutsidePlatform: 21300006
-      UI_Phone_Glass: 21300016
-      BUTTON-ReportTap: 21300050
-      ICON-FriendList: 21300004
-      ICON-RecentPlayers: 21300018
-      IMAGE-MenuTab: 21300014
-      BUTTON-RejectInviteActive: 21300032
-      IMAGE-PlatformBubble: 21300038
-      BUTTON-HideCode: 21300026
-      IMAGE-Envelope: 21300042
-      BUTTON-InvFriendTap: 21300036
-      ICON-Lobby: 21300040
-      ICON-AddFriend: 21300052
-      BUTTON-RemoveFriendTap: 21300030
-      ICON-FriendListInactive: 21300024
-      ICON-RecentPlayersInactive: 21300048
-      BUTTON-AddFriendTap: 21300044
-      BUTTON-TickTap: 21300010
-      ICON-LobbyInactive: 21300000
-      BUTTON-ShowCode: 21300002
-      ICON-BlockedPlayers: 21300028
-      ICON-BlockedPlayersInactive: 21300022
-      BUTTON-BlockPlayerTap: 21300034
-      ICON-Block: 21300008
-      IMAGE-HeaderGradient: 21300046
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

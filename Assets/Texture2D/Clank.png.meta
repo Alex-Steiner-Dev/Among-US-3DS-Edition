@@ -1,651 +1,222 @@
 fileFormatVersion: 2
 guid: 9d86966604518584d94c28b7dd3c9a9f
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Clank_Idle0044
-  - first:
-      213: 21300002
-    second: Clank_Sad0057
-  - first:
-      213: 21300004
-    second: Clank_Idle0032
-  - first:
-      213: 21300006
-    second: Clank_Idle0016
-  - first:
-      213: 21300008
-    second: Clank_Idle0086
-  - first:
-      213: 21300010
-    second: Clank_Sad0029
-  - first:
-      213: 21300012
-    second: Clank_Idle0105
-  - first:
-      213: 21300014
-    second: Clank_Idle0090
-  - first:
-      213: 21300016
-    second: Clank_Walk0003
-  - first:
-      213: 21300018
-    second: Clank_Idle0051
-  - first:
-      213: 21300020
-    second: Clank_Sad0016
-  - first:
-      213: 21300022
-    second: Clank_Idle0015
-  - first:
-      213: 21300024
-    second: Clank_Idle0038
-  - first:
-      213: 21300026
-    second: Clank_Idle0025
-  - first:
-      213: 21300028
-    second: Clank_Idle0063
-  - first:
-      213: 21300030
-    second: Clank_Idle0101
-  - first:
-      213: 21300032
-    second: Clank_Walk0008
-  - first:
-      213: 21300034
-    second: Clank_Idle0078
-  - first:
-      213: 21300036
-    second: Clank_Idle0033
-  - first:
-      213: 21300038
-    second: Clank_Sad0020
-  - first:
-      213: 21300040
-    second: Clank_Idle0036
-  - first:
-      213: 21300042
-    second: Clank_Idle0113
-  - first:
-      213: 21300044
-    second: Clank_Idle0049
-  - first:
-      213: 21300046
-    second: Clank_Sad0002
-  - first:
-      213: 21300048
-    second: Clank_Sad0062
-  - first:
-      213: 21300050
-    second: Clank_Idle0022
-  - first:
-      213: 21300052
-    second: Clank_Sad0009
-  - first:
-      213: 21300054
-    second: Clank_Idle0064
-  - first:
-      213: 21300056
-    second: Clank_Sad0006
-  - first:
-      213: 21300058
-    second: Clank_Sad0063
-  - first:
-      213: 21300060
-    second: Clank_Idle0070
-  - first:
-      213: 21300062
-    second: Clank_Idle0039
-  - first:
-      213: 21300064
-    second: Clank_Idle0037
-  - first:
-      213: 21300066
-    second: Clank_Idle0030
-  - first:
-      213: 21300068
-    second: Clank_Sad0059
-  - first:
-      213: 21300070
-    second: Clank_Idle0052
-  - first:
-      213: 21300072
-    second: Clank_Idle0027
-  - first:
-      213: 21300074
-    second: Clank_Idle0006
-  - first:
-      213: 21300076
-    second: Clank_Sad0077
-  - first:
-      213: 21300078
-    second: Clank_Idle0092
-  - first:
-      213: 21300080
-    second: Clank_Sad0018
-  - first:
-      213: 21300082
-    second: Clank_Idle0019
-  - first:
-      213: 21300084
-    second: Clank_Walk0009
-  - first:
-      213: 21300086
-    second: Clank_Sad0003
-  - first:
-      213: 21300088
-    second: Clank_Walk0006
-  - first:
-      213: 21300090
-    second: Clank_Sad0041
-  - first:
-      213: 21300092
-    second: Clank_Sad0015
-  - first:
-      213: 21300094
-    second: Clank_Idle0010
-  - first:
-      213: 21300096
-    second: Clank_Sad0010
-  - first:
-      213: 21300098
-    second: Clank_Idle0002
-  - first:
-      213: 21300100
-    second: Clank_Idle0029
-  - first:
-      213: 21300102
-    second: Clank_Idle0099
-  - first:
-      213: 21300104
-    second: Clank_Idle0053
-  - first:
-      213: 21300106
-    second: Clank_Idle0077
-  - first:
-      213: 21300108
-    second: Clank_Idle0012
-  - first:
-      213: 21300110
-    second: Clank_Idle0021
-  - first:
-      213: 21300112
-    second: Clank_Sad0064
-  - first:
-      213: 21300114
-    second: Clank_Idle0062
-  - first:
-      213: 21300116
-    second: Clank_Walk0011
-  - first:
-      213: 21300118
-    second: Clank_Idle0108
-  - first:
-      213: 21300120
-    second: Clank_Idle0110
-  - first:
-      213: 21300122
-    second: Clank_Idle0058
-  - first:
-      213: 21300124
-    second: Clank_Idle0068
-  - first:
-      213: 21300126
-    second: Clank_Idle0083
-  - first:
-      213: 21300128
-    second: Clank_Sad0051
-  - first:
-      213: 21300130
-    second: Clank_Idle0089
-  - first:
-      213: 21300132
-    second: Clank_Sad0039
-  - first:
-      213: 21300134
-    second: Clank_Sad0017
-  - first:
-      213: 21300136
-    second: Clank_Idle0007
-  - first:
-      213: 21300138
-    second: Clank_Sad0056
-  - first:
-      213: 21300140
-    second: Clank_Idle0106
-  - first:
-      213: 21300142
-    second: Clank_Sad0012
-  - first:
-      213: 21300144
-    second: Clank_Scared0001
-  - first:
-      213: 21300146
-    second: Clank_Idle0095
-  - first:
-      213: 21300148
-    second: Clank_Sad0079
-  - first:
-      213: 21300150
-    second: Clank_Sad0014
-  - first:
-      213: 21300152
-    second: Clank_Idle0094
-  - first:
-      213: 21300154
-    second: Clank_Idle0061
-  - first:
-      213: 21300156
-    second: Clank_Walk0004
-  - first:
-      213: 21300158
-    second: Clank_Idle0066
-  - first:
-      213: 21300160
-    second: Clank_Sad0049
-  - first:
-      213: 21300162
-    second: Clank_Sad0021
-  - first:
-      213: 21300164
-    second: Clank_Idle0085
-  - first:
-      213: 21300166
-    second: Clank_Idle0071
-  - first:
-      213: 21300168
-    second: Clank_Idle0004
-  - first:
-      213: 21300170
-    second: Clank_Sad0007
-  - first:
-      213: 21300172
-    second: Clank_Sad0019
-  - first:
-      213: 21300174
-    second: Clank_Sad0037
-  - first:
-      213: 21300176
-    second: Clank_Idle0097
-  - first:
-      213: 21300178
-    second: Clank_Sad0074
-  - first:
-      213: 21300180
-    second: Clank_Sad0060
-  - first:
-      213: 21300182
-    second: Clank_Idle0100
-  - first:
-      213: 21300184
-    second: Clank_Idle0009
-  - first:
-      213: 21300186
-    second: Clank_Sad0035
-  - first:
-      213: 21300188
-    second: Clank_Idle0073
-  - first:
-      213: 21300190
-    second: Clank_Sad0068
-  - first:
-      213: 21300192
-    second: Clank_Idle0028
-  - first:
-      213: 21300194
-    second: Clank_Idle0005
-  - first:
-      213: 21300196
-    second: Clank_Idle0003
-  - first:
-      213: 21300198
-    second: Clank_Sad0055
-  - first:
-      213: 21300200
-    second: Clank_Idle0001
-  - first:
-      213: 21300202
-    second: Clank_Sad0031
-  - first:
-      213: 21300204
-    second: Clank_Walk0005
-  - first:
-      213: 21300206
-    second: Clank_Idle0087
-  - first:
-      213: 21300208
-    second: Clank_Idle0067
-  - first:
-      213: 21300210
-    second: Clank_Sad0028
-  - first:
-      213: 21300212
-    second: Clank_Sad0044
-  - first:
-      213: 21300214
-    second: Clank_Idle0107
-  - first:
-      213: 21300216
-    second: Clank_Idle0076
-  - first:
-      213: 21300218
-    second: Clank_Idle0069
-  - first:
-      213: 21300220
-    second: Clank_Idle0091
-  - first:
-      213: 21300222
-    second: Clank_Sad0045
-  - first:
-      213: 21300224
-    second: Clank_Sad0078
-  - first:
-      213: 21300226
-    second: Clank_Idle0116
-  - first:
-      213: 21300228
-    second: Clank_Sad0053
-  - first:
-      213: 21300230
-    second: Clank_Idle0045
-  - first:
-      213: 21300232
-    second: Clank_Scared0002
-  - first:
-      213: 21300234
-    second: Clank_Idle0055
-  - first:
-      213: 21300236
-    second: Clank_Idle0115
-  - first:
-      213: 21300238
-    second: Clank_Sad0022
-  - first:
-      213: 21300240
-    second: Clank_Sad0024
-  - first:
-      213: 21300242
-    second: Clank_Idle0088
-  - first:
-      213: 21300244
-    second: Clank_Idle0065
-  - first:
-      213: 21300246
-    second: Clank_Idle0011
-  - first:
-      213: 21300248
-    second: Clank_Sad0011
-  - first:
-      213: 21300250
-    second: Clank_Walk0012
-  - first:
-      213: 21300252
-    second: Clank_Sad0005
-  - first:
-      213: 21300254
-    second: Clank_Sad0004
-  - first:
-      213: 21300256
-    second: Clank_Idle0040
-  - first:
-      213: 21300258
-    second: Clank_Sad0066
-  - first:
-      213: 21300260
-    second: Clank_Sad0043
-  - first:
-      213: 21300262
-    second: Clank_Idle0096
-  - first:
-      213: 21300264
-    second: Clank_Idle0035
-  - first:
-      213: 21300266
-    second: Clank_Sad0067
-  - first:
-      213: 21300268
-    second: Clank_Idle0043
-  - first:
-      213: 21300270
-    second: Clank_Idle0024
-  - first:
-      213: 21300272
-    second: Clank_Sad0071
-  - first:
-      213: 21300274
-    second: Clank_Idle0041
-  - first:
-      213: 21300276
-    second: Clank_Sad0047
-  - first:
-      213: 21300278
-    second: Clank_Idle0048
-  - first:
-      213: 21300280
-    second: Clank_Sad0054
-  - first:
-      213: 21300282
-    second: Clank_Sad0025
-  - first:
-      213: 21300284
-    second: Clank_Sad0040
-  - first:
-      213: 21300286
-    second: Clank_Sad0052
-  - first:
-      213: 21300288
-    second: Clank_Idle0014
-  - first:
-      213: 21300290
-    second: Clank_Sad0048
-  - first:
-      213: 21300292
-    second: Clank_Idle0119
-  - first:
-      213: 21300294
-    second: Clank_Idle0104
-  - first:
-      213: 21300296
-    second: Clank_Sad0050
-  - first:
-      213: 21300298
-    second: Clank_Idle0042
-  - first:
-      213: 21300300
-    second: Clank_Sad0075
-  - first:
-      213: 21300302
-    second: Clank_Idle0046
-  - first:
-      213: 21300304
-    second: Clank_Idle0109
-  - first:
-      213: 21300306
-    second: Clank_Sad0038
-  - first:
-      213: 21300308
-    second: Clank_Sad0026
-  - first:
-      213: 21300310
-    second: Clank_Idle0050
-  - first:
-      213: 21300312
-    second: Clank_Idle0031
-  - first:
-      213: 21300314
-    second: Clank_Idle0079
-  - first:
-      213: 21300316
-    second: Clank_Sad0001
-  - first:
-      213: 21300318
-    second: Clank_Sad0008
-  - first:
-      213: 21300320
-    second: Clank_Idle0034
-  - first:
-      213: 21300322
-    second: Clank_Sad0023
-  - first:
-      213: 21300324
-    second: Clank_Walk0010
-  - first:
-      213: 21300326
-    second: Clank_Idle0057
-  - first:
-      213: 21300328
-    second: Clank_Idle0018
-  - first:
-      213: 21300330
-    second: Clank_Sad0027
-  - first:
-      213: 21300332
-    second: Clank_Sad0030
-  - first:
-      213: 21300334
-    second: Clank_Sad0058
-  - first:
-      213: 21300336
-    second: Clank_Idle0084
-  - first:
-      213: 21300338
-    second: Clank_Sad0072
-  - first:
-      213: 21300340
-    second: Clank_Idle0118
-  - first:
-      213: 21300342
-    second: Clank_Idle0093
-  - first:
-      213: 21300344
-    second: Clank_Idle0112
-  - first:
-      213: 21300346
-    second: Clank_Sad0076
-  - first:
-      213: 21300348
-    second: Clank_Walk0007
-  - first:
-      213: 21300350
-    second: Clank_Sad0073
-  - first:
-      213: 21300352
-    second: Clank_Sad0036
-  - first:
-      213: 21300354
-    second: Clank_Idle0059
-  - first:
-      213: 21300356
-    second: Clank_Idle0023
-  - first:
-      213: 21300358
-    second: Clank_Sad0033
-  - first:
-      213: 21300360
-    second: Clank_Idle0117
-  - first:
-      213: 21300362
-    second: Clank_Walk0001
-  - first:
-      213: 21300364
-    second: Clank_Sad0013
-  - first:
-      213: 21300366
-    second: Clank_Idle0102
-  - first:
-      213: 21300368
-    second: Clank_Idle0047
-  - first:
-      213: 21300370
-    second: Clank_Idle0120
-  - first:
-      213: 21300372
-    second: Clank_Idle0013
-  - first:
-      213: 21300374
-    second: Clank_Sad0069
-  - first:
-      213: 21300376
-    second: Clank_Idle0111
-  - first:
-      213: 21300378
-    second: Clank_Idle0103
-  - first:
-      213: 21300380
-    second: Clank_Walk0002
-  - first:
-      213: 21300382
-    second: Clank_Idle0082
-  - first:
-      213: 21300384
-    second: Clank_Idle0056
-  - first:
-      213: 21300386
-    second: Clank_Idle0074
-  - first:
-      213: 21300388
-    second: Clank_Sad0070
-  - first:
-      213: 21300390
-    second: Clank_Idle0017
-  - first:
-      213: 21300392
-    second: Clank_Idle0026
-  - first:
-      213: 21300394
-    second: Clank_Idle0080
-  - first:
-      213: 21300396
-    second: Clank_Sad0061
-  - first:
-      213: 21300398
-    second: Clank_Idle0081
-  - first:
-      213: 21300400
-    second: Clank_Idle0008
-  - first:
-      213: 21300402
-    second: Clank_Idle0098
-  - first:
-      213: 21300404
-    second: Clank_Idle0060
-  - first:
-      213: 21300406
-    second: Clank_Sad0046
-  - first:
-      213: 21300408
-    second: Clank_Idle0072
-  - first:
-      213: 21300410
-    second: Clank_Sad0034
-  - first:
-      213: 21300412
-    second: Clank_Sad0065
-  - first:
-      213: 21300414
-    second: Clank_Sad0080
-  - first:
-      213: 21300416
-    second: Clank_Sad0042
-  - first:
-      213: 21300418
-    second: Clank_Sad0032
-  - first:
-      213: 21300420
-    second: Clank_Idle0114
-  - first:
-      213: 21300422
-    second: Clank_Idle0054
-  - first:
-      213: 21300424
-    second: Clank_Idle0020
-  - first:
-      213: 21300426
-    second: Clank_Idle0075
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Clank_Idle0044
+    21300002: Clank_Sad0057
+    21300004: Clank_Idle0032
+    21300006: Clank_Idle0016
+    21300008: Clank_Idle0086
+    21300010: Clank_Sad0029
+    21300012: Clank_Idle0105
+    21300014: Clank_Idle0090
+    21300016: Clank_Walk0003
+    21300018: Clank_Idle0051
+    21300020: Clank_Sad0016
+    21300022: Clank_Idle0015
+    21300024: Clank_Idle0038
+    21300026: Clank_Idle0025
+    21300028: Clank_Idle0063
+    21300030: Clank_Idle0101
+    21300032: Clank_Walk0008
+    21300034: Clank_Idle0078
+    21300036: Clank_Idle0033
+    21300038: Clank_Sad0020
+    21300040: Clank_Idle0036
+    21300042: Clank_Idle0113
+    21300044: Clank_Idle0049
+    21300046: Clank_Sad0002
+    21300048: Clank_Sad0062
+    21300050: Clank_Idle0022
+    21300052: Clank_Sad0009
+    21300054: Clank_Idle0064
+    21300056: Clank_Sad0006
+    21300058: Clank_Sad0063
+    21300060: Clank_Idle0070
+    21300062: Clank_Idle0039
+    21300064: Clank_Idle0037
+    21300066: Clank_Idle0030
+    21300068: Clank_Sad0059
+    21300070: Clank_Idle0052
+    21300072: Clank_Idle0027
+    21300074: Clank_Idle0006
+    21300076: Clank_Sad0077
+    21300078: Clank_Idle0092
+    21300080: Clank_Sad0018
+    21300082: Clank_Idle0019
+    21300084: Clank_Walk0009
+    21300086: Clank_Sad0003
+    21300088: Clank_Walk0006
+    21300090: Clank_Sad0041
+    21300092: Clank_Sad0015
+    21300094: Clank_Idle0010
+    21300096: Clank_Sad0010
+    21300098: Clank_Idle0002
+    21300100: Clank_Idle0029
+    21300102: Clank_Idle0099
+    21300104: Clank_Idle0053
+    21300106: Clank_Idle0077
+    21300108: Clank_Idle0012
+    21300110: Clank_Idle0021
+    21300112: Clank_Sad0064
+    21300114: Clank_Idle0062
+    21300116: Clank_Walk0011
+    21300118: Clank_Idle0108
+    21300120: Clank_Idle0110
+    21300122: Clank_Idle0058
+    21300124: Clank_Idle0068
+    21300126: Clank_Idle0083
+    21300128: Clank_Sad0051
+    21300130: Clank_Idle0089
+    21300132: Clank_Sad0039
+    21300134: Clank_Sad0017
+    21300136: Clank_Idle0007
+    21300138: Clank_Sad0056
+    21300140: Clank_Idle0106
+    21300142: Clank_Sad0012
+    21300144: Clank_Scared0001
+    21300146: Clank_Idle0095
+    21300148: Clank_Sad0079
+    21300150: Clank_Sad0014
+    21300152: Clank_Idle0094
+    21300154: Clank_Idle0061
+    21300156: Clank_Walk0004
+    21300158: Clank_Idle0066
+    21300160: Clank_Sad0049
+    21300162: Clank_Sad0021
+    21300164: Clank_Idle0085
+    21300166: Clank_Idle0071
+    21300168: Clank_Idle0004
+    21300170: Clank_Sad0007
+    21300172: Clank_Sad0019
+    21300174: Clank_Sad0037
+    21300176: Clank_Idle0097
+    21300178: Clank_Sad0074
+    21300180: Clank_Sad0060
+    21300182: Clank_Idle0100
+    21300184: Clank_Idle0009
+    21300186: Clank_Sad0035
+    21300188: Clank_Idle0073
+    21300190: Clank_Sad0068
+    21300192: Clank_Idle0028
+    21300194: Clank_Idle0005
+    21300196: Clank_Idle0003
+    21300198: Clank_Sad0055
+    21300200: Clank_Idle0001
+    21300202: Clank_Sad0031
+    21300204: Clank_Walk0005
+    21300206: Clank_Idle0087
+    21300208: Clank_Idle0067
+    21300210: Clank_Sad0028
+    21300212: Clank_Sad0044
+    21300214: Clank_Idle0107
+    21300216: Clank_Idle0076
+    21300218: Clank_Idle0069
+    21300220: Clank_Idle0091
+    21300222: Clank_Sad0045
+    21300224: Clank_Sad0078
+    21300226: Clank_Idle0116
+    21300228: Clank_Sad0053
+    21300230: Clank_Idle0045
+    21300232: Clank_Scared0002
+    21300234: Clank_Idle0055
+    21300236: Clank_Idle0115
+    21300238: Clank_Sad0022
+    21300240: Clank_Sad0024
+    21300242: Clank_Idle0088
+    21300244: Clank_Idle0065
+    21300246: Clank_Idle0011
+    21300248: Clank_Sad0011
+    21300250: Clank_Walk0012
+    21300252: Clank_Sad0005
+    21300254: Clank_Sad0004
+    21300256: Clank_Idle0040
+    21300258: Clank_Sad0066
+    21300260: Clank_Sad0043
+    21300262: Clank_Idle0096
+    21300264: Clank_Idle0035
+    21300266: Clank_Sad0067
+    21300268: Clank_Idle0043
+    21300270: Clank_Idle0024
+    21300272: Clank_Sad0071
+    21300274: Clank_Idle0041
+    21300276: Clank_Sad0047
+    21300278: Clank_Idle0048
+    21300280: Clank_Sad0054
+    21300282: Clank_Sad0025
+    21300284: Clank_Sad0040
+    21300286: Clank_Sad0052
+    21300288: Clank_Idle0014
+    21300290: Clank_Sad0048
+    21300292: Clank_Idle0119
+    21300294: Clank_Idle0104
+    21300296: Clank_Sad0050
+    21300298: Clank_Idle0042
+    21300300: Clank_Sad0075
+    21300302: Clank_Idle0046
+    21300304: Clank_Idle0109
+    21300306: Clank_Sad0038
+    21300308: Clank_Sad0026
+    21300310: Clank_Idle0050
+    21300312: Clank_Idle0031
+    21300314: Clank_Idle0079
+    21300316: Clank_Sad0001
+    21300318: Clank_Sad0008
+    21300320: Clank_Idle0034
+    21300322: Clank_Sad0023
+    21300324: Clank_Walk0010
+    21300326: Clank_Idle0057
+    21300328: Clank_Idle0018
+    21300330: Clank_Sad0027
+    21300332: Clank_Sad0030
+    21300334: Clank_Sad0058
+    21300336: Clank_Idle0084
+    21300338: Clank_Sad0072
+    21300340: Clank_Idle0118
+    21300342: Clank_Idle0093
+    21300344: Clank_Idle0112
+    21300346: Clank_Sad0076
+    21300348: Clank_Walk0007
+    21300350: Clank_Sad0073
+    21300352: Clank_Sad0036
+    21300354: Clank_Idle0059
+    21300356: Clank_Idle0023
+    21300358: Clank_Sad0033
+    21300360: Clank_Idle0117
+    21300362: Clank_Walk0001
+    21300364: Clank_Sad0013
+    21300366: Clank_Idle0102
+    21300368: Clank_Idle0047
+    21300370: Clank_Idle0120
+    21300372: Clank_Idle0013
+    21300374: Clank_Sad0069
+    21300376: Clank_Idle0111
+    21300378: Clank_Idle0103
+    21300380: Clank_Walk0002
+    21300382: Clank_Idle0082
+    21300384: Clank_Idle0056
+    21300386: Clank_Idle0074
+    21300388: Clank_Sad0070
+    21300390: Clank_Idle0017
+    21300392: Clank_Idle0026
+    21300394: Clank_Idle0080
+    21300396: Clank_Sad0061
+    21300398: Clank_Idle0081
+    21300400: Clank_Idle0008
+    21300402: Clank_Idle0098
+    21300404: Clank_Idle0060
+    21300406: Clank_Sad0046
+    21300408: Clank_Idle0072
+    21300410: Clank_Sad0034
+    21300412: Clank_Sad0065
+    21300414: Clank_Sad0080
+    21300416: Clank_Sad0042
+    21300418: Clank_Sad0032
+    21300420: Clank_Idle0114
+    21300422: Clank_Idle0054
+    21300424: Clank_Idle0020
+    21300426: Clank_Idle0075
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -653,8 +224,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -662,12 +231,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -675,13 +239,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -690,97 +251,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -801,15 +330,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0057
       rect:
@@ -827,15 +348,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0032
       rect:
@@ -853,15 +366,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0016
       rect:
@@ -879,15 +384,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0086
       rect:
@@ -905,15 +402,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0029
       rect:
@@ -931,15 +420,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0105
       rect:
@@ -957,15 +438,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0090
       rect:
@@ -983,15 +456,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0003
       rect:
@@ -1010,15 +475,7 @@ TextureImporter:
         - {x: -58.4981, y: -29.500015}
         - {x: -4.4981036, y: 76.499985}
         - {x: 34.501896, y: 45.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0051
       rect:
@@ -1037,15 +494,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0016
       rect:
@@ -1063,15 +512,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0015
       rect:
@@ -1089,15 +530,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0038
       rect:
@@ -1115,15 +548,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0025
       rect:
@@ -1143,15 +568,7 @@ TextureImporter:
         - {x: 37.49998, y: -61.038048}
         - {x: -19.500015, y: -68.03805}
         - {x: -38.500015, y: -49.038044}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0063
       rect:
@@ -1170,15 +587,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0101
       rect:
@@ -1196,15 +605,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0008
       rect:
@@ -1223,15 +624,7 @@ TextureImporter:
         - {x: -35.491936, y: 18.024673}
         - {x: -4.4919357, y: 73.02467}
         - {x: 8.508064, y: 69.024666}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0078
       rect:
@@ -1249,15 +642,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0033
       rect:
@@ -1275,15 +660,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0020
       rect:
@@ -1301,15 +678,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0036
       rect:
@@ -1327,15 +696,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0113
       rect:
@@ -1353,15 +714,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0049
       rect:
@@ -1380,15 +733,7 @@ TextureImporter:
         - {x: -41.499992, y: -49.02469}
         - {x: -36.499992, y: 30.975311}
         - {x: 18.500006, y: 77.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0002
       rect:
@@ -1406,15 +751,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0062
       rect:
@@ -1432,15 +769,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0022
       rect:
@@ -1458,15 +787,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0009
       rect:
@@ -1484,15 +805,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0064
       rect:
@@ -1511,15 +824,7 @@ TextureImporter:
         - {x: -41.499992, y: -49.02469}
         - {x: -36.499992, y: 30.975311}
         - {x: 18.500006, y: 77.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0006
       rect:
@@ -1537,15 +842,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0063
       rect:
@@ -1563,15 +860,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0070
       rect:
@@ -1589,15 +878,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0039
       rect:
@@ -1615,15 +896,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0037
       rect:
@@ -1641,15 +914,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0030
       rect:
@@ -1668,15 +933,7 @@ TextureImporter:
         - {x: 37.52467, y: -64.52467}
         - {x: -18.47533, y: -70.52467}
         - {x: -38.47533, y: -45.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0059
       rect:
@@ -1694,15 +951,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0052
       rect:
@@ -1721,15 +970,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0027
       rect:
@@ -1747,15 +988,7 @@ TextureImporter:
         - {x: -38.013374, y: -43.52467}
         - {x: -40.013374, y: 80.47533}
         - {x: 38.986626, y: 34.475327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0006
       rect:
@@ -1773,15 +1006,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0077
       rect:
@@ -1800,15 +1025,7 @@ TextureImporter:
         - {x: 24.486639, y: -49.9876}
         - {x: -43.51336, y: -57.9876}
         - {x: -37.51336, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0092
       rect:
@@ -1826,15 +1043,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0018
       rect:
@@ -1852,15 +1061,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0019
       rect:
@@ -1878,15 +1079,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0009
       rect:
@@ -1905,15 +1098,7 @@ TextureImporter:
         - {x: -42.5124, y: -57.987717}
         - {x: -39.5124, y: -0.9877167}
         - {x: -13.512402, y: 81.01228}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0003
       rect:
@@ -1931,15 +1116,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0006
       rect:
@@ -1959,15 +1136,7 @@ TextureImporter:
         - {x: -49.01339, y: -30.024689}
         - {x: 3.9866104, y: 71.97531}
         - {x: 26.98661, y: 59.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0041
       rect:
@@ -1985,15 +1154,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0015
       rect:
@@ -2011,15 +1172,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0010
       rect:
@@ -2037,15 +1190,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0010
       rect:
@@ -2063,15 +1208,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0002
       rect:
@@ -2089,15 +1226,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0029
       rect:
@@ -2116,15 +1245,7 @@ TextureImporter:
         - {x: 37.52467, y: -64.52467}
         - {x: -18.47533, y: -70.52467}
         - {x: -38.47533, y: -45.52468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0099
       rect:
@@ -2142,15 +1263,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0053
       rect:
@@ -2169,15 +1282,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0077
       rect:
@@ -2195,15 +1300,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0012
       rect:
@@ -2221,15 +1318,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0021
       rect:
@@ -2247,15 +1336,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0064
       rect:
@@ -2273,15 +1354,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0062
       rect:
@@ -2300,15 +1373,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0011
       rect:
@@ -2327,15 +1392,7 @@ TextureImporter:
         - {x: -44.50618, y: 4.492485}
         - {x: -3.5061798, y: 75.492485}
         - {x: 30.49382, y: 41.492485}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0108
       rect:
@@ -2353,15 +1410,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0110
       rect:
@@ -2379,15 +1428,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0058
       rect:
@@ -2406,15 +1447,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0068
       rect:
@@ -2432,15 +1465,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02469}
         - {x: -39.013374, y: 15.975311}
         - {x: -3.0133743, y: 81.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0083
       rect:
@@ -2458,15 +1483,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0051
       rect:
@@ -2484,15 +1501,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0089
       rect:
@@ -2510,15 +1519,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0039
       rect:
@@ -2536,15 +1537,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0017
       rect:
@@ -2562,15 +1555,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0007
       rect:
@@ -2588,15 +1573,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0056
       rect:
@@ -2614,15 +1591,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0106
       rect:
@@ -2640,15 +1609,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0012
       rect:
@@ -2666,15 +1627,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Scared0001
       rect:
@@ -2693,15 +1646,7 @@ TextureImporter:
         - {x: -37.97533, y: 73.97531}
         - {x: 11.024669, y: 55.975307}
         - {x: 46.02467, y: -8.024689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0095
       rect:
@@ -2719,15 +1664,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0079
       rect:
@@ -2745,15 +1682,7 @@ TextureImporter:
         - {x: 42.999996, y: 56.0124}
         - {x: 33.999996, y: -49.9876}
         - {x: -45, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0014
       rect:
@@ -2771,15 +1700,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0094
       rect:
@@ -2797,15 +1718,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0061
       rect:
@@ -2824,15 +1737,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0004
       rect:
@@ -2851,15 +1756,7 @@ TextureImporter:
         - {x: -58.4981, y: -29.500015}
         - {x: -4.4981036, y: 76.499985}
         - {x: 34.501896, y: 45.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0066
       rect:
@@ -2877,15 +1774,7 @@ TextureImporter:
         - {x: -37.97532, y: -71.519905}
         - {x: -36.97532, y: 14.480095}
         - {x: -2.975319, y: 87.480095}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0049
       rect:
@@ -2903,15 +1792,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0021
       rect:
@@ -2929,15 +1810,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0085
       rect:
@@ -2955,15 +1828,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0071
       rect:
@@ -2981,15 +1846,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0004
       rect:
@@ -3007,15 +1864,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0007
       rect:
@@ -3033,15 +1882,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0019
       rect:
@@ -3059,15 +1900,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0037
       rect:
@@ -3085,15 +1918,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0097
       rect:
@@ -3111,15 +1936,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0074
       rect:
@@ -3138,15 +1955,7 @@ TextureImporter:
         - {x: 24.486639, y: -49.9876}
         - {x: -43.51336, y: -57.9876}
         - {x: -37.51336, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0060
       rect:
@@ -3164,15 +1973,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0100
       rect:
@@ -3190,15 +1991,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0009
       rect:
@@ -3216,15 +2009,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0035
       rect:
@@ -3242,15 +2027,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0073
       rect:
@@ -3268,15 +2045,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0068
       rect:
@@ -3294,15 +2063,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0028
       rect:
@@ -3320,15 +2081,7 @@ TextureImporter:
         - {x: -38.013374, y: -43.52467}
         - {x: -40.013374, y: 80.47533}
         - {x: 38.986626, y: 34.475327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0005
       rect:
@@ -3346,15 +2099,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0003
       rect:
@@ -3372,15 +2117,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0055
       rect:
@@ -3398,15 +2135,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0001
       rect:
@@ -3424,15 +2153,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0031
       rect:
@@ -3450,15 +2171,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0005
       rect:
@@ -3478,15 +2191,7 @@ TextureImporter:
         - {x: -49.01339, y: -30.024689}
         - {x: 3.9866104, y: 71.97531}
         - {x: 26.98661, y: 59.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0087
       rect:
@@ -3504,15 +2209,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0067
       rect:
@@ -3530,15 +2227,7 @@ TextureImporter:
         - {x: -37.97532, y: -71.519905}
         - {x: -36.97532, y: 14.480095}
         - {x: -2.975319, y: 87.480095}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0028
       rect:
@@ -3556,15 +2245,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0044
       rect:
@@ -3582,15 +2263,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0107
       rect:
@@ -3608,15 +2281,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0076
       rect:
@@ -3634,15 +2299,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0069
       rect:
@@ -3660,15 +2317,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02469}
         - {x: -39.013374, y: 15.975311}
         - {x: -3.0133743, y: 81.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0091
       rect:
@@ -3686,15 +2335,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0045
       rect:
@@ -3712,15 +2353,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0078
       rect:
@@ -3738,15 +2371,7 @@ TextureImporter:
         - {x: 42.999996, y: 56.0124}
         - {x: 33.999996, y: -49.9876}
         - {x: -45, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0116
       rect:
@@ -3764,15 +2389,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0053
       rect:
@@ -3790,15 +2407,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0045
       rect:
@@ -3816,15 +2425,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Scared0002
       rect:
@@ -3844,15 +2445,7 @@ TextureImporter:
         - {x: 42.499996, y: -65.00988}
         - {x: -22.5, y: -73.00988}
         - {x: -42.5, y: -8.00988}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0055
       rect:
@@ -3871,15 +2464,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0115
       rect:
@@ -3897,15 +2482,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0022
       rect:
@@ -3923,15 +2500,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0024
       rect:
@@ -3949,15 +2518,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0088
       rect:
@@ -3975,15 +2536,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0065
       rect:
@@ -4002,15 +2555,7 @@ TextureImporter:
         - {x: -41.499992, y: -49.02469}
         - {x: -36.499992, y: 30.975311}
         - {x: 18.500006, y: 77.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0011
       rect:
@@ -4028,15 +2573,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0011
       rect:
@@ -4054,15 +2591,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0012
       rect:
@@ -4081,15 +2610,7 @@ TextureImporter:
         - {x: -44.50618, y: 4.492485}
         - {x: -3.5061798, y: 75.492485}
         - {x: 30.49382, y: 41.492485}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0005
       rect:
@@ -4107,15 +2628,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0004
       rect:
@@ -4133,15 +2646,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0040
       rect:
@@ -4159,15 +2664,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0066
       rect:
@@ -4185,15 +2682,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0043
       rect:
@@ -4211,15 +2700,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0096
       rect:
@@ -4237,15 +2718,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0035
       rect:
@@ -4263,15 +2736,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0067
       rect:
@@ -4289,15 +2754,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0043
       rect:
@@ -4315,15 +2772,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0024
       rect:
@@ -4341,15 +2790,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0071
       rect:
@@ -4368,15 +2809,7 @@ TextureImporter:
         - {x: 24.486624, y: -49.9876}
         - {x: -43.513374, y: -57.9876}
         - {x: -37.513374, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0041
       rect:
@@ -4394,15 +2827,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0047
       rect:
@@ -4420,15 +2845,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0048
       rect:
@@ -4446,15 +2863,7 @@ TextureImporter:
         - {x: -37.024693, y: -74.01239}
         - {x: -39.024693, y: 12.98761}
         - {x: -18.024693, y: 81.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0054
       rect:
@@ -4472,15 +2881,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0025
       rect:
@@ -4498,15 +2899,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0040
       rect:
@@ -4524,15 +2917,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0052
       rect:
@@ -4550,15 +2935,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0014
       rect:
@@ -4576,15 +2953,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04405410000000000800000000000000
-      internalID: 21300288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0048
       rect:
@@ -4602,15 +2971,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24405410000000000800000000000000
-      internalID: 21300290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0119
       rect:
@@ -4628,15 +2989,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44405410000000000800000000000000
-      internalID: 21300292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0104
       rect:
@@ -4654,15 +3007,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64405410000000000800000000000000
-      internalID: 21300294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0050
       rect:
@@ -4680,15 +3025,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84405410000000000800000000000000
-      internalID: 21300296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0042
       rect:
@@ -4706,15 +3043,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4405410000000000800000000000000
-      internalID: 21300298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0075
       rect:
@@ -4733,15 +3062,7 @@ TextureImporter:
         - {x: 24.486639, y: -49.9876}
         - {x: -43.51336, y: -57.9876}
         - {x: -37.51336, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4405410000000000800000000000000
-      internalID: 21300300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0046
       rect:
@@ -4759,15 +3080,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4405410000000000800000000000000
-      internalID: 21300302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0109
       rect:
@@ -4785,15 +3098,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05405410000000000800000000000000
-      internalID: 21300304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0038
       rect:
@@ -4811,15 +3116,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25405410000000000800000000000000
-      internalID: 21300306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0026
       rect:
@@ -4837,15 +3134,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45405410000000000800000000000000
-      internalID: 21300308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0050
       rect:
@@ -4864,15 +3153,7 @@ TextureImporter:
         - {x: -41.499992, y: -49.02469}
         - {x: -36.499992, y: 30.975311}
         - {x: 18.500006, y: 77.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65405410000000000800000000000000
-      internalID: 21300310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0031
       rect:
@@ -4890,15 +3171,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85405410000000000800000000000000
-      internalID: 21300312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0079
       rect:
@@ -4916,15 +3189,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5405410000000000800000000000000
-      internalID: 21300314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0001
       rect:
@@ -4942,15 +3207,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5405410000000000800000000000000
-      internalID: 21300316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0008
       rect:
@@ -4968,15 +3225,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5405410000000000800000000000000
-      internalID: 21300318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0034
       rect:
@@ -4994,15 +3243,7 @@ TextureImporter:
         - {x: -38.51336, y: -67.999985}
         - {x: -37.51336, y: 30.000015}
         - {x: -23.51336, y: 75.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06405410000000000800000000000000
-      internalID: 21300320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0023
       rect:
@@ -5020,15 +3261,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26405410000000000800000000000000
-      internalID: 21300322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0010
       rect:
@@ -5047,15 +3280,7 @@ TextureImporter:
         - {x: -42.5124, y: -57.987717}
         - {x: -39.5124, y: -0.9877167}
         - {x: -13.512402, y: 81.01228}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46405410000000000800000000000000
-      internalID: 21300324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0057
       rect:
@@ -5074,15 +3299,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66405410000000000800000000000000
-      internalID: 21300326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0018
       rect:
@@ -5100,15 +3317,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86405410000000000800000000000000
-      internalID: 21300328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0027
       rect:
@@ -5126,15 +3335,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6405410000000000800000000000000
-      internalID: 21300330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0030
       rect:
@@ -5152,15 +3353,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6405410000000000800000000000000
-      internalID: 21300332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0058
       rect:
@@ -5178,15 +3371,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6405410000000000800000000000000
-      internalID: 21300334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0084
       rect:
@@ -5204,15 +3389,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07405410000000000800000000000000
-      internalID: 21300336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0072
       rect:
@@ -5231,15 +3408,7 @@ TextureImporter:
         - {x: 24.486639, y: -49.9876}
         - {x: -43.51336, y: -57.9876}
         - {x: -37.51336, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27405410000000000800000000000000
-      internalID: 21300338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0118
       rect:
@@ -5257,15 +3426,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47405410000000000800000000000000
-      internalID: 21300340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0093
       rect:
@@ -5283,15 +3444,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67405410000000000800000000000000
-      internalID: 21300342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0112
       rect:
@@ -5309,15 +3462,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87405410000000000800000000000000
-      internalID: 21300344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0076
       rect:
@@ -5336,15 +3481,7 @@ TextureImporter:
         - {x: 24.486639, y: -49.9876}
         - {x: -43.51336, y: -57.9876}
         - {x: -37.51336, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7405410000000000800000000000000
-      internalID: 21300346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0007
       rect:
@@ -5363,15 +3500,7 @@ TextureImporter:
         - {x: -35.491936, y: 18.024673}
         - {x: -4.4919357, y: 73.02467}
         - {x: 8.508064, y: 69.024666}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7405410000000000800000000000000
-      internalID: 21300348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0073
       rect:
@@ -5390,15 +3519,7 @@ TextureImporter:
         - {x: 24.486639, y: -49.9876}
         - {x: -43.51336, y: -57.9876}
         - {x: -37.51336, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7405410000000000800000000000000
-      internalID: 21300350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0036
       rect:
@@ -5416,15 +3537,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08405410000000000800000000000000
-      internalID: 21300352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0059
       rect:
@@ -5443,15 +3556,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28405410000000000800000000000000
-      internalID: 21300354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0023
       rect:
@@ -5469,15 +3574,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48405410000000000800000000000000
-      internalID: 21300356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0033
       rect:
@@ -5495,15 +3592,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68405410000000000800000000000000
-      internalID: 21300358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0117
       rect:
@@ -5521,15 +3610,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88405410000000000800000000000000
-      internalID: 21300360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0001
       rect:
@@ -5548,15 +3629,7 @@ TextureImporter:
         - {x: 11.4958, y: 68}
         - {x: 40.4958, y: 27.999996}
         - {x: 61.4958, y: -43}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8405410000000000800000000000000
-      internalID: 21300362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0013
       rect:
@@ -5574,15 +3647,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8405410000000000800000000000000
-      internalID: 21300364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0102
       rect:
@@ -5600,15 +3665,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8405410000000000800000000000000
-      internalID: 21300366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0047
       rect:
@@ -5626,15 +3683,7 @@ TextureImporter:
         - {x: -37.024693, y: -74.01239}
         - {x: -39.024693, y: 12.98761}
         - {x: -18.024693, y: 81.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09405410000000000800000000000000
-      internalID: 21300368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0120
       rect:
@@ -5652,15 +3701,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29405410000000000800000000000000
-      internalID: 21300370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0013
       rect:
@@ -5678,15 +3719,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49405410000000000800000000000000
-      internalID: 21300372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0069
       rect:
@@ -5704,15 +3737,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69405410000000000800000000000000
-      internalID: 21300374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0111
       rect:
@@ -5730,15 +3755,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89405410000000000800000000000000
-      internalID: 21300376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0103
       rect:
@@ -5756,15 +3773,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9405410000000000800000000000000
-      internalID: 21300378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Walk0002
       rect:
@@ -5783,15 +3792,7 @@ TextureImporter:
         - {x: 11.4958, y: 68}
         - {x: 40.4958, y: 27.999996}
         - {x: 61.4958, y: -43}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9405410000000000800000000000000
-      internalID: 21300380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0082
       rect:
@@ -5809,15 +3810,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9405410000000000800000000000000
-      internalID: 21300382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0056
       rect:
@@ -5836,15 +3829,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a405410000000000800000000000000
-      internalID: 21300384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0074
       rect:
@@ -5862,15 +3847,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a405410000000000800000000000000
-      internalID: 21300386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0070
       rect:
@@ -5889,15 +3866,7 @@ TextureImporter:
         - {x: 24.486624, y: -49.9876}
         - {x: -43.513374, y: -57.9876}
         - {x: -37.513374, y: 24.012402}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a405410000000000800000000000000
-      internalID: 21300388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0017
       rect:
@@ -5915,15 +3884,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a405410000000000800000000000000
-      internalID: 21300390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0026
       rect:
@@ -5943,15 +3904,7 @@ TextureImporter:
         - {x: 37.49998, y: -61.038048}
         - {x: -19.500015, y: -68.03805}
         - {x: -38.500015, y: -49.038044}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a405410000000000800000000000000
-      internalID: 21300392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0080
       rect:
@@ -5969,15 +3922,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa405410000000000800000000000000
-      internalID: 21300394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0061
       rect:
@@ -5995,15 +3940,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca405410000000000800000000000000
-      internalID: 21300396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0081
       rect:
@@ -6021,15 +3958,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea405410000000000800000000000000
-      internalID: 21300398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0008
       rect:
@@ -6047,15 +3976,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b405410000000000800000000000000
-      internalID: 21300400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0098
       rect:
@@ -6073,15 +3994,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b405410000000000800000000000000
-      internalID: 21300402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0060
       rect:
@@ -6100,15 +4013,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b405410000000000800000000000000
-      internalID: 21300404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0046
       rect:
@@ -6126,15 +4031,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b405410000000000800000000000000
-      internalID: 21300406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0072
       rect:
@@ -6152,15 +4049,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b405410000000000800000000000000
-      internalID: 21300408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0034
       rect:
@@ -6178,15 +4067,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab405410000000000800000000000000
-      internalID: 21300410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0065
       rect:
@@ -6204,15 +4085,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb405410000000000800000000000000
-      internalID: 21300412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0080
       rect:
@@ -6230,15 +4103,7 @@ TextureImporter:
         - {x: 42.999996, y: 56.0124}
         - {x: 33.999996, y: -49.9876}
         - {x: -45, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb405410000000000800000000000000
-      internalID: 21300414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0042
       rect:
@@ -6256,15 +4121,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c405410000000000800000000000000
-      internalID: 21300416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Sad0032
       rect:
@@ -6282,15 +4139,7 @@ TextureImporter:
         - {x: 42.999992, y: 56.0124}
         - {x: 33.999992, y: -49.9876}
         - {x: -45.000004, y: -57.9876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c405410000000000800000000000000
-      internalID: 21300418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0114
       rect:
@@ -6308,15 +4157,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c405410000000000800000000000000
-      internalID: 21300420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0054
       rect:
@@ -6335,15 +4176,7 @@ TextureImporter:
         - {x: -41.038067, y: -48}
         - {x: -36.038067, y: 30}
         - {x: 22.961931, y: 82.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c405410000000000800000000000000
-      internalID: 21300422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0020
       rect:
@@ -6361,15 +4194,7 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c405410000000000800000000000000
-      internalID: 21300424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Clank_Idle0075
       rect:
@@ -6387,242 +4212,9 @@ TextureImporter:
         - {x: -35.013374, y: -75.02467}
         - {x: -39.013374, y: 15.975327}
         - {x: -3.0133743, y: 81.97533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac405410000000000800000000000000
-      internalID: 21300426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Clank_Idle0061: 21300154
-      Clank_Walk0006: 21300088
-      Clank_Sad0010: 21300096
-      Clank_Idle0043: 21300268
-      Clank_Walk0003: 21300016
-      Clank_Idle0045: 21300230
-      Clank_Sad0012: 21300142
-      Clank_Sad0075: 21300300
-      Clank_Walk0007: 21300348
-      Clank_Sad0072: 21300338
-      Clank_Idle0064: 21300054
-      Clank_Sad0071: 21300272
-      Clank_Idle0093: 21300342
-      Clank_Idle0082: 21300382
-      Clank_Idle0076: 21300216
-      Clank_Idle0006: 21300074
-      Clank_Idle0035: 21300264
-      Clank_Idle0078: 21300034
-      Clank_Sad0018: 21300080
-      Clank_Idle0117: 21300360
-      Clank_Idle0055: 21300234
-      Clank_Sad0080: 21300414
-      Clank_Idle0022: 21300050
-      Clank_Walk0008: 21300032
-      Clank_Idle0009: 21300184
-      Clank_Idle0001: 21300200
-      Clank_Sad0049: 21300160
-      Clank_Sad0036: 21300352
-      Clank_Sad0031: 21300202
-      Clank_Sad0048: 21300290
-      Clank_Idle0084: 21300336
-      Clank_Sad0026: 21300308
-      Clank_Sad0041: 21300090
-      Clank_Idle0058: 21300122
-      Clank_Idle0066: 21300158
-      Clank_Idle0054: 21300422
-      Clank_Idle0028: 21300192
-      Clank_Idle0046: 21300302
-      Clank_Sad0033: 21300358
-      Clank_Idle0108: 21300118
-      Clank_Sad0037: 21300174
-      Clank_Sad0025: 21300282
-      Clank_Sad0068: 21300190
-      Clank_Idle0059: 21300354
-      Clank_Idle0069: 21300218
-      Clank_Idle0065: 21300244
-      Clank_Idle0026: 21300392
-      Clank_Walk0009: 21300084
-      Clank_Idle0096: 21300262
-      Clank_Sad0054: 21300280
-      Clank_Idle0119: 21300292
-      Clank_Sad0032: 21300418
-      Clank_Idle0011: 21300246
-      Clank_Idle0102: 21300366
-      Clank_Idle0113: 21300042
-      Clank_Idle0104: 21300294
-      Clank_Sad0055: 21300198
-      Clank_Idle0023: 21300356
-      Clank_Idle0015: 21300022
-      Clank_Idle0038: 21300024
-      Clank_Idle0039: 21300062
-      Clank_Idle0048: 21300278
-      Clank_Idle0060: 21300404
-      Clank_Idle0004: 21300168
-      Clank_Sad0052: 21300286
-      Clank_Idle0042: 21300298
-      Clank_Sad0030: 21300332
-      Clank_Sad0017: 21300134
-      Clank_Idle0027: 21300072
-      Clank_Idle0081: 21300398
-      Clank_Sad0014: 21300150
-      Clank_Sad0005: 21300252
-      Clank_Sad0040: 21300284
-      Clank_Idle0099: 21300102
-      Clank_Sad0076: 21300346
-      Clank_Idle0007: 21300136
-      Clank_Sad0070: 21300388
-      Clank_Idle0029: 21300100
-      Clank_Walk0011: 21300116
-      Clank_Idle0008: 21300400
-      Clank_Idle0100: 21300182
-      Clank_Idle0075: 21300426
-      Clank_Idle0031: 21300312
-      Clank_Idle0109: 21300304
-      Clank_Sad0003: 21300086
-      Clank_Sad0051: 21300128
-      Clank_Idle0087: 21300206
-      Clank_Sad0045: 21300222
-      Clank_Idle0118: 21300340
-      Clank_Sad0061: 21300396
-      Clank_Idle0107: 21300214
-      Clank_Idle0094: 21300152
-      Clank_Sad0058: 21300334
-      Clank_Sad0065: 21300412
-      Clank_Sad0064: 21300112
-      Clank_Idle0057: 21300326
-      Clank_Idle0086: 21300008
-      Clank_Idle0024: 21300270
-      Clank_Sad0074: 21300178
-      Clank_Walk0005: 21300204
-      Clank_Idle0106: 21300140
-      Clank_Walk0012: 21300250
-      Clank_Sad0046: 21300406
-      Clank_Sad0062: 21300048
-      Clank_Sad0011: 21300248
-      Clank_Scared0002: 21300232
-      Clank_Walk0002: 21300380
-      Clank_Idle0010: 21300094
-      Clank_Idle0080: 21300394
-      Clank_Sad0077: 21300076
-      Clank_Sad0024: 21300240
-      Clank_Walk0001: 21300362
-      Clank_Idle0003: 21300196
-      Clank_Idle0073: 21300188
-      Clank_Idle0021: 21300110
-      Clank_Sad0007: 21300170
-      Clank_Sad0063: 21300058
-      Clank_Idle0083: 21300126
-      Clank_Idle0051: 21300018
-      Clank_Idle0005: 21300194
-      Clank_Idle0115: 21300236
-      Clank_Idle0030: 21300066
-      Clank_Sad0073: 21300350
-      Clank_Idle0044: 21300000
-      Clank_Idle0097: 21300176
-      Clank_Sad0066: 21300258
-      Clank_Idle0050: 21300310
-      Clank_Sad0020: 21300038
-      Clank_Idle0090: 21300014
-      Clank_Sad0013: 21300364
-      Clank_Idle0101: 21300030
-      Clank_Idle0062: 21300114
-      Clank_Sad0001: 21300316
-      Clank_Sad0050: 21300296
-      Clank_Sad0016: 21300020
-      Clank_Idle0036: 21300040
-      Clank_Idle0017: 21300390
-      Clank_Idle0063: 21300028
-      Clank_Idle0092: 21300078
-      Clank_Sad0006: 21300056
-      Clank_Sad0067: 21300266
-      Clank_Idle0085: 21300164
-      Clank_Idle0079: 21300314
-      Clank_Sad0056: 21300138
-      Clank_Idle0068: 21300124
-      Clank_Sad0069: 21300374
-      Clank_Walk0010: 21300324
-      Clank_Sad0029: 21300010
-      Clank_Idle0120: 21300370
-      Clank_Sad0042: 21300416
-      Clank_Idle0089: 21300130
-      Clank_Idle0013: 21300372
-      Clank_Idle0067: 21300208
-      Clank_Walk0004: 21300156
-      Clank_Idle0049: 21300044
-      Clank_Idle0012: 21300108
-      Clank_Idle0016: 21300006
-      Clank_Idle0053: 21300104
-      Clank_Sad0004: 21300254
-      Clank_Idle0014: 21300288
-      Clank_Idle0056: 21300384
-      Clank_Scared0001: 21300144
-      Clank_Idle0033: 21300036
-      Clank_Idle0034: 21300320
-      Clank_Idle0091: 21300220
-      Clank_Sad0053: 21300228
-      Clank_Sad0044: 21300212
-      Clank_Idle0103: 21300378
-      Clank_Sad0047: 21300276
-      Clank_Idle0105: 21300012
-      Clank_Idle0088: 21300242
-      Clank_Sad0027: 21300330
-      Clank_Idle0020: 21300424
-      Clank_Sad0009: 21300052
-      Clank_Idle0047: 21300368
-      Clank_Idle0019: 21300082
-      Clank_Idle0112: 21300344
-      Clank_Idle0074: 21300386
-      Clank_Sad0019: 21300172
-      Clank_Idle0052: 21300070
-      Clank_Sad0034: 21300410
-      Clank_Idle0110: 21300120
-      Clank_Sad0039: 21300132
-      Clank_Idle0037: 21300064
-      Clank_Idle0025: 21300026
-      Clank_Idle0070: 21300060
-      Clank_Sad0059: 21300068
-      Clank_Sad0079: 21300148
-      Clank_Idle0111: 21300376
-      Clank_Sad0035: 21300186
-      Clank_Sad0043: 21300260
-      Clank_Sad0022: 21300238
-      Clank_Sad0038: 21300306
-      Clank_Sad0028: 21300210
-      Clank_Sad0057: 21300002
-      Clank_Idle0098: 21300402
-      Clank_Idle0041: 21300274
-      Clank_Idle0040: 21300256
-      Clank_Idle0095: 21300146
-      Clank_Idle0116: 21300226
-      Clank_Idle0077: 21300106
-      Clank_Sad0060: 21300180
-      Clank_Idle0114: 21300420
-      Clank_Sad0023: 21300322
-      Clank_Sad0002: 21300046
-      Clank_Sad0021: 21300162
-      Clank_Sad0078: 21300224
-      Clank_Sad0015: 21300092
-      Clank_Sad0008: 21300318
-      Clank_Idle0032: 21300004
-      Clank_Idle0072: 21300408
-      Clank_Idle0002: 21300098
-      Clank_Idle0071: 21300166
-      Clank_Idle0018: 21300328
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,420 +1,145 @@
 fileFormatVersion: 2
 guid: 000e420e13a0680418c43976b8ab205b
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: hat_w21_elf_pink
-  - first:
-      213: 21300002
-    second: skin_w21_msclaus
-  - first:
-      213: 21300004
-    second: hat_mohawk_bumblebee
-  - first:
-      213: 21300006
-    second: hat_pk04_HunterCap
-  - first:
-      213: 21300008
-    second: hat_pk05_Burthat
-  - first:
-      213: 21300010
-    second: hat_pk05_RHM
-  - first:
-      213: 21300012
-    second: hat_Igloo
-  - first:
-      213: 21300014
-    second: hat_screamghostface
-  - first:
-      213: 21300016
-    second: skin_w21_santa
-  - first:
-      213: 21300018
-    second: hat_pkHW01_Machete
-  - first:
-      213: 21300020
-    second: pet_coaltonpet
-  - first:
-      213: 21300022
-    second: hat_hl_moona
-  - first:
-      213: 21300024
-    second: hat_glowstick
-  - first:
-      213: 21300026
-    second: hat_witch_white
-  - first:
-      213: 21300028
-    second: skin_screamghostface
-  - first:
-      213: 21300030
-    second: hat_schnapp
-  - first:
-      213: 21300032
-    second: skin_BushSign1skin
-  - first:
-      213: 21300034
-    second: skin_w21_tree
-  - first:
-      213: 21300036
-    second: hat_CuppaJoe
-  - first:
-      213: 21300038
-    second: hat_bat_green
-  - first:
-      213: 21300040
-    second: hat_SnowbeanieOrange
-  - first:
-      213: 21300042
-    second: skin_hl_pekora
-  - first:
-      213: 21300044
-    second: hat_Snowman
-  - first:
-      213: 21300046
-    second: hat_w21_snowman
-  - first:
-      213: 21300048
-    second: hat_hl_risu
-  - first:
-      213: 21300050
-    second: hat_EarmuffGreen
-  - first:
-      213: 21300052
-    second: hat_pk02_TenGallonHat
-  - first:
-      213: 21300054
-    second: hat_Paperhat_Black
-  - first:
-      213: 21300056
-    second: hat_pk05_Ellie
-  - first:
-      213: 21300058
-    second: hat_pk05_Macbethhat
-  - first:
-      213: 21300060
-    second: hat_AbominalHat
-  - first:
-      213: 21300062
-    second: hat_mira_flower_red
-  - first:
-      213: 21300064
-    second: hat_ToppatHair
-  - first:
-      213: 21300066
-    second: hat_pk05_Helmet
-  - first:
-      213: 21300068
-    second: hat_EarmuffsYellow
-  - first:
-      213: 21300070
-    second: skin_YellowApronskin
-  - first:
-      213: 21300072
-    second: hat_pk05_cheesetoppat
-  - first:
-      213: 21300074
-    second: hat_ratchet
-  - first:
-      213: 21300076
-    second: hat_Rupert
-  - first:
-      213: 21300078
-    second: hat_hl_watson
-  - first:
-      213: 21300080
-    second: hat_pkHW01_BatWings
-  - first:
-      213: 21300082
-    second: skin_Box1skin
-  - first:
-      213: 21300084
-    second: hat_DrillStone
-  - first:
-      213: 21300086
-    second: hat_witch_pink
-  - first:
-      213: 21300088
-    second: hat_pkHW01_Mohawk
-  - first:
-      213: 21300090
-    second: hat_HardtopHat
-  - first:
-      213: 21300092
-    second: hat_Records
-  - first:
-      213: 21300094
-    second: skin_ApronGreen
-  - first:
-      213: 21300096
-    second: skin_w21_elf
-  - first:
-      213: 21300098
-    second: skin_heim
-  - first:
-      213: 21300100
-    second: hat_Scrudge
-  - first:
-      213: 21300102
-    second: hat_GovtHeadset
-  - first:
-      213: 21300104
-    second: hat_WilfordIV
-  - first:
-      213: 21300106
-    second: hat_w21_mittens
-  - first:
-      213: 21300108
-    second: skin_clown
-  - first:
-      213: 21300110
-    second: hat_bat_crewcolor
-  - first:
-      213: 21300112
-    second: hat_TenGallon_Black
-  - first:
-      213: 21300114
-    second: hat_Paperhat_Blue
-  - first:
-      213: 21300116
-    second: hat_SnowBeaniePurple
-  - first:
-      213: 21300118
-    second: hat_EarmuffsPink
-  - first:
-      213: 21300120
-    second: hat_jinx
-  - first:
-      213: 21300122
-    second: hat_ThomasC
-  - first:
-      213: 21300124
-    second: hat_mohawk_bubblegum
-  - first:
-      213: 21300126
-    second: skin_PinkApronskin
-  - first:
-      213: 21300128
-    second: hat_pk04_Vagabond
-  - first:
-      213: 21300130
-    second: hat_hl_fubuki
-  - first:
-      213: 21300132
-    second: hat_mira_headset_pink
-  - first:
-      213: 21300134
-    second: hat_hl_marine
-  - first:
-      213: 21300136
-    second: hat_SnowbeanieGreen
-  - first:
-      213: 21300138
-    second: hat_clown_purple
-  - first:
-      213: 21300140
-    second: skin_fairy
-  - first:
-      213: 21300142
-    second: visor_Stealthgoggles
-  - first:
-      213: 21300144
-    second: hat_DrillMetal
-  - first:
-      213: 21300146
-    second: skin_hl_korone
-  - first:
-      213: 21300148
-    second: hat_mareLwyd
-  - first:
-      213: 21300150
-    second: skin_vampire
-  - first:
-      213: 21300152
-    second: hat_caitlin
-  - first:
-      213: 21300154
-    second: hat_hl_mio
-  - first:
-      213: 21300156
-    second: skin_RockLavaskin
-  - first:
-      213: 21300158
-    second: skin_pumpkin
-  - first:
-      213: 21300160
-    second: hat_PancakeStack
-  - first:
-      213: 21300162
-    second: hat_EarnmuffBlue
-  - first:
-      213: 21300164
-    second: visor_w21_nye
-  - first:
-      213: 21300166
-    second: hat_pkHW01_Witch
-  - first:
-      213: 21300168
-    second: hat_Baguette
-  - first:
-      213: 21300170
-    second: pet_Robot
-  - first:
-      213: 21300172
-    second: hat_doubletophat
-  - first:
-      213: 21300174
-    second: hat_bat_ice
-  - first:
-      213: 21300176
-    second: hat_pk04_Archae
-  - first:
-      213: 21300178
-    second: skin_witch
-  - first:
-      213: 21300180
-    second: skin_BlueApronskin
-  - first:
-      213: 21300182
-    second: hat_wigTall
-  - first:
-      213: 21300184
-    second: hat_SnowbeanieRed
-  - first:
-      213: 21300186
-    second: hat_w21_mistletoe
-  - first:
-      213: 21300188
-    second: hat_witch_murky
-  - first:
-      213: 21300190
-    second: hat_mohawk_purple_green
-  - first:
-      213: 21300192
-    second: hat_pk05_Fedora
-  - first:
-      213: 21300194
-    second: hat_mira_headset_blue
-  - first:
-      213: 21300196
-    second: hat_w21_snowflake
-  - first:
-      213: 21300198
-    second: hat_geoff
-  - first:
-      213: 21300200
-    second: hat_Paperhat_Lightblue
-  - first:
-      213: 21300202
-    second: skin_hl_risu
-  - first:
-      213: 21300204
-    second: hat_w21_gingerbread
-  - first:
-      213: 21300206
-    second: hat_hl_gura
-  - first:
-      213: 21300208
-    second: hat_DrillWood
-  - first:
-      213: 21300210
-    second: skin_RockIceskin
-  - first:
-      213: 21300212
-    second: hat_hl_okayu
-  - first:
-      213: 21300214
-    second: hat_pk06_Reindeer
-  - first:
-      213: 21300216
-    second: hat_Pineapple
-  - first:
-      213: 21300218
-    second: hat_TenGallon_White
-  - first:
-      213: 21300220
-    second: hat_w21_nutcracker
-  - first:
-      213: 21300222
-    second: hat_pk03_StrapHat
-  - first:
-      213: 21300224
-    second: hat_pk03_Headphones
-  - first:
-      213: 21300226
-    second: hat_hl_pekora
-  - first:
-      213: 21300228
-    second: hat_w21_krampus
-  - first:
-      213: 21300230
-    second: hat_witch_green
-  - first:
-      213: 21300232
-    second: hat_mohawk_rainbow
-  - first:
-      213: 21300234
-    second: skin_hl_watson
-  - first:
-      213: 21300236
-    second: hat_pk05_Svenhat
-  - first:
-      213: 21300238
-    second: hat_Unicorn
-  - first:
-      213: 21300240
-    second: skin_w21_snowmate
-  - first:
-      213: 21300242
-    second: hat_heim
-  - first:
-      213: 21300244
-    second: hat_halospartan
-  - first:
-      213: 21300246
-    second: hat_hl_korone
-  - first:
-      213: 21300248
-    second: hat_w21_elf_swe
-  - first:
-      213: 21300250
-    second: hat_Paperhat_Cyan
-  - first:
-      213: 21300252
-    second: hat_tophat
-  - first:
-      213: 21300254
-    second: hat_mira_headset_yellow
-  - first:
-      213: 21300256
-    second: visor_BananaVisor
-  - first:
-      213: 21300258
-    second: hat_mira_flower
-  - first:
-      213: 21300260
-    second: skin_hl_marine
-  - first:
-      213: 21300262
-    second: hat_enforcer
-  - first:
-      213: 21300264
-    second: skin_Hotdogskin
-  - first:
-      213: 21300266
-    second: hat_Sorry
-  - first:
-      213: 21300268
-    second: skin_uglysweaterskin
-  - first:
-      213: 21300270
-    second: hat_frankenbride
-  - first:
-      213: 21300272
-    second: skin_Bananaskin
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: hat_w21_elf_pink
+    21300002: skin_w21_msclaus
+    21300004: hat_mohawk_bumblebee
+    21300006: hat_pk04_HunterCap
+    21300008: hat_pk05_Burthat
+    21300010: hat_pk05_RHM
+    21300012: hat_Igloo
+    21300014: hat_screamghostface
+    21300016: skin_w21_santa
+    21300018: hat_pkHW01_Machete
+    21300020: pet_coaltonpet
+    21300022: hat_hl_moona
+    21300024: hat_glowstick
+    21300026: hat_witch_white
+    21300028: skin_screamghostface
+    21300030: hat_schnapp
+    21300032: skin_BushSign1skin
+    21300034: skin_w21_tree
+    21300036: hat_CuppaJoe
+    21300038: hat_bat_green
+    21300040: hat_SnowbeanieOrange
+    21300042: skin_hl_pekora
+    21300044: hat_Snowman
+    21300046: hat_w21_snowman
+    21300048: hat_hl_risu
+    21300050: hat_EarmuffGreen
+    21300052: hat_pk02_TenGallonHat
+    21300054: hat_Paperhat_Black
+    21300056: hat_pk05_Ellie
+    21300058: hat_pk05_Macbethhat
+    21300060: hat_AbominalHat
+    21300062: hat_mira_flower_red
+    21300064: hat_ToppatHair
+    21300066: hat_pk05_Helmet
+    21300068: hat_EarmuffsYellow
+    21300070: skin_YellowApronskin
+    21300072: hat_pk05_cheesetoppat
+    21300074: hat_ratchet
+    21300076: hat_Rupert
+    21300078: hat_hl_watson
+    21300080: hat_pkHW01_BatWings
+    21300082: skin_Box1skin
+    21300084: hat_DrillStone
+    21300086: hat_witch_pink
+    21300088: hat_pkHW01_Mohawk
+    21300090: hat_HardtopHat
+    21300092: hat_Records
+    21300094: skin_ApronGreen
+    21300096: skin_w21_elf
+    21300098: skin_heim
+    21300100: hat_Scrudge
+    21300102: hat_GovtHeadset
+    21300104: hat_WilfordIV
+    21300106: hat_w21_mittens
+    21300108: skin_clown
+    21300110: hat_bat_crewcolor
+    21300112: hat_TenGallon_Black
+    21300114: hat_Paperhat_Blue
+    21300116: hat_SnowBeaniePurple
+    21300118: hat_EarmuffsPink
+    21300120: hat_jinx
+    21300122: hat_ThomasC
+    21300124: hat_mohawk_bubblegum
+    21300126: skin_PinkApronskin
+    21300128: hat_pk04_Vagabond
+    21300130: hat_hl_fubuki
+    21300132: hat_mira_headset_pink
+    21300134: hat_hl_marine
+    21300136: hat_SnowbeanieGreen
+    21300138: hat_clown_purple
+    21300140: skin_fairy
+    21300142: visor_Stealthgoggles
+    21300144: hat_DrillMetal
+    21300146: skin_hl_korone
+    21300148: hat_mareLwyd
+    21300150: skin_vampire
+    21300152: hat_caitlin
+    21300154: hat_hl_mio
+    21300156: skin_RockLavaskin
+    21300158: skin_pumpkin
+    21300160: hat_PancakeStack
+    21300162: hat_EarnmuffBlue
+    21300164: visor_w21_nye
+    21300166: hat_pkHW01_Witch
+    21300168: hat_Baguette
+    21300170: pet_Robot
+    21300172: hat_doubletophat
+    21300174: hat_bat_ice
+    21300176: hat_pk04_Archae
+    21300178: skin_witch
+    21300180: skin_BlueApronskin
+    21300182: hat_wigTall
+    21300184: hat_SnowbeanieRed
+    21300186: hat_w21_mistletoe
+    21300188: hat_witch_murky
+    21300190: hat_mohawk_purple_green
+    21300192: hat_pk05_Fedora
+    21300194: hat_mira_headset_blue
+    21300196: hat_w21_snowflake
+    21300198: hat_geoff
+    21300200: hat_Paperhat_Lightblue
+    21300202: skin_hl_risu
+    21300204: hat_w21_gingerbread
+    21300206: hat_hl_gura
+    21300208: hat_DrillWood
+    21300210: skin_RockIceskin
+    21300212: hat_hl_okayu
+    21300214: hat_pk06_Reindeer
+    21300216: hat_Pineapple
+    21300218: hat_TenGallon_White
+    21300220: hat_w21_nutcracker
+    21300222: hat_pk03_StrapHat
+    21300224: hat_pk03_Headphones
+    21300226: hat_hl_pekora
+    21300228: hat_w21_krampus
+    21300230: hat_witch_green
+    21300232: hat_mohawk_rainbow
+    21300234: skin_hl_watson
+    21300236: hat_pk05_Svenhat
+    21300238: hat_Unicorn
+    21300240: skin_w21_snowmate
+    21300242: hat_heim
+    21300244: hat_halospartan
+    21300246: hat_hl_korone
+    21300248: hat_w21_elf_swe
+    21300250: hat_Paperhat_Cyan
+    21300252: hat_tophat
+    21300254: hat_mira_headset_yellow
+    21300256: visor_BananaVisor
+    21300258: hat_mira_flower
+    21300260: skin_hl_marine
+    21300262: hat_enforcer
+    21300264: skin_Hotdogskin
+    21300266: hat_Sorry
+    21300268: skin_uglysweaterskin
+    21300270: hat_frankenbride
+    21300272: skin_Bananaskin
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -422,8 +147,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -431,12 +154,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -444,13 +162,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -459,97 +174,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -575,15 +258,7 @@ TextureImporter:
         - {x: 69.5, y: -42}
         - {x: 26.499998, y: -52}
         - {x: -39.5, y: -52}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_w21_msclaus
       rect:
@@ -605,15 +280,7 @@ TextureImporter:
         - {x: 114.5, y: 9}
         - {x: 114.5, y: -45}
         - {x: 110.5, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mohawk_bumblebee
       rect:
@@ -635,15 +302,7 @@ TextureImporter:
         - {x: -73.5, y: -35.5}
         - {x: 16.5, y: -70.5}
         - {x: 56.5, y: -70.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk04_HunterCap
       rect:
@@ -663,15 +322,7 @@ TextureImporter:
         - {x: -81.5, y: 7.5000005}
         - {x: -81.5, y: 60.5}
         - {x: -24.5, y: 67.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_Burthat
       rect:
@@ -690,15 +341,7 @@ TextureImporter:
         - {x: -83, y: 86}
         - {x: 11, y: 86}
         - {x: 86, y: 33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_RHM
       rect:
@@ -723,15 +366,7 @@ TextureImporter:
         - {x: -87, y: -38}
         - {x: 9, y: -88}
         - {x: 82, y: -88}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Igloo
       rect:
@@ -750,15 +385,7 @@ TextureImporter:
         - {x: -69.5, y: 43}
         - {x: 57.5, y: 43}
         - {x: 72.5, y: 30.000002}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_screamghostface
       rect:
@@ -781,15 +408,7 @@ TextureImporter:
         - {x: 51, y: 85}
         - {x: 41, y: 86}
         - {x: 11, y: 86}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_w21_santa
       rect:
@@ -811,15 +430,7 @@ TextureImporter:
         - {x: 72.5, y: 58}
         - {x: 72.5, y: -48}
         - {x: 35.5, y: -64}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pkHW01_Machete
       rect:
@@ -839,15 +450,7 @@ TextureImporter:
         - {x: 62.5, y: -69.5}
         - {x: 104.49999, y: -69.5}
         - {x: 104.49999, y: -1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_coaltonpet
       rect:
@@ -864,15 +467,7 @@ TextureImporter:
         - {x: -83.5, y: -78.5}
         - {x: -83.5, y: 78.5}
         - {x: 83.5, y: 78.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_moona
       rect:
@@ -892,15 +487,7 @@ TextureImporter:
         - {x: 75, y: 83}
         - {x: 75, y: -12}
         - {x: 14, y: -83}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_glowstick
       rect:
@@ -925,15 +512,7 @@ TextureImporter:
         - {x: -61.5, y: -60.5}
         - {x: -70.5, y: -58.499996}
         - {x: -80.5, y: -55.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_witch_white
       rect:
@@ -957,15 +536,7 @@ TextureImporter:
         - {x: -104.49999, y: 37}
         - {x: -77.5, y: 60.000004}
         - {x: 52.499996, y: 60.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_screamghostface
       rect:
@@ -984,15 +555,7 @@ TextureImporter:
         - {x: 77, y: 67.5}
         - {x: 77, y: -63.5}
         - {x: 58.999996, y: -67.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_schnapp
       rect:
@@ -1016,15 +579,7 @@ TextureImporter:
         - {x: 22, y: -31}
         - {x: 58, y: -42}
         - {x: 72, y: -55}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_BushSign1skin
       rect:
@@ -1049,15 +604,7 @@ TextureImporter:
         - {x: 87, y: -49}
         - {x: 79, y: -52}
         - {x: -9, y: -57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_w21_tree
       rect:
@@ -1077,15 +624,7 @@ TextureImporter:
         - {x: 96, y: 58.499996}
         - {x: 96, y: -42.5}
         - {x: 51, y: -58.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_CuppaJoe
       rect:
@@ -1105,15 +644,7 @@ TextureImporter:
         - {x: 49, y: 55.5}
         - {x: 65, y: 32.5}
         - {x: 65, y: -41.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_bat_green
       rect:
@@ -1141,15 +672,7 @@ TextureImporter:
         - {x: -10, y: -24}
         - {x: -17, y: -50}
         - {x: -63, y: -50}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_SnowbeanieOrange
       rect:
@@ -1171,15 +694,7 @@ TextureImporter:
         - {x: 63, y: -3}
         - {x: 60.000004, y: -12}
         - {x: -16, y: -84}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_hl_pekora
       rect:
@@ -1200,15 +715,7 @@ TextureImporter:
         - {x: 84, y: 57.5}
         - {x: 84, y: -26.499998}
         - {x: 58, y: -62.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Snowman
       rect:
@@ -1228,15 +735,7 @@ TextureImporter:
         - {x: 63.5, y: 80}
         - {x: 63.5, y: -68}
         - {x: 56.5, y: -80}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_snowman
       rect:
@@ -1258,15 +757,7 @@ TextureImporter:
         - {x: 71, y: 12.5}
         - {x: 71, y: -28.5}
         - {x: 41, y: -59.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_risu
       rect:
@@ -1286,15 +777,7 @@ TextureImporter:
         - {x: 74, y: 79}
         - {x: 74, y: -3}
         - {x: -33, y: -79}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_EarmuffGreen
       rect:
@@ -1316,15 +799,7 @@ TextureImporter:
         - {x: 82, y: 13.500001}
         - {x: 82, y: -51.5}
         - {x: 69, y: -59.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk02_TenGallonHat
       rect:
@@ -1344,15 +819,7 @@ TextureImporter:
         - {x: 48, y: 63}
         - {x: 87, y: 52}
         - {x: 87, y: -39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Paperhat_Black
       rect:
@@ -1371,15 +838,7 @@ TextureImporter:
         - {x: -14.5, y: 51.5}
         - {x: 10.5, y: 51.5}
         - {x: 59.500004, y: -1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_Ellie
       rect:
@@ -1400,15 +859,7 @@ TextureImporter:
         - {x: 79.5, y: 58.999996}
         - {x: 79.5, y: -8}
         - {x: -6.5, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_Macbethhat
       rect:
@@ -1430,15 +881,7 @@ TextureImporter:
         - {x: 71, y: -11.5}
         - {x: 71, y: -54.5}
         - {x: 43, y: -69.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_AbominalHat
       rect:
@@ -1459,15 +902,7 @@ TextureImporter:
         - {x: 76.5, y: 29}
         - {x: 76.5, y: -37}
         - {x: -6.5, y: -72}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mira_flower_red
       rect:
@@ -1488,15 +923,7 @@ TextureImporter:
         - {x: 92.5, y: 44.5}
         - {x: 92.5, y: -27.5}
         - {x: 71.5, y: -68.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_ToppatHair
       rect:
@@ -1519,15 +946,7 @@ TextureImporter:
         - {x: 73, y: 23.5}
         - {x: 73, y: -29.499998}
         - {x: -14, y: -86.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_Helmet
       rect:
@@ -1547,15 +966,7 @@ TextureImporter:
         - {x: 35.5, y: 62}
         - {x: 72.5, y: -15.000001}
         - {x: 72.5, y: -62}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_EarmuffsYellow
       rect:
@@ -1575,15 +986,7 @@ TextureImporter:
         - {x: 74, y: 58.999996}
         - {x: 82, y: 36}
         - {x: 82, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_YellowApronskin
       rect:
@@ -1605,15 +1008,7 @@ TextureImporter:
         - {x: 78, y: -42.5}
         - {x: 61, y: -62.5}
         - {x: 55, y: -63.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_cheesetoppat
       rect:
@@ -1635,15 +1030,7 @@ TextureImporter:
         - {x: 40.5, y: 65}
         - {x: 67.5, y: 9}
         - {x: 67.5, y: -36}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_ratchet
       rect:
@@ -1664,15 +1051,7 @@ TextureImporter:
         - {x: 54.000004, y: -45}
         - {x: -35, y: -62}
         - {x: -36, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Rupert
       rect:
@@ -1695,15 +1074,7 @@ TextureImporter:
         - {x: 67, y: 57.5}
         - {x: 67, y: -31.5}
         - {x: 13, y: -67.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_watson
       rect:
@@ -1726,15 +1097,7 @@ TextureImporter:
         - {x: 5, y: -64}
         - {x: -10, y: -70}
         - {x: -40, y: -70}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pkHW01_BatWings
       rect:
@@ -1762,15 +1125,7 @@ TextureImporter:
         - {x: -10.5, y: 11}
         - {x: -10.5, y: -27.000002}
         - {x: -15.5, y: -50}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_Box1skin
       rect:
@@ -1794,15 +1149,7 @@ TextureImporter:
         - {x: 35.5, y: -61.5}
         - {x: -25.5, y: -61.5}
         - {x: -83.5, y: -45.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_DrillStone
       rect:
@@ -1824,15 +1171,7 @@ TextureImporter:
         - {x: 54.5, y: -29}
         - {x: -37.5, y: -57}
         - {x: -49.5, y: -57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_witch_pink
       rect:
@@ -1852,15 +1191,7 @@ TextureImporter:
         - {x: 105.49999, y: 3}
         - {x: 105.49999, y: -32}
         - {x: 78.5, y: -60.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pkHW01_Mohawk
       rect:
@@ -1881,15 +1212,7 @@ TextureImporter:
         - {x: -89.5, y: 65.5}
         - {x: -89.5, y: -14.5}
         - {x: -11.5, y: -70.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_HardtopHat
       rect:
@@ -1909,15 +1232,7 @@ TextureImporter:
         - {x: 23, y: 60.5}
         - {x: 79, y: 28.5}
         - {x: 79, y: -55.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Records
       rect:
@@ -1936,15 +1251,7 @@ TextureImporter:
         - {x: -60.000004, y: 72}
         - {x: -10, y: 72}
         - {x: 67, y: 31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_ApronGreen
       rect:
@@ -1965,15 +1272,7 @@ TextureImporter:
         - {x: 78, y: 35}
         - {x: 78, y: -31}
         - {x: 55, y: -64}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_w21_elf
       rect:
@@ -1998,15 +1297,7 @@ TextureImporter:
         - {x: 58.499996, y: -49}
         - {x: 28.5, y: -62}
         - {x: -49.5, y: -62}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_heim
       rect:
@@ -2027,15 +1318,7 @@ TextureImporter:
         - {x: 77, y: 45.5}
         - {x: 77, y: -37.5}
         - {x: 55, y: -60.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Scrudge
       rect:
@@ -2057,15 +1340,7 @@ TextureImporter:
         - {x: -64, y: -30.5}
         - {x: 7, y: -79.5}
         - {x: 48, y: -79.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_GovtHeadset
       rect:
@@ -2085,15 +1360,7 @@ TextureImporter:
         - {x: 58.999996, y: 58.999996}
         - {x: 88, y: 27.000002}
         - {x: 88, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_WilfordIV
       rect:
@@ -2116,15 +1383,7 @@ TextureImporter:
         - {x: 88, y: -70}
         - {x: 83, y: -90}
         - {x: -51, y: -90}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_mittens
       rect:
@@ -2156,15 +1415,7 @@ TextureImporter:
         - {x: 3.5, y: 6.5}
         - {x: 4.5, y: 3.5}
         - {x: 4.5, y: -31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_clown
       rect:
@@ -2186,15 +1437,7 @@ TextureImporter:
         - {x: 83.5, y: -25}
         - {x: 58.499996, y: -60.000004}
         - {x: -69.5, y: -60.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_bat_crewcolor
       rect:
@@ -2223,15 +1466,7 @@ TextureImporter:
         - {x: -10.5, y: -27.000002}
         - {x: -16.5, y: -50}
         - {x: -62.5, y: -50}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_TenGallon_Black
       rect:
@@ -2251,15 +1486,7 @@ TextureImporter:
         - {x: 29, y: 63}
         - {x: 73, y: 16}
         - {x: 87, y: 9}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Paperhat_Blue
       rect:
@@ -2278,15 +1505,7 @@ TextureImporter:
         - {x: -13.500001, y: 51.5}
         - {x: 11.5, y: 51.5}
         - {x: 59.500004, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_SnowBeaniePurple
       rect:
@@ -2308,15 +1527,7 @@ TextureImporter:
         - {x: 63, y: -3}
         - {x: 60.000004, y: -12}
         - {x: -16, y: -84}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_EarmuffsPink
       rect:
@@ -2335,15 +1546,7 @@ TextureImporter:
         - {x: -52.999996, y: 58.999996}
         - {x: 38, y: 58.999996}
         - {x: 82, y: 17}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_jinx
       rect:
@@ -2363,15 +1566,7 @@ TextureImporter:
         - {x: 47, y: 101}
         - {x: 71, y: 79}
         - {x: 71, y: -22}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_ThomasC
       rect:
@@ -2391,15 +1586,7 @@ TextureImporter:
         - {x: 33.5, y: 79}
         - {x: 71.5, y: 18}
         - {x: 71.5, y: -75}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mohawk_bubblegum
       rect:
@@ -2421,15 +1608,7 @@ TextureImporter:
         - {x: 89.5, y: -10}
         - {x: -4.5, y: -71}
         - {x: -61.5, y: -71}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_PinkApronskin
       rect:
@@ -2450,15 +1629,7 @@ TextureImporter:
         - {x: 78, y: 44.5}
         - {x: 78, y: -48.5}
         - {x: 58, y: -63.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk04_Vagabond
       rect:
@@ -2481,15 +1652,7 @@ TextureImporter:
         - {x: -70, y: -48.5}
         - {x: -50, y: -65.5}
         - {x: 1, y: -65.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_fubuki
       rect:
@@ -2508,15 +1671,7 @@ TextureImporter:
         - {x: 52.499996, y: 68}
         - {x: 66.5, y: 57}
         - {x: 66.5, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mira_headset_pink
       rect:
@@ -2549,15 +1704,7 @@ TextureImporter:
         - {x: -37, y: 29.499998}
         - {x: -28, y: 19.5}
         - {x: -22, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_marine
       rect:
@@ -2576,15 +1723,7 @@ TextureImporter:
         - {x: 79.5, y: -70}
         - {x: -85.5, y: -70}
         - {x: -85.5, y: 35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_SnowbeanieGreen
       rect:
@@ -2606,15 +1745,7 @@ TextureImporter:
         - {x: -63, y: -3}
         - {x: -60.000004, y: -12}
         - {x: 16, y: -84}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_clown_purple
       rect:
@@ -2642,15 +1773,7 @@ TextureImporter:
         - {x: 1, y: -51.5}
         - {x: -8, y: -53.500004}
         - {x: -82, y: -53.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_fairy
       rect:
@@ -2672,15 +1795,7 @@ TextureImporter:
         - {x: 86.5, y: 59.500004}
         - {x: 86.5, y: -21.5}
         - {x: 45.5, y: -64.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: visor_Stealthgoggles
       rect:
@@ -2703,15 +1818,7 @@ TextureImporter:
         - {x: 95, y: -41.5}
         - {x: 63, y: -86.5}
         - {x: -28, y: -86.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_DrillMetal
       rect:
@@ -2733,15 +1840,7 @@ TextureImporter:
         - {x: 54.5, y: 3}
         - {x: 54.5, y: -29}
         - {x: -37.5, y: -57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_hl_korone
       rect:
@@ -2763,15 +1862,7 @@ TextureImporter:
         - {x: 80.5, y: 47.5}
         - {x: 80.5, y: -55.5}
         - {x: 60.5, y: -61.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mareLwyd
       rect:
@@ -2793,15 +1884,7 @@ TextureImporter:
         - {x: -86, y: 30.000002}
         - {x: -84, y: 37}
         - {x: -0, y: 76}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_vampire
       rect:
@@ -2821,15 +1904,7 @@ TextureImporter:
         - {x: 103, y: 55.5}
         - {x: 103, y: -47.5}
         - {x: 52.999996, y: -64.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_caitlin
       rect:
@@ -2852,15 +1927,7 @@ TextureImporter:
         - {x: -70, y: -32.5}
         - {x: 33, y: -91.5}
         - {x: 58.999996, y: -91.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_mio
       rect:
@@ -2883,15 +1950,7 @@ TextureImporter:
         - {x: 77, y: -51}
         - {x: 12, y: -69}
         - {x: -16, y: -76}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_RockLavaskin
       rect:
@@ -2910,15 +1969,7 @@ TextureImporter:
         - {x: 71, y: 62.5}
         - {x: 71, y: -35.5}
         - {x: 47, y: -62.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_pumpkin
       rect:
@@ -2939,15 +1990,7 @@ TextureImporter:
         - {x: 98.5, y: 46}
         - {x: 107.50001, y: 19}
         - {x: 107.50001, y: -48}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_PancakeStack
       rect:
@@ -2965,15 +2008,7 @@ TextureImporter:
         - {x: -69.5, y: 13}
         - {x: -58.499996, y: 66}
         - {x: 69.5, y: 66}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_EarnmuffBlue
       rect:
@@ -2993,15 +2028,7 @@ TextureImporter:
         - {x: 41, y: 58.999996}
         - {x: 82, y: 34}
         - {x: 82, y: -58}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: visor_w21_nye
       rect:
@@ -3021,15 +2048,7 @@ TextureImporter:
         - {x: 83, y: 25.5}
         - {x: 83, y: -16.5}
         - {x: 77, y: -37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pkHW01_Witch
       rect:
@@ -3049,15 +2068,7 @@ TextureImporter:
         - {x: 78.5, y: 60.000004}
         - {x: 105.49999, y: 24}
         - {x: 105.49999, y: -60.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Baguette
       rect:
@@ -3077,15 +2088,7 @@ TextureImporter:
         - {x: 47.5, y: 60.000004}
         - {x: 96.5, y: 60.000004}
         - {x: 96.5, y: -1}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_Robot
       rect:
@@ -3102,15 +2105,7 @@ TextureImporter:
         - {x: -79, y: -88.5}
         - {x: -79, y: 88.5}
         - {x: 79, y: 88.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_doubletophat
       rect:
@@ -3130,15 +2125,7 @@ TextureImporter:
         - {x: 72.5, y: 47.5}
         - {x: 72.5, y: -56.5}
         - {x: 43.5, y: -71.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_bat_ice
       rect:
@@ -3166,15 +2153,7 @@ TextureImporter:
         - {x: -10, y: -48}
         - {x: -14, y: -50}
         - {x: -58, y: -50}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk04_Archae
       rect:
@@ -3197,15 +2176,7 @@ TextureImporter:
         - {x: 81.5, y: 51.5}
         - {x: 24.5, y: 48.5}
         - {x: -1.5, y: 56.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_witch
       rect:
@@ -3224,15 +2195,7 @@ TextureImporter:
         - {x: 89, y: 71.5}
         - {x: 89, y: -50.5}
         - {x: 67, y: -71.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_BlueApronskin
       rect:
@@ -3254,15 +2217,7 @@ TextureImporter:
         - {x: 78, y: 56.5}
         - {x: 78, y: -44.5}
         - {x: 71, y: -63.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_wigTall
       rect:
@@ -3281,15 +2236,7 @@ TextureImporter:
         - {x: -40, y: 67.5}
         - {x: 42, y: 67.5}
         - {x: 75, y: 7.5000005}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_SnowbeanieRed
       rect:
@@ -3311,15 +2258,7 @@ TextureImporter:
         - {x: 63, y: -3}
         - {x: 60.000004, y: -12}
         - {x: -16, y: -84}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_mistletoe
       rect:
@@ -3349,15 +2288,7 @@ TextureImporter:
         - {x: 36, y: -38.5}
         - {x: 28, y: -37.5}
         - {x: 38, y: -40.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_witch_murky
       rect:
@@ -3377,15 +2308,7 @@ TextureImporter:
         - {x: 105.49999, y: 23}
         - {x: 105.49999, y: -35}
         - {x: 91.5, y: -60.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mohawk_purple_green
       rect:
@@ -3405,15 +2328,7 @@ TextureImporter:
         - {x: 89.5, y: 71}
         - {x: 89.5, y: -28}
         - {x: 24.5, y: -71}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_Fedora
       rect:
@@ -3433,15 +2348,7 @@ TextureImporter:
         - {x: 73, y: 37.5}
         - {x: 83, y: 17.5}
         - {x: 83, y: -37.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mira_headset_blue
       rect:
@@ -3466,15 +2373,7 @@ TextureImporter:
         - {x: 37, y: -57.5}
         - {x: -23, y: -21.5}
         - {x: -33, y: -43.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_snowflake
       rect:
@@ -3494,15 +2393,7 @@ TextureImporter:
         - {x: 82, y: 56.5}
         - {x: 82, y: -44.5}
         - {x: 20, y: -56.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_geoff
       rect:
@@ -3524,15 +2415,7 @@ TextureImporter:
         - {x: 72.5, y: -47}
         - {x: 52.499996, y: -68}
         - {x: -1.5, y: -68}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Paperhat_Lightblue
       rect:
@@ -3552,15 +2435,7 @@ TextureImporter:
         - {x: 9.5, y: 51.5}
         - {x: 59.500004, y: 14.5}
         - {x: 59.500004, y: -51.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_hl_risu
       rect:
@@ -3583,15 +2458,7 @@ TextureImporter:
         - {x: 85, y: 33.5}
         - {x: 85, y: -41.5}
         - {x: 75, y: -63.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_gingerbread
       rect:
@@ -3613,15 +2480,7 @@ TextureImporter:
         - {x: 52, y: 49}
         - {x: 52, y: -38}
         - {x: 49, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_gura
       rect:
@@ -3647,15 +2506,7 @@ TextureImporter:
         - {x: 74.5, y: -25}
         - {x: 86.5, y: -39}
         - {x: 79.5, y: -65}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_DrillWood
       rect:
@@ -3676,15 +2527,7 @@ TextureImporter:
         - {x: 54.5, y: 19}
         - {x: 54.5, y: -29}
         - {x: -25.5, y: -57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_RockIceskin
       rect:
@@ -3703,15 +2546,7 @@ TextureImporter:
         - {x: 71, y: 62.5}
         - {x: 71, y: -35.5}
         - {x: 47, y: -62.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_okayu
       rect:
@@ -3732,15 +2567,7 @@ TextureImporter:
         - {x: 79.5, y: 36.5}
         - {x: 79.5, y: -48.5}
         - {x: 45.5, y: -58.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk06_Reindeer
       rect:
@@ -3761,15 +2588,7 @@ TextureImporter:
         - {x: 75, y: -29}
         - {x: 72, y: -48}
         - {x: 64, y: -61}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Pineapple
       rect:
@@ -3791,15 +2610,7 @@ TextureImporter:
         - {x: 79.5, y: 56.5}
         - {x: 79.5, y: -52.499996}
         - {x: 57.5, y: -67.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_TenGallon_White
       rect:
@@ -3820,15 +2631,7 @@ TextureImporter:
         - {x: 87, y: 37}
         - {x: 87, y: -58.999996}
         - {x: 83, y: -63}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_nutcracker
       rect:
@@ -3850,15 +2653,7 @@ TextureImporter:
         - {x: 96, y: 43}
         - {x: 96, y: -93}
         - {x: 94, y: -94}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk03_StrapHat
       rect:
@@ -3881,15 +2676,7 @@ TextureImporter:
         - {x: 71, y: -66.5}
         - {x: 49, y: -82.5}
         - {x: 22, y: -82.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk03_Headphones
       rect:
@@ -3915,15 +2702,7 @@ TextureImporter:
         - {x: -41, y: -58.999996}
         - {x: 26, y: 15.000001}
         - {x: 23, y: 5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_pekora
       rect:
@@ -3947,15 +2726,7 @@ TextureImporter:
         - {x: 47, y: -84.5}
         - {x: -16, y: -57.5}
         - {x: -47, y: -84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_krampus
       rect:
@@ -3981,15 +2752,7 @@ TextureImporter:
         - {x: -119.50001, y: -46.5}
         - {x: -117.49999, y: -9.5}
         - {x: -110.5, y: 26.499998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_witch_green
       rect:
@@ -4011,15 +2774,7 @@ TextureImporter:
         - {x: 105.49999, y: -10}
         - {x: 105.49999, y: -33}
         - {x: 65.5, y: -60.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mohawk_rainbow
       rect:
@@ -4038,15 +2793,7 @@ TextureImporter:
         - {x: -78.5, y: 71}
         - {x: 89.5, y: 71}
         - {x: 89.5, y: -61}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_hl_watson
       rect:
@@ -4066,15 +2813,7 @@ TextureImporter:
         - {x: 77.5, y: 57}
         - {x: 77.5, y: -43}
         - {x: 51.5, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_pk05_Svenhat
       rect:
@@ -4096,15 +2835,7 @@ TextureImporter:
         - {x: 73.5, y: -2}
         - {x: 73.5, y: -61}
         - {x: 50.5, y: -71}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Unicorn
       rect:
@@ -4127,15 +2858,7 @@ TextureImporter:
         - {x: -43, y: 3}
         - {x: 20, y: 64}
         - {x: 28, y: 74}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_w21_snowmate
       rect:
@@ -4156,15 +2879,7 @@ TextureImporter:
         - {x: 111, y: 4.5}
         - {x: 95, y: -52.499996}
         - {x: 79, y: -69.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_heim
       rect:
@@ -4190,15 +2905,7 @@ TextureImporter:
         - {x: 87.5, y: 59.500004}
         - {x: 87.5, y: -46.5}
         - {x: 60.5, y: -73.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_halospartan
       rect:
@@ -4218,15 +2925,7 @@ TextureImporter:
         - {x: 71, y: 62}
         - {x: 71, y: -62}
         - {x: -27.000002, y: -62}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_hl_korone
       rect:
@@ -4247,15 +2946,7 @@ TextureImporter:
         - {x: 76.5, y: 43}
         - {x: 76.5, y: -31}
         - {x: 18.5, y: -58.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_w21_elf_swe
       rect:
@@ -4278,15 +2969,7 @@ TextureImporter:
         - {x: 84.5, y: -39}
         - {x: 45.5, y: -52}
         - {x: -46.5, y: -52}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Paperhat_Cyan
       rect:
@@ -4305,15 +2988,7 @@ TextureImporter:
         - {x: -33.5, y: -51.5}
         - {x: 18.5, y: -51.5}
         - {x: 59.500004, y: -11.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_tophat
       rect:
@@ -4330,15 +3005,7 @@ TextureImporter:
         - {x: -139.5, y: -162}
         - {x: -139.5, y: 162}
         - {x: 139.5, y: 162}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mira_headset_yellow
       rect:
@@ -4363,15 +3030,7 @@ TextureImporter:
         - {x: 37, y: -57.5}
         - {x: -23, y: -21.5}
         - {x: -33, y: -43.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: visor_BananaVisor
       rect:
@@ -4400,15 +3059,7 @@ TextureImporter:
         - {x: 58.499996, y: -42.5}
         - {x: 53.500004, y: -47.5}
         - {x: 37.5, y: -43.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_mira_flower
       rect:
@@ -4436,15 +3087,7 @@ TextureImporter:
         - {x: -80, y: 58.999996}
         - {x: -49, y: 73}
         - {x: -41, y: 67}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_hl_marine
       rect:
@@ -4466,15 +3109,7 @@ TextureImporter:
         - {x: 84, y: -40.5}
         - {x: 33, y: -57.5}
         - {x: -73, y: -57.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_enforcer
       rect:
@@ -4496,15 +3131,7 @@ TextureImporter:
         - {x: 56, y: 78.5}
         - {x: 80, y: -5.5}
         - {x: 80, y: -78.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_Hotdogskin
       rect:
@@ -4525,15 +3152,7 @@ TextureImporter:
         - {x: 84, y: 51}
         - {x: 84, y: -25}
         - {x: 82, y: -47}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Sorry
       rect:
@@ -4554,15 +3173,7 @@ TextureImporter:
         - {x: 80, y: -3.5}
         - {x: 57, y: -47.5}
         - {x: 30.000002, y: -56.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_uglysweaterskin
       rect:
@@ -4583,15 +3194,7 @@ TextureImporter:
         - {x: -47.5, y: 63.5}
         - {x: 0.5, y: 69.5}
         - {x: 51.5, y: 69.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_frankenbride
       rect:
@@ -4615,15 +3218,7 @@ TextureImporter:
         - {x: -5.5, y: -81.5}
         - {x: -9.5, y: -84.5}
         - {x: -50.5, y: -84.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: skin_Bananaskin
       rect:
@@ -4652,165 +3247,9 @@ TextureImporter:
         - {x: -65.5, y: -56}
         - {x: -100.5, y: -42}
         - {x: -100.5, y: -6}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      hat_EarmuffGreen: 21300050
-      hat_pk05_Svenhat: 21300236
-      skin_w21_snowmate: 21300240
-      hat_pk04_Vagabond: 21300128
-      hat_w21_krampus: 21300228
-      hat_witch_pink: 21300086
-      hat_mohawk_rainbow: 21300232
-      skin_screamghostface: 21300028
-      hat_Rupert: 21300076
-      hat_witch_murky: 21300188
-      skin_PinkApronskin: 21300126
-      skin_w21_msclaus: 21300002
-      hat_pkHW01_Mohawk: 21300088
-      hat_DrillMetal: 21300144
-      hat_pk04_Archae: 21300176
-      hat_mohawk_bubblegum: 21300124
-      hat_SnowbeanieRed: 21300184
-      hat_mira_headset_yellow: 21300254
-      hat_heim: 21300242
-      visor_w21_nye: 21300164
-      hat_hl_moona: 21300022
-      hat_pkHW01_Machete: 21300018
-      hat_schnapp: 21300030
-      hat_EarnmuffBlue: 21300162
-      hat_w21_mistletoe: 21300186
-      hat_EarmuffsYellow: 21300068
-      hat_wigTall: 21300182
-      hat_Paperhat_Lightblue: 21300200
-      skin_hl_korone: 21300146
-      hat_hl_watson: 21300078
-      skin_uglysweaterskin: 21300268
-      hat_hl_korone: 21300246
-      visor_BananaVisor: 21300256
-      skin_Hotdogskin: 21300264
-      hat_pk05_Burthat: 21300008
-      hat_Baguette: 21300168
-      hat_witch_white: 21300026
-      hat_TenGallon_Black: 21300112
-      hat_Records: 21300092
-      hat_HardtopHat: 21300090
-      hat_hl_mio: 21300154
-      hat_caitlin: 21300152
-      hat_w21_elf_swe: 21300248
-      hat_pkHW01_Witch: 21300166
-      hat_ratchet: 21300074
-      skin_Bananaskin: 21300272
-      hat_mohawk_purple_green: 21300190
-      hat_SnowbeanieGreen: 21300136
-      hat_w21_elf_pink: 21300000
-      hat_Pineapple: 21300216
-      hat_Paperhat_Black: 21300054
-      hat_pk03_StrapHat: 21300222
-      hat_WilfordIV: 21300104
-      hat_pk05_Fedora: 21300192
-      hat_hl_risu: 21300048
-      hat_pk02_TenGallonHat: 21300052
-      hat_w21_snowflake: 21300196
-      hat_w21_gingerbread: 21300204
-      hat_mira_headset_pink: 21300132
-      hat_halospartan: 21300244
-      hat_pk05_cheesetoppat: 21300072
-      hat_DrillWood: 21300208
-      hat_ToppatHair: 21300064
-      hat_hl_fubuki: 21300130
-      hat_Snowman: 21300044
-      pet_Robot: 21300170
-      hat_TenGallon_White: 21300218
-      hat_bat_crewcolor: 21300110
-      hat_Paperhat_Blue: 21300114
-      hat_AbominalHat: 21300060
-      hat_DrillStone: 21300084
-      hat_Paperhat_Cyan: 21300250
-      hat_pk05_Ellie: 21300056
-      hat_w21_snowman: 21300046
-      hat_geoff: 21300198
-      hat_jinx: 21300120
-      skin_fairy: 21300140
-      skin_BlueApronskin: 21300180
-      hat_witch_green: 21300230
-      hat_mira_flower: 21300258
-      hat_hl_pekora: 21300226
-      hat_ThomasC: 21300122
-      skin_ApronGreen: 21300094
-      skin_hl_risu: 21300202
-      hat_clown_purple: 21300138
-      hat_hl_okayu: 21300212
-      hat_Sorry: 21300266
-      hat_frankenbride: 21300270
-      skin_heim: 21300098
-      hat_pk03_Headphones: 21300224
-      hat_EarmuffsPink: 21300118
-      skin_pumpkin: 21300158
-      hat_glowstick: 21300024
-      skin_w21_elf: 21300096
-      hat_GovtHeadset: 21300102
-      hat_bat_ice: 21300174
-      pet_coaltonpet: 21300020
-      hat_SnowbeanieOrange: 21300040
-      hat_mira_headset_blue: 21300194
-      hat_CuppaJoe: 21300036
-      skin_witch: 21300178
-      skin_w21_santa: 21300016
-      hat_pk05_Macbethhat: 21300058
-      hat_Igloo: 21300012
-      hat_mareLwyd: 21300148
-      hat_pk06_Reindeer: 21300214
-      skin_hl_marine: 21300260
-      skin_clown: 21300108
-      hat_mira_flower_red: 21300062
-      hat_pkHW01_BatWings: 21300080
-      hat_enforcer: 21300262
-      hat_pk05_RHM: 21300010
-      hat_tophat: 21300252
-      skin_BushSign1skin: 21300032
-      visor_Stealthgoggles: 21300142
-      skin_Box1skin: 21300082
-      hat_mohawk_bumblebee: 21300004
-      hat_hl_gura: 21300206
-      hat_Scrudge: 21300100
-      skin_YellowApronskin: 21300070
-      hat_Unicorn: 21300238
-      hat_bat_green: 21300038
-      hat_w21_nutcracker: 21300220
-      hat_doubletophat: 21300172
-      skin_hl_pekora: 21300042
-      hat_screamghostface: 21300014
-      hat_w21_mittens: 21300106
-      hat_SnowBeaniePurple: 21300116
-      skin_w21_tree: 21300034
-      skin_vampire: 21300150
-      skin_hl_watson: 21300234
-      hat_PancakeStack: 21300160
-      hat_pk04_HunterCap: 21300006
-      hat_pk05_Helmet: 21300066
-      skin_RockIceskin: 21300210
-      hat_hl_marine: 21300134
-      skin_RockLavaskin: 21300156
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

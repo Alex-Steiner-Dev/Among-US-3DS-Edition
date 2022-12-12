@@ -1,147 +1,54 @@
 fileFormatVersion: 2
 guid: 7a912398a96240d4c8bba97d7bd0c733
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: o2_bgBase
-  - first:
-      213: 21300002
-    second: o2_leaf5
-  - first:
-      213: 21300004
-    second: garbage_1
-  - first:
-      213: 21300006
-    second: rightArrow-o2_arrowFlash0009
-  - first:
-      213: 21300008
-    second: garbage_lightShadow
-  - first:
-      213: 21300010
-    second: diamond
-  - first:
-      213: 21300012
-    second: rightArrow-o2_arrowFlash0002
-  - first:
-      213: 21300014
-    second: rightArrow-o2_arrowFlash0010
-  - first:
-      213: 21300016
-    second: o2_leaf6
-  - first:
-      213: 21300018
-    second: leftArrow-o2_arrowFlash0002
-  - first:
-      213: 21300020
-    second: leftArrow-o2_arrowFlash0003
-  - first:
-      213: 21300022
-    second: o2_leaf3
-  - first:
-      213: 21300024
-    second: rightArrow-o2_arrowFlash0007
-  - first:
-      213: 21300026
-    second: o2_bgTop
-  - first:
-      213: 21300028
-    second: totem
-  - first:
-      213: 21300030
-    second: garbage_Base
-  - first:
-      213: 21300032
-    second: garbage_3
-  - first:
-      213: 21300034
-    second: o2_leaf2
-  - first:
-      213: 21300036
-    second: garbage_4
-  - first:
-      213: 21300038
-    second: rightArrow-o2_arrowFlash0006
-  - first:
-      213: 21300040
-    second: garbage_leverBase
-  - first:
-      213: 21300042
-    second: rightArrow-o2_arrowFlash0003
-  - first:
-      213: 21300044
-    second: garbage_2
-  - first:
-      213: 21300046
-    second: garbage_leverHandle
-  - first:
-      213: 21300048
-    second: rightArrow-o2_arrowFlash0008
-  - first:
-      213: 21300050
-    second: rightArrow-o2_arrowFlash0001
-  - first:
-      213: 21300052
-    second: rightArrow-o2_arrowFlash0005
-  - first:
-      213: 21300054
-    second: garbage_6
-  - first:
-      213: 21300056
-    second: leftArrow-o2_arrowFlash0001
-  - first:
-      213: 21300058
-    second: leftArrow-o2_arrowFlash0007
-  - first:
-      213: 21300060
-    second: leftArrow-o2_arrowFlash0008
-  - first:
-      213: 21300062
-    second: o2_leaf7
-  - first:
-      213: 21300064
-    second: o2_arrowFinishedRight
-  - first:
-      213: 21300066
-    second: o2_leaf1
-  - first:
-      213: 21300068
-    second: leftArrow-o2_arrowFlash0005
-  - first:
-      213: 21300070
-    second: o2_leaf4
-  - first:
-      213: 21300072
-    second: garbage_leverBars
-  - first:
-      213: 21300074
-    second: garbage_5
-  - first:
-      213: 21300076
-    second: leftArrow-o2_arrowFlash0009
-  - first:
-      213: 21300078
-    second: o2_arrowFinishedLeft
-  - first:
-      213: 21300080
-    second: leftArrow-o2_arrowFlash0004
-  - first:
-      213: 21300082
-    second: NobleStatue1
-  - first:
-      213: 21300084
-    second: leftArrow-o2_arrowFlash0006
-  - first:
-      213: 21300086
-    second: leftArrow-o2_arrowFlash0010
-  - first:
-      213: 21300088
-    second: teleporter
-  - first:
-      213: 21300090
-    second: rightArrow-o2_arrowFlash0004
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: o2_bgBase
+    21300002: o2_leaf5
+    21300004: garbage_1
+    21300006: rightArrow-o2_arrowFlash0009
+    21300008: garbage_lightShadow
+    21300010: diamond
+    21300012: rightArrow-o2_arrowFlash0002
+    21300014: rightArrow-o2_arrowFlash0010
+    21300016: o2_leaf6
+    21300018: leftArrow-o2_arrowFlash0002
+    21300020: leftArrow-o2_arrowFlash0003
+    21300022: o2_leaf3
+    21300024: rightArrow-o2_arrowFlash0007
+    21300026: o2_bgTop
+    21300028: totem
+    21300030: garbage_Base
+    21300032: garbage_3
+    21300034: o2_leaf2
+    21300036: garbage_4
+    21300038: rightArrow-o2_arrowFlash0006
+    21300040: garbage_leverBase
+    21300042: rightArrow-o2_arrowFlash0003
+    21300044: garbage_2
+    21300046: garbage_leverHandle
+    21300048: rightArrow-o2_arrowFlash0008
+    21300050: rightArrow-o2_arrowFlash0001
+    21300052: rightArrow-o2_arrowFlash0005
+    21300054: garbage_6
+    21300056: leftArrow-o2_arrowFlash0001
+    21300058: leftArrow-o2_arrowFlash0007
+    21300060: leftArrow-o2_arrowFlash0008
+    21300062: o2_leaf7
+    21300064: o2_arrowFinishedRight
+    21300066: o2_leaf1
+    21300068: leftArrow-o2_arrowFlash0005
+    21300070: o2_leaf4
+    21300072: garbage_leverBars
+    21300074: garbage_5
+    21300076: leftArrow-o2_arrowFlash0009
+    21300078: o2_arrowFinishedLeft
+    21300080: leftArrow-o2_arrowFlash0004
+    21300082: NobleStatue1
+    21300084: leftArrow-o2_arrowFlash0006
+    21300086: leftArrow-o2_arrowFlash0010
+    21300088: teleporter
+    21300090: rightArrow-o2_arrowFlash0004
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -149,8 +56,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -158,12 +63,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -171,13 +71,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -186,97 +83,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -296,15 +161,7 @@ TextureImporter:
         - {x: -250, y: 250}
         - {x: 250, y: 250}
         - {x: 250, y: -250}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf5
       rect:
@@ -324,15 +181,7 @@ TextureImporter:
         - {x: 12, y: -74}
         - {x: 3, y: -74}
         - {x: -22, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_1
       rect:
@@ -351,15 +200,7 @@ TextureImporter:
         - {x: -8, y: -38}
         - {x: -39, y: -19}
         - {x: -39, y: 4}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0009
       rect:
@@ -376,15 +217,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_lightShadow
       rect:
@@ -413,15 +246,7 @@ TextureImporter:
         - {x: -70, y: 152}
         - {x: -70, y: 177}
         - {x: -103, y: 79}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: diamond
       rect:
@@ -441,15 +266,7 @@ TextureImporter:
         - {x: 5.5, y: -47}
         - {x: -1.5, y: -47}
         - {x: -3.5, y: -45}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0002
       rect:
@@ -466,15 +283,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0010
       rect:
@@ -491,15 +300,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf6
       rect:
@@ -521,15 +322,7 @@ TextureImporter:
         - {x: 0, y: -72.99999}
         - {x: 6, y: -48.999996}
         - {x: -29.999998, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0002
       rect:
@@ -548,15 +341,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0003
       rect:
@@ -575,15 +360,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf3
       rect:
@@ -603,15 +380,7 @@ TextureImporter:
         - {x: 24, y: -29.999998}
         - {x: 4.9999995, y: -79.99999}
         - {x: -6, y: -79.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0007
       rect:
@@ -628,15 +397,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_bgTop
       rect:
@@ -653,15 +414,7 @@ TextureImporter:
         - {x: -51.5, y: 250}
         - {x: 51.5, y: 250}
         - {x: 51.5, y: -250}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: totem
       rect:
@@ -683,15 +436,7 @@ TextureImporter:
         - {x: 3, y: -50}
         - {x: -13, y: -50}
         - {x: -53.999996, y: 25}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_Base
       rect:
@@ -708,15 +453,7 @@ TextureImporter:
         - {x: -252.49998, y: 252}
         - {x: 252.49998, y: 252}
         - {x: 252.49998, y: -252}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_3
       rect:
@@ -736,15 +473,7 @@ TextureImporter:
         - {x: 57.5, y: -25}
         - {x: 17.5, y: -35}
         - {x: -10.5, y: -35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf2
       rect:
@@ -765,15 +494,7 @@ TextureImporter:
         - {x: -7.4999995, y: -47.5}
         - {x: -22.5, y: -0.5}
         - {x: -22.5, y: 28.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_4
       rect:
@@ -795,15 +516,7 @@ TextureImporter:
         - {x: -11, y: -42.999996}
         - {x: -37, y: 45.999996}
         - {x: -37, y: 52.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0006
       rect:
@@ -820,15 +533,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_leverBase
       rect:
@@ -846,15 +551,7 @@ TextureImporter:
         - {x: 55.5, y: 26.999998}
         - {x: 55.5, y: -26.999998}
         - {x: -55.5, y: -26.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0003
       rect:
@@ -871,15 +568,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_2
       rect:
@@ -897,15 +586,7 @@ TextureImporter:
         - {x: 42, y: 38.5}
         - {x: 42, y: -38.5}
         - {x: -21, y: -38.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_leverHandle
       rect:
@@ -926,15 +607,7 @@ TextureImporter:
         - {x: 54.5, y: 17.5}
         - {x: 54.5, y: -15.5}
         - {x: 53.499996, y: -17.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0008
       rect:
@@ -951,15 +624,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0001
       rect:
@@ -976,15 +641,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0005
       rect:
@@ -1001,15 +658,7 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_6
       rect:
@@ -1032,15 +681,7 @@ TextureImporter:
         - {x: -18.5, y: 49.499996}
         - {x: -0.5, y: 50.5}
         - {x: 14.5, y: 50.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0001
       rect:
@@ -1059,15 +700,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0007
       rect:
@@ -1086,15 +719,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0008
       rect:
@@ -1113,15 +738,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf7
       rect:
@@ -1140,15 +757,7 @@ TextureImporter:
         - {x: 32, y: -47}
         - {x: -32, y: -47}
         - {x: -32, y: 3}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_arrowFinishedRight
       rect:
@@ -1165,15 +774,7 @@ TextureImporter:
         - {x: -8.5, y: 14}
         - {x: 8.5, y: 14}
         - {x: 8.5, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf1
       rect:
@@ -1194,15 +795,7 @@ TextureImporter:
         - {x: -9.5, y: -61.5}
         - {x: -22.5, y: -21.499998}
         - {x: -22.5, y: 14.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0005
       rect:
@@ -1221,15 +814,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_leaf4
       rect:
@@ -1248,15 +833,7 @@ TextureImporter:
         - {x: 6.5, y: -53.999996}
         - {x: -23.5, y: -53.999996}
         - {x: -23.5, y: 19.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_leverBars
       rect:
@@ -1277,15 +854,7 @@ TextureImporter:
         - {x: 4.9999995, y: 34}
         - {x: 18, y: 34}
         - {x: 18, y: -34}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: garbage_5
       rect:
@@ -1311,15 +880,7 @@ TextureImporter:
         - {x: -50, y: 9.999999}
         - {x: -50, y: 26.999998}
         - {x: -22, y: 57}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0009
       rect:
@@ -1338,15 +899,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: o2_arrowFinishedLeft
       rect:
@@ -1365,15 +918,7 @@ TextureImporter:
         - {x: -16.5, y: -27.461937}
         - {x: -16.5, y: 26.53806}
         - {x: -11.499999, y: 27.538061}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0004
       rect:
@@ -1392,15 +937,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: NobleStatue1
       rect:
@@ -1418,15 +955,7 @@ TextureImporter:
         - {x: 49.970894, y: -11}
         - {x: 36.970898, y: -62}
         - {x: -53.029102, y: -62}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0006
       rect:
@@ -1445,15 +974,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: leftArrow-o2_arrowFlash0010
       rect:
@@ -1472,15 +993,7 @@ TextureImporter:
         - {x: 14.999999, y: -4}
         - {x: -11, y: -24}
         - {x: -14.999999, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: teleporter
       rect:
@@ -1500,15 +1013,7 @@ TextureImporter:
         - {x: 24, y: -50}
         - {x: -29.999998, y: -50}
         - {x: -29.999998, y: 21}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: rightArrow-o2_arrowFlash0004
       rect:
@@ -1525,74 +1030,9 @@ TextureImporter:
         - {x: -5.5, y: 10.5}
         - {x: 5.5, y: 10.5}
         - {x: 5.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      garbage_5: 21300074
-      garbage_leverBars: 21300072
-      leftArrow-o2_arrowFlash0001: 21300056
-      garbage_3: 21300032
-      o2_leaf6: 21300016
-      garbage_lightShadow: 21300008
-      rightArrow-o2_arrowFlash0006: 21300038
-      o2_leaf5: 21300002
-      leftArrow-o2_arrowFlash0007: 21300058
-      leftArrow-o2_arrowFlash0004: 21300080
-      rightArrow-o2_arrowFlash0007: 21300024
-      leftArrow-o2_arrowFlash0002: 21300018
-      o2_leaf3: 21300022
-      garbage_Base: 21300030
-      NobleStatue1: 21300082
-      o2_leaf7: 21300062
-      garbage_leverHandle: 21300046
-      garbage_6: 21300054
-      o2_bgTop: 21300026
-      leftArrow-o2_arrowFlash0008: 21300060
-      diamond: 21300010
-      rightArrow-o2_arrowFlash0003: 21300042
-      teleporter: 21300088
-      totem: 21300028
-      o2_arrowFinishedRight: 21300064
-      garbage_2: 21300044
-      leftArrow-o2_arrowFlash0003: 21300020
-      leftArrow-o2_arrowFlash0010: 21300086
-      o2_leaf1: 21300066
-      leftArrow-o2_arrowFlash0006: 21300084
-      leftArrow-o2_arrowFlash0009: 21300076
-      rightArrow-o2_arrowFlash0001: 21300050
-      rightArrow-o2_arrowFlash0010: 21300014
-      rightArrow-o2_arrowFlash0004: 21300090
-      rightArrow-o2_arrowFlash0005: 21300052
-      o2_leaf4: 21300070
-      rightArrow-o2_arrowFlash0002: 21300012
-      rightArrow-o2_arrowFlash0009: 21300006
-      o2_leaf2: 21300034
-      o2_bgBase: 21300000
-      o2_arrowFinishedLeft: 21300078
-      leftArrow-o2_arrowFlash0005: 21300068
-      garbage_4: 21300036
-      garbage_leverBase: 21300040
-      rightArrow-o2_arrowFlash0008: 21300048
-      garbage_1: 21300004
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

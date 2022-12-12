@@ -1,327 +1,114 @@
 fileFormatVersion: 2
 guid: db70cbf78c817e14da10cfc02da87873
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: pet_hearts0053
-  - first:
-      213: 21300002
-    second: pet_hand0012
-  - first:
-      213: 21300004
-    second: pet_hand0032
-  - first:
-      213: 21300006
-    second: pet_hearts0032
-  - first:
-      213: 21300008
-    second: pet_hand0041
-  - first:
-      213: 21300010
-    second: pet_hand0026
-  - first:
-      213: 21300012
-    second: pet_hearts0044
-  - first:
-      213: 21300014
-    second: pet_hearts0004
-  - first:
-      213: 21300016
-    second: pet_hand0020
-  - first:
-      213: 21300018
-    second: pet_hearts0011
-  - first:
-      213: 21300020
-    second: pet_hearts0020
-  - first:
-      213: 21300022
-    second: pet_hearts0027
-  - first:
-      213: 21300024
-    second: pet_hearts0016
-  - first:
-      213: 21300026
-    second: pet_hand0035
-  - first:
-      213: 21300028
-    second: pet_hearts0015
-  - first:
-      213: 21300030
-    second: pet_hearts0035
-  - first:
-      213: 21300032
-    second: pet_hearts0045
-  - first:
-      213: 21300034
-    second: pet_hand0045
-  - first:
-      213: 21300036
-    second: pet_hearts0014
-  - first:
-      213: 21300038
-    second: pet_hand0044
-  - first:
-      213: 21300040
-    second: pet_hand0003
-  - first:
-      213: 21300042
-    second: pet_hand0028
-  - first:
-      213: 21300044
-    second: pet_hand0017
-  - first:
-      213: 21300046
-    second: pet_hearts0029
-  - first:
-      213: 21300048
-    second: pet_hearts0025
-  - first:
-      213: 21300050
-    second: pet_hearts0019
-  - first:
-      213: 21300052
-    second: pet_hearts0039
-  - first:
-      213: 21300054
-    second: pet_hand0018
-  - first:
-      213: 21300056
-    second: pet_hand0047
-  - first:
-      213: 21300058
-    second: pet_hand0051
-  - first:
-      213: 21300060
-    second: pet_hearts0052
-  - first:
-      213: 21300062
-    second: pet_hand0033
-  - first:
-      213: 21300064
-    second: pet_hand0046
-  - first:
-      213: 21300066
-    second: pet_hearts0026
-  - first:
-      213: 21300068
-    second: pet_hand0040
-  - first:
-      213: 21300070
-    second: pet_hearts0022
-  - first:
-      213: 21300072
-    second: pet_hand0036
-  - first:
-      213: 21300074
-    second: pet_hearts0036
-  - first:
-      213: 21300076
-    second: pet_hearts0028
-  - first:
-      213: 21300078
-    second: pet_hand0013
-  - first:
-      213: 21300080
-    second: pet_hand0043
-  - first:
-      213: 21300082
-    second: pet_hearts0049
-  - first:
-      213: 21300084
-    second: pet_hand0022
-  - first:
-      213: 21300086
-    second: pet_hand0002
-  - first:
-      213: 21300088
-    second: pet_hearts0030
-  - first:
-      213: 21300090
-    second: pet_hearts0046
-  - first:
-      213: 21300092
-    second: pet_hearts0033
-  - first:
-      213: 21300094
-    second: pet_hearts0023
-  - first:
-      213: 21300096
-    second: pet_hand0010
-  - first:
-      213: 21300098
-    second: pet_hand0016
-  - first:
-      213: 21300100
-    second: pet_hand0008
-  - first:
-      213: 21300102
-    second: pet_hearts0047
-  - first:
-      213: 21300104
-    second: pet_hand0029
-  - first:
-      213: 21300106
-    second: pet_hand0053
-  - first:
-      213: 21300108
-    second: pet_hearts0043
-  - first:
-      213: 21300110
-    second: pet_hearts0051
-  - first:
-      213: 21300112
-    second: pet_hearts0013
-  - first:
-      213: 21300114
-    second: pet_hand0037
-  - first:
-      213: 21300116
-    second: pet_hand0030
-  - first:
-      213: 21300118
-    second: pet_hand0011
-  - first:
-      213: 21300120
-    second: pet_hand0049
-  - first:
-      213: 21300122
-    second: pet_hand0025
-  - first:
-      213: 21300124
-    second: pet_hand0021
-  - first:
-      213: 21300126
-    second: pet_hand0024
-  - first:
-      213: 21300128
-    second: pet_hand0004
-  - first:
-      213: 21300130
-    second: pet_hearts0048
-  - first:
-      213: 21300132
-    second: pet_hand0001
-  - first:
-      213: 21300134
-    second: pet_hearts0031
-  - first:
-      213: 21300136
-    second: pet_hearts0005
-  - first:
-      213: 21300138
-    second: pet_hearts0009
-  - first:
-      213: 21300140
-    second: pet_hearts0018
-  - first:
-      213: 21300142
-    second: pet_hand0052
-  - first:
-      213: 21300144
-    second: pet_hearts0041
-  - first:
-      213: 21300146
-    second: pet_hearts0012
-  - first:
-      213: 21300148
-    second: pet_hand0038
-  - first:
-      213: 21300150
-    second: pet_hand0034
-  - first:
-      213: 21300152
-    second: pet_hearts0006
-  - first:
-      213: 21300154
-    second: pet_hearts0042
-  - first:
-      213: 21300156
-    second: pet_hand0042
-  - first:
-      213: 21300158
-    second: pet_hearts0037
-  - first:
-      213: 21300160
-    second: pet_hand0023
-  - first:
-      213: 21300162
-    second: pet_hearts0003
-  - first:
-      213: 21300164
-    second: pet_hearts0021
-  - first:
-      213: 21300166
-    second: pet_hearts0034
-  - first:
-      213: 21300168
-    second: pet_hand0015
-  - first:
-      213: 21300170
-    second: pet_hearts0007
-  - first:
-      213: 21300172
-    second: pet_hearts0024
-  - first:
-      213: 21300174
-    second: pet_hearts0010
-  - first:
-      213: 21300176
-    second: pet_hearts0050
-  - first:
-      213: 21300178
-    second: pet_hand0039
-  - first:
-      213: 21300180
-    second: pet_hand0019
-  - first:
-      213: 21300182
-    second: pet_hand0027
-  - first:
-      213: 21300184
-    second: pet_hearts0038
-  - first:
-      213: 21300186
-    second: pet_hand0005
-  - first:
-      213: 21300188
-    second: pet_hearts0002
-  - first:
-      213: 21300190
-    second: pet_hand0009
-  - first:
-      213: 21300192
-    second: pet_hearts0008
-  - first:
-      213: 21300194
-    second: pet_hearts0001
-  - first:
-      213: 21300196
-    second: pet_hearts0040
-  - first:
-      213: 21300198
-    second: pet_hand0014
-  - first:
-      213: 21300200
-    second: pet_hand0031
-  - first:
-      213: 21300202
-    second: pet_hand0006
-  - first:
-      213: 21300204
-    second: pet_hearts0017
-  - first:
-      213: 21300206
-    second: pet_hand0048
-  - first:
-      213: 21300208
-    second: pet_hand0007
-  - first:
-      213: 21300210
-    second: pet_hand0050
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: pet_hearts0053
+    21300002: pet_hand0012
+    21300004: pet_hand0032
+    21300006: pet_hearts0032
+    21300008: pet_hand0041
+    21300010: pet_hand0026
+    21300012: pet_hearts0044
+    21300014: pet_hearts0004
+    21300016: pet_hand0020
+    21300018: pet_hearts0011
+    21300020: pet_hearts0020
+    21300022: pet_hearts0027
+    21300024: pet_hearts0016
+    21300026: pet_hand0035
+    21300028: pet_hearts0015
+    21300030: pet_hearts0035
+    21300032: pet_hearts0045
+    21300034: pet_hand0045
+    21300036: pet_hearts0014
+    21300038: pet_hand0044
+    21300040: pet_hand0003
+    21300042: pet_hand0028
+    21300044: pet_hand0017
+    21300046: pet_hearts0029
+    21300048: pet_hearts0025
+    21300050: pet_hearts0019
+    21300052: pet_hearts0039
+    21300054: pet_hand0018
+    21300056: pet_hand0047
+    21300058: pet_hand0051
+    21300060: pet_hearts0052
+    21300062: pet_hand0033
+    21300064: pet_hand0046
+    21300066: pet_hearts0026
+    21300068: pet_hand0040
+    21300070: pet_hearts0022
+    21300072: pet_hand0036
+    21300074: pet_hearts0036
+    21300076: pet_hearts0028
+    21300078: pet_hand0013
+    21300080: pet_hand0043
+    21300082: pet_hearts0049
+    21300084: pet_hand0022
+    21300086: pet_hand0002
+    21300088: pet_hearts0030
+    21300090: pet_hearts0046
+    21300092: pet_hearts0033
+    21300094: pet_hearts0023
+    21300096: pet_hand0010
+    21300098: pet_hand0016
+    21300100: pet_hand0008
+    21300102: pet_hearts0047
+    21300104: pet_hand0029
+    21300106: pet_hand0053
+    21300108: pet_hearts0043
+    21300110: pet_hearts0051
+    21300112: pet_hearts0013
+    21300114: pet_hand0037
+    21300116: pet_hand0030
+    21300118: pet_hand0011
+    21300120: pet_hand0049
+    21300122: pet_hand0025
+    21300124: pet_hand0021
+    21300126: pet_hand0024
+    21300128: pet_hand0004
+    21300130: pet_hearts0048
+    21300132: pet_hand0001
+    21300134: pet_hearts0031
+    21300136: pet_hearts0005
+    21300138: pet_hearts0009
+    21300140: pet_hearts0018
+    21300142: pet_hand0052
+    21300144: pet_hearts0041
+    21300146: pet_hearts0012
+    21300148: pet_hand0038
+    21300150: pet_hand0034
+    21300152: pet_hearts0006
+    21300154: pet_hearts0042
+    21300156: pet_hand0042
+    21300158: pet_hearts0037
+    21300160: pet_hand0023
+    21300162: pet_hearts0003
+    21300164: pet_hearts0021
+    21300166: pet_hearts0034
+    21300168: pet_hand0015
+    21300170: pet_hearts0007
+    21300172: pet_hearts0024
+    21300174: pet_hearts0010
+    21300176: pet_hearts0050
+    21300178: pet_hand0039
+    21300180: pet_hand0019
+    21300182: pet_hand0027
+    21300184: pet_hearts0038
+    21300186: pet_hand0005
+    21300188: pet_hearts0002
+    21300190: pet_hand0009
+    21300192: pet_hearts0008
+    21300194: pet_hearts0001
+    21300196: pet_hearts0040
+    21300198: pet_hand0014
+    21300200: pet_hand0031
+    21300202: pet_hand0006
+    21300204: pet_hearts0017
+    21300206: pet_hand0048
+    21300208: pet_hand0007
+    21300210: pet_hand0050
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -329,8 +116,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -338,12 +123,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -351,13 +131,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -366,97 +143,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -475,15 +220,7 @@ TextureImporter:
       - - {x: -13, y: 8}
         - {x: 13, y: 2}
         - {x: 3, y: -8}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0012
       rect:
@@ -502,15 +239,7 @@ TextureImporter:
         - {x: 56.5165, y: -42.999992}
         - {x: -32.483498, y: -40.999992}
         - {x: -67.4835, y: -21.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0032
       rect:
@@ -529,15 +258,7 @@ TextureImporter:
         - {x: 59.981857, y: 27.524677}
         - {x: 59.981857, y: -34.475323}
         - {x: 24.981857, y: -51.475315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0032
       rect:
@@ -566,15 +287,7 @@ TextureImporter:
       - - {x: 19.970142, y: 46.96194}
         - {x: 5.9701424, y: 30.961939}
         - {x: -10.029858, y: 46.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0041
       rect:
@@ -594,15 +307,7 @@ TextureImporter:
         - {x: 49.024704, y: -42.000008}
         - {x: -26.975296, y: -41.000008}
         - {x: -68.975296, y: -23.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0026
       rect:
@@ -622,15 +327,7 @@ TextureImporter:
         - {x: 23.0247, y: -41.461945}
         - {x: -26.975296, y: -41.461945}
         - {x: -68.975296, y: -23.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0044
       rect:
@@ -651,15 +348,7 @@ TextureImporter:
         - {x: -32, y: 17.5}
         - {x: -13.999998, y: 17.5}
         - {x: -13.999998, y: 1.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0004
       rect:
@@ -676,15 +365,7 @@ TextureImporter:
         - {x: 0.5000038, y: 0.5}
         - {x: 0.5000038, y: -0.5}
         - {x: -0.4999962, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0020
       rect:
@@ -703,15 +384,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975315}
         - {x: -53.03805, y: -55.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0011
       rect:
@@ -731,15 +404,7 @@ TextureImporter:
       - - {x: -21, y: 14.000004}
         - {x: 6, y: 9}
         - {x: -1, y: -6}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0020
       rect:
@@ -764,15 +429,7 @@ TextureImporter:
         - {x: -12.524738, y: -10.024683}
         - {x: -1.5247383, y: -10.024683}
         - {x: -1.5247383, y: -21.02468}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0027
       rect:
@@ -799,15 +456,7 @@ TextureImporter:
         - {x: -9.538052, y: -36.999996}
         - {x: -34.53805, y: -33.999996}
         - {x: -35.53805, y: -8.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0016
       rect:
@@ -830,15 +479,7 @@ TextureImporter:
         - {x: -13.995575, y: 20.461937}
         - {x: 3.004425, y: 20.461937}
         - {x: 3.004425, y: 3.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0035
       rect:
@@ -857,15 +498,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975311}
         - {x: -53.038048, y: -55.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0015
       rect:
@@ -889,15 +522,7 @@ TextureImporter:
       - - {x: 3.5, y: 33.025658}
         - {x: 3.5, y: -8.974342}
         - {x: -17.5, y: 12.025658}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0035
       rect:
@@ -925,15 +550,7 @@ TextureImporter:
       - - {x: 50.50001, y: 52.983395}
         - {x: 26.500015, y: 7.9833946}
         - {x: 14.500015, y: 31.983393}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0045
       rect:
@@ -953,15 +570,7 @@ TextureImporter:
         - {x: 10.461948, y: 2.4866257}
         - {x: 31.461948, y: 2.4866257}
         - {x: 31.461948, y: -16.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0045
       rect:
@@ -980,15 +589,7 @@ TextureImporter:
         - {x: 56.5165, y: -42.999992}
         - {x: -32.483498, y: -40.999992}
         - {x: -67.4835, y: -21.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0014
       rect:
@@ -1011,15 +612,7 @@ TextureImporter:
       - - {x: -5.5246735, y: 22.538063}
         - {x: 16.475327, y: 0.53806305}
         - {x: -28.524673, y: -0.46193695}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0044
       rect:
@@ -1038,15 +631,7 @@ TextureImporter:
         - {x: 56.5165, y: -42.999992}
         - {x: -32.483498, y: -40.999992}
         - {x: -67.4835, y: -21.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0003
       rect:
@@ -1066,15 +651,7 @@ TextureImporter:
         - {x: -21.024685, y: -56.00477}
         - {x: -57.024685, y: -36.00477}
         - {x: -70.02469, y: 6.9952316}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0028
       rect:
@@ -1093,15 +670,7 @@ TextureImporter:
         - {x: 56.5165, y: -42.999992}
         - {x: -32.483498, y: -40.999992}
         - {x: -67.4835, y: -21.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0017
       rect:
@@ -1120,15 +689,7 @@ TextureImporter:
         - {x: 59.981857, y: 27.524685}
         - {x: 59.981857, y: -34.475315}
         - {x: 24.981857, y: -51.475307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0029
       rect:
@@ -1160,15 +721,7 @@ TextureImporter:
         - {x: -5, y: 45.96194}
         - {x: 12, y: 45.96194}
         - {x: 12, y: 28.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0025
       rect:
@@ -1197,15 +750,7 @@ TextureImporter:
         - {x: 22.49192, y: -11.024693}
         - {x: -20.50808, y: 31.975307}
         - {x: 14.49192, y: 54.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0019
       rect:
@@ -1228,15 +773,7 @@ TextureImporter:
         - {x: 11.516607, y: -23.513376}
         - {x: 0.5166068, y: 4.486624}
         - {x: -15.483393, y: 5.486624}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0039
       rect:
@@ -1263,15 +800,7 @@ TextureImporter:
       - - {x: 62.51337, y: 34.5}
         - {x: 26.513374, y: 22.5}
         - {x: 14.513374, y: 34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0018
       rect:
@@ -1290,15 +819,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975311}
         - {x: -53.038048, y: -55.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0047
       rect:
@@ -1317,15 +838,7 @@ TextureImporter:
         - {x: 55.000015, y: -42.47531}
         - {x: -2.9999847, y: -41.47531}
         - {x: -74.999985, y: -20.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0051
       rect:
@@ -1344,15 +857,7 @@ TextureImporter:
         - {x: 78.00986, y: -38.475307}
         - {x: -57.990147, y: -39.475315}
         - {x: -74.99014, y: -1.4753113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0052
       rect:
@@ -1368,15 +873,7 @@ TextureImporter:
       - - {x: -1.9649353, y: 12.499996}
         - {x: 9.035063, y: 1.4999962}
         - {x: -23.964935, y: -31.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0033
       rect:
@@ -1395,15 +892,7 @@ TextureImporter:
         - {x: 59.981857, y: 27.524677}
         - {x: 59.981857, y: -34.475323}
         - {x: 24.981857, y: -51.475315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0046
       rect:
@@ -1422,15 +911,7 @@ TextureImporter:
         - {x: 55.000015, y: -42.47531}
         - {x: -2.9999847, y: -41.47531}
         - {x: -74.999985, y: -20.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0026
       rect:
@@ -1458,15 +939,7 @@ TextureImporter:
         - {x: 10.986626, y: -35.500004}
         - {x: 18.986626, y: -35.500004}
         - {x: 18.986626, y: -42.500004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0040
       rect:
@@ -1486,15 +959,7 @@ TextureImporter:
         - {x: 49.024704, y: -42.000008}
         - {x: -26.975296, y: -41.000008}
         - {x: -68.975296, y: -23.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0022
       rect:
@@ -1520,15 +985,7 @@ TextureImporter:
         - {x: 46.51337, y: 19.53806}
         - {x: 22.513374, y: -25.46194}
         - {x: 11.513374, y: -4.461939}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0036
       rect:
@@ -1547,15 +1004,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975315}
         - {x: -53.03805, y: -55.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0036
       rect:
@@ -1580,15 +1029,7 @@ TextureImporter:
         - {x: -11.986626, y: 3.0080795}
         - {x: -11.986626, y: -19.99192}
         - {x: -35.98662, y: -19.99192}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0028
       rect:
@@ -1615,15 +1056,7 @@ TextureImporter:
         - {x: -31.524677, y: -35.03806}
         - {x: -41.524677, y: -20.038055}
         - {x: -18.524677, y: -18.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0013
       rect:
@@ -1642,15 +1075,7 @@ TextureImporter:
         - {x: 56.5165, y: -42.999992}
         - {x: -32.483498, y: -40.999992}
         - {x: -67.4835, y: -21.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0043
       rect:
@@ -1670,15 +1095,7 @@ TextureImporter:
         - {x: 23.0247, y: -41.461945}
         - {x: -26.975296, y: -41.461945}
         - {x: -68.975296, y: -23.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0049
       rect:
@@ -1698,15 +1115,7 @@ TextureImporter:
         - {x: -34.5, y: 14.499996}
         - {x: -24.499998, y: 14.499996}
         - {x: -24.499998, y: 4.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0022
       rect:
@@ -1726,15 +1135,7 @@ TextureImporter:
         - {x: 57.024696, y: -42}
         - {x: -26.975296, y: -41}
         - {x: -68.975296, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0002
       rect:
@@ -1753,15 +1154,7 @@ TextureImporter:
         - {x: 60.461937, y: -19.016607}
         - {x: -10.538059, y: -61.01661}
         - {x: -64.538055, y: -39.016605}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0030
       rect:
@@ -1793,15 +1186,7 @@ TextureImporter:
         - {x: -3.5, y: 46.486618}
         - {x: 11.5, y: 46.486618}
         - {x: 11.5, y: 31.486616}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0046
       rect:
@@ -1820,15 +1205,7 @@ TextureImporter:
       - - {x: -42.52561, y: 37.52469}
         - {x: 1.4743881, y: 4.524685}
         - {x: -28.525612, y: 1.5246849}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0033
       rect:
@@ -1860,15 +1237,7 @@ TextureImporter:
         - {x: 0, y: 46.98662}
         - {x: 11, y: 46.98662}
         - {x: 11, y: 35.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0023
       rect:
@@ -1893,15 +1262,7 @@ TextureImporter:
         - {x: -8.012238, y: 36.96194}
         - {x: 15.987762, y: 36.96194}
         - {x: 15.987762, y: 13.961941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0010
       rect:
@@ -1921,15 +1282,7 @@ TextureImporter:
         - {x: 23.0247, y: -41.461945}
         - {x: -26.975296, y: -41.461945}
         - {x: -68.975296, y: -23.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0016
       rect:
@@ -1948,15 +1301,7 @@ TextureImporter:
         - {x: 59.981857, y: 27.524685}
         - {x: 59.981857, y: -34.475315}
         - {x: 24.981857, y: -51.475307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0008
       rect:
@@ -1976,15 +1321,7 @@ TextureImporter:
         - {x: 49.024704, y: -42.000008}
         - {x: -26.975296, y: -41.000008}
         - {x: -68.975296, y: -23.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0047
       rect:
@@ -2003,15 +1340,7 @@ TextureImporter:
       - - {x: -11.512297, y: 17.035074}
         - {x: -21.512297, y: -1.9649258}
         - {x: -39.5123, y: 16.035074}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0029
       rect:
@@ -2030,15 +1359,7 @@ TextureImporter:
         - {x: 56.5165, y: -42.999992}
         - {x: -32.483498, y: -40.999992}
         - {x: -67.4835, y: -21.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0053
       rect:
@@ -2057,15 +1378,7 @@ TextureImporter:
         - {x: 50.98754, y: 18}
         - {x: 73.98755, y: -31}
         - {x: -65.01245, y: -44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0043
       rect:
@@ -2088,15 +1401,7 @@ TextureImporter:
       - - {x: -20.486626, y: 34.035072}
         - {x: 7.5133743, y: 27.03507}
         - {x: -2.4866257, y: 16.03507}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0051
       rect:
@@ -2112,15 +1417,7 @@ TextureImporter:
       - - {x: 15, y: 7.5}
         - {x: 0, y: -7.5}
         - {x: -15, y: 7.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0013
       rect:
@@ -2140,15 +1437,7 @@ TextureImporter:
       - - {x: -28.513357, y: 18.529102}
         - {x: 5.4866424, y: 12.529102}
         - {x: -8.513357, y: -1.4708977}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0037
       rect:
@@ -2167,15 +1456,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975315}
         - {x: -53.03805, y: -55.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0030
       rect:
@@ -2194,15 +1475,7 @@ TextureImporter:
         - {x: 55.000015, y: -42.47531}
         - {x: -2.9999847, y: -41.47531}
         - {x: -74.999985, y: -20.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0011
       rect:
@@ -2222,15 +1495,7 @@ TextureImporter:
         - {x: 23.0247, y: -41.461945}
         - {x: -26.975296, y: -41.461945}
         - {x: -68.975296, y: -23.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0049
       rect:
@@ -2249,15 +1514,7 @@ TextureImporter:
         - {x: 59.981857, y: 27.524677}
         - {x: 59.981857, y: -34.475323}
         - {x: 24.981857, y: -51.475315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0025
       rect:
@@ -2277,15 +1534,7 @@ TextureImporter:
         - {x: 49.024704, y: -42.000008}
         - {x: -26.975296, y: -41.000008}
         - {x: -68.975296, y: -23.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0021
       rect:
@@ -2304,15 +1553,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975315}
         - {x: -53.03805, y: -55.975315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0024
       rect:
@@ -2332,15 +1573,7 @@ TextureImporter:
         - {x: 49.024704, y: -42.000008}
         - {x: -26.975296, y: -41.000008}
         - {x: -68.975296, y: -23.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0004
       rect:
@@ -2360,15 +1593,7 @@ TextureImporter:
         - {x: -21.024685, y: -56.00477}
         - {x: -57.024685, y: -36.00477}
         - {x: -70.02469, y: 6.9952316}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0048
       rect:
@@ -2387,15 +1612,7 @@ TextureImporter:
       - - {x: -11.012281, y: 15.461941}
         - {x: -23.012283, y: 1.4619408}
         - {x: -37.01228, y: 15.461941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0001
       rect:
@@ -2414,15 +1631,7 @@ TextureImporter:
         - {x: 60.461937, y: -19.016607}
         - {x: -10.538059, y: -61.01661}
         - {x: -64.538055, y: -39.016605}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0031
       rect:
@@ -2453,15 +1662,7 @@ TextureImporter:
       - - {x: 4, y: 52.02469}
         - {x: 20, y: 36.02469}
         - {x: -26, y: 22.024689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0005
       rect:
@@ -2477,15 +1678,7 @@ TextureImporter:
       - - {x: 9, y: 4.5}
         - {x: 0, y: -4.5}
         - {x: -8.999999, y: 4.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0009
       rect:
@@ -2501,15 +1694,7 @@ TextureImporter:
       - - {x: -6.5, y: 13}
         - {x: 6.5, y: 12}
         - {x: 6.5, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0018
       rect:
@@ -2530,15 +1715,7 @@ TextureImporter:
         - {x: -15.030715, y: 23.961945}
         - {x: 4.969283, y: 23.961945}
         - {x: 4.969283, y: 4.9619465}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0052
       rect:
@@ -2557,15 +1734,7 @@ TextureImporter:
         - {x: 50.98754, y: 18}
         - {x: 73.98755, y: -31}
         - {x: -65.01245, y: -44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0041
       rect:
@@ -2589,15 +1758,7 @@ TextureImporter:
       - - {x: -13.999998, y: 33.038063}
         - {x: 11, y: 28.038061}
         - {x: -5, y: 12.038061}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0012
       rect:
@@ -2616,15 +1777,7 @@ TextureImporter:
       - - {x: -1.9753275, y: 19.490128}
         - {x: 2.0246716, y: -12.509872}
         - {x: -20.975327, y: 10.490128}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0038
       rect:
@@ -2644,15 +1797,7 @@ TextureImporter:
         - {x: 57.024696, y: -42}
         - {x: -26.975296, y: -41}
         - {x: -68.975296, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0034
       rect:
@@ -2671,15 +1816,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975311}
         - {x: -53.038048, y: -55.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0006
       rect:
@@ -2696,15 +1833,7 @@ TextureImporter:
         - {x: -3.9999995, y: 3.5}
         - {x: 4, y: 3.5}
         - {x: 4, y: -3.4999962}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0042
       rect:
@@ -2728,15 +1857,7 @@ TextureImporter:
       - - {x: 9.5, y: 29.5}
         - {x: -2.5, y: 15.5}
         - {x: -16.5, y: 29.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0042
       rect:
@@ -2756,15 +1877,7 @@ TextureImporter:
         - {x: 23.0247, y: -41.461945}
         - {x: -26.975296, y: -41.461945}
         - {x: -68.975296, y: -23.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0037
       rect:
@@ -2787,15 +1900,7 @@ TextureImporter:
       - - {x: 46.4877, y: 49.999992}
         - {x: 26.487701, y: 9.999992}
         - {x: 17.487701, y: 32.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0023
       rect:
@@ -2815,15 +1920,7 @@ TextureImporter:
         - {x: 57.024696, y: -42}
         - {x: -26.975296, y: -41}
         - {x: -68.975296, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0003
       rect:
@@ -2840,15 +1937,7 @@ TextureImporter:
         - {x: 0.5000038, y: 0.5}
         - {x: 0.5000038, y: -0.5}
         - {x: -0.4999962, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0021
       rect:
@@ -2872,15 +1961,7 @@ TextureImporter:
         - {x: -8.014259, y: 33.96194}
         - {x: 15.985741, y: 33.96194}
         - {x: 15.985741, y: 10.961941}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0034
       rect:
@@ -2909,15 +1990,7 @@ TextureImporter:
       - - {x: 17.013378, y: 46.999996}
         - {x: 6.013378, y: 34}
         - {x: -6.986622, y: 46.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0015
       rect:
@@ -2936,15 +2009,7 @@ TextureImporter:
         - {x: 55.000015, y: -42.47531}
         - {x: -2.9999847, y: -41.47531}
         - {x: -74.999985, y: -20.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0007
       rect:
@@ -2960,15 +2025,7 @@ TextureImporter:
       - - {x: 10, y: 5.000004}
         - {x: 0, y: -5}
         - {x: -10, y: 5.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0024
       rect:
@@ -2993,15 +2050,7 @@ TextureImporter:
         - {x: -8.528606, y: 40.493546}
         - {x: 14.471394, y: 40.493546}
         - {x: 14.471394, y: 18.493546}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0010
       rect:
@@ -3017,15 +2066,7 @@ TextureImporter:
       - - {x: 12, y: 6}
         - {x: 0, y: -6}
         - {x: -12, y: 6}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0050
       rect:
@@ -3041,15 +2082,7 @@ TextureImporter:
       - - {x: 9.499998, y: 18}
         - {x: -9.5, y: -18}
         - {x: -9.5, y: 18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0039
       rect:
@@ -3069,15 +2102,7 @@ TextureImporter:
         - {x: 57.024696, y: -42}
         - {x: -26.975296, y: -41}
         - {x: -68.975296, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0019
       rect:
@@ -3096,15 +2121,7 @@ TextureImporter:
         - {x: 63.96195, y: 25.024685}
         - {x: 63.96195, y: -9.975311}
         - {x: -53.038048, y: -55.975307}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0027
       rect:
@@ -3124,15 +2141,7 @@ TextureImporter:
         - {x: 23.0247, y: -41.461945}
         - {x: -26.975296, y: -41.461945}
         - {x: -68.975296, y: -23.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0038
       rect:
@@ -3154,15 +2163,7 @@ TextureImporter:
         - {x: -40.999985, y: -4.461941}
         - {x: 3.0000153, y: 39.53806}
         - {x: 60.000015, y: 31.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0005
       rect:
@@ -3181,15 +2182,7 @@ TextureImporter:
         - {x: 31.975323, y: -47.013374}
         - {x: -45.024673, y: -48.013374}
         - {x: -69.02467, y: -2.0133734}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0002
       rect:
@@ -3206,15 +2199,7 @@ TextureImporter:
         - {x: 0.5000038, y: 0.5}
         - {x: 0.5000038, y: -0.5}
         - {x: -0.4999962, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0009
       rect:
@@ -3234,15 +2219,7 @@ TextureImporter:
         - {x: 49.024704, y: -42.000008}
         - {x: -26.975296, y: -41.000008}
         - {x: -68.975296, y: -23.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0008
       rect:
@@ -3258,15 +2235,7 @@ TextureImporter:
       - - {x: 10, y: 6}
         - {x: 0, y: -6}
         - {x: -10, y: 6}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0001
       rect:
@@ -3283,15 +2252,7 @@ TextureImporter:
         - {x: 0.5000038, y: 0.5}
         - {x: 0.5000038, y: -0.5}
         - {x: -0.4999962, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0040
       rect:
@@ -3317,15 +2278,7 @@ TextureImporter:
       - - {x: 13.013374, y: 36.513687}
         - {x: 56.013374, y: 33.513687}
         - {x: 26.013374, y: 23.51369}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0014
       rect:
@@ -3344,15 +2297,7 @@ TextureImporter:
         - {x: 55.000015, y: -42.47531}
         - {x: -2.9999847, y: -41.47531}
         - {x: -74.999985, y: -20.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0031
       rect:
@@ -3371,15 +2316,7 @@ TextureImporter:
         - {x: 55.000015, y: -42.47531}
         - {x: -2.9999847, y: -41.47531}
         - {x: -74.999985, y: -20.475319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0006
       rect:
@@ -3399,15 +2336,7 @@ TextureImporter:
         - {x: 57.024696, y: -42}
         - {x: -26.975296, y: -41}
         - {x: -68.975296, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hearts0017
       rect:
@@ -3429,15 +2358,7 @@ TextureImporter:
       - - {x: -22.524673, y: 23.987598}
         - {x: 33.475327, y: 19.987598}
         - {x: -8.524673, y: 0.98760223}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0048
       rect:
@@ -3456,15 +2377,7 @@ TextureImporter:
         - {x: 59.981857, y: 27.524677}
         - {x: 59.981857, y: -34.475323}
         - {x: 24.981857, y: -51.475315}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0007
       rect:
@@ -3484,15 +2397,7 @@ TextureImporter:
         - {x: 57.024696, y: -42}
         - {x: -26.975296, y: -41}
         - {x: -68.975296, y: -23}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pet_hand0050
       rect:
@@ -3511,134 +2416,9 @@ TextureImporter:
         - {x: 78.00986, y: -38.475307}
         - {x: -57.990147, y: -39.475315}
         - {x: -74.99014, y: -1.4753113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      pet_hearts0020: 21300020
-      pet_hand0046: 21300064
-      pet_hand0039: 21300178
-      pet_hand0023: 21300160
-      pet_hand0011: 21300118
-      pet_hearts0005: 21300136
-      pet_hand0019: 21300180
-      pet_hearts0036: 21300074
-      pet_hand0002: 21300086
-      pet_hand0047: 21300056
-      pet_hand0025: 21300122
-      pet_hand0008: 21300100
-      pet_hearts0033: 21300092
-      pet_hearts0014: 21300036
-      pet_hearts0021: 21300164
-      pet_hearts0025: 21300048
-      pet_hearts0003: 21300162
-      pet_hearts0009: 21300138
-      pet_hand0045: 21300034
-      pet_hand0017: 21300044
-      pet_hearts0019: 21300050
-      pet_hand0016: 21300098
-      pet_hearts0031: 21300134
-      pet_hand0049: 21300120
-      pet_hand0015: 21300168
-      pet_hearts0037: 21300158
-      pet_hand0035: 21300026
-      pet_hearts0024: 21300172
-      pet_hand0009: 21300190
-      pet_hearts0029: 21300046
-      pet_hand0043: 21300080
-      pet_hand0027: 21300182
-      pet_hearts0028: 21300076
-      pet_hand0050: 21300210
-      pet_hand0038: 21300148
-      pet_hand0003: 21300040
-      pet_hearts0007: 21300170
-      pet_hearts0001: 21300194
-      pet_hand0001: 21300132
-      pet_hearts0039: 21300052
-      pet_hand0013: 21300078
-      pet_hand0048: 21300206
-      pet_hearts0026: 21300066
-      pet_hand0041: 21300008
-      pet_hand0005: 21300186
-      pet_hearts0044: 21300012
-      pet_hearts0006: 21300152
-      pet_hearts0046: 21300090
-      pet_hearts0011: 21300018
-      pet_hearts0016: 21300024
-      pet_hand0028: 21300042
-      pet_hand0029: 21300104
-      pet_hearts0052: 21300060
-      pet_hand0044: 21300038
-      pet_hand0052: 21300142
-      pet_hand0022: 21300084
-      pet_hand0040: 21300068
-      pet_hearts0043: 21300108
-      pet_hand0026: 21300010
-      pet_hearts0008: 21300192
-      pet_hand0020: 21300016
-      pet_hand0034: 21300150
-      pet_hearts0041: 21300144
-      pet_hearts0023: 21300094
-      pet_hand0024: 21300126
-      pet_hearts0015: 21300028
-      pet_hearts0013: 21300112
-      pet_hearts0050: 21300176
-      pet_hearts0002: 21300188
-      pet_hearts0027: 21300022
-      pet_hand0031: 21300200
-      pet_hearts0010: 21300174
-      pet_hearts0017: 21300204
-      pet_hearts0040: 21300196
-      pet_hearts0047: 21300102
-      pet_hearts0049: 21300082
-      pet_hearts0038: 21300184
-      pet_hearts0045: 21300032
-      pet_hand0004: 21300128
-      pet_hand0021: 21300124
-      pet_hearts0022: 21300070
-      pet_hand0030: 21300116
-      pet_hand0036: 21300072
-      pet_hand0053: 21300106
-      pet_hand0012: 21300002
-      pet_hearts0048: 21300130
-      pet_hearts0042: 21300154
-      pet_hand0037: 21300114
-      pet_hand0007: 21300208
-      pet_hearts0018: 21300140
-      pet_hearts0034: 21300166
-      pet_hand0033: 21300062
-      pet_hand0014: 21300198
-      pet_hand0032: 21300004
-      pet_hearts0012: 21300146
-      pet_hearts0032: 21300006
-      pet_hearts0035: 21300030
-      pet_hand0010: 21300096
-      pet_hand0006: 21300202
-      pet_hearts0030: 21300088
-      pet_hearts0051: 21300110
-      pet_hand0018: 21300054
-      pet_hearts0053: 21300000
-      pet_hearts0004: 21300014
-      pet_hand0051: 21300058
-      pet_hand0042: 21300156
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

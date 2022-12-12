@@ -1,438 +1,151 @@
 fileFormatVersion: 2
 guid: 6d084e78b8994a0429582ba50d7623a0
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: SpawnGlow0036
-  - first:
-      213: 21300002
-    second: SpawnGlow0004
-  - first:
-      213: 21300004
-    second: Climbup0002
-  - first:
-      213: 21300006
-    second: SpawnGlow0035
-  - first:
-      213: 21300008
-    second: climbdown
-  - first:
-      213: 21300010
-    second: Climbup0007
-  - first:
-      213: 21300012
-    second: Spawn0047
-  - first:
-      213: 21300014
-    second: SpawnGlow0015
-  - first:
-      213: 21300016
-    second: Walk0005
-  - first:
-      213: 21300018
-    second: Spawn0017
-  - first:
-      213: 21300020
-    second: SpawnGlow0040
-  - first:
-      213: 21300022
-    second: Vent0007
-  - first:
-      213: 21300024
-    second: Spawn0040
-  - first:
-      213: 21300026
-    second: idleNoshadow
-  - first:
-      213: 21300028
-    second: SpawnGlow0016
-  - first:
-      213: 21300030
-    second: SpawnGlow0039
-  - first:
-      213: 21300032
-    second: SpawnGlow0053
-  - first:
-      213: 21300034
-    second: SpawnGlow0007
-  - first:
-      213: 21300036
-    second: SpawnGlow0021
-  - first:
-      213: 21300038
-    second: Spawn0011
-  - first:
-      213: 21300040
-    second: Walk0009
-  - first:
-      213: 21300042
-    second: Spawn0048
-  - first:
-      213: 21300044
-    second: SpawnGlow0023
-  - first:
-      213: 21300046
-    second: Spawn0055
-  - first:
-      213: 21300048
-    second: SpawnGlow0019
-  - first:
-      213: 21300050
-    second: SpawnGlow0029
-  - first:
-      213: 21300052
-    second: Spawn0049
-  - first:
-      213: 21300054
-    second: Walk0008
-  - first:
-      213: 21300056
-    second: Climbup0001
-  - first:
-      213: 21300058
-    second: Spawn0020
-  - first:
-      213: 21300060
-    second: SpawnGlow0032
-  - first:
-      213: 21300062
-    second: SpawnGlow0038
-  - first:
-      213: 21300064
-    second: Spawn0030
-  - first:
-      213: 21300066
-    second: empty
-  - first:
-      213: 21300068
-    second: Climbup0012
-  - first:
-      213: 21300070
-    second: SpawnGlow0003
-  - first:
-      213: 21300072
-    second: Spawn0027
-  - first:
-      213: 21300074
-    second: Spawn0008
-  - first:
-      213: 21300076
-    second: Climbup0011
-  - first:
-      213: 21300078
-    second: SpawnGlow0050
-  - first:
-      213: 21300080
-    second: SpawnGlow0055
-  - first:
-      213: 21300082
-    second: Spawn0044
-  - first:
-      213: 21300084
-    second: Spawn0032
-  - first:
-      213: 21300086
-    second: Spawn0050
-  - first:
-      213: 21300088
-    second: SpawnGlow0037
-  - first:
-      213: 21300090
-    second: Spawn0041
-  - first:
-      213: 21300092
-    second: Walk0006
-  - first:
-      213: 21300094
-    second: Spawn0043
-  - first:
-      213: 21300096
-    second: SpawnGlow0022
-  - first:
-      213: 21300098
-    second: SpawnGlow0002
-  - first:
-      213: 21300100
-    second: Spawn0045
-  - first:
-      213: 21300102
-    second: Walk0007
-  - first:
-      213: 21300104
-    second: Walk0002
-  - first:
-      213: 21300106
-    second: SpawnGlow0033
-  - first:
-      213: 21300108
-    second: Vent0002
-  - first:
-      213: 21300110
-    second: Vent0004
-  - first:
-      213: 21300112
-    second: Spawn0026
-  - first:
-      213: 21300114
-    second: idle
-  - first:
-      213: 21300116
-    second: Walk0003
-  - first:
-      213: 21300118
-    second: Vent0005
-  - first:
-      213: 21300120
-    second: SpawnGlow0049
-  - first:
-      213: 21300122
-    second: Spawn0023
-  - first:
-      213: 21300124
-    second: SpawnGlow0044
-  - first:
-      213: 21300126
-    second: SpawnGlow0041
-  - first:
-      213: 21300128
-    second: Spawn0018
-  - first:
-      213: 21300130
-    second: SpawnGlow0020
-  - first:
-      213: 21300132
-    second: Spawn0019
-  - first:
-      213: 21300134
-    second: SpawnGlow0005
-  - first:
-      213: 21300136
-    second: Spawn0029
-  - first:
-      213: 21300138
-    second: Spawn0034
-  - first:
-      213: 21300140
-    second: Spawn0001
-  - first:
-      213: 21300142
-    second: SpawnGlow0028
-  - first:
-      213: 21300144
-    second: Spawn0037
-  - first:
-      213: 21300146
-    second: Spawn0051
-  - first:
-      213: 21300148
-    second: SpawnGlow0030
-  - first:
-      213: 21300150
-    second: SpawnGlow0045
-  - first:
-      213: 21300152
-    second: SpawnGlow0048
-  - first:
-      213: 21300154
-    second: Spawn0024
-  - first:
-      213: 21300156
-    second: Spawn0009
-  - first:
-      213: 21300158
-    second: SpawnGlow0011
-  - first:
-      213: 21300160
-    second: Spawn0053
-  - first:
-      213: 21300162
-    second: SpawnGlow0043
-  - first:
-      213: 21300164
-    second: SpawnGlow0042
-  - first:
-      213: 21300166
-    second: SpawnGlow0034
-  - first:
-      213: 21300168
-    second: SpawnGlow0010
-  - first:
-      213: 21300170
-    second: Spawn0039
-  - first:
-      213: 21300172
-    second: Climbup0009
-  - first:
-      213: 21300174
-    second: SpawnGlow0031
-  - first:
-      213: 21300176
-    second: SpawnGlow0008
-  - first:
-      213: 21300178
-    second: Vent0003
-  - first:
-      213: 21300180
-    second: Spawn0007
-  - first:
-      213: 21300182
-    second: Spawn0042
-  - first:
-      213: 21300184
-    second: Climbup0004
-  - first:
-      213: 21300186
-    second: Spawn0033
-  - first:
-      213: 21300188
-    second: Climbup0008
-  - first:
-      213: 21300190
-    second: SpawnGlow0018
-  - first:
-      213: 21300192
-    second: Spawn0012
-  - first:
-      213: 21300194
-    second: Walk0004
-  - first:
-      213: 21300196
-    second: SpawnGlow0047
-  - first:
-      213: 21300198
-    second: Spawn0054
-  - first:
-      213: 21300200
-    second: Spawn0003
-  - first:
-      213: 21300202
-    second: Spawn0025
-  - first:
-      213: 21300204
-    second: Climbup0003
-  - first:
-      213: 21300206
-    second: SpawnGlow0051
-  - first:
-      213: 21300208
-    second: SpawnGlow0027
-  - first:
-      213: 21300210
-    second: Walk0001
-  - first:
-      213: 21300212
-    second: Spawn0046
-  - first:
-      213: 21300214
-    second: SpawnGlow0052
-  - first:
-      213: 21300216
-    second: SpawnGlow0046
-  - first:
-      213: 21300218
-    second: Spawn0013
-  - first:
-      213: 21300220
-    second: Spawn0015
-  - first:
-      213: 21300222
-    second: Climbup0013
-  - first:
-      213: 21300224
-    second: SpawnGlow0006
-  - first:
-      213: 21300226
-    second: Walk0011
-  - first:
-      213: 21300228
-    second: SpawnGlow0014
-  - first:
-      213: 21300230
-    second: Walk0012
-  - first:
-      213: 21300232
-    second: SpawnGlow0024
-  - first:
-      213: 21300234
-    second: Spawn0038
-  - first:
-      213: 21300236
-    second: Climbup0005
-  - first:
-      213: 21300238
-    second: Spawn0021
-  - first:
-      213: 21300240
-    second: SpawnGlow0026
-  - first:
-      213: 21300242
-    second: Spawn0052
-  - first:
-      213: 21300244
-    second: Spawn0014
-  - first:
-      213: 21300246
-    second: SpawnGlow0025
-  - first:
-      213: 21300248
-    second: Spawn0006
-  - first:
-      213: 21300250
-    second: Spawn0031
-  - first:
-      213: 21300252
-    second: Spawn0010
-  - first:
-      213: 21300254
-    second: Vent0006
-  - first:
-      213: 21300256
-    second: Spawn0036
-  - first:
-      213: 21300258
-    second: SpawnGlow0017
-  - first:
-      213: 21300260
-    second: Climbup0006
-  - first:
-      213: 21300262
-    second: SpawnGlow0012
-  - first:
-      213: 21300264
-    second: SpawnGlow0013
-  - first:
-      213: 21300266
-    second: Spawn0035
-  - first:
-      213: 21300268
-    second: Spawn0016
-  - first:
-      213: 21300270
-    second: Spawn0022
-  - first:
-      213: 21300272
-    second: SpawnGlow0054
-  - first:
-      213: 21300274
-    second: SpawnGlow0009
-  - first:
-      213: 21300276
-    second: Walk0010
-  - first:
-      213: 21300278
-    second: Vent0001
-  - first:
-      213: 21300280
-    second: Climbup0010
-  - first:
-      213: 21300282
-    second: Spawn0028
-  - first:
-      213: 21300284
-    second: SpawnGlow0001
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: SpawnGlow0036
+    21300002: SpawnGlow0004
+    21300004: Climbup0002
+    21300006: SpawnGlow0035
+    21300008: climbdown
+    21300010: Climbup0007
+    21300012: Spawn0047
+    21300014: SpawnGlow0015
+    21300016: Walk0005
+    21300018: Spawn0017
+    21300020: SpawnGlow0040
+    21300022: Vent0007
+    21300024: Spawn0040
+    21300026: idleNoshadow
+    21300028: SpawnGlow0016
+    21300030: SpawnGlow0039
+    21300032: SpawnGlow0053
+    21300034: SpawnGlow0007
+    21300036: SpawnGlow0021
+    21300038: Spawn0011
+    21300040: Walk0009
+    21300042: Spawn0048
+    21300044: SpawnGlow0023
+    21300046: Spawn0055
+    21300048: SpawnGlow0019
+    21300050: SpawnGlow0029
+    21300052: Spawn0049
+    21300054: Walk0008
+    21300056: Climbup0001
+    21300058: Spawn0020
+    21300060: SpawnGlow0032
+    21300062: SpawnGlow0038
+    21300064: Spawn0030
+    21300066: empty
+    21300068: Climbup0012
+    21300070: SpawnGlow0003
+    21300072: Spawn0027
+    21300074: Spawn0008
+    21300076: Climbup0011
+    21300078: SpawnGlow0050
+    21300080: SpawnGlow0055
+    21300082: Spawn0044
+    21300084: Spawn0032
+    21300086: Spawn0050
+    21300088: SpawnGlow0037
+    21300090: Spawn0041
+    21300092: Walk0006
+    21300094: Spawn0043
+    21300096: SpawnGlow0022
+    21300098: SpawnGlow0002
+    21300100: Spawn0045
+    21300102: Walk0007
+    21300104: Walk0002
+    21300106: SpawnGlow0033
+    21300108: Vent0002
+    21300110: Vent0004
+    21300112: Spawn0026
+    21300114: idle
+    21300116: Walk0003
+    21300118: Vent0005
+    21300120: SpawnGlow0049
+    21300122: Spawn0023
+    21300124: SpawnGlow0044
+    21300126: SpawnGlow0041
+    21300128: Spawn0018
+    21300130: SpawnGlow0020
+    21300132: Spawn0019
+    21300134: SpawnGlow0005
+    21300136: Spawn0029
+    21300138: Spawn0034
+    21300140: Spawn0001
+    21300142: SpawnGlow0028
+    21300144: Spawn0037
+    21300146: Spawn0051
+    21300148: SpawnGlow0030
+    21300150: SpawnGlow0045
+    21300152: SpawnGlow0048
+    21300154: Spawn0024
+    21300156: Spawn0009
+    21300158: SpawnGlow0011
+    21300160: Spawn0053
+    21300162: SpawnGlow0043
+    21300164: SpawnGlow0042
+    21300166: SpawnGlow0034
+    21300168: SpawnGlow0010
+    21300170: Spawn0039
+    21300172: Climbup0009
+    21300174: SpawnGlow0031
+    21300176: SpawnGlow0008
+    21300178: Vent0003
+    21300180: Spawn0007
+    21300182: Spawn0042
+    21300184: Climbup0004
+    21300186: Spawn0033
+    21300188: Climbup0008
+    21300190: SpawnGlow0018
+    21300192: Spawn0012
+    21300194: Walk0004
+    21300196: SpawnGlow0047
+    21300198: Spawn0054
+    21300200: Spawn0003
+    21300202: Spawn0025
+    21300204: Climbup0003
+    21300206: SpawnGlow0051
+    21300208: SpawnGlow0027
+    21300210: Walk0001
+    21300212: Spawn0046
+    21300214: SpawnGlow0052
+    21300216: SpawnGlow0046
+    21300218: Spawn0013
+    21300220: Spawn0015
+    21300222: Climbup0013
+    21300224: SpawnGlow0006
+    21300226: Walk0011
+    21300228: SpawnGlow0014
+    21300230: Walk0012
+    21300232: SpawnGlow0024
+    21300234: Spawn0038
+    21300236: Climbup0005
+    21300238: Spawn0021
+    21300240: SpawnGlow0026
+    21300242: Spawn0052
+    21300244: Spawn0014
+    21300246: SpawnGlow0025
+    21300248: Spawn0006
+    21300250: Spawn0031
+    21300252: Spawn0010
+    21300254: Vent0006
+    21300256: Spawn0036
+    21300258: SpawnGlow0017
+    21300260: Climbup0006
+    21300262: SpawnGlow0012
+    21300264: SpawnGlow0013
+    21300266: Spawn0035
+    21300268: Spawn0016
+    21300270: Spawn0022
+    21300272: SpawnGlow0054
+    21300274: SpawnGlow0009
+    21300276: Walk0010
+    21300278: Vent0001
+    21300280: Climbup0010
+    21300282: Spawn0028
+    21300284: SpawnGlow0001
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -440,8 +153,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -449,12 +160,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -462,13 +168,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -477,97 +180,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -587,15 +258,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0004
       rect:
@@ -612,15 +275,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0002
       rect:
@@ -649,15 +304,7 @@ TextureImporter:
         - {x: 99.961945, y: 137.5}
         - {x: 99.961945, y: 65.5}
         - {x: 56.96194, y: 59.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0035
       rect:
@@ -674,15 +321,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: climbdown
       rect:
@@ -708,15 +347,7 @@ TextureImporter:
         - {x: -1.0298615, y: 95.97526}
         - {x: 27.970137, y: 124.97526}
         - {x: 90.97014, y: 137.97527}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0007
       rect:
@@ -742,15 +373,7 @@ TextureImporter:
         - {x: 50.000015, y: -127.499985}
         - {x: 28.000015, y: -119.49997}
         - {x: -32.99998, y: -70.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0047
       rect:
@@ -773,15 +396,7 @@ TextureImporter:
         - {x: 63.50001, y: -16.538048}
         - {x: 106.5, y: -59.538048}
         - {x: 75.500015, y: -89.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0015
       rect:
@@ -804,15 +419,7 @@ TextureImporter:
         - {x: 62.961952, y: -7.475297}
         - {x: 96.96195, y: -30.475296}
         - {x: 96.96195, y: -78.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0005
       rect:
@@ -835,15 +442,7 @@ TextureImporter:
         - {x: -5.5247345, y: -91.50003}
         - {x: -85.52473, y: -80.50004}
         - {x: -51.524734, y: -49.50004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0017
       rect:
@@ -864,15 +463,7 @@ TextureImporter:
         - {x: 81.03806, y: -27.475296}
         - {x: 96.03806, y: -40.475296}
         - {x: 85.03806, y: -83.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0040
       rect:
@@ -889,15 +480,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0007
       rect:
@@ -917,15 +500,7 @@ TextureImporter:
         - {x: 77.96196, y: 3.038063}
         - {x: 77.96196, y: -64.96194}
         - {x: -60.03804, y: -65.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0040
       rect:
@@ -949,15 +524,7 @@ TextureImporter:
         - {x: -67.475296, y: -78}
         - {x: -86.475296, y: -36}
         - {x: -96.475296, y: 13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: idleNoshadow
       rect:
@@ -977,15 +544,7 @@ TextureImporter:
         - {x: 59.000015, y: -84.99999}
         - {x: -29.999985, y: -99.99999}
         - {x: -70.999985, y: -58.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0016
       rect:
@@ -1008,15 +567,7 @@ TextureImporter:
         - {x: 25.00002, y: -107.475296}
         - {x: -92.999985, y: -60.475292}
         - {x: -97.999985, y: 5.524702}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0039
       rect:
@@ -1033,15 +584,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0053
       rect:
@@ -1058,15 +601,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0007
       rect:
@@ -1088,15 +623,7 @@ TextureImporter:
         - {x: 75.499954, y: -8.500046}
         - {x: 111.499954, y: -32.500046}
         - {x: 100.499954, y: -86.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0021
       rect:
@@ -1118,15 +645,7 @@ TextureImporter:
         - {x: 15.538067, y: -97.47529}
         - {x: -90.46192, y: -55.475296}
         - {x: -90.46192, y: 31.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0011
       rect:
@@ -1148,15 +667,7 @@ TextureImporter:
         - {x: 64.499954, y: 56.999954}
         - {x: 76.499954, y: -8.000046}
         - {x: 108.499954, y: -66.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0009
       rect:
@@ -1184,15 +695,7 @@ TextureImporter:
         - {x: 13.499954, y: -45.500046}
         - {x: -38.500046, y: -60.500046}
         - {x: -70.500046, y: -40.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0048
       rect:
@@ -1214,15 +717,7 @@ TextureImporter:
         - {x: -50.49998, y: -54.000046}
         - {x: -81.499985, y: -54.000046}
         - {x: -97.499985, y: 53.999954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0023
       rect:
@@ -1245,15 +740,7 @@ TextureImporter:
         - {x: 20, y: -95.99999}
         - {x: -85, y: -57.999992}
         - {x: -97, y: 22.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0055
       rect:
@@ -1275,15 +762,7 @@ TextureImporter:
         - {x: -32.000046, y: -99.51811}
         - {x: -68.000046, y: -57.518112}
         - {x: -79.000046, y: -14.518105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0019
       rect:
@@ -1305,15 +784,7 @@ TextureImporter:
         - {x: 65.500015, y: -12.475296}
         - {x: 88.500015, y: -29.475296}
         - {x: 99.500015, y: -71.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0029
       rect:
@@ -1336,15 +807,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0049
       rect:
@@ -1364,15 +827,7 @@ TextureImporter:
         - {x: -55.500046, y: -91.499985}
         - {x: -86.500046, y: -36.5}
         - {x: -88.500046, y: 34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0008
       rect:
@@ -1400,15 +855,7 @@ TextureImporter:
         - {x: -75.499985, y: 78.53806}
         - {x: -19.499983, y: 114.53806}
         - {x: 33.500015, y: 116.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0001
       rect:
@@ -1437,15 +884,7 @@ TextureImporter:
         - {x: 99.961945, y: 137.5}
         - {x: 99.961945, y: 65.5}
         - {x: 56.96194, y: 59.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0020
       rect:
@@ -1467,15 +906,7 @@ TextureImporter:
         - {x: 61.975266, y: -6.975312}
         - {x: 95.975266, y: -41.97531}
         - {x: 81.975266, y: -83.9753}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0032
       rect:
@@ -1497,15 +928,7 @@ TextureImporter:
         - {x: 13.513374, y: -95.513374}
         - {x: -89.48661, y: -54.513374}
         - {x: -90.486626, y: 41.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0038
       rect:
@@ -1522,15 +945,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0030
       rect:
@@ -1552,15 +967,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: empty
       rect:
@@ -1577,15 +984,7 @@ TextureImporter:
         - {x: 0.5, y: 0.49999237}
         - {x: 0.5, y: -0.5000076}
         - {x: -0.5, y: -0.5000076}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0012
       rect:
@@ -1613,15 +1012,7 @@ TextureImporter:
         - {x: 39.000008, y: 35.50003}
         - {x: 36.000004, y: 80.50003}
         - {x: 101, y: 155.50003}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0003
       rect:
@@ -1643,15 +1034,7 @@ TextureImporter:
         - {x: 18.999954, y: -117.475296}
         - {x: -104.000046, y: -67.475296}
         - {x: -112.000046, y: 33.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0027
       rect:
@@ -1673,15 +1056,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0008
       rect:
@@ -1703,15 +1078,7 @@ TextureImporter:
         - {x: 61.038063, y: 4.524704}
         - {x: 108.03806, y: -55.475296}
         - {x: 80.03806, y: -83.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0011
       rect:
@@ -1736,15 +1103,7 @@ TextureImporter:
         - {x: -75.46194, y: -100.48661}
         - {x: -117.46194, y: 4.5133743}
         - {x: -117.46194, y: 74.513374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0050
       rect:
@@ -1761,15 +1120,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0055
       rect:
@@ -1786,15 +1137,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0044
       rect:
@@ -1816,15 +1159,7 @@ TextureImporter:
         - {x: 108, y: -25.475296}
         - {x: 59, y: -85.475296}
         - {x: -72, y: -85.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0032
       rect:
@@ -1846,15 +1181,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0050
       rect:
@@ -1874,15 +1201,7 @@ TextureImporter:
         - {x: -55.500046, y: -91.499985}
         - {x: -86.500046, y: -36.5}
         - {x: -88.500046, y: 34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0037
       rect:
@@ -1899,15 +1218,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0041
       rect:
@@ -1927,15 +1238,7 @@ TextureImporter:
         - {x: 106.000015, y: -58.500042}
         - {x: 20.00002, y: -79.500046}
         - {x: -96.999985, y: -43.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0006
       rect:
@@ -1957,15 +1260,7 @@ TextureImporter:
         - {x: -14.986626, y: 89.461945}
         - {x: 26.013374, y: 89.461945}
         - {x: 61.013374, y: 72.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0043
       rect:
@@ -1986,15 +1281,7 @@ TextureImporter:
         - {x: 126.51991, y: 12.524704}
         - {x: 64.51991, y: -77.475296}
         - {x: -65.48008, y: -86.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0022
       rect:
@@ -2017,15 +1304,7 @@ TextureImporter:
         - {x: 20, y: -95.99999}
         - {x: -85, y: -57.999992}
         - {x: -97, y: 22.000008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0002
       rect:
@@ -2042,15 +1321,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0045
       rect:
@@ -2072,15 +1343,7 @@ TextureImporter:
         - {x: 108, y: -25.475296}
         - {x: 59, y: -85.475296}
         - {x: -72, y: -85.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0007
       rect:
@@ -2108,15 +1371,7 @@ TextureImporter:
         - {x: 8.499954, y: -47.961937}
         - {x: -38.500046, y: -59.961937}
         - {x: -70.500046, y: -39.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0002
       rect:
@@ -2142,15 +1397,7 @@ TextureImporter:
         - {x: 10.500014, y: -48.961937}
         - {x: -52.499985, y: -71.96194}
         - {x: -89.499985, y: -41.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0033
       rect:
@@ -2167,15 +1414,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0002
       rect:
@@ -2195,15 +1434,7 @@ TextureImporter:
         - {x: 76.49996, y: -55.975292}
         - {x: 62.49996, y: -86.975296}
         - {x: -3.5000381, y: -91.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0004
       rect:
@@ -2224,15 +1455,7 @@ TextureImporter:
         - {x: 86.49996, y: -73.52561}
         - {x: 2.4999619, y: -86.52561}
         - {x: -41.50004, y: -56.52561}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0026
       rect:
@@ -2254,15 +1477,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: idle
       rect:
@@ -2283,15 +1498,7 @@ TextureImporter:
         - {x: 78.000015, y: 53.000008}
         - {x: 66.000015, y: -31.999992}
         - {x: 79.000015, y: -96.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0003
       rect:
@@ -2315,15 +1522,7 @@ TextureImporter:
         - {x: -76.96194, y: -75.96194}
         - {x: -56.961937, y: -71.96194}
         - {x: -83.96194, y: -49.961933}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0005
       rect:
@@ -2344,15 +1543,7 @@ TextureImporter:
         - {x: 86.49996, y: -73.52561}
         - {x: 2.4999619, y: -86.52561}
         - {x: -41.50004, y: -56.52561}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0049
       rect:
@@ -2369,15 +1560,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0023
       rect:
@@ -2399,15 +1582,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0044
       rect:
@@ -2424,15 +1599,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0041
       rect:
@@ -2449,15 +1616,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0018
       rect:
@@ -2479,15 +1638,7 @@ TextureImporter:
         - {x: 62.975266, y: 3.9866257}
         - {x: 95.975266, y: -43.013374}
         - {x: 86.975266, y: -74.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0020
       rect:
@@ -2510,15 +1661,7 @@ TextureImporter:
         - {x: -85.03811, y: -63.999985}
         - {x: -92.03811, y: -14.999985}
         - {x: -86.03811, y: 39.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0019
       rect:
@@ -2541,15 +1684,7 @@ TextureImporter:
         - {x: 57.500015, y: -3.4999847}
         - {x: 99.500015, y: -42.499985}
         - {x: 84.500015, y: -73.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0005
       rect:
@@ -2566,15 +1701,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0029
       rect:
@@ -2596,15 +1723,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0034
       rect:
@@ -2626,15 +1745,7 @@ TextureImporter:
         - {x: 54.96189, y: 3.024704}
         - {x: 89.96189, y: -36.975296}
         - {x: 89.96189, y: -71.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0001
       rect:
@@ -2651,15 +1762,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0028
       rect:
@@ -2682,15 +1785,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0037
       rect:
@@ -2712,15 +1807,7 @@ TextureImporter:
         - {x: 92.024704, y: -54}
         - {x: 35.024704, y: -92}
         - {x: -82.975296, y: -74}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0051
       rect:
@@ -2740,15 +1827,7 @@ TextureImporter:
         - {x: -37.52474, y: -95.46194}
         - {x: -83.524734, y: -49.46193}
         - {x: -79.524734, y: 33.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0030
       rect:
@@ -2771,15 +1850,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0045
       rect:
@@ -2796,15 +1867,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0048
       rect:
@@ -2821,15 +1884,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0024
       rect:
@@ -2851,15 +1906,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0009
       rect:
@@ -2882,15 +1929,7 @@ TextureImporter:
         - {x: 83.499954, y: -87.000046}
         - {x: 15.499954, y: -103.00004}
         - {x: -91.500046, y: -62.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0011
       rect:
@@ -2912,15 +1951,7 @@ TextureImporter:
         - {x: 71.493515, y: -0.038108826}
         - {x: 101.493515, y: -34.03811}
         - {x: 101.493515, y: -77.0381}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0053
       rect:
@@ -2942,15 +1973,7 @@ TextureImporter:
         - {x: -32.000046, y: -99.51811}
         - {x: -68.000046, y: -57.518112}
         - {x: -79.000046, y: -14.518105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0043
       rect:
@@ -2967,15 +1990,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0042
       rect:
@@ -2992,15 +2007,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0034
       rect:
@@ -3017,15 +2024,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0010
       rect:
@@ -3048,15 +2047,7 @@ TextureImporter:
         - {x: 79, y: 57.524673}
         - {x: 67, y: 0.52467346}
         - {x: 114, y: -43.475327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0039
       rect:
@@ -3080,15 +2071,7 @@ TextureImporter:
         - {x: -67.475296, y: -78}
         - {x: -86.475296, y: -36}
         - {x: -96.475296, y: 13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0009
       rect:
@@ -3113,15 +2096,7 @@ TextureImporter:
         - {x: -65.96194, y: -84.02469}
         - {x: -77.96194, y: 16.975311}
         - {x: -99.96194, y: 60.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0031
       rect:
@@ -3144,15 +2119,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0008
       rect:
@@ -3174,15 +2141,7 @@ TextureImporter:
         - {x: 80, y: -9.499985}
         - {x: 110, y: -40.499985}
         - {x: 97, y: -91.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0003
       rect:
@@ -3203,15 +2162,7 @@ TextureImporter:
         - {x: 86.49996, y: -73.52561}
         - {x: 2.4999619, y: -86.52561}
         - {x: -41.50004, y: -56.52561}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0007
       rect:
@@ -3233,15 +2184,7 @@ TextureImporter:
         - {x: 67.499954, y: -14.500046}
         - {x: 94.499954, y: -32.500046}
         - {x: 103.499954, y: -72.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0042
       rect:
@@ -3261,15 +2204,7 @@ TextureImporter:
         - {x: 106.000015, y: -58.500042}
         - {x: 20.00002, y: -79.500046}
         - {x: -96.999985, y: -43.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0004
       rect:
@@ -3293,15 +2228,7 @@ TextureImporter:
         - {x: -111.03806, y: -75.99998}
         - {x: -94.03807, y: -10.999981}
         - {x: -57.03807, y: 15.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0033
       rect:
@@ -3323,15 +2250,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0008
       rect:
@@ -3356,15 +2275,7 @@ TextureImporter:
         - {x: -65.96194, y: -84.02469}
         - {x: -77.96194, y: 16.975311}
         - {x: -99.96194, y: 60.97531}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0018
       rect:
@@ -3387,15 +2298,7 @@ TextureImporter:
         - {x: 101.000015, y: -32.475327}
         - {x: 90.000015, y: -71.47533}
         - {x: 59.000015, y: -91.47533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0012
       rect:
@@ -3417,15 +2320,7 @@ TextureImporter:
         - {x: 27.50002, y: -105.475296}
         - {x: -96.499985, y: -58.475296}
         - {x: -94.499985, y: 35.5247}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0004
       rect:
@@ -3446,15 +2341,7 @@ TextureImporter:
         - {x: -75.96194, y: -104.53805}
         - {x: -84.96193, y: -44.538048}
         - {x: -82.96194, y: 76.46195}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0047
       rect:
@@ -3471,15 +2358,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0054
       rect:
@@ -3501,15 +2380,7 @@ TextureImporter:
         - {x: -32.000046, y: -99.51811}
         - {x: -68.000046, y: -57.518112}
         - {x: -79.000046, y: -14.518105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0003
       rect:
@@ -3526,15 +2397,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0025
       rect:
@@ -3556,15 +2419,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0003
       rect:
@@ -3593,15 +2448,7 @@ TextureImporter:
         - {x: 99.961945, y: 76.96188}
         - {x: 56.96194, y: 70.96188}
         - {x: 26.961945, y: 84.96188}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0051
       rect:
@@ -3618,15 +2465,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0027
       rect:
@@ -3649,15 +2488,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0001
       rect:
@@ -3681,15 +2512,7 @@ TextureImporter:
         - {x: -54.500046, y: -72.46194}
         - {x: -89.500046, y: -44.461937}
         - {x: -81.500046, y: 70.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0046
       rect:
@@ -3712,15 +2535,7 @@ TextureImporter:
         - {x: 63.50001, y: -16.538048}
         - {x: 106.5, y: -59.538048}
         - {x: 75.500015, y: -89.53805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0052
       rect:
@@ -3737,15 +2552,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0046
       rect:
@@ -3762,15 +2569,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0013
       rect:
@@ -3789,15 +2588,7 @@ TextureImporter:
         - {x: -31.499985, y: 106.999954}
         - {x: 52.500015, y: 86.999954}
         - {x: 104.500015, y: -69.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0015
       rect:
@@ -3821,15 +2612,7 @@ TextureImporter:
         - {x: 16.461891, y: -98.46194}
         - {x: -86.53811, y: -61.461937}
         - {x: -95.53811, y: -20.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0013
       rect:
@@ -3859,15 +2642,7 @@ TextureImporter:
         - {x: 39.000008, y: 38.975266}
         - {x: 36.000004, y: 83.975266}
         - {x: 101, y: 158.97527}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0006
       rect:
@@ -3890,15 +2665,7 @@ TextureImporter:
         - {x: 112.999954, y: -39.475296}
         - {x: 97.999954, y: -97.47529}
         - {x: 11.999958, y: -114.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0011
       rect:
@@ -3922,15 +2689,7 @@ TextureImporter:
         - {x: -77.524734, y: -64.500046}
         - {x: -25.524733, y: -50.500046}
         - {x: -80.524734, y: -23.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0014
       rect:
@@ -3953,15 +2712,7 @@ TextureImporter:
         - {x: -97.993546, y: 38.500015}
         - {x: -44.993546, y: 99.50001}
         - {x: 14.006454, y: 106.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0012
       rect:
@@ -3984,15 +2735,7 @@ TextureImporter:
         - {x: -55.524673, y: -52.538048}
         - {x: -72.52467, y: -25.538052}
         - {x: -80.52467, y: 52.461945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0024
       rect:
@@ -4015,15 +2758,7 @@ TextureImporter:
         - {x: 19.999954, y: -96.000046}
         - {x: -85.000046, y: -58.000046}
         - {x: -97.000046, y: 21.999954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0038
       rect:
@@ -4045,15 +2780,7 @@ TextureImporter:
         - {x: 92.024704, y: -54}
         - {x: 35.024704, y: -92}
         - {x: -82.975296, y: -74}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0005
       rect:
@@ -4080,15 +2807,7 @@ TextureImporter:
         - {x: -102.51336, y: 79.999954}
         - {x: -54.51336, y: 32.999954}
         - {x: -31.513355, y: 40.999954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0021
       rect:
@@ -4110,15 +2829,7 @@ TextureImporter:
         - {x: 15.538067, y: -97.4753}
         - {x: -90.46192, y: -55.47531}
         - {x: -90.46192, y: 31.524685}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0026
       rect:
@@ -4141,15 +2852,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0052
       rect:
@@ -4171,15 +2874,7 @@ TextureImporter:
         - {x: -32.000046, y: -99.51811}
         - {x: -68.000046, y: -57.518112}
         - {x: -79.000046, y: -14.518105}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0014
       rect:
@@ -4202,15 +2897,7 @@ TextureImporter:
         - {x: -89.53811, y: -66.47533}
         - {x: -94.53811, y: -13.475327}
         - {x: -89.53811, y: 38.524673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0025
       rect:
@@ -4233,15 +2920,7 @@ TextureImporter:
         - {x: 19.999954, y: -95.999985}
         - {x: -85.000046, y: -57.999985}
         - {x: -97.000046, y: 22.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0006
       rect:
@@ -4264,15 +2943,7 @@ TextureImporter:
         - {x: 26.038063, y: -109.50004}
         - {x: -98.96194, y: -60.500042}
         - {x: -98.96194, y: 41.49995}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0031
       rect:
@@ -4294,15 +2965,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0010
       rect:
@@ -4324,15 +2987,7 @@ TextureImporter:
         - {x: 66.499954, y: -16.475296}
         - {x: 92.499954, y: -29.475296}
         - {x: 100.499954, y: -72.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0006
       rect:
@@ -4353,15 +3008,7 @@ TextureImporter:
         - {x: -0.50003815, y: -85.513374}
         - {x: -76.50003, y: -25.513374}
         - {x: -82.50003, y: 53.486626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0036
       rect:
@@ -4383,15 +3030,7 @@ TextureImporter:
         - {x: 57.513374, y: -3.975296}
         - {x: 93.513374, y: -39.975296}
         - {x: 80.513374, y: -75.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0017
       rect:
@@ -4413,15 +3052,7 @@ TextureImporter:
         - {x: 19.000015, y: -102.500046}
         - {x: -100.99997, y: -56.500046}
         - {x: -88.99997, y: 47.499954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0006
       rect:
@@ -4450,15 +3081,7 @@ TextureImporter:
         - {x: -38.038048, y: 3.4752655}
         - {x: -93.03804, y: -5.5247345}
         - {x: -116.03805, y: 42.475266}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0012
       rect:
@@ -4482,15 +3105,7 @@ TextureImporter:
         - {x: 106.493484, y: -35.475296}
         - {x: 95.493484, y: -77.475296}
         - {x: 50.493484, y: -105.475296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0013
       rect:
@@ -4511,15 +3126,7 @@ TextureImporter:
         - {x: 65.499954, y: 60.999954}
         - {x: 105.499954, y: -58.000046}
         - {x: 86.499954, y: -84.00004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0035
       rect:
@@ -4541,15 +3148,7 @@ TextureImporter:
         - {x: 54.96189, y: 3.024704}
         - {x: 89.96189, y: -36.975296}
         - {x: 89.96189, y: -71.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0016
       rect:
@@ -4571,15 +3170,7 @@ TextureImporter:
         - {x: 16.999958, y: -101.4771}
         - {x: -97.000046, y: -55.477097}
         - {x: -90.000046, y: 35.5229}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0022
       rect:
@@ -4601,15 +3192,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0054
       rect:
@@ -4626,15 +3209,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0009
       rect:
@@ -4657,15 +3232,7 @@ TextureImporter:
         - {x: 111.500015, y: -41.994606}
         - {x: 96.500015, y: -80.994606}
         - {x: 58.500015, y: -101.994606}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Walk0010
       rect:
@@ -4687,15 +3254,7 @@ TextureImporter:
         - {x: -82.02467, y: 76.5}
         - {x: -21.024673, y: 103.5}
         - {x: 37.975327, y: 103.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vent0001
       rect:
@@ -4715,15 +3274,7 @@ TextureImporter:
         - {x: 0.50001526, y: -96.97531}
         - {x: -57.499985, y: -33.97531}
         - {x: -66.499985, y: 20.024689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Climbup0010
       rect:
@@ -4750,15 +3301,7 @@ TextureImporter:
         - {x: -80, y: -57.5}
         - {x: -81, y: 33.5}
         - {x: -100, y: 71.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Spawn0028
       rect:
@@ -4780,15 +3323,7 @@ TextureImporter:
         - {x: 55.46189, y: 3.5000153}
         - {x: 90.46189, y: -36.499985}
         - {x: 90.46189, y: -72.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: SpawnGlow0001
       rect:
@@ -4810,171 +3345,9 @@ TextureImporter:
         - {x: 18.999954, y: -117.475296}
         - {x: -104.000046, y: -67.475296}
         - {x: -112.000046, y: 33.524704}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Walk0009: 21300040
-      Spawn0048: 21300042
-      SpawnGlow0027: 21300208
-      Spawn0016: 21300268
-      SpawnGlow0052: 21300214
-      Spawn0046: 21300212
-      Spawn0020: 21300058
-      SpawnGlow0019: 21300048
-      Spawn0025: 21300202
-      Spawn0038: 21300234
-      SpawnGlow0018: 21300190
-      Walk0005: 21300016
-      SpawnGlow0038: 21300062
-      SpawnGlow0009: 21300274
-      SpawnGlow0003: 21300070
-      SpawnGlow0024: 21300232
-      Spawn0028: 21300282
-      Walk0001: 21300210
-      SpawnGlow0033: 21300106
-      SpawnGlow0007: 21300034
-      Climbup0007: 21300010
-      Spawn0027: 21300072
-      Walk0003: 21300116
-      SpawnGlow0043: 21300162
-      Vent0003: 21300178
-      Spawn0013: 21300218
-      climbdown: 21300008
-      Climbup0009: 21300172
-      Spawn0007: 21300180
-      SpawnGlow0020: 21300130
-      SpawnGlow0014: 21300228
-      SpawnGlow0010: 21300168
-      SpawnGlow0053: 21300032
-      Walk0006: 21300092
-      Spawn0032: 21300084
-      Spawn0026: 21300112
-      Spawn0009: 21300156
-      SpawnGlow0006: 21300224
-      Vent0007: 21300022
-      SpawnGlow0032: 21300060
-      SpawnGlow0017: 21300258
-      Spawn0049: 21300052
-      Spawn0050: 21300086
-      SpawnGlow0023: 21300044
-      SpawnGlow0008: 21300176
-      Vent0005: 21300118
-      Spawn0040: 21300024
-      Spawn0053: 21300160
-      SpawnGlow0011: 21300158
-      Vent0004: 21300110
-      SpawnGlow0035: 21300006
-      Spawn0037: 21300144
-      SpawnGlow0042: 21300164
-      Spawn0001: 21300140
-      Climbup0011: 21300076
-      Spawn0047: 21300012
-      SpawnGlow0054: 21300272
-      SpawnGlow0015: 21300014
-      Climbup0004: 21300184
-      Spawn0033: 21300186
-      Walk0007: 21300102
-      Spawn0022: 21300270
-      SpawnGlow0001: 21300284
-      Spawn0052: 21300242
-      Spawn0021: 21300238
-      Spawn0015: 21300220
-      Spawn0024: 21300154
-      Climbup0002: 21300004
-      SpawnGlow0037: 21300088
-      Climbup0008: 21300188
-      Spawn0034: 21300138
-      Spawn0029: 21300136
-      Vent0001: 21300278
-      SpawnGlow0044: 21300124
-      Spawn0019: 21300132
-      Climbup0012: 21300068
-      SpawnGlow0031: 21300174
-      SpawnGlow0005: 21300134
-      Climbup0006: 21300260
-      idleNoshadow: 21300026
-      SpawnGlow0055: 21300080
-      Spawn0011: 21300038
-      Walk0002: 21300104
-      Spawn0035: 21300266
-      SpawnGlow0028: 21300142
-      Spawn0031: 21300250
-      SpawnGlow0040: 21300020
-      SpawnGlow0029: 21300050
-      Walk0004: 21300194
-      SpawnGlow0013: 21300264
-      Climbup0001: 21300056
-      Walk0012: 21300230
-      SpawnGlow0051: 21300206
-      SpawnGlow0041: 21300126
-      SpawnGlow0045: 21300150
-      Vent0002: 21300108
-      idle: 21300114
-      SpawnGlow0034: 21300166
-      SpawnGlow0046: 21300216
-      Spawn0017: 21300018
-      SpawnGlow0021: 21300036
-      Climbup0010: 21300280
-      Walk0011: 21300226
-      Vent0006: 21300254
-      Spawn0014: 21300244
-      Spawn0042: 21300182
-      Spawn0055: 21300046
-      SpawnGlow0036: 21300000
-      Spawn0018: 21300128
-      Spawn0044: 21300082
-      Spawn0006: 21300248
-      Walk0010: 21300276
-      Spawn0010: 21300252
-      SpawnGlow0004: 21300002
-      SpawnGlow0047: 21300196
-      Climbup0013: 21300222
-      Walk0008: 21300054
-      Spawn0003: 21300200
-      Spawn0036: 21300256
-      Spawn0012: 21300192
-      SpawnGlow0016: 21300028
-      SpawnGlow0048: 21300152
-      Climbup0005: 21300236
-      Spawn0054: 21300198
-      Spawn0008: 21300074
-      SpawnGlow0012: 21300262
-      Spawn0043: 21300094
-      SpawnGlow0026: 21300240
-      Spawn0051: 21300146
-      SpawnGlow0050: 21300078
-      Spawn0023: 21300122
-      Spawn0030: 21300064
-      SpawnGlow0022: 21300096
-      Spawn0041: 21300090
-      Spawn0039: 21300170
-      empty: 21300066
-      SpawnGlow0049: 21300120
-      SpawnGlow0030: 21300148
-      SpawnGlow0025: 21300246
-      SpawnGlow0039: 21300030
-      Spawn0045: 21300100
-      Climbup0003: 21300204
-      SpawnGlow0002: 21300098
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,240 +1,85 @@
 fileFormatVersion: 2
 guid: d9bec433ce9bd4d408a0c20d96704b8d
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0012
-  - first:
-      213: 21300002
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0045
-  - first:
-      213: 21300004
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0036
-  - first:
-      213: 21300006
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0051
-  - first:
-      213: 21300008
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0007
-  - first:
-      213: 21300010
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0001
-  - first:
-      213: 21300012
-    second: 2022_hololive_Star_Skin_inugamiKorone_IdleMirror
-  - first:
-      213: 21300014
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0035
-  - first:
-      213: 21300016
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0006
-  - first:
-      213: 21300018
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0005
-  - first:
-      213: 21300020
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0003
-  - first:
-      213: 21300022
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0054
-  - first:
-      213: 21300024
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0001
-  - first:
-      213: 21300026
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0009
-  - first:
-      213: 21300028
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0053
-  - first:
-      213: 21300030
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0006
-  - first:
-      213: 21300032
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0023
-  - first:
-      213: 21300034
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0010
-  - first:
-      213: 21300036
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0048
-  - first:
-      213: 21300038
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0050
-  - first:
-      213: 21300040
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0046
-  - first:
-      213: 21300042
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0006
-  - first:
-      213: 21300044
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0009
-  - first:
-      213: 21300046
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0007
-  - first:
-      213: 21300048
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0003
-  - first:
-      213: 21300050
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0017
-  - first:
-      213: 21300052
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0049
-  - first:
-      213: 21300054
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0025
-  - first:
-      213: 21300056
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0030
-  - first:
-      213: 21300058
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0020
-  - first:
-      213: 21300060
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0003
-  - first:
-      213: 21300062
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0008
-  - first:
-      213: 21300064
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0021
-  - first:
-      213: 21300066
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0005
-  - first:
-      213: 21300068
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0028
-  - first:
-      213: 21300070
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0009
-  - first:
-      213: 21300072
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0016
-  - first:
-      213: 21300074
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0044
-  - first:
-      213: 21300076
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0042
-  - first:
-      213: 21300078
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0007
-  - first:
-      213: 21300080
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0039
-  - first:
-      213: 21300082
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0004
-  - first:
-      213: 21300084
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0034
-  - first:
-      213: 21300086
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0008
-  - first:
-      213: 21300088
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0002
-  - first:
-      213: 21300090
-    second: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0004
-  - first:
-      213: 21300092
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0055
-  - first:
-      213: 21300094
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0018
-  - first:
-      213: 21300096
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0014
-  - first:
-      213: 21300098
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0011
-  - first:
-      213: 21300100
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0002
-  - first:
-      213: 21300102
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0022
-  - first:
-      213: 21300104
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0026
-  - first:
-      213: 21300106
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0032
-  - first:
-      213: 21300108
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0010
-  - first:
-      213: 21300110
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0011
-  - first:
-      213: 21300112
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0012
-  - first:
-      213: 21300114
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0002
-  - first:
-      213: 21300116
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0041
-  - first:
-      213: 21300118
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0031
-  - first:
-      213: 21300120
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0024
-  - first:
-      213: 21300122
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0013
-  - first:
-      213: 21300124
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0019
-  - first:
-      213: 21300126
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0005
-  - first:
-      213: 21300128
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0047
-  - first:
-      213: 21300130
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0015
-  - first:
-      213: 21300132
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0040
-  - first:
-      213: 21300134
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0004
-  - first:
-      213: 21300136
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0008
-  - first:
-      213: 21300138
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0043
-  - first:
-      213: 21300140
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0052
-  - first:
-      213: 21300142
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0033
-  - first:
-      213: 21300144
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0037
-  - first:
-      213: 21300146
-    second: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0001
-  - first:
-      213: 21300148
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0027
-  - first:
-      213: 21300150
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0029
-  - first:
-      213: 21300152
-    second: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0038
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0012
+    21300002: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0045
+    21300004: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0036
+    21300006: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0051
+    21300008: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0007
+    21300010: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0001
+    21300012: 2022_hololive_Star_Skin_inugamiKorone_IdleMirror
+    21300014: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0035
+    21300016: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0006
+    21300018: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0005
+    21300020: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0003
+    21300022: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0054
+    21300024: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0001
+    21300026: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0009
+    21300028: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0053
+    21300030: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0006
+    21300032: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0023
+    21300034: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0010
+    21300036: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0048
+    21300038: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0050
+    21300040: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0046
+    21300042: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0006
+    21300044: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0009
+    21300046: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0007
+    21300048: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0003
+    21300050: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0017
+    21300052: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0049
+    21300054: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0025
+    21300056: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0030
+    21300058: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0020
+    21300060: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0003
+    21300062: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0008
+    21300064: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0021
+    21300066: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0005
+    21300068: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0028
+    21300070: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0009
+    21300072: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0016
+    21300074: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0044
+    21300076: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0042
+    21300078: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0007
+    21300080: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0039
+    21300082: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0004
+    21300084: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0034
+    21300086: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0008
+    21300088: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0002
+    21300090: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0004
+    21300092: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0055
+    21300094: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0018
+    21300096: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0014
+    21300098: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0011
+    21300100: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0002
+    21300102: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0022
+    21300104: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0026
+    21300106: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0032
+    21300108: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0010
+    21300110: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0011
+    21300112: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0012
+    21300114: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0002
+    21300116: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0041
+    21300118: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0031
+    21300120: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0024
+    21300122: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0013
+    21300124: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0019
+    21300126: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0005
+    21300128: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0047
+    21300130: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0015
+    21300132: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0040
+    21300134: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0004
+    21300136: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0008
+    21300138: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0043
+    21300140: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0052
+    21300142: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0033
+    21300144: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0037
+    21300146: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0001
+    21300148: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0027
+    21300150: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0029
+    21300152: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0038
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -242,8 +87,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -251,12 +94,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -264,13 +102,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -279,97 +114,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -393,15 +196,7 @@ TextureImporter:
         - {x: -30.03806, y: 61.5}
         - {x: 94.961945, y: 61.5}
         - {x: 94.961945, y: -38.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0045
       rect:
@@ -425,15 +220,7 @@ TextureImporter:
         - {x: 14.461938, y: -46}
         - {x: -37.538063, y: -71}
         - {x: -78.538055, y: -39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0036
       rect:
@@ -454,15 +241,7 @@ TextureImporter:
         - {x: -36.513374, y: 53.5}
         - {x: 81.48661, y: 52.5}
         - {x: 86.486626, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0051
       rect:
@@ -481,15 +260,7 @@ TextureImporter:
         - {x: -38.487717, y: 47.524673}
         - {x: 64.51228, y: 63.524673}
         - {x: 90.51228, y: -32.475327}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0007
       rect:
@@ -510,15 +281,7 @@ TextureImporter:
         - {x: 99.961945, y: 59.46189}
         - {x: 99.961945, y: -47.53811}
         - {x: -9.038059, y: -81.53811}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0001
       rect:
@@ -539,15 +302,7 @@ TextureImporter:
         - {x: -29.53806, y: 68.5}
         - {x: 100.461945, y: 68.5}
         - {x: 100.461945, y: -39.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_IdleMirror
       rect:
@@ -566,15 +321,7 @@ TextureImporter:
         - {x: -43.51337, y: 45.5}
         - {x: 58.48662, y: 58.5}
         - {x: 83.486626, y: -36.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0035
       rect:
@@ -594,15 +341,7 @@ TextureImporter:
         - {x: -17.529861, y: 49.013374}
         - {x: 85.47014, y: 57.013374}
         - {x: 85.47014, y: -31.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0006
       rect:
@@ -623,15 +362,7 @@ TextureImporter:
         - {x: 73.01338, y: 57.975323}
         - {x: 86.01338, y: -19.024677}
         - {x: 35.013382, y: -66.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0005
       rect:
@@ -652,15 +383,7 @@ TextureImporter:
         - {x: 73.01338, y: 57.975323}
         - {x: 86.01338, y: -19.024677}
         - {x: 35.013382, y: -66.02467}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0003
       rect:
@@ -681,15 +404,7 @@ TextureImporter:
         - {x: 68.49999, y: -48.03811}
         - {x: 6.4999995, y: -39.038113}
         - {x: -89.5, y: -63.038113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0054
       rect:
@@ -708,15 +423,7 @@ TextureImporter:
         - {x: 61.024704, y: 61.48664}
         - {x: 86.024704, y: -38.513344}
         - {x: 29.024704, y: -65.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0001
       rect:
@@ -734,15 +441,7 @@ TextureImporter:
         - {x: 66.97533, y: -31.495216}
         - {x: -5.0246735, y: -58.49521}
         - {x: -69.02467, y: -45.49521}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0009
       rect:
@@ -759,15 +458,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0053
       rect:
@@ -786,15 +477,7 @@ TextureImporter:
         - {x: 61.024704, y: 61.48664}
         - {x: 86.024704, y: -38.513344}
         - {x: 29.024704, y: -65.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0006
       rect:
@@ -812,15 +495,7 @@ TextureImporter:
         - {x: 84.038055, y: -24.986618}
         - {x: -18.961937, y: -53.986626}
         - {x: -78.96194, y: -36.986618}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0023
       rect:
@@ -840,15 +515,7 @@ TextureImporter:
         - {x: -27.5, y: 50.5}
         - {x: 86.5, y: 50.5}
         - {x: 86.5, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0010
       rect:
@@ -868,15 +535,7 @@ TextureImporter:
         - {x: -26.03806, y: 58.5}
         - {x: 96.96193, y: 60.5}
         - {x: 96.96193, y: -49.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0048
       rect:
@@ -898,15 +557,7 @@ TextureImporter:
         - {x: 77.46194, y: -37}
         - {x: 22.461939, y: -50}
         - {x: -2.538063, y: -75}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0050
       rect:
@@ -928,15 +579,7 @@ TextureImporter:
         - {x: -94.513374, y: -22}
         - {x: -83.513374, y: 2}
         - {x: -101.513374, y: 50.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0046
       rect:
@@ -956,15 +599,7 @@ TextureImporter:
         - {x: -21.5, y: 56}
         - {x: 96.5, y: 47}
         - {x: 84.5, y: -44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0006
       rect:
@@ -986,15 +621,7 @@ TextureImporter:
         - {x: -100.038055, y: -50.5}
         - {x: -101.038055, y: 5.5}
         - {x: -88.038055, y: 22.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0009
       rect:
@@ -1017,15 +644,7 @@ TextureImporter:
         - {x: -70.46194, y: -54.01336}
         - {x: -81.46194, y: -10.013359}
         - {x: -65.46194, y: 54.986637}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0007
       rect:
@@ -1048,15 +667,7 @@ TextureImporter:
         - {x: -70.46194, y: -54.013355}
         - {x: -81.46194, y: -10.013359}
         - {x: -65.46194, y: 54.986637}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0003
       rect:
@@ -1075,15 +686,7 @@ TextureImporter:
         - {x: 91.013374, y: -28.96194}
         - {x: -2.9866257, y: -54.96194}
         - {x: -84.986626, y: -41.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0017
       rect:
@@ -1103,15 +706,7 @@ TextureImporter:
         - {x: -31.000004, y: 54}
         - {x: 91, y: 53}
         - {x: 91, y: -38.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0049
       rect:
@@ -1133,15 +728,7 @@ TextureImporter:
         - {x: -94.513374, y: -22}
         - {x: -83.513374, y: 2}
         - {x: -101.513374, y: 50.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0025
       rect:
@@ -1161,15 +748,7 @@ TextureImporter:
         - {x: -27.5, y: 50.5}
         - {x: 86.5, y: 50.5}
         - {x: 86.5, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0030
       rect:
@@ -1189,15 +768,7 @@ TextureImporter:
         - {x: -27.5, y: 49.96195}
         - {x: 86.5, y: 49.96195}
         - {x: 86.5, y: -35.03805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0020
       rect:
@@ -1216,15 +787,7 @@ TextureImporter:
         - {x: -28.03806, y: 46.961945}
         - {x: 86.961945, y: 51.961945}
         - {x: 86.961945, y: -38.038055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0003
       rect:
@@ -1245,15 +808,7 @@ TextureImporter:
         - {x: -29.53806, y: 68.5}
         - {x: 100.461945, y: 68.5}
         - {x: 100.461945, y: -39.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0008
       rect:
@@ -1270,15 +825,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.5, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0021
       rect:
@@ -1296,15 +843,7 @@ TextureImporter:
         - {x: -58, y: 61.96195}
         - {x: 91, y: 50.96195}
         - {x: 91, y: -34.03805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0005
       rect:
@@ -1323,15 +862,7 @@ TextureImporter:
         - {x: 91.013374, y: -28.96194}
         - {x: -2.9866257, y: -54.96194}
         - {x: -84.986626, y: -41.961937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0028
       rect:
@@ -1351,15 +882,7 @@ TextureImporter:
         - {x: -28.529861, y: 50.5}
         - {x: 85.47014, y: 50.5}
         - {x: 85.47014, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0009
       rect:
@@ -1380,15 +903,7 @@ TextureImporter:
         - {x: 75.961945, y: 63}
         - {x: 97.961945, y: 46}
         - {x: 97.961945, y: -43}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0016
       rect:
@@ -1408,15 +923,7 @@ TextureImporter:
         - {x: -15.013374, y: 54.461937}
         - {x: 90.986626, y: 54.461937}
         - {x: 90.986626, y: -38.538063}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0044
       rect:
@@ -1440,15 +947,7 @@ TextureImporter:
         - {x: 14.461938, y: -46}
         - {x: -37.538063, y: -71}
         - {x: -78.538055, y: -39}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0042
       rect:
@@ -1469,15 +968,7 @@ TextureImporter:
         - {x: 94, y: -25.53806}
         - {x: -11, y: -53.53806}
         - {x: -94, y: -37.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0007
       rect:
@@ -1497,15 +988,7 @@ TextureImporter:
         - {x: 66.51239, y: 35.513382}
         - {x: 83.51238, y: 0.51338196}
         - {x: 67.51239, y: -31.486618}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0039
       rect:
@@ -1526,15 +1009,7 @@ TextureImporter:
         - {x: 65.986626, y: -63.499996}
         - {x: -37.013374, y: -66.5}
         - {x: -87.013374, y: -30.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0004
       rect:
@@ -1555,15 +1030,7 @@ TextureImporter:
         - {x: 68.49999, y: -48.038113}
         - {x: 6.4999995, y: -39.038113}
         - {x: -89.5, y: -63.038113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0034
       rect:
@@ -1583,15 +1050,7 @@ TextureImporter:
         - {x: -17.529861, y: 49.013374}
         - {x: 85.47014, y: 57.013374}
         - {x: 85.47014, y: -31.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0008
       rect:
@@ -1614,15 +1073,7 @@ TextureImporter:
         - {x: -70.46194, y: -54.01336}
         - {x: -81.46194, y: -10.013359}
         - {x: -65.46194, y: 54.98664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0002
       rect:
@@ -1641,15 +1092,7 @@ TextureImporter:
         - {x: -5.021454, y: -57.00331}
         - {x: -73.021454, y: -44.00331}
         - {x: -79.021454, y: 12.996689}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_VententerMirror0004
       rect:
@@ -1668,15 +1111,7 @@ TextureImporter:
         - {x: 91.013374, y: -28.96194}
         - {x: -2.9866257, y: -54.96194}
         - {x: -84.986626, y: -41.96194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0055
       rect:
@@ -1695,15 +1130,7 @@ TextureImporter:
         - {x: 61.024704, y: 61.48664}
         - {x: 86.024704, y: -38.513344}
         - {x: 29.024704, y: -65.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0018
       rect:
@@ -1723,15 +1150,7 @@ TextureImporter:
         - {x: -16.013374, y: 49.5}
         - {x: 88.986626, y: 55.499996}
         - {x: 88.986626, y: -43.499996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0014
       rect:
@@ -1751,15 +1170,7 @@ TextureImporter:
         - {x: -14.999996, y: 54.5}
         - {x: 94.999985, y: 59.5}
         - {x: 92, y: -39.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0011
       rect:
@@ -1781,15 +1192,7 @@ TextureImporter:
         - {x: 95.96193, y: -42.499996}
         - {x: -12.038055, y: -75.5}
         - {x: -93.038055, y: -54.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0002
       rect:
@@ -1806,15 +1209,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.49998474, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0022
       rect:
@@ -1834,15 +1229,7 @@ TextureImporter:
         - {x: -28.529861, y: 50.5}
         - {x: 85.47014, y: 50.5}
         - {x: 85.47014, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0026
       rect:
@@ -1862,15 +1249,7 @@ TextureImporter:
         - {x: -28.529861, y: 52.47526}
         - {x: 85.47014, y: 52.47526}
         - {x: 85.47014, y: -32.52474}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0032
       rect:
@@ -1890,15 +1269,7 @@ TextureImporter:
         - {x: -28.529861, y: 49.96194}
         - {x: 85.47014, y: 49.96194}
         - {x: 85.47014, y: -35.03806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0010
       rect:
@@ -1921,15 +1292,7 @@ TextureImporter:
         - {x: -70.46194, y: -54.01336}
         - {x: -81.46194, y: -10.013359}
         - {x: -65.46194, y: 54.98664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0011
       rect:
@@ -1951,15 +1314,7 @@ TextureImporter:
         - {x: -18.038038, y: -58.997013}
         - {x: -27.03804, y: -23.997013}
         - {x: -52.03804, y: -27.997013}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0012
       rect:
@@ -1981,15 +1336,7 @@ TextureImporter:
         - {x: -18.038038, y: -58.997013}
         - {x: -27.03804, y: -23.997013}
         - {x: -52.03804, y: -27.997013}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0002
       rect:
@@ -2010,15 +1357,7 @@ TextureImporter:
         - {x: 68.49999, y: -48.038105}
         - {x: 6.4999995, y: -39.03811}
         - {x: -89.5, y: -63.03811}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0041
       rect:
@@ -2039,15 +1378,7 @@ TextureImporter:
         - {x: 94, y: -25.53806}
         - {x: -11, y: -53.53806}
         - {x: -94, y: -37.538055}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0031
       rect:
@@ -2067,15 +1398,7 @@ TextureImporter:
         - {x: -27.5, y: 50.5}
         - {x: 86.5, y: 50.5}
         - {x: 86.5, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0024
       rect:
@@ -2095,15 +1418,7 @@ TextureImporter:
         - {x: -28.529861, y: 49.96195}
         - {x: 85.47014, y: 49.96195}
         - {x: 85.47014, y: -35.03805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0013
       rect:
@@ -2123,15 +1438,7 @@ TextureImporter:
         - {x: -24, y: 53}
         - {x: 97, y: 57}
         - {x: 97, y: -43}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0019
       rect:
@@ -2151,15 +1458,7 @@ TextureImporter:
         - {x: -14.038067, y: 48}
         - {x: 87.96194, y: 55.999996}
         - {x: 87.96194, y: -42.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0005
       rect:
@@ -2176,15 +1475,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.49998474, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0047
       rect:
@@ -2204,15 +1495,7 @@ TextureImporter:
         - {x: -21.5, y: 56}
         - {x: 96.5, y: 47}
         - {x: 84.5, y: -44}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0015
       rect:
@@ -2231,15 +1514,7 @@ TextureImporter:
         - {x: 89.96194, y: -34.986626}
         - {x: -9.038063, y: -68.986626}
         - {x: -83.03806, y: -46.986626}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0040
       rect:
@@ -2260,15 +1535,7 @@ TextureImporter:
         - {x: 65.986626, y: -63.499996}
         - {x: -37.013374, y: -66.5}
         - {x: -87.013374, y: -30.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0004
       rect:
@@ -2285,15 +1552,7 @@ TextureImporter:
         - {x: 0.5, y: 0.5}
         - {x: 0.5, y: -0.5}
         - {x: -0.49998474, y: -0.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0008
       rect:
@@ -2316,15 +1575,7 @@ TextureImporter:
         - {x: -50.038055, y: -74.49999}
         - {x: -95.038055, y: -51.5}
         - {x: -102.038055, y: -8.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0043
       rect:
@@ -2345,15 +1596,7 @@ TextureImporter:
         - {x: 62.500004, y: -75.986626}
         - {x: -48.499992, y: -54.986626}
         - {x: -107.49999, y: 16.013374}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0052
       rect:
@@ -2372,15 +1615,7 @@ TextureImporter:
         - {x: 61.024704, y: 61.48664}
         - {x: 86.024704, y: -38.513344}
         - {x: 29.024704, y: -65.51336}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0033
       rect:
@@ -2400,15 +1635,7 @@ TextureImporter:
         - {x: -28.529861, y: 50.5}
         - {x: 85.47014, y: 50.5}
         - {x: 85.47014, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0037
       rect:
@@ -2430,15 +1657,7 @@ TextureImporter:
         - {x: 92.46194, y: 29}
         - {x: 70.46194, y: -57.999996}
         - {x: 31.46193, y: -57.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_WalkMirror0001
       rect:
@@ -2459,15 +1678,7 @@ TextureImporter:
         - {x: 71.03806, y: -43.999996}
         - {x: 9.038071, y: -35}
         - {x: -86.96193, y: -59}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0027
       rect:
@@ -2487,15 +1698,7 @@ TextureImporter:
         - {x: -28.529861, y: 50.5}
         - {x: 85.47014, y: 50.5}
         - {x: 85.47014, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0029
       rect:
@@ -2515,15 +1718,7 @@ TextureImporter:
         - {x: -27.5, y: 50.5}
         - {x: 86.5, y: 50.5}
         - {x: 86.5, y: -34.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0038
       rect:
@@ -2545,105 +1740,9 @@ TextureImporter:
         - {x: 92.46194, y: 29}
         - {x: 70.46194, y: -57.999996}
         - {x: 31.46193, y: -57.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0010: 21300034
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0048: 21300036
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0006: 21300030
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0019: 21300124
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0035: 21300014
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0014: 21300096
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0001: 21300146
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0009: 21300026
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0023: 21300032
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0049: 21300052
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0025: 21300054
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0030: 21300056
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0016: 21300072
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0002: 21300088
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0013: 21300122
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0005: 21300066
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0006: 21300042
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0007: 21300008
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0036: 21300004
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0004: 21300134
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0044: 21300074
-      2022_hololive_Star_Skin_inugamiKorone_IdleMirror: 21300012
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0022: 21300102
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0020: 21300058
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0002: 21300100
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0032: 21300106
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0039: 21300080
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0043: 21300138
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0011: 21300110
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0046: 21300040
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0010: 21300108
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0008: 21300062
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0012: 21300000
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0005: 21300018
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0011: 21300098
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0051: 21300006
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0009: 21300070
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0015: 21300130
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0018: 21300094
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0047: 21300128
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0045: 21300002
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0006: 21300016
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0007: 21300046
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0001: 21300010
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0003: 21300048
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0009: 21300044
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0003: 21300060
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0026: 21300104
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0055: 21300092
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0031: 21300118
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0038: 21300152
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0002: 21300114
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0041: 21300116
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0024: 21300120
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0012: 21300112
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0037: 21300144
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0027: 21300148
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0004: 21300090
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0029: 21300150
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0054: 21300022
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0042: 21300076
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0040: 21300132
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0008: 21300086
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0052: 21300140
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0008: 21300136
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0017: 21300050
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0005: 21300126
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0007: 21300078
-      2022_hololive_Star_Skin_inugamiKorone_VententerMirror0001: 21300024
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0028: 21300068
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0004: 21300082
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0053: 21300028
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0050: 21300038
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0034: 21300084
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0021: 21300064
-      2022_hololive_Star_Skin_inugamiKorone_SpawnMirror0033: 21300142
-      2022_hololive_Star_Skin_inugamiKorone_WalkMirror0003: 21300020
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

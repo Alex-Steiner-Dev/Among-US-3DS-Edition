@@ -1,168 +1,61 @@
 fileFormatVersion: 2
 guid: 3dc1f9025c1ac2947a1f19a2c860ae39
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: 2022_store_bean_hat_crownBean0002
-  - first:
-      213: 21300002
-    second: 2022_store_bean_hat_schnapp0001
-  - first:
-      213: 21300004
-    second: 2022_store_bean_hat_cash0002
-  - first:
-      213: 21300006
-    second: 2022_store_bean_visor_tvColorTest0004
-  - first:
-      213: 21300008
-    second: 2022_store_bean_hat_Sorry0003
-  - first:
-      213: 21300010
-    second: 2022_store_bean_hat_tinFoil0001
-  - first:
-      213: 21300012
-    second: 2022_store_bean_visor_Plsno0002
-  - first:
-      213: 21300014
-    second: 2022_store_bean_visor_beautyMark0001
-  - first:
-      213: 21300016
-    second: 2022_store_bean_hat_wigJudge0004
-  - first:
-      213: 21300018
-    second: 2022_store_bean_hat_babybean0003
-  - first:
-      213: 21300020
-    second: 2022_store_bean_hat_tinFoil0002
-  - first:
-      213: 21300022
-    second: 2022_store_bean_visor_wash0002
-  - first:
-      213: 21300024
-    second: 2022_store_bean_hat_crownDouble0003
-  - first:
-      213: 21300026
-    second: 2022_store_bean_hat_schnapp0002
-  - first:
-      213: 21300028
-    second: 2022_store_bean_visor_Plsno0001
-  - first:
-      213: 21300030
-    second: 2022_store_bean_visor_anime0002
-  - first:
-      213: 21300032
-    second: 2022_store_bean_visor_Stealthgoggles0001
-  - first:
-      213: 21300034
-    second: 2022_store_bean_visor_anime0001
-  - first:
-      213: 21300036
-    second: 2022_store_bean_hat_wigTall0002
-  - first:
-      213: 21300038
-    second: 2022_store_bean_hat_crownBean0001
-  - first:
-      213: 21300040
-    second: 2022_store_bean_hat_babybean0002
-  - first:
-      213: 21300042
-    second: 2022_store_bean_hat_cash0001
-  - first:
-      213: 21300044
-    second: 2022_store_bean_hat_wigJudge0001
-  - first:
-      213: 21300046
-    second: 2022_store_bean_hat_crownTall0002
-  - first:
-      213: 21300048
-    second: 2022_store_bean_visor_teary0002
-  - first:
-      213: 21300050
-    second: 2022_store_bean_hat_wigTall0001
-  - first:
-      213: 21300052
-    second: 2022_store_bean_hat_babybean0001
-  - first:
-      213: 21300054
-    second: 2022_store_bean_hat_Sorry0001
-  - first:
-      213: 21300056
-    second: 2022_store_bean_hat_Sorry0002
-  - first:
-      213: 21300058
-    second: 2022_store_bean_visor_beautyMark0002
-  - first:
-      213: 21300060
-    second: 2022_store_bean_visor_wash0001
-  - first:
-      213: 21300062
-    second: 2022_store_bean_hat_crownDouble0002
-  - first:
-      213: 21300064
-    second: 2022_store_bean_hat_crownBean0003
-  - first:
-      213: 21300066
-    second: 2022_store_bean_hat_mareLwyd0002
-  - first:
-      213: 21300068
-    second: 2022_store_bean_hat_wigTall0003
-  - first:
-      213: 21300070
-    second: 2022_store_bean_hat_crownDouble0001
-  - first:
-      213: 21300072
-    second: 2022_store_bean_hat_schnapp0003
-  - first:
-      213: 21300074
-    second: 2022_store_bean_visor_tvColorTest0002
-  - first:
-      213: 21300076
-    second: 2022_store_bean_visor_tvColorTest0001
-  - first:
-      213: 21300078
-    second: 2022_store_bean_visor_teary0001
-  - first:
-      213: 21300080
-    second: 2022_store_bean_hat_wigJudge0003
-  - first:
-      213: 21300082
-    second: 2022_store_bean_visor_Stealthgoggles0002
-  - first:
-      213: 21300084
-    second: 2022_store_bean_visor_Stealthgoggles0004
-  - first:
-      213: 21300086
-    second: 2022_store_bean_hat_wigJudge0002
-  - first:
-      213: 21300088
-    second: 2022_store_bean_visor_wash0004
-  - first:
-      213: 21300090
-    second: 2022_store_bean_hat_tinFoil0003
-  - first:
-      213: 21300092
-    second: 2022_store_bean_hat_Sorry0004
-  - first:
-      213: 21300094
-    second: 2022_store_bean_hat_wigTall0004
-  - first:
-      213: 21300096
-    second: 2022_store_bean_hat_crownTall0001
-  - first:
-      213: 21300098
-    second: 2022_store_bean_hat_crownTall0003
-  - first:
-      213: 21300100
-    second: 2022_store_bean_hat_mareLwyd0001
-  - first:
-      213: 21300102
-    second: 2022_store_bean_hat_cash0003
-  - first:
-      213: 21300104
-    second: 2022_store_bean_hat_mareLwyd0003
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: 2022_store_bean_hat_crownBean0002
+    21300002: 2022_store_bean_hat_schnapp0001
+    21300004: 2022_store_bean_hat_cash0002
+    21300006: 2022_store_bean_visor_tvColorTest0004
+    21300008: 2022_store_bean_hat_Sorry0003
+    21300010: 2022_store_bean_hat_tinFoil0001
+    21300012: 2022_store_bean_visor_Plsno0002
+    21300014: 2022_store_bean_visor_beautyMark0001
+    21300016: 2022_store_bean_hat_wigJudge0004
+    21300018: 2022_store_bean_hat_babybean0003
+    21300020: 2022_store_bean_hat_tinFoil0002
+    21300022: 2022_store_bean_visor_wash0002
+    21300024: 2022_store_bean_hat_crownDouble0003
+    21300026: 2022_store_bean_hat_schnapp0002
+    21300028: 2022_store_bean_visor_Plsno0001
+    21300030: 2022_store_bean_visor_anime0002
+    21300032: 2022_store_bean_visor_Stealthgoggles0001
+    21300034: 2022_store_bean_visor_anime0001
+    21300036: 2022_store_bean_hat_wigTall0002
+    21300038: 2022_store_bean_hat_crownBean0001
+    21300040: 2022_store_bean_hat_babybean0002
+    21300042: 2022_store_bean_hat_cash0001
+    21300044: 2022_store_bean_hat_wigJudge0001
+    21300046: 2022_store_bean_hat_crownTall0002
+    21300048: 2022_store_bean_visor_teary0002
+    21300050: 2022_store_bean_hat_wigTall0001
+    21300052: 2022_store_bean_hat_babybean0001
+    21300054: 2022_store_bean_hat_Sorry0001
+    21300056: 2022_store_bean_hat_Sorry0002
+    21300058: 2022_store_bean_visor_beautyMark0002
+    21300060: 2022_store_bean_visor_wash0001
+    21300062: 2022_store_bean_hat_crownDouble0002
+    21300064: 2022_store_bean_hat_crownBean0003
+    21300066: 2022_store_bean_hat_mareLwyd0002
+    21300068: 2022_store_bean_hat_wigTall0003
+    21300070: 2022_store_bean_hat_crownDouble0001
+    21300072: 2022_store_bean_hat_schnapp0003
+    21300074: 2022_store_bean_visor_tvColorTest0002
+    21300076: 2022_store_bean_visor_tvColorTest0001
+    21300078: 2022_store_bean_visor_teary0001
+    21300080: 2022_store_bean_hat_wigJudge0003
+    21300082: 2022_store_bean_visor_Stealthgoggles0002
+    21300084: 2022_store_bean_visor_Stealthgoggles0004
+    21300086: 2022_store_bean_hat_wigJudge0002
+    21300088: 2022_store_bean_visor_wash0004
+    21300090: 2022_store_bean_hat_tinFoil0003
+    21300092: 2022_store_bean_hat_Sorry0004
+    21300094: 2022_store_bean_hat_wigTall0004
+    21300096: 2022_store_bean_hat_crownTall0001
+    21300098: 2022_store_bean_hat_crownTall0003
+    21300100: 2022_store_bean_hat_mareLwyd0001
+    21300102: 2022_store_bean_hat_cash0003
+    21300104: 2022_store_bean_hat_mareLwyd0003
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -170,8 +63,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -179,12 +70,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -192,13 +78,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -207,97 +90,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -319,15 +170,7 @@ TextureImporter:
         - {x: 66.986626, y: 34.475323}
         - {x: 66.986626, y: -36.524677}
         - {x: -63.013374, y: -31.524677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_schnapp0001
       rect:
@@ -352,15 +195,7 @@ TextureImporter:
         - {x: -58.538044, y: -81.500015}
         - {x: -78.53805, y: -50.500015}
         - {x: -72.53805, y: -32.500015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_cash0002
       rect:
@@ -380,15 +215,7 @@ TextureImporter:
         - {x: 63.487602, y: 7.5122986}
         - {x: 93.4876, y: 0.5122986}
         - {x: 81.4876, y: -35.4877}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_tvColorTest0004
       rect:
@@ -405,15 +232,7 @@ TextureImporter:
         - {x: -45.5, y: 32.5}
         - {x: 45.5, y: 32.5}
         - {x: 45.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_Sorry0003
       rect:
@@ -436,15 +255,7 @@ TextureImporter:
         - {x: -49.478687, y: -88.524734}
         - {x: -58.47869, y: -14.524738}
         - {x: -106.47869, y: 14.475254}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_tinFoil0001
       rect:
@@ -464,15 +275,7 @@ TextureImporter:
         - {x: 64.99578, y: -25.999992}
         - {x: 28.99578, y: -24.999992}
         - {x: -48.004215, y: -62.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_Plsno0002
       rect:
@@ -489,15 +292,7 @@ TextureImporter:
         - {x: -30, y: 8}
         - {x: 30, y: 8}
         - {x: 30, y: -8}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_beautyMark0001
       rect:
@@ -513,15 +308,7 @@ TextureImporter:
       - - {x: -12.5, y: 18}
         - {x: 12.5, y: -7}
         - {x: 1.5, y: -17.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigJudge0004
       rect:
@@ -538,15 +325,7 @@ TextureImporter:
         - {x: -37, y: 32.5}
         - {x: 37, y: 32.5}
         - {x: 37, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_babybean0003
       rect:
@@ -563,15 +342,7 @@ TextureImporter:
         - {x: -31, y: 33}
         - {x: 31, y: 33}
         - {x: 31, y: -33}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_tinFoil0002
       rect:
@@ -593,15 +364,7 @@ TextureImporter:
         - {x: -29.016485, y: -27.963947}
         - {x: -88.01649, y: -25.963947}
         - {x: -60.016483, y: 22.036049}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_wash0002
       rect:
@@ -618,15 +381,7 @@ TextureImporter:
         - {x: -44.499996, y: 14.5}
         - {x: 44.499996, y: 14.5}
         - {x: 44.499996, y: -14.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownDouble0003
       rect:
@@ -645,15 +400,7 @@ TextureImporter:
         - {x: 21.524668, y: -41.00351}
         - {x: -6.4753323, y: -54.00351}
         - {x: -53.475334, y: -41.00351}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_schnapp0002
       rect:
@@ -675,15 +422,7 @@ TextureImporter:
         - {x: 72.00001, y: 15.003342}
         - {x: 84.00001, y: -12.99666}
         - {x: 62.000008, y: -67.99666}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_Plsno0001
       rect:
@@ -700,15 +439,7 @@ TextureImporter:
         - {x: -30, y: 18.5}
         - {x: 30, y: 18.5}
         - {x: 30, y: -18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_anime0002
       rect:
@@ -725,15 +456,7 @@ TextureImporter:
         - {x: -39.499996, y: 18}
         - {x: 39.5, y: 18}
         - {x: 39.5, y: -18}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_Stealthgoggles0001
       rect:
@@ -756,15 +479,7 @@ TextureImporter:
         - {x: -41.5, y: -74.500046}
         - {x: -93.5, y: -22.500046}
         - {x: -93.5, y: 8.499954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_anime0001
       rect:
@@ -781,15 +496,7 @@ TextureImporter:
         - {x: -44.5, y: 32}
         - {x: 44.5, y: 32}
         - {x: 44.5, y: -32}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigTall0002
       rect:
@@ -808,15 +515,7 @@ TextureImporter:
         - {x: -83.03806, y: -22.012299}
         - {x: -34.038063, y: 46.987694}
         - {x: 10.961937, y: 63.9877}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownBean0001
       rect:
@@ -835,15 +534,7 @@ TextureImporter:
         - {x: 37.510994, y: -31.000008}
         - {x: -12.489006, y: -46.000008}
         - {x: -40.489002, y: 1.9999924}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_babybean0002
       rect:
@@ -860,15 +551,7 @@ TextureImporter:
         - {x: -37, y: 31.499996}
         - {x: 37, y: 31.499996}
         - {x: 37, y: -31.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_cash0001
       rect:
@@ -887,15 +570,7 @@ TextureImporter:
         - {x: 58.500008, y: 22.49192}
         - {x: 73.50001, y: -15.508081}
         - {x: -28.499992, y: -40.50808}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigJudge0001
       rect:
@@ -916,15 +591,7 @@ TextureImporter:
         - {x: 69.02467, y: 42.500008}
         - {x: 78.02467, y: -10.499992}
         - {x: 49.024673, y: -5.4999933}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownTall0002
       rect:
@@ -941,15 +608,7 @@ TextureImporter:
         - {x: 33.515, y: 43.487545}
         - {x: 67.515, y: -39.512455}
         - {x: -55.485, y: -38.512455}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_teary0002
       rect:
@@ -966,15 +625,7 @@ TextureImporter:
         - {x: -21, y: 13.999998}
         - {x: 21, y: 13.999998}
         - {x: 21, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigTall0001
       rect:
@@ -994,15 +645,7 @@ TextureImporter:
         - {x: -8.975325, y: 68.000015}
         - {x: 48.024673, y: 67.000015}
         - {x: 73.02467, y: -13.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_babybean0001
       rect:
@@ -1020,15 +663,7 @@ TextureImporter:
         - {x: 1.5000114, y: 42.02468}
         - {x: 40.50001, y: 7.024681}
         - {x: 33.50001, y: -31.975319}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_Sorry0001
       rect:
@@ -1048,15 +683,7 @@ TextureImporter:
         - {x: 36.97532, y: -31.999989}
         - {x: -5.024681, y: -22.999989}
         - {x: -35.02468, y: -76.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_Sorry0002
       rect:
@@ -1075,15 +702,7 @@ TextureImporter:
         - {x: 79.97433, y: 28.016605}
         - {x: 61.974327, y: -14.983395}
         - {x: 11.974327, y: -15.983394}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_beautyMark0002
       rect:
@@ -1100,15 +719,7 @@ TextureImporter:
         - {x: -6.5, y: 3.5}
         - {x: 6.5, y: 3.5}
         - {x: 6.5, y: -3.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_wash0001
       rect:
@@ -1125,15 +736,7 @@ TextureImporter:
         - {x: -44.5, y: 32}
         - {x: 44.5, y: 32}
         - {x: 44.5, y: -32}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownDouble0002
       rect:
@@ -1151,15 +754,7 @@ TextureImporter:
         - {x: -47.481426, y: -36.46194}
         - {x: -47.481426, y: 15.538055}
         - {x: 3.5185695, y: 45.53806}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownBean0003
       rect:
@@ -1177,15 +772,7 @@ TextureImporter:
         - {x: -46.97532, y: -35.52469}
         - {x: -30.975317, y: 36.47531}
         - {x: -10.975317, y: 52.475304}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_mareLwyd0002
       rect:
@@ -1205,15 +792,7 @@ TextureImporter:
         - {x: -110.46194, y: -64.48895}
         - {x: -110.46194, y: -23.488953}
         - {x: -73.46194, y: 0.51104736}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigTall0003
       rect:
@@ -1234,15 +813,7 @@ TextureImporter:
         - {x: 58.47532, y: -73.975296}
         - {x: 1.4753189, y: -43.975292}
         - {x: -69.52467, y: -45.975292}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownDouble0001
       rect:
@@ -1260,15 +831,7 @@ TextureImporter:
         - {x: -11.031954, y: 44.499992}
         - {x: 39.968044, y: 39.499992}
         - {x: 39.968044, y: -43.500008}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_schnapp0003
       rect:
@@ -1288,15 +851,7 @@ TextureImporter:
         - {x: 65.00001, y: -57.48761}
         - {x: 4.0000076, y: -71.48761}
         - {x: -73.99999, y: -59.48761}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_tvColorTest0002
       rect:
@@ -1313,15 +868,7 @@ TextureImporter:
         - {x: -48, y: 17}
         - {x: 48, y: 17}
         - {x: 48, y: -17}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_tvColorTest0001
       rect:
@@ -1338,15 +885,7 @@ TextureImporter:
         - {x: -45.5, y: 32.5}
         - {x: 45.5, y: 32.5}
         - {x: 45.5, y: -32.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_teary0001
       rect:
@@ -1364,15 +903,7 @@ TextureImporter:
         - {x: 6.9999847, y: 39.02469}
         - {x: 42.999977, y: 31.024689}
         - {x: 53.999985, y: -21.975311}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigJudge0003
       rect:
@@ -1393,15 +924,7 @@ TextureImporter:
         - {x: -8, y: -30.516598}
         - {x: -54, y: -46.516598}
         - {x: -90, y: 7.4834023}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_Stealthgoggles0002
       rect:
@@ -1423,15 +946,7 @@ TextureImporter:
         - {x: -43.52468, y: -76.000046}
         - {x: -107.52468, y: -12.000046}
         - {x: -93.52468, y: 23.999954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_Stealthgoggles0004
       rect:
@@ -1453,15 +968,7 @@ TextureImporter:
         - {x: 93.53343, y: 0.03805542}
         - {x: 90.53342, y: -37.961945}
         - {x: 42.53342, y: -85.961945}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigJudge0002
       rect:
@@ -1482,15 +989,7 @@ TextureImporter:
         - {x: 14, y: -22.000053}
         - {x: -35, y: -35.000053}
         - {x: -98, y: -30.000053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_visor_wash0004
       rect:
@@ -1507,15 +1006,7 @@ TextureImporter:
         - {x: -44.5, y: 32}
         - {x: 44.5, y: 32}
         - {x: 44.5, y: -32}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_tinFoil0003
       rect:
@@ -1534,15 +1025,7 @@ TextureImporter:
         - {x: 56.461933, y: -31.475332}
         - {x: 16.461933, y: -61.47533}
         - {x: -34.538063, y: -46.47533}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_Sorry0004
       rect:
@@ -1565,15 +1048,7 @@ TextureImporter:
         - {x: -43.999992, y: -54.49999}
         - {x: -46.999992, y: -29.49999}
         - {x: -88.99999, y: 13.500011}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_wigTall0004
       rect:
@@ -1590,15 +1065,7 @@ TextureImporter:
         - {x: -18.475327, y: 22.961887}
         - {x: 15.524673, y: 22.961887}
         - {x: 22.524673, y: -32.038113}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownTall0001
       rect:
@@ -1616,15 +1083,7 @@ TextureImporter:
         - {x: -41.013374, y: 26.999992}
         - {x: -9.013374, y: 54}
         - {x: 38.986626, y: 48.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_crownTall0003
       rect:
@@ -1642,15 +1101,7 @@ TextureImporter:
         - {x: 53.02467, y: 41.96833}
         - {x: -0.97533035, y: -47.031662}
         - {x: -29.97533, y: -53.031662}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_mareLwyd0001
       rect:
@@ -1672,15 +1123,7 @@ TextureImporter:
         - {x: -22, y: -74.02467}
         - {x: -63, y: -77.02467}
         - {x: -89, y: -49.024673}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_cash0003
       rect:
@@ -1698,15 +1141,7 @@ TextureImporter:
         - {x: 3.5122824, y: -48.483395}
         - {x: -50.487717, y: -6.4833946}
         - {x: -34.487717, y: 42.516605}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: 2022_store_bean_hat_mareLwyd0003
       rect:
@@ -1727,81 +1162,9 @@ TextureImporter:
         - {x: -8.524685, y: 90.98759}
         - {x: 39.47531, y: 42.98759}
         - {x: 53.475315, y: -55.012405}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      2022_store_bean_hat_tinFoil0003: 21300090
-      2022_store_bean_hat_wigTall0003: 21300068
-      2022_store_bean_visor_beautyMark0001: 21300014
-      2022_store_bean_hat_babybean0002: 21300040
-      2022_store_bean_visor_tvColorTest0001: 21300076
-      2022_store_bean_hat_crownBean0001: 21300038
-      2022_store_bean_hat_Sorry0002: 21300056
-      2022_store_bean_visor_teary0002: 21300048
-      2022_store_bean_visor_Stealthgoggles0002: 21300082
-      2022_store_bean_visor_anime0001: 21300034
-      2022_store_bean_hat_wigTall0004: 21300094
-      2022_store_bean_hat_Sorry0003: 21300008
-      2022_store_bean_hat_crownDouble0002: 21300062
-      2022_store_bean_hat_wigJudge0004: 21300016
-      2022_store_bean_visor_Plsno0001: 21300028
-      2022_store_bean_hat_wigJudge0003: 21300080
-      2022_store_bean_hat_crownTall0002: 21300046
-      2022_store_bean_visor_wash0001: 21300060
-      2022_store_bean_hat_schnapp0001: 21300002
-      2022_store_bean_hat_cash0002: 21300004
-      2022_store_bean_hat_babybean0003: 21300018
-      2022_store_bean_hat_crownTall0001: 21300096
-      2022_store_bean_hat_wigTall0002: 21300036
-      2022_store_bean_hat_wigJudge0001: 21300044
-      2022_store_bean_hat_babybean0001: 21300052
-      2022_store_bean_visor_beautyMark0002: 21300058
-      2022_store_bean_visor_Stealthgoggles0001: 21300032
-      2022_store_bean_visor_tvColorTest0004: 21300006
-      2022_store_bean_hat_crownBean0002: 21300000
-      2022_store_bean_hat_schnapp0003: 21300072
-      2022_store_bean_hat_schnapp0002: 21300026
-      2022_store_bean_hat_Sorry0001: 21300054
-      2022_store_bean_hat_wigJudge0002: 21300086
-      2022_store_bean_visor_wash0002: 21300022
-      2022_store_bean_visor_tvColorTest0002: 21300074
-      2022_store_bean_hat_mareLwyd0002: 21300066
-      2022_store_bean_hat_crownDouble0003: 21300024
-      2022_store_bean_hat_mareLwyd0003: 21300104
-      2022_store_bean_hat_cash0001: 21300042
-      2022_store_bean_hat_crownDouble0001: 21300070
-      2022_store_bean_visor_wash0004: 21300088
-      2022_store_bean_visor_Plsno0002: 21300012
-      2022_store_bean_hat_crownTall0003: 21300098
-      2022_store_bean_hat_crownBean0003: 21300064
-      2022_store_bean_hat_tinFoil0001: 21300010
-      2022_store_bean_visor_Stealthgoggles0004: 21300084
-      2022_store_bean_visor_teary0001: 21300078
-      2022_store_bean_hat_Sorry0004: 21300092
-      2022_store_bean_visor_anime0002: 21300030
-      2022_store_bean_hat_cash0003: 21300102
-      2022_store_bean_hat_tinFoil0002: 21300020
-      2022_store_bean_hat_wigTall0001: 21300050
-      2022_store_bean_hat_mareLwyd0001: 21300100
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

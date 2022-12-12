@@ -1,156 +1,57 @@
 fileFormatVersion: 2
 guid: bf94122d6ef3cdb4fac734f85baf6a72
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: hat_Airship_HeadphoneGovt0003
-  - first:
-      213: 21300002
-    second: hat_Airship_Thomas0002
-  - first:
-      213: 21300004
-    second: hat_Airship_Thomas0003
-  - first:
-      213: 21300006
-    second: vis_Airship_BillyG0002
-  - first:
-      213: 21300008
-    second: hat_airship_Rupert0002
-  - first:
-      213: 21300010
-    second: vis_Airship_General0001
-  - first:
-      213: 21300012
-    second: Vis_Airship_Wilford0001
-  - first:
-      213: 21300014
-    second: hat_Airship_Records0001
-  - first:
-      213: 21300016
-    second: hat_airship_GovtDesert0002
-  - first:
-      213: 21300018
-    second: hat_Airship_Cuppa0002
-  - first:
-      213: 21300020
-    second: hat_Airship_Winston0001
-  - first:
-      213: 21300022
-    second: hat_Airship_HeadphoneGovt0006
-  - first:
-      213: 21300024
-    second: hat_Airship_Wilford0001
-  - first:
-      213: 21300026
-    second: vis_Airship_General0002
-  - first:
-      213: 21300028
-    second: hat_Airship_Hardhat0003
-  - first:
-      213: 21300030
-    second: Vis_Airship_Reginald0001
-  - first:
-      213: 21300032
-    second: Vis_Airship_Wilford0002
-  - first:
-      213: 21300034
-    second: hat_Airship_Records0002
-  - first:
-      213: 21300036
-    second: hat_airship_Rupert0001
-  - first:
-      213: 21300038
-    second: hat_Airship_Cuppa0003
-  - first:
-      213: 21300040
-    second: hat_Airship_Prototype0003
-  - first:
-      213: 21300042
-    second: hat_Airship_HeadphoneGovt0002
-  - first:
-      213: 21300044
-    second: hat_Airship_Wilford0003
-  - first:
-      213: 21300046
-    second: hat_Airship_Wilford0002
-  - first:
-      213: 21300048
-    second: hat_airship_GovtDesert0001
-  - first:
-      213: 21300050
-    second: hat_Airship_CoolKate0002
-  - first:
-      213: 21300052
-    second: hat_Airship_Cuppa0001
-  - first:
-      213: 21300054
-    second: Vis_Airship_Scar0001
-  - first:
-      213: 21300056
-    second: hat_Airship_HeadphoneGovt0001
-  - first:
-      213: 21300058
-    second: Vis_Airship_Reginald0002
-  - first:
-      213: 21300060
-    second: hat_Airship_HeadphoneGovt0005
-  - first:
-      213: 21300062
-    second: hat_Airship_Records0003
-  - first:
-      213: 21300064
-    second: Vis_Airship_Wilhelm0001
-  - first:
-      213: 21300066
-    second: hat_airship_Rupert0003
-  - first:
-      213: 21300068
-    second: Vis_Airship_Scar0003
-  - first:
-      213: 21300070
-    second: hat_Airship_CoolKate0001
-  - first:
-      213: 21300072
-    second: hat_Airship_HeadphoneGovt0004
-  - first:
-      213: 21300074
-    second: hat_Airship_CoolKate0003
-  - first:
-      213: 21300076
-    second: hat_Airship_Winston0002
-  - first:
-      213: 21300078
-    second: hat_Airship_Hardhat0001
-  - first:
-      213: 21300080
-    second: hat_Airship_Prototype0002
-  - first:
-      213: 21300082
-    second: hat_Airship_Hardhat0002
-  - first:
-      213: 21300084
-    second: Vis_Airship_Scar0002
-  - first:
-      213: 21300086
-    second: hat_airship_GovtDesert0003
-  - first:
-      213: 21300088
-    second: hat_Airship_Prototype0001
-  - first:
-      213: 21300090
-    second: Vis_Airship_Wilhelm0002
-  - first:
-      213: 21300092
-    second: hat_Airship_Thomas0001
-  - first:
-      213: 21300094
-    second: hat_Airship_Winston0003
-  - first:
-      213: 21300096
-    second: vis_Airship_BillyG0001
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: hat_Airship_HeadphoneGovt0003
+    21300002: hat_Airship_Thomas0002
+    21300004: hat_Airship_Thomas0003
+    21300006: vis_Airship_BillyG0002
+    21300008: hat_airship_Rupert0002
+    21300010: vis_Airship_General0001
+    21300012: Vis_Airship_Wilford0001
+    21300014: hat_Airship_Records0001
+    21300016: hat_airship_GovtDesert0002
+    21300018: hat_Airship_Cuppa0002
+    21300020: hat_Airship_Winston0001
+    21300022: hat_Airship_HeadphoneGovt0006
+    21300024: hat_Airship_Wilford0001
+    21300026: vis_Airship_General0002
+    21300028: hat_Airship_Hardhat0003
+    21300030: Vis_Airship_Reginald0001
+    21300032: Vis_Airship_Wilford0002
+    21300034: hat_Airship_Records0002
+    21300036: hat_airship_Rupert0001
+    21300038: hat_Airship_Cuppa0003
+    21300040: hat_Airship_Prototype0003
+    21300042: hat_Airship_HeadphoneGovt0002
+    21300044: hat_Airship_Wilford0003
+    21300046: hat_Airship_Wilford0002
+    21300048: hat_airship_GovtDesert0001
+    21300050: hat_Airship_CoolKate0002
+    21300052: hat_Airship_Cuppa0001
+    21300054: Vis_Airship_Scar0001
+    21300056: hat_Airship_HeadphoneGovt0001
+    21300058: Vis_Airship_Reginald0002
+    21300060: hat_Airship_HeadphoneGovt0005
+    21300062: hat_Airship_Records0003
+    21300064: Vis_Airship_Wilhelm0001
+    21300066: hat_airship_Rupert0003
+    21300068: Vis_Airship_Scar0003
+    21300070: hat_Airship_CoolKate0001
+    21300072: hat_Airship_HeadphoneGovt0004
+    21300074: hat_Airship_CoolKate0003
+    21300076: hat_Airship_Winston0002
+    21300078: hat_Airship_Hardhat0001
+    21300080: hat_Airship_Prototype0002
+    21300082: hat_Airship_Hardhat0002
+    21300084: Vis_Airship_Scar0002
+    21300086: hat_airship_GovtDesert0003
+    21300088: hat_Airship_Prototype0001
+    21300090: Vis_Airship_Wilhelm0002
+    21300092: hat_Airship_Thomas0001
+    21300094: hat_Airship_Winston0003
+    21300096: vis_Airship_BillyG0001
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -158,8 +59,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -167,12 +66,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 1
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -180,13 +74,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -195,97 +86,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -311,15 +170,7 @@ TextureImporter:
         - {x: -43.491787, y: -47.975296}
         - {x: -85.49179, y: -35.9753}
         - {x: -101.49178, y: 1.0247002}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Thomas0002
       rect:
@@ -341,15 +192,7 @@ TextureImporter:
         - {x: -66.48899, y: -69.500046}
         - {x: -73.48899, y: -35.500046}
         - {x: -45.489, y: -7.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Thomas0003
       rect:
@@ -368,15 +211,7 @@ TextureImporter:
         - {x: 36.461933, y: -61.999985}
         - {x: -32.538063, y: -70.999985}
         - {x: -71.53806, y: -40.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_Airship_BillyG0002
       rect:
@@ -393,15 +228,7 @@ TextureImporter:
         - {x: -26, y: 8.5}
         - {x: 26, y: 8.5}
         - {x: 26, y: -8.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_airship_Rupert0002
       rect:
@@ -422,15 +249,7 @@ TextureImporter:
         - {x: -74.024666, y: -5.475315}
         - {x: -56.024666, y: 18.524683}
         - {x: -30.024666, y: 20.524685}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_Airship_General0001
       rect:
@@ -453,15 +272,7 @@ TextureImporter:
         - {x: -14.500002, y: -12.51239}
         - {x: -39.5, y: -58.51239}
         - {x: -56.5, y: 11.487614}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Wilford0001
       rect:
@@ -478,15 +289,7 @@ TextureImporter:
         - {x: -51.5, y: 24}
         - {x: 51.5, y: 24}
         - {x: 51.5, y: -24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Records0001
       rect:
@@ -508,15 +311,7 @@ TextureImporter:
         - {x: -53.5, y: -8.012451}
         - {x: -67.5, y: 17.987549}
         - {x: -37.5, y: 74.98755}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_airship_GovtDesert0002
       rect:
@@ -536,15 +331,7 @@ TextureImporter:
         - {x: -75.02468, y: -35}
         - {x: -72.02467, y: 4.999998}
         - {x: -14.02468, y: 24}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Cuppa0002
       rect:
@@ -563,15 +350,7 @@ TextureImporter:
         - {x: 74.99192, y: -38.499992}
         - {x: 25.99192, y: -63.499992}
         - {x: -60.008076, y: -57.499992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Winston0001
       rect:
@@ -591,15 +370,7 @@ TextureImporter:
         - {x: 37.500008, y: -45.999992}
         - {x: -21.499992, y: -60.999992}
         - {x: -66.499985, y: -40.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_HeadphoneGovt0006
       rect:
@@ -620,15 +391,7 @@ TextureImporter:
         - {x: -14.993088, y: 41.02468}
         - {x: 34.006912, y: 11.024681}
         - {x: 43.006912, y: -14.975318}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Wilford0001
       rect:
@@ -651,15 +414,7 @@ TextureImporter:
         - {x: -77.99999, y: -63.53811}
         - {x: -88.999985, y: -30.538109}
         - {x: -69.99999, y: 72.46189}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_Airship_General0002
       rect:
@@ -678,15 +433,7 @@ TextureImporter:
         - {x: 88.97533, y: 22.508907}
         - {x: 76.97533, y: -10.491089}
         - {x: 41.975327, y: -11.491093}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Hardhat0003
       rect:
@@ -707,15 +454,7 @@ TextureImporter:
         - {x: -51.01339, y: 21.483406}
         - {x: -21.01339, y: 58.4834}
         - {x: 24.986609, y: 77.483406}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Reginald0001
       rect:
@@ -736,15 +475,7 @@ TextureImporter:
         - {x: -23.00254, y: -29.000008}
         - {x: -53.00254, y: -18.000004}
         - {x: -60.00254, y: 16.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Wilford0002
       rect:
@@ -762,15 +493,7 @@ TextureImporter:
         - {x: 76.02469, y: -23.024681}
         - {x: -53.97531, y: -18.024681}
         - {x: -69.97531, y: -2.024681}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Records0002
       rect:
@@ -789,15 +512,7 @@ TextureImporter:
         - {x: -79.52468, y: -53.500046}
         - {x: -46.524685, y: 30.499954}
         - {x: -0.5246887, y: 74.499954}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_airship_Rupert0001
       rect:
@@ -818,15 +533,7 @@ TextureImporter:
         - {x: -13.038048, y: -85.975296}
         - {x: -56.038048, y: -39.975296}
         - {x: -68.03805, y: -0.975296}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Cuppa0003
       rect:
@@ -847,15 +554,7 @@ TextureImporter:
         - {x: 38.96839, y: -56.49999}
         - {x: 6.968395, y: -66.499985}
         - {x: -52.031605, y: -47.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Prototype0003
       rect:
@@ -875,15 +574,7 @@ TextureImporter:
         - {x: 1.9999967, y: -58.499992}
         - {x: -54.000004, y: -30.499994}
         - {x: -73, y: 13.500006}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_HeadphoneGovt0002
       rect:
@@ -903,15 +594,7 @@ TextureImporter:
         - {x: -51.520264, y: -50.524693}
         - {x: -69.52026, y: -31.524693}
         - {x: -65.52026, y: 4.4753075}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Wilford0003
       rect:
@@ -932,15 +615,7 @@ TextureImporter:
         - {x: 49.961945, y: -79.500046}
         - {x: -22.038055, y: -78.500046}
         - {x: -59.038055, y: -60.500046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Wilford0002
       rect:
@@ -961,15 +636,7 @@ TextureImporter:
         - {x: 46, y: 73.53806}
         - {x: 90, y: -13.461937}
         - {x: 78, y: -62.461937}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_airship_GovtDesert0001
       rect:
@@ -989,15 +656,7 @@ TextureImporter:
         - {x: 66.96193, y: -42.4876}
         - {x: -24.038063, y: -35.4876}
         - {x: -44.038063, y: -47.4876}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_CoolKate0002
       rect:
@@ -1020,15 +679,7 @@ TextureImporter:
         - {x: -91.999985, y: -55.997772}
         - {x: -97.999985, y: -25.997772}
         - {x: -72.999985, y: -3.9977722}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Cuppa0001
       rect:
@@ -1046,15 +697,7 @@ TextureImporter:
         - {x: 70.4877, y: -12.999985}
         - {x: 49.487698, y: -53.999985}
         - {x: -64.5123, y: -78.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Scar0001
       rect:
@@ -1071,15 +714,7 @@ TextureImporter:
         - {x: 16.985003, y: -16.983454}
         - {x: -19.014997, y: -15.983454}
         - {x: -14.0149975, y: 19.016546}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_HeadphoneGovt0001
       rect:
@@ -1103,15 +738,7 @@ TextureImporter:
         - {x: -18.530495, y: -43.96194}
         - {x: -86.53049, y: -34.961937}
         - {x: -79.530495, y: 9.038059}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Reginald0002
       rect:
@@ -1129,15 +756,7 @@ TextureImporter:
         - {x: 15.024673, y: 5.0073366}
         - {x: 83.02467, y: 25.007336}
         - {x: 64.02467, y: -16.992664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_HeadphoneGovt0005
       rect:
@@ -1159,15 +778,7 @@ TextureImporter:
         - {x: 11.507549, y: -64.475296}
         - {x: -49.49245, y: -37.4753}
         - {x: -69.49245, y: 1.5247002}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Records0003
       rect:
@@ -1186,15 +797,7 @@ TextureImporter:
         - {x: 17.46194, y: -63.999985}
         - {x: -35.53806, y: -65.999985}
         - {x: -61.53806, y: -19.999987}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Wilhelm0001
       rect:
@@ -1211,15 +814,7 @@ TextureImporter:
         - {x: -29.5, y: 7.000002}
         - {x: 29.5, y: 7.000002}
         - {x: 29.5, y: -7}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_airship_Rupert0003
       rect:
@@ -1240,15 +835,7 @@ TextureImporter:
         - {x: -9.499991, y: -43.49999}
         - {x: -60.499992, y: -72.499985}
         - {x: -66.49999, y: -37.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Scar0003
       rect:
@@ -1264,15 +851,7 @@ TextureImporter:
       - - {x: 7.9834023, y: 28.016546}
         - {x: 22.983402, y: -15.983454}
         - {x: -22.016598, y: -17.983454}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_CoolKate0001
       rect:
@@ -1295,15 +874,7 @@ TextureImporter:
         - {x: -21.501411, y: -81.475296}
         - {x: -59.501404, y: -95.475296}
         - {x: -73.50141, y: -11.475297}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_HeadphoneGovt0004
       rect:
@@ -1322,15 +893,7 @@ TextureImporter:
         - {x: 49.006912, y: 8.999992}
         - {x: 30.00692, y: -55.000004}
         - {x: -23.99308, y: -32.000004}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_CoolKate0003
       rect:
@@ -1349,15 +912,7 @@ TextureImporter:
         - {x: -29.524673, y: -84.01336}
         - {x: -83.524666, y: -65.01335}
         - {x: -52.524673, y: 30.98664}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Winston0002
       rect:
@@ -1376,15 +931,7 @@ TextureImporter:
         - {x: 19.50808, y: -58.99999}
         - {x: -46.49192, y: -46.999992}
         - {x: -69.49192, y: -23.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Hardhat0001
       rect:
@@ -1408,15 +955,7 @@ TextureImporter:
         - {x: -22.499998, y: -52.01997}
         - {x: -51.5, y: -62.01997}
         - {x: -90.5, y: -46.01997}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Prototype0002
       rect:
@@ -1437,15 +976,7 @@ TextureImporter:
         - {x: 112.9852, y: -39.99487}
         - {x: -101.0148, y: -44.994865}
         - {x: -112.0148, y: -6.994869}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Hardhat0002
       rect:
@@ -1465,15 +996,7 @@ TextureImporter:
         - {x: 28.461935, y: -70.999985}
         - {x: -72.53806, y: -47.999985}
         - {x: -71.53806, y: 15.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Scar0002
       rect:
@@ -1489,15 +1012,7 @@ TextureImporter:
       - - {x: 5, y: 14}
         - {x: 33, y: -14}
         - {x: -33, y: -14}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_airship_GovtDesert0003
       rect:
@@ -1516,15 +1031,7 @@ TextureImporter:
         - {x: 51.524685, y: 45.016605}
         - {x: 61.524685, y: -35.983395}
         - {x: 10.524684, y: -59.983395}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Prototype0001
       rect:
@@ -1542,15 +1049,7 @@ TextureImporter:
         - {x: 18.486298, y: 50.000008}
         - {x: 71.4863, y: 28.000008}
         - {x: 105.4863, y: -42.999992}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Vis_Airship_Wilhelm0002
       rect:
@@ -1567,15 +1066,7 @@ TextureImporter:
         - {x: -33.5, y: 6.000001}
         - {x: 33.5, y: 6.000001}
         - {x: 33.5, y: -6}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Thomas0001
       rect:
@@ -1595,15 +1086,7 @@ TextureImporter:
         - {x: 41.024673, y: -74.000046}
         - {x: -40.975323, y: -85.000046}
         - {x: -72.97532, y: -59.000046}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: hat_Airship_Winston0003
       rect:
@@ -1622,15 +1105,7 @@ TextureImporter:
         - {x: 62.53806, y: -30.024677}
         - {x: -1.4619408, y: -72.02467}
         - {x: -53.46194, y: -40.024677}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: vis_Airship_BillyG0001
       rect:
@@ -1647,77 +1122,9 @@ TextureImporter:
         - {x: -29.5, y: 13}
         - {x: 29.5, y: 13}
         - {x: 29.5, y: -13}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      hat_Airship_Hardhat0001: 21300078
-      hat_Airship_CoolKate0003: 21300074
-      hat_Airship_Prototype0003: 21300040
-      Vis_Airship_Wilhelm0001: 21300064
-      hat_Airship_Wilford0002: 21300046
-      hat_Airship_Records0003: 21300062
-      hat_Airship_Cuppa0003: 21300038
-      hat_Airship_Winston0002: 21300076
-      Vis_Airship_Wilford0002: 21300032
-      hat_Airship_HeadphoneGovt0006: 21300022
-      hat_Airship_Prototype0002: 21300080
-      hat_airship_GovtDesert0002: 21300016
-      hat_airship_GovtDesert0001: 21300048
-      Vis_Airship_Reginald0002: 21300058
-      Vis_Airship_Reginald0001: 21300030
-      hat_Airship_Wilford0001: 21300024
-      Vis_Airship_Scar0003: 21300068
-      hat_Airship_Thomas0002: 21300002
-      Vis_Airship_Scar0002: 21300084
-      hat_Airship_Cuppa0001: 21300052
-      vis_Airship_BillyG0001: 21300096
-      hat_Airship_CoolKate0002: 21300050
-      hat_Airship_CoolKate0001: 21300070
-      hat_Airship_Prototype0001: 21300088
-      hat_Airship_Records0002: 21300034
-      hat_Airship_Winston0003: 21300094
-      hat_airship_Rupert0003: 21300066
-      hat_Airship_HeadphoneGovt0001: 21300056
-      hat_airship_Rupert0001: 21300036
-      hat_Airship_Winston0001: 21300020
-      hat_airship_Rupert0002: 21300008
-      hat_Airship_HeadphoneGovt0004: 21300072
-      vis_Airship_General0001: 21300010
-      vis_Airship_BillyG0002: 21300006
-      Vis_Airship_Wilford0001: 21300012
-      hat_Airship_Hardhat0002: 21300082
-      vis_Airship_General0002: 21300026
-      hat_Airship_HeadphoneGovt0002: 21300042
-      hat_Airship_Cuppa0002: 21300018
-      hat_Airship_Thomas0001: 21300092
-      hat_Airship_HeadphoneGovt0003: 21300000
-      hat_Airship_Hardhat0003: 21300028
-      Vis_Airship_Scar0001: 21300054
-      hat_Airship_Records0001: 21300014
-      hat_airship_GovtDesert0003: 21300086
-      hat_Airship_HeadphoneGovt0005: 21300060
-      hat_Airship_Thomas0003: 21300004
-      hat_Airship_Wilford0003: 21300044
-      Vis_Airship_Wilhelm0002: 21300090
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

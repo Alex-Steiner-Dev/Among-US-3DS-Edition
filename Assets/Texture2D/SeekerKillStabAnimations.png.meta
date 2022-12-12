@@ -1,153 +1,56 @@
 fileFormatVersion: 2
 guid: c988cd5f599d2ba428aac357ea28c15f
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Seeker_killstab_Impostor0011
-  - first:
-      213: 21300002
-    second: Seeker_killstab_Impostor0026
-  - first:
-      213: 21300004
-    second: Seeker_killstab_Impostor0035
-  - first:
-      213: 21300006
-    second: Seeker_killstab_Impostor0009
-  - first:
-      213: 21300008
-    second: Seeker_killstab_Impostor0024
-  - first:
-      213: 21300010
-    second: Seeker_killstab_Impostor0019
-  - first:
-      213: 21300012
-    second: Seeker_killstab_Impostor0047
-  - first:
-      213: 21300014
-    second: Seeker_killstab_Impostor0015
-  - first:
-      213: 21300016
-    second: Seeker_killstab_Impostor0007
-  - first:
-      213: 21300018
-    second: Seeker_killstab_Impostor0039
-  - first:
-      213: 21300020
-    second: Seeker_killstab_Impostor0027
-  - first:
-      213: 21300022
-    second: Seeker_killstab_Impostor0014
-  - first:
-      213: 21300024
-    second: Seeker_killstab_Impostor0029
-  - first:
-      213: 21300026
-    second: Seeker_killstab_Impostor0022
-  - first:
-      213: 21300028
-    second: Seeker_killstab_Impostor0003
-  - first:
-      213: 21300030
-    second: Seeker_killstab_Impostor0033
-  - first:
-      213: 21300032
-    second: Seeker_killstab_Impostor0048
-  - first:
-      213: 21300034
-    second: Seeker_killstab_Impostor0040
-  - first:
-      213: 21300036
-    second: Seeker_killstab_Impostor0010
-  - first:
-      213: 21300038
-    second: Seeker_killstab_Impostor0005
-  - first:
-      213: 21300040
-    second: Seeker_killstab_Impostor0030
-  - first:
-      213: 21300042
-    second: Seeker_killstab_Impostor0004
-  - first:
-      213: 21300044
-    second: Seeker_killstab_Impostor0028
-  - first:
-      213: 21300046
-    second: Seeker_killstab_Impostor0034
-  - first:
-      213: 21300048
-    second: Seeker_killstab_Impostor0046
-  - first:
-      213: 21300050
-    second: Seeker_killstab_Impostor0043
-  - first:
-      213: 21300052
-    second: Seeker_killstab_Impostor0001
-  - first:
-      213: 21300054
-    second: Seeker_killstab_Impostor0016
-  - first:
-      213: 21300056
-    second: Seeker_killstab_Impostor0008
-  - first:
-      213: 21300058
-    second: Seeker_killstab_Impostor0017
-  - first:
-      213: 21300060
-    second: Seeker_killstab_Impostor0012
-  - first:
-      213: 21300062
-    second: Seeker_killstab_Impostor0038
-  - first:
-      213: 21300064
-    second: Seeker_killstab_Impostor0020
-  - first:
-      213: 21300066
-    second: Seeker_killstab_Impostor0025
-  - first:
-      213: 21300068
-    second: Seeker_killstab_Impostor0032
-  - first:
-      213: 21300070
-    second: Seeker_killstab_Impostor0036
-  - first:
-      213: 21300072
-    second: Seeker_killstab_Impostor0013
-  - first:
-      213: 21300074
-    second: Seeker_killstab_Impostor0006
-  - first:
-      213: 21300076
-    second: Seeker_killstab_Impostor0021
-  - first:
-      213: 21300078
-    second: Seeker_killstab_Impostor0037
-  - first:
-      213: 21300080
-    second: Seeker_killstab_Impostor0044
-  - first:
-      213: 21300082
-    second: Seeker_killstab_Impostor0031
-  - first:
-      213: 21300084
-    second: Seeker_killstab_Impostor0042
-  - first:
-      213: 21300086
-    second: Seeker_killstab_Impostor0041
-  - first:
-      213: 21300088
-    second: Seeker_killstab_Impostor0018
-  - first:
-      213: 21300090
-    second: Seeker_killstab_Impostor0045
-  - first:
-      213: 21300092
-    second: Seeker_killstab_Impostor0002
-  - first:
-      213: 21300094
-    second: Seeker_killstab_Impostor0023
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: Seeker_killstab_Impostor0011
+    21300002: Seeker_killstab_Impostor0026
+    21300004: Seeker_killstab_Impostor0035
+    21300006: Seeker_killstab_Impostor0009
+    21300008: Seeker_killstab_Impostor0024
+    21300010: Seeker_killstab_Impostor0019
+    21300012: Seeker_killstab_Impostor0047
+    21300014: Seeker_killstab_Impostor0015
+    21300016: Seeker_killstab_Impostor0007
+    21300018: Seeker_killstab_Impostor0039
+    21300020: Seeker_killstab_Impostor0027
+    21300022: Seeker_killstab_Impostor0014
+    21300024: Seeker_killstab_Impostor0029
+    21300026: Seeker_killstab_Impostor0022
+    21300028: Seeker_killstab_Impostor0003
+    21300030: Seeker_killstab_Impostor0033
+    21300032: Seeker_killstab_Impostor0048
+    21300034: Seeker_killstab_Impostor0040
+    21300036: Seeker_killstab_Impostor0010
+    21300038: Seeker_killstab_Impostor0005
+    21300040: Seeker_killstab_Impostor0030
+    21300042: Seeker_killstab_Impostor0004
+    21300044: Seeker_killstab_Impostor0028
+    21300046: Seeker_killstab_Impostor0034
+    21300048: Seeker_killstab_Impostor0046
+    21300050: Seeker_killstab_Impostor0043
+    21300052: Seeker_killstab_Impostor0001
+    21300054: Seeker_killstab_Impostor0016
+    21300056: Seeker_killstab_Impostor0008
+    21300058: Seeker_killstab_Impostor0017
+    21300060: Seeker_killstab_Impostor0012
+    21300062: Seeker_killstab_Impostor0038
+    21300064: Seeker_killstab_Impostor0020
+    21300066: Seeker_killstab_Impostor0025
+    21300068: Seeker_killstab_Impostor0032
+    21300070: Seeker_killstab_Impostor0036
+    21300072: Seeker_killstab_Impostor0013
+    21300074: Seeker_killstab_Impostor0006
+    21300076: Seeker_killstab_Impostor0021
+    21300078: Seeker_killstab_Impostor0037
+    21300080: Seeker_killstab_Impostor0044
+    21300082: Seeker_killstab_Impostor0031
+    21300084: Seeker_killstab_Impostor0042
+    21300086: Seeker_killstab_Impostor0041
+    21300088: Seeker_killstab_Impostor0018
+    21300090: Seeker_killstab_Impostor0045
+    21300092: Seeker_killstab_Impostor0002
+    21300094: Seeker_killstab_Impostor0023
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -155,8 +58,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -164,12 +65,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -177,13 +73,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -192,97 +85,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -306,15 +167,7 @@ TextureImporter:
         - {x: -39.5, y: -111.999985}
         - {x: -78.5, y: -58.999977}
         - {x: -78.5, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0026
       rect:
@@ -337,15 +190,7 @@ TextureImporter:
         - {x: 71.51337, y: -18.499985}
         - {x: 53.513367, y: -97.499985}
         - {x: -43.486633, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0035
       rect:
@@ -367,15 +212,7 @@ TextureImporter:
         - {x: 69.961945, y: -22.999985}
         - {x: 58.961945, y: -101.999985}
         - {x: -38.038055, y: -117.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0009
       rect:
@@ -398,15 +235,7 @@ TextureImporter:
         - {x: 71.51337, y: -18.499985}
         - {x: 53.513367, y: -97.499985}
         - {x: -43.486633, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0024
       rect:
@@ -429,15 +258,7 @@ TextureImporter:
         - {x: -81.51239, y: -57.499985}
         - {x: -81.51239, y: 51.500015}
         - {x: -24.51239, y: 119.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0019
       rect:
@@ -459,15 +280,7 @@ TextureImporter:
         - {x: 69.961945, y: -22.999985}
         - {x: 58.961945, y: -101.999985}
         - {x: -38.038055, y: -117.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0047
       rect:
@@ -490,15 +303,7 @@ TextureImporter:
         - {x: 81.038055, y: 2.500019}
         - {x: 56.038055, y: -99.499985}
         - {x: -40.961945, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0015
       rect:
@@ -521,15 +326,7 @@ TextureImporter:
         - {x: 81.038055, y: 2.500019}
         - {x: 56.038055, y: -99.499985}
         - {x: -40.961945, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0007
       rect:
@@ -552,15 +349,7 @@ TextureImporter:
         - {x: -81.51239, y: -57.499985}
         - {x: -81.51239, y: 51.500015}
         - {x: -24.51239, y: 119.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0039
       rect:
@@ -583,15 +372,7 @@ TextureImporter:
         - {x: -81.51239, y: -57.499985}
         - {x: -81.51239, y: 51.500015}
         - {x: -24.51239, y: 119.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0027
       rect:
@@ -612,15 +393,7 @@ TextureImporter:
         - {x: -39.5, y: -111.999985}
         - {x: -78.5, y: -58.999977}
         - {x: -78.5, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0014
       rect:
@@ -641,15 +414,7 @@ TextureImporter:
         - {x: -40.461945, y: -111.999985}
         - {x: -79.461945, y: -58.999977}
         - {x: -79.461945, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0029
       rect:
@@ -670,15 +435,7 @@ TextureImporter:
         - {x: -40.461945, y: -111.999985}
         - {x: -79.461945, y: -58.999977}
         - {x: -79.461945, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0022
       rect:
@@ -701,15 +458,7 @@ TextureImporter:
         - {x: 17.987549, y: -113.999985}
         - {x: -42.01245, y: -113.999985}
         - {x: -81.01245, y: -54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0003
       rect:
@@ -731,15 +480,7 @@ TextureImporter:
         - {x: 69.961945, y: -22.999985}
         - {x: 58.961945, y: -101.999985}
         - {x: -38.038055, y: -117.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0033
       rect:
@@ -763,15 +504,7 @@ TextureImporter:
         - {x: 54.000015, y: -104.499985}
         - {x: -40.999985, y: -117.499985}
         - {x: -80.999985, y: -59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0048
       rect:
@@ -794,15 +527,7 @@ TextureImporter:
         - {x: 81.038055, y: 2.500019}
         - {x: 56.038055, y: -99.499985}
         - {x: -40.961945, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0040
       rect:
@@ -825,15 +550,7 @@ TextureImporter:
         - {x: -81.51239, y: -57.499985}
         - {x: -81.51239, y: 51.500015}
         - {x: -24.51239, y: 119.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0010
       rect:
@@ -856,15 +573,7 @@ TextureImporter:
         - {x: 71.51337, y: -18.499985}
         - {x: 53.513367, y: -97.499985}
         - {x: -43.486633, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0005
       rect:
@@ -887,15 +596,7 @@ TextureImporter:
         - {x: 17.98761, y: -113.999985}
         - {x: -42.01239, y: -113.999985}
         - {x: -81.01239, y: -54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0030
       rect:
@@ -916,15 +617,7 @@ TextureImporter:
         - {x: -40.461945, y: -111.999985}
         - {x: -79.461945, y: -58.999977}
         - {x: -79.461945, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0004
       rect:
@@ -946,15 +639,7 @@ TextureImporter:
         - {x: 69.961945, y: -22.999985}
         - {x: 58.961945, y: -101.999985}
         - {x: -38.038055, y: -117.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0028
       rect:
@@ -975,15 +660,7 @@ TextureImporter:
         - {x: -39.5, y: -111.999985}
         - {x: -78.5, y: -58.999977}
         - {x: -78.5, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0034
       rect:
@@ -1007,15 +684,7 @@ TextureImporter:
         - {x: 54.000015, y: -104.499985}
         - {x: -40.999985, y: -117.499985}
         - {x: -80.999985, y: -59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0046
       rect:
@@ -1036,15 +705,7 @@ TextureImporter:
         - {x: -40.461945, y: -111.999985}
         - {x: -79.461945, y: -58.999977}
         - {x: -79.461945, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0043
       rect:
@@ -1065,15 +726,7 @@ TextureImporter:
         - {x: -39.5, y: -111.999985}
         - {x: -78.5, y: -58.999977}
         - {x: -78.5, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0001
       rect:
@@ -1097,15 +750,7 @@ TextureImporter:
         - {x: 54.000015, y: -104.499985}
         - {x: -40.999985, y: -117.499985}
         - {x: -80.999985, y: -59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0016
       rect:
@@ -1128,15 +773,7 @@ TextureImporter:
         - {x: 81.038055, y: 2.500019}
         - {x: 56.038055, y: -99.499985}
         - {x: -40.961945, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0008
       rect:
@@ -1159,15 +796,7 @@ TextureImporter:
         - {x: -81.51239, y: -57.499985}
         - {x: -81.51239, y: 51.500015}
         - {x: -24.51239, y: 119.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0017
       rect:
@@ -1191,15 +820,7 @@ TextureImporter:
         - {x: 54.000015, y: -104.499985}
         - {x: -40.999985, y: -117.499985}
         - {x: -80.999985, y: -59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0012
       rect:
@@ -1220,15 +841,7 @@ TextureImporter:
         - {x: -39.5, y: -111.999985}
         - {x: -78.5, y: -58.999977}
         - {x: -78.5, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0038
       rect:
@@ -1251,15 +864,7 @@ TextureImporter:
         - {x: 17.98761, y: -113.999985}
         - {x: -42.01239, y: -113.999985}
         - {x: -81.01239, y: -54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0020
       rect:
@@ -1281,15 +886,7 @@ TextureImporter:
         - {x: 69.961945, y: -22.999985}
         - {x: 58.961945, y: -101.999985}
         - {x: -38.038055, y: -117.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0025
       rect:
@@ -1312,15 +909,7 @@ TextureImporter:
         - {x: 71.51337, y: -18.499985}
         - {x: 53.513367, y: -97.499985}
         - {x: -43.486633, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0032
       rect:
@@ -1343,15 +932,7 @@ TextureImporter:
         - {x: 81.038055, y: 2.500019}
         - {x: 56.038055, y: -99.499985}
         - {x: -40.961945, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0036
       rect:
@@ -1373,15 +954,7 @@ TextureImporter:
         - {x: 69.96188, y: -22.999985}
         - {x: 58.961884, y: -101.999985}
         - {x: -38.038116, y: -117.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0013
       rect:
@@ -1402,15 +975,7 @@ TextureImporter:
         - {x: -40.461945, y: -111.999985}
         - {x: -79.461945, y: -58.999977}
         - {x: -79.461945, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0006
       rect:
@@ -1433,15 +998,7 @@ TextureImporter:
         - {x: 17.987549, y: -113.999985}
         - {x: -42.01245, y: -113.999985}
         - {x: -81.01245, y: -54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0021
       rect:
@@ -1464,15 +1021,7 @@ TextureImporter:
         - {x: 17.987549, y: -113.999985}
         - {x: -42.01245, y: -113.999985}
         - {x: -81.01245, y: -54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0037
       rect:
@@ -1495,15 +1044,7 @@ TextureImporter:
         - {x: 17.98761, y: -113.999985}
         - {x: -42.01239, y: -113.999985}
         - {x: -81.01239, y: -54.999985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0044
       rect:
@@ -1524,15 +1065,7 @@ TextureImporter:
         - {x: -39.5, y: -111.999985}
         - {x: -78.5, y: -58.999977}
         - {x: -78.5, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0031
       rect:
@@ -1555,15 +1088,7 @@ TextureImporter:
         - {x: 81.038055, y: 2.500019}
         - {x: 56.038055, y: -99.499985}
         - {x: -40.961945, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0042
       rect:
@@ -1586,15 +1111,7 @@ TextureImporter:
         - {x: 71.51337, y: -18.499985}
         - {x: 53.513367, y: -97.499985}
         - {x: -43.486633, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0041
       rect:
@@ -1617,15 +1134,7 @@ TextureImporter:
         - {x: 71.51337, y: -18.499985}
         - {x: 53.513367, y: -97.499985}
         - {x: -43.486633, y: -112.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0018
       rect:
@@ -1649,15 +1158,7 @@ TextureImporter:
         - {x: 54.000015, y: -104.499985}
         - {x: -40.999985, y: -117.499985}
         - {x: -80.999985, y: -59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0045
       rect:
@@ -1678,15 +1179,7 @@ TextureImporter:
         - {x: -40.461945, y: -111.999985}
         - {x: -79.461945, y: -58.999977}
         - {x: -79.461945, y: 43.000015}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0002
       rect:
@@ -1710,15 +1203,7 @@ TextureImporter:
         - {x: 54.000015, y: -104.499985}
         - {x: -40.999985, y: -117.499985}
         - {x: -80.999985, y: -59.499985}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Seeker_killstab_Impostor0023
       rect:
@@ -1741,76 +1226,9 @@ TextureImporter:
         - {x: -81.51245, y: -57.499985}
         - {x: -81.51245, y: 51.500015}
         - {x: -24.512451, y: 119.50001}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      Seeker_killstab_Impostor0026: 21300002
-      Seeker_killstab_Impostor0021: 21300076
-      Seeker_killstab_Impostor0019: 21300010
-      Seeker_killstab_Impostor0036: 21300070
-      Seeker_killstab_Impostor0011: 21300000
-      Seeker_killstab_Impostor0014: 21300022
-      Seeker_killstab_Impostor0037: 21300078
-      Seeker_killstab_Impostor0009: 21300006
-      Seeker_killstab_Impostor0033: 21300030
-      Seeker_killstab_Impostor0018: 21300088
-      Seeker_killstab_Impostor0005: 21300038
-      Seeker_killstab_Impostor0008: 21300056
-      Seeker_killstab_Impostor0029: 21300024
-      Seeker_killstab_Impostor0040: 21300034
-      Seeker_killstab_Impostor0048: 21300032
-      Seeker_killstab_Impostor0047: 21300012
-      Seeker_killstab_Impostor0024: 21300008
-      Seeker_killstab_Impostor0010: 21300036
-      Seeker_killstab_Impostor0001: 21300052
-      Seeker_killstab_Impostor0007: 21300016
-      Seeker_killstab_Impostor0032: 21300068
-      Seeker_killstab_Impostor0020: 21300064
-      Seeker_killstab_Impostor0042: 21300084
-      Seeker_killstab_Impostor0015: 21300014
-      Seeker_killstab_Impostor0002: 21300092
-      Seeker_killstab_Impostor0035: 21300004
-      Seeker_killstab_Impostor0039: 21300018
-      Seeker_killstab_Impostor0041: 21300086
-      Seeker_killstab_Impostor0016: 21300054
-      Seeker_killstab_Impostor0013: 21300072
-      Seeker_killstab_Impostor0022: 21300026
-      Seeker_killstab_Impostor0044: 21300080
-      Seeker_killstab_Impostor0025: 21300066
-      Seeker_killstab_Impostor0038: 21300062
-      Seeker_killstab_Impostor0006: 21300074
-      Seeker_killstab_Impostor0003: 21300028
-      Seeker_killstab_Impostor0031: 21300082
-      Seeker_killstab_Impostor0045: 21300090
-      Seeker_killstab_Impostor0012: 21300060
-      Seeker_killstab_Impostor0043: 21300050
-      Seeker_killstab_Impostor0004: 21300042
-      Seeker_killstab_Impostor0027: 21300020
-      Seeker_killstab_Impostor0023: 21300094
-      Seeker_killstab_Impostor0017: 21300058
-      Seeker_killstab_Impostor0034: 21300046
-      Seeker_killstab_Impostor0030: 21300040
-      Seeker_killstab_Impostor0028: 21300044
-      Seeker_killstab_Impostor0046: 21300048
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

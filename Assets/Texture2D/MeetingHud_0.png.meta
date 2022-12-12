@@ -1,45 +1,20 @@
 fileFormatVersion: 2
 guid: e51e229d959bcc046b6444809710858d
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: beforeVoting_deadBody
-  - first:
-      213: 21300002
-    second: beforeVoting_EMCrewHand
-  - first:
-      213: 21300004
-    second: UI_Phone_Button
-  - first:
-      213: 21300006
-    second: beforeVoting_EMCrew
-  - first:
-      213: 21300008
-    second: UI_Phone_Body
-  - first:
-      213: 21300010
-    second: baseGlass
-  - first:
-      213: 21300012
-    second: UI_Button_Yes
-  - first:
-      213: 21300014
-    second: beforeVoting_emergencyButton
-  - first:
-      213: 21300016
-    second: beforVoting_deadBodyBubble
-  - first:
-      213: 21300018
-    second: UI_Icon_Battery
-  - first:
-      213: 21300020
-    second: UI_Button_No
-  - first:
-      213: 21300022
-    second: UI_Icon_Wifi
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: beforeVoting_deadBody
+    21300002: beforeVoting_EMCrewHand
+    21300004: UI_Phone_Button
+    21300006: beforeVoting_EMCrew
+    21300008: UI_Phone_Body
+    21300010: baseGlass
+    21300012: UI_Button_Yes
+    21300014: beforeVoting_emergencyButton
+    21300016: beforVoting_deadBodyBubble
+    21300018: UI_Icon_Battery
+    21300020: UI_Button_No
+    21300022: UI_Icon_Wifi
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,8 +22,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -56,12 +29,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,13 +37,10 @@ TextureImporter:
   textureFormat: 25
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -84,97 +49,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -199,15 +132,7 @@ TextureImporter:
         - {x: -105.99999, y: -6}
         - {x: -102, y: 2}
         - {x: -61, y: 51}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: beforeVoting_EMCrewHand
       rect:
@@ -225,15 +150,7 @@ TextureImporter:
         - {x: 28, y: -14.999999}
         - {x: -13, y: -14.999999}
         - {x: -28, y: -8}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Phone_Button
       rect:
@@ -253,15 +170,7 @@ TextureImporter:
         - {x: 46.96195, y: -117.99354}
         - {x: -30.03805, y: -117.99354}
         - {x: -46.038048, y: -82.993546}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: beforeVoting_EMCrew
       rect:
@@ -281,15 +190,7 @@ TextureImporter:
         - {x: -62, y: -22.5}
         - {x: -29.999998, y: 46.5}
         - {x: 45, y: 46.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Phone_Body
       rect:
@@ -306,15 +207,7 @@ TextureImporter:
         - {x: -162.5, y: -163}
         - {x: -162.5, y: 162}
         - {x: 162.5, y: 162}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: baseGlass
       rect:
@@ -331,15 +224,7 @@ TextureImporter:
         - {x: -366.5, y: -254}
         - {x: -366.5, y: 254}
         - {x: 366.5, y: 254}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Button_Yes
       rect:
@@ -356,15 +241,7 @@ TextureImporter:
         - {x: -39.999996, y: 39.999996}
         - {x: 39.999996, y: 39.999996}
         - {x: 39.999996, y: -39.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: beforeVoting_emergencyButton
       rect:
@@ -384,15 +261,7 @@ TextureImporter:
         - {x: -112, y: -40.5}
         - {x: -112, y: -3.5}
         - {x: -64, y: 18.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: beforVoting_deadBodyBubble
       rect:
@@ -414,15 +283,7 @@ TextureImporter:
         - {x: -52, y: -16}
         - {x: -57, y: -4}
         - {x: -57, y: 29.999998}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Icon_Battery
       rect:
@@ -439,15 +300,7 @@ TextureImporter:
         - {x: -41.5, y: 25.5}
         - {x: 41.5, y: 25.5}
         - {x: 41.5, y: -25.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Button_No
       rect:
@@ -464,15 +317,7 @@ TextureImporter:
         - {x: -39.999996, y: 39.999996}
         - {x: 39.999996, y: 39.999996}
         - {x: 39.999996, y: -39.999996}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: UI_Icon_Wifi
       rect:
@@ -489,40 +334,9 @@ TextureImporter:
         - {x: 26.499998, y: 30.999996}
         - {x: 26.499998, y: -31}
         - {x: -26.499998, y: -31}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      UI_Icon_Battery: 21300018
-      beforeVoting_EMCrewHand: 21300002
-      beforVoting_deadBodyBubble: 21300016
-      UI_Icon_Wifi: 21300022
-      UI_Phone_Body: 21300008
-      UI_Button_No: 21300020
-      beforeVoting_deadBody: 21300000
-      UI_Button_Yes: 21300012
-      beforeVoting_EMCrew: 21300006
-      baseGlass: 21300010
-      beforeVoting_emergencyButton: 21300014
-      UI_Phone_Button: 21300004
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

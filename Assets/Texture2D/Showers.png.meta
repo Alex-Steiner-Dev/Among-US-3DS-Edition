@@ -1,45 +1,20 @@
 fileFormatVersion: 2
 guid: 18a90743ead622e41b707dc56af814b6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: showers_bench3
-  - first:
-      213: 21300002
-    second: showers_main
-  - first:
-      213: 21300004
-    second: shower_bench1
-  - first:
-      213: 21300006
-    second: task_wireShower
-  - first:
-      213: 21300008
-    second: task_towelbunched
-  - first:
-      213: 21300010
-    second: task_towelhang
-  - first:
-      213: 21300012
-    second: shower_bench2
-  - first:
-      213: 21300014
-    second: task_towelbasket
-  - first:
-      213: 21300016
-    second: task_towelwet
-  - first:
-      213: 21300018
-    second: task_shower
-  - first:
-      213: 21300020
-    second: task_trashbin1
-  - first:
-      213: 21300022
-    second: task_towelflat
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: showers_bench3
+    21300002: showers_main
+    21300004: shower_bench1
+    21300006: task_wireShower
+    21300008: task_towelbunched
+    21300010: task_towelhang
+    21300012: shower_bench2
+    21300014: task_towelbasket
+    21300016: task_towelwet
+    21300018: task_shower
+    21300020: task_trashbin1
+    21300022: task_towelflat
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,8 +22,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -56,12 +29,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,13 +37,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -84,97 +49,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -198,15 +131,7 @@ TextureImporter:
         - {x: -41, y: -25}
         - {x: -45, y: -32}
         - {x: -75, y: -32}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: showers_main
       rect:
@@ -259,15 +184,7 @@ TextureImporter:
         - {x: -620.5, y: 338}
         - {x: -620.5, y: 456.99997}
         - {x: -610.5, y: 517}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_bench1
       rect:
@@ -292,15 +209,7 @@ TextureImporter:
         - {x: -141, y: -26}
         - {x: -145, y: -32}
         - {x: -175, y: -32}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_wireShower
       rect:
@@ -318,15 +227,7 @@ TextureImporter:
         - {x: 26.000004, y: -17.999989}
         - {x: 25.000004, y: -18.999989}
         - {x: -25.999996, y: -18.999989}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_towelbunched
       rect:
@@ -345,15 +246,7 @@ TextureImporter:
         - {x: 33.9877, y: -26.987612}
         - {x: -34.0123, y: -26.987612}
         - {x: -34.0123, y: 2.0123882}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_towelhang
       rect:
@@ -374,15 +267,7 @@ TextureImporter:
         - {x: 10.461939, y: -16.46194}
         - {x: -15.53806, y: -42.46194}
         - {x: -27.538061, y: -42.46194}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: shower_bench2
       rect:
@@ -403,15 +288,7 @@ TextureImporter:
         - {x: -66.5, y: -72}
         - {x: -68.5, y: -83}
         - {x: -105.49999, y: -83}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_towelbasket
       rect:
@@ -433,15 +310,7 @@ TextureImporter:
         - {x: -10.012402, y: 36.975323}
         - {x: 15.987598, y: 39.97532}
         - {x: 28.987597, y: 39.97532}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_towelwet
       rect:
@@ -462,15 +331,7 @@ TextureImporter:
         - {x: -11.508079, y: -49.01224}
         - {x: -65.50808, y: -21.012241}
         - {x: -66.50808, y: -8.012241}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_shower
       rect:
@@ -492,15 +353,7 @@ TextureImporter:
         - {x: 4.013376, y: -50.538048}
         - {x: -14.986624, y: -31.53805}
         - {x: -11.986623, y: -11.538051}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_trashbin1
       rect:
@@ -519,15 +372,7 @@ TextureImporter:
         - {x: 31.986622, y: -53.03805}
         - {x: -28.013372, y: -54.038048}
         - {x: -33.013374, y: -42.03805}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_towelflat
       rect:
@@ -549,40 +394,9 @@ TextureImporter:
         - {x: -28.513382, y: -37.521454}
         - {x: -67.51338, y: -9.521454}
         - {x: -67.51338, y: 2.4785461}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      task_towelbunched: 21300008
-      shower_bench2: 21300012
-      task_towelbasket: 21300014
-      showers_main: 21300002
-      task_towelhang: 21300010
-      task_shower: 21300018
-      task_towelwet: 21300016
-      task_wireShower: 21300006
-      shower_bench1: 21300004
-      task_towelflat: 21300022
-      showers_bench3: 21300000
-      task_trashbin1: 21300020
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,45 +1,20 @@
 fileFormatVersion: 2
 guid: 7b8f176f55a61ec429663102d07f054c
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: records_main
-  - first:
-      213: 21300002
-    second: task_records4
-  - first:
-      213: 21300004
-    second: task_records3
-  - first:
-      213: 21300006
-    second: task_records2
-  - first:
-      213: 21300008
-    second: records_top
-  - first:
-      213: 21300010
-    second: records_chair
-  - first:
-      213: 21300012
-    second: records_fraud
-  - first:
-      213: 21300014
-    second: records_table
-  - first:
-      213: 21300016
-    second: panel_adminRecords
-  - first:
-      213: 21300018
-    second: records_research
-  - first:
-      213: 21300020
-    second: task_records1
-  - first:
-      213: 21300022
-    second: task_recordsmain
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: records_main
+    21300002: task_records4
+    21300004: task_records3
+    21300006: task_records2
+    21300008: records_top
+    21300010: records_chair
+    21300012: records_fraud
+    21300014: records_table
+    21300016: panel_adminRecords
+    21300018: records_research
+    21300020: task_records1
+    21300022: task_recordsmain
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,8 +22,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -56,12 +29,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,13 +37,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -84,97 +49,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -224,15 +157,7 @@ TextureImporter:
         - {x: -386.5, y: 519.5}
         - {x: -307.5, y: 573.49994}
         - {x: -217.5, y: 609.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_records4
       rect:
@@ -251,15 +176,7 @@ TextureImporter:
         - {x: 71.461945, y: 14.5}
         - {x: 71.461945, y: -68.5}
         - {x: 23.461945, y: -97.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_records3
       rect:
@@ -278,15 +195,7 @@ TextureImporter:
         - {x: 72.5, y: 24.5}
         - {x: 72.5, y: -107.49999}
         - {x: 54.499996, y: -107.49999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_records2
       rect:
@@ -307,15 +216,7 @@ TextureImporter:
         - {x: -42.019917, y: -56.000053}
         - {x: -44.019917, y: 38.999947}
         - {x: -31.019917, y: 45.999947}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: records_top
       rect:
@@ -339,15 +240,7 @@ TextureImporter:
         - {x: 15.5, y: -147.5}
         - {x: -115.5, y: -63.5}
         - {x: -119.49999, y: -55.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: records_chair
       rect:
@@ -368,15 +261,7 @@ TextureImporter:
         - {x: 42.5, y: -47.5}
         - {x: -6.5, y: -47.5}
         - {x: -42.5, y: -11.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: records_fraud
       rect:
@@ -394,15 +279,7 @@ TextureImporter:
         - {x: -0.5, y: 10.5}
         - {x: 14.5, y: 0.5}
         - {x: 14.5, y: -10.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: records_table
       rect:
@@ -423,15 +300,7 @@ TextureImporter:
         - {x: -62, y: -68}
         - {x: -85.99999, y: -28}
         - {x: -85.99999, y: 35}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: panel_adminRecords
       rect:
@@ -448,15 +317,7 @@ TextureImporter:
         - {x: -34.500004, y: 33.466312}
         - {x: 35.499996, y: 33.466312}
         - {x: 35.499996, y: -33.533688}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: records_research
       rect:
@@ -473,15 +334,7 @@ TextureImporter:
         - {x: -14.999999, y: 11.499999}
         - {x: 14.999999, y: 11.499999}
         - {x: 14.999999, y: -11.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_records1
       rect:
@@ -500,15 +353,7 @@ TextureImporter:
         - {x: -26.53806, y: -58.5}
         - {x: -37.53806, y: -58.5}
         - {x: -38.53806, y: 35.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_recordsmain
       rect:
@@ -529,40 +374,9 @@ TextureImporter:
         - {x: -20.538067, y: -30.499996}
         - {x: -36.538063, y: 1.5000038}
         - {x: -36.538063, y: 20.500002}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      records_research: 21300018
-      records_table: 21300014
-      task_records3: 21300004
-      task_records2: 21300006
-      records_chair: 21300010
-      task_records4: 21300002
-      task_records1: 21300020
-      records_top: 21300008
-      records_fraud: 21300012
-      panel_adminRecords: 21300016
-      records_main: 21300000
-      task_recordsmain: 21300022
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

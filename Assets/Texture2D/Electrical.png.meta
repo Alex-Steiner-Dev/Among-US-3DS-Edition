@@ -1,33 +1,16 @@
 fileFormatVersion: 2
 guid: e74f245c49647954887f1dec8b8b634d
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: ElectircalDoorSideClosed
-  - first:
-      213: 21300002
-    second: task_electriclever
-  - first:
-      213: 21300004
-    second: Electrical_main
-  - first:
-      213: 21300006
-    second: ElectircalDoorSideOpen
-  - first:
-      213: 21300008
-    second: task_calibrate
-  - first:
-      213: 21300010
-    second: ElectircalDoorTopOpen
-  - first:
-      213: 21300012
-    second: task_divertpower
-  - first:
-      213: 21300014
-    second: ElectircalDoorTopClosed
-  externalObjects: {}
-  serializedVersion: 12
+  fileIDToRecycleName:
+    21300000: ElectircalDoorSideClosed
+    21300002: task_electriclever
+    21300004: Electrical_main
+    21300006: ElectircalDoorSideOpen
+    21300008: task_calibrate
+    21300010: ElectircalDoorTopOpen
+    21300012: task_divertpower
+    21300014: ElectircalDoorTopClosed
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -35,8 +18,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -44,12 +25,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -57,13 +33,10 @@ TextureImporter:
   textureFormat: 12
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -72,97 +45,65 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  swizzle: 50462976
-  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
+  - buildTarget: Server
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
+  - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Nintendo 3DS
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
     textureFormat: 61
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -186,15 +127,7 @@ TextureImporter:
         - {x: -102, y: -87.5}
         - {x: -104, y: 9.5}
         - {x: -150, y: 11.499999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_electriclever
       rect:
@@ -212,15 +145,7 @@ TextureImporter:
         - {x: 10.000003, y: 37.499943}
         - {x: 31.000004, y: 16.499947}
         - {x: 31.000004, y: -37.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Electrical_main
       rect:
@@ -288,15 +213,7 @@ TextureImporter:
         - {x: 3, y: 533.5}
         - {x: 14, y: 677.49994}
         - {x: 50, y: 719.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ElectircalDoorSideOpen
       rect:
@@ -321,15 +238,7 @@ TextureImporter:
         - {x: -104.99999, y: -87.5}
         - {x: -106.99999, y: 9.5}
         - {x: -150, y: 9.5}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_calibrate
       rect:
@@ -346,15 +255,7 @@ TextureImporter:
         - {x: -30.999989, y: 37.499947}
         - {x: 30.000011, y: 37.499947}
         - {x: 30.000011, y: -37.500053}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ElectircalDoorTopOpen
       rect:
@@ -377,15 +278,7 @@ TextureImporter:
         - {x: -36.499996, y: -133.99998}
         - {x: -36.499996, y: -96}
         - {x: -28.5, y: -91.99999}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: task_divertpower
       rect:
@@ -405,15 +298,7 @@ TextureImporter:
         - {x: -27.508078, y: -58.512455}
         - {x: -40.50808, y: -60.51245}
         - {x: -40.50808, y: 19.487545}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: ElectircalDoorTopClosed
       rect:
@@ -430,36 +315,9 @@ TextureImporter:
         - {x: -36.499996, y: 132}
         - {x: 36.499996, y: 132}
         - {x: 36.499996, y: -132}
-      physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable:
-      ElectircalDoorSideClosed: 21300000
-      task_electriclever: 21300002
-      task_calibrate: 21300008
-      task_divertpower: 21300012
-      Electrical_main: 21300004
-      ElectircalDoorTopClosed: 21300014
-      ElectircalDoorSideOpen: 21300006
-      ElectircalDoorTopOpen: 21300010
   spritePackingTag: 
-  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
