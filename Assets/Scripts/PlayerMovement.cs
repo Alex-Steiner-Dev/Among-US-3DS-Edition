@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
     {
         movement = input * speed;
 
-        rb.velocity = movement;
+        rb.AddForce(movement * speed);
     }
 
     private void Inputs()
@@ -44,5 +44,13 @@ public class PlayerMovement : MonoBehaviour
         float vertical = Input.GetAxisRaw("Vertical");
 
         input = new Vector2(horizontal, vertical);
+    }
+
+    private void AnimationHandler()
+    {
+        if(input.x > 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = false;
+        }
     }
 }

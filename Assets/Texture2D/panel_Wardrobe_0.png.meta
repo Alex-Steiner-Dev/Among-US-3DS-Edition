@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f81666d8846a7cd478e7413a9927006b
+guid: e43d6500282f6704cbd3062f55404ddf
 TextureImporter:
   fileIDToRecycleName:
     21300000: panel_Wardrobe
@@ -50,7 +50,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 728
+    maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -65,7 +65,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Server
+  - buildTarget: Android
     maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
@@ -73,7 +73,15 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Server
     maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
