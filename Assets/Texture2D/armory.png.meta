@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ed2a8c9de4e7a094db8aab6e8e9bbda6
+guid: 58b2e28b198802544bcfd43cb3a884ae
 TextureImporter:
   fileIDToRecycleName:
     21300000: armory_table
@@ -60,7 +60,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 728
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -99,14 +99,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Nintendo 3DS
-    maxTextureSize: 512
-    textureFormat: 61
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

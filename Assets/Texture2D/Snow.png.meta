@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 128303495f7f7c642b6cfcdfed68b453
+guid: b22a3ac68f3e9da4eba7913938aed201
 TextureImporter:
   fileIDToRecycleName:
     21300000: snowflake3
@@ -53,7 +53,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 728
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -92,14 +92,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Nintendo 3DS
-    maxTextureSize: 512
-    textureFormat: 61
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

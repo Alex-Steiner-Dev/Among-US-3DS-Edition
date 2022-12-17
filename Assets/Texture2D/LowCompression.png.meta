@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a98026243fe31d84697cdd4cbfd048e2
+guid: 618d3b0a135878048b9cf5a790181427
 TextureImporter:
   fileIDToRecycleName:
     21300000: lab_reassembleSample0014
@@ -72,7 +72,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 728
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -111,14 +111,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Nintendo 3DS
-    maxTextureSize: 512
-    textureFormat: 61
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

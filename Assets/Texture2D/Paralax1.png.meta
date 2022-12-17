@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca3a89c24a3596b4798010c87e48b1b9
+guid: e5780ae9d4880c14aa1b437ec4121eb6
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 4
@@ -49,7 +49,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 728
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -88,14 +88,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Nintendo 3DS
-    maxTextureSize: 512
-    textureFormat: 61
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites: []
