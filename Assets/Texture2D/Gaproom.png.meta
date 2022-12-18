@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: aec9aaa3fbe9474429afe544a4c72263
+guid: 032316f7f8e246341a7cc870ef040c30
 TextureImporter:
   fileIDToRecycleName:
     21300000: panel_lifesupSab
@@ -96,6 +96,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

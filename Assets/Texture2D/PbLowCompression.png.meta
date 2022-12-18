@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0f488ad565568e24f98b40022664648d
+guid: dc270b9f4d2364e4382e43062f70fddd
 TextureImporter:
   fileIDToRecycleName:
     21300000: leak0006
@@ -110,6 +110,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

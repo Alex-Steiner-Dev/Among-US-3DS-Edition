@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8f72e9441c5e9a742a788eaadb6ec2f8
+guid: 52f1a12c50cb88544b111f3a46524993
 TextureImporter:
   fileIDToRecycleName:
     21300000: pumpkin5
@@ -105,6 +105,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

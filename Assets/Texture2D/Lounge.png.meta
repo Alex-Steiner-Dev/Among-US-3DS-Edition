@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9712803f980abf449a795193811bb71c
+guid: 42b8a00e8395b004d87f878568d6a9e1
 TextureImporter:
   fileIDToRecycleName:
     21300000: lounge_main
@@ -95,6 +95,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

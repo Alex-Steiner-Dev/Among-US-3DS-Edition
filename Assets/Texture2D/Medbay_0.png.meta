@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 617ef5e85c8d66d42975ca9d95fc4172
+guid: 3e4e1312addaee44cbb2fdc8a5e9a277
 TextureImporter:
   fileIDToRecycleName:
     21300000: medbay_main
@@ -93,6 +93,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

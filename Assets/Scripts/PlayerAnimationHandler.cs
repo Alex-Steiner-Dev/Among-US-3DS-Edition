@@ -3,88 +3,54 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerAnimationHandler : MonoBehaviour {
+    [SerializeField] private Animator m_anim_legs;
+    [SerializeField] private Animator m_anim_hat;
 
-	[SerializeField] private SpriteRenderer m_hatSprite;
-	[SerializeField] private SpriteRenderer m_legsSprite;
+    [SerializeField] private Animator m_anim_player;
 
-	[SerializeField] private BodyPart m_legs;
-	[SerializeField] private BodyPart m_hat;
+    private void Update()
+    {
+        AnimationHandler();
+    }
 
-	[SerializeField] private PlayerController m_playerController;
+    private void AnimationHandler()
+    {
+        if (Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0) // moving
+        {
+            m_anim_hat.SetBool("Walk", true);
+            m_anim_hat.SetBool("Idle", false);
 
-	bool facingRight = true;
+            m_anim_legs.SetBool("Walk", true);
+            m_anim_legs.SetBool("Idle", false);
 
-	private void Start()
-	{
-		StartCoroutine(AnimationHandler());
-	}
+            m_anim_player.SetBool("Walk", true);
+            m_anim_player.SetBool("Idle", false);
 
-	private IEnumerator AnimationHandler()
-	{
-		while (true)
-		{
-			float horizontal = Input.GetAxisRaw("Horizontal");
-
-			// Set facing
-			if(horizontal > 0 && !facingRight) { facingRight = true; }
-
-			else if(horizontal < 0 && facingRight) { facingRight = false;  }
-
-            // Checking player facing and flipping the sprite to it
-            if (facingRight) // right = no flip
+            if (Input.GetAxisRaw("Horizontal") < 0) // facing left
             {
-                this.GetComponent<SpriteRenderer>().flipX = false;
-
-                m_hatSprite.flipX = false;
-                m_legsSprite.flipX = false;
+                m_anim_player.gameObject.GetComponent<SpriteRenderer>().flipX = true;
+                m_anim_hat.gameObject.GetComponent<SpriteRenderer>().flipX = true;
+                m_anim_legs.gameObject.GetComponent<SpriteRenderer>().flipX = true;
             }
 
-            else // left = flip
+            else if (Input.GetAxisRaw("Horizontal") > 0 && m_anim_player.gameObject.GetComponent<SpriteRenderer>().flipX) // facing right && is flipped
             {
-                this.GetComponent<SpriteRenderer>().flipX = true;
-
-                m_hatSprite.flipX = true;
-                m_legsSprite.flipX = true;
+                m_anim_player.gameObject.GetComponent<SpriteRenderer>().flipX = false;
+                m_anim_hat.gameObject.GetComponent<SpriteRenderer>().flipX = false;
+                m_anim_legs.gameObject.GetComponent<SpriteRenderer>().flipX = false;
             }
+        }
 
-			// Animating
-			if(horizontal == 0) // idle
-			{
-				for(int i = 0; i < m_legs.m_idle.Length; i++) // legs idle
-				{
-					m_legsSprite.sprite = m_legs.m_idle[i];
-                    yield return new WaitForSeconds(100 / 15 * 0.5f); // fps * frame speed
-                }
+        else // idle
+        {
+            m_anim_hat.SetBool("Walk", false);
+            m_anim_hat.SetBool("Idle", true);
 
-                for (int i = 0; i < m_hat.m_idle.Length; i++) // hat idle
-                {
-                    m_hatSprite.sprite = m_hat.m_idle[i];
-                    yield return new WaitForSeconds(100 / 15 * 0.5f); // fps * frame speed
-                }
-            }
+            m_anim_legs.SetBool("Walk", false);
+            m_anim_legs.SetBool("Idle", true);
 
-			else // walking
-			{
-                for (int i = 0; i < m_legs.m_walk.Length; i++) // legs walking
-                {
-                    m_legsSprite.sprite = m_legs.m_walk[i];
-                    yield return new WaitForSeconds(100 / 15 * 0.5f); // fps * frame speed
-                }
-
-                for (int i = 0; i < m_hat.m_walk.Length; i++) // hat walking
-                {
-                    m_hatSprite.sprite = m_hat.m_walk[i];
-                    yield return new WaitForSeconds(100 / 15 * 0.5f); // fps * frame speed
-                }
-            }
-		}
-	}
-}
-
-[System.Serializable]
-public class BodyPart
-{
-	[SerializeField] public Sprite[] m_idle;
-	[SerializeField] public Sprite[] m_walk;
-	[SerializeField] public Sprite[] m_die;
+            m_anim_player.SetBool("Walk", false);
+            m_anim_player.SetBool("Idle", true);
+        }
+    }
 }

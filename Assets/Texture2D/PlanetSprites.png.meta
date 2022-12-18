@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1d6e930fb1c1fc04588563dedaac82f3
+guid: a960b993d411ee549a8bf12fa8b427ea
 TextureImporter:
   fileIDToRecycleName:
     21300000: snowmanded.png
@@ -115,6 +115,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

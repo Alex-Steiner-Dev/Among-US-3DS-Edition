@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ee2fc8edd82024348bf3b9670f7c4669
+guid: 69f5b507aa1503047b360a9d0a29dad7
 TextureImporter:
   fileIDToRecycleName:
     21300000: hull_mark2
@@ -90,6 +90,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 714a8e9f03f188f45a6374f2e8b94f82
+guid: 97df4fd425d61084494f5b81526c7c46
 TextureImporter:
   fileIDToRecycleName:
     21300000: compLabGreenHouseAdminWalls
@@ -89,6 +89,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

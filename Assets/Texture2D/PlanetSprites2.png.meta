@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4c14476f9e247ea4baaa774207fdfbed
+guid: 5c943d6fd35d2ee4a95b8b6f6b7dbc43
 TextureImporter:
   fileIDToRecycleName:
     21300000: panel_electrical_shower
@@ -136,6 +136,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

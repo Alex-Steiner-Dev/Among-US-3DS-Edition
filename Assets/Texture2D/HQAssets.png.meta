@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 40c021e8463f55045926d060c0dff01a
+guid: 28611868f4a081d438702a1be961d1a1
 TextureImporter:
   fileIDToRecycleName:
     21300000: electricalPanelOfficeMira
@@ -114,6 +114,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

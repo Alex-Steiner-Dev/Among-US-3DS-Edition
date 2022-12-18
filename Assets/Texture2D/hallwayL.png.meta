@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 03bdfce01cc61cb4792383a4571573b1
+guid: 94a101709d95f5d43b32aaea63bebd49
 TextureImporter:
   fileIDToRecycleName:
     21300000: HallwayL_main
@@ -90,6 +90,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

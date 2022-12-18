@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9bfa7baeacd2b904ea91018711edff1b
+guid: ac5cd5c73a19b6f478dcf65b3ef7823c
 TextureImporter:
   fileIDToRecycleName:
     21300000: cockpit_mapfloating
@@ -98,6 +98,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

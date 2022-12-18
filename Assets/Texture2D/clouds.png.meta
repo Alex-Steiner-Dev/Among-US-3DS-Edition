@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cbc8958f141b94d469b355e83bba1afc
+guid: 64202683e3f54a64c8e05e88ba630f27
 TextureImporter:
   fileIDToRecycleName:
     21300000: Cloud4
@@ -92,6 +92,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

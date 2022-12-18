@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fb547f69a56d8a0478f1f8949f652b9c
+guid: 150f8a5875274784abc809eef86a962c
 TextureImporter:
   fileIDToRecycleName:
     21300000: doorsFrontOpen0008
@@ -112,6 +112,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

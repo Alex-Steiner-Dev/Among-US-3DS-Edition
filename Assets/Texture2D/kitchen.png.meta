@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d96f4924f14bca44b8b6c8443b3873e8
+guid: c270c361c4ce9f6418b3b143a3358190
 TextureImporter:
   fileIDToRecycleName:
     21300000: kitchen_table2
@@ -95,6 +95,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

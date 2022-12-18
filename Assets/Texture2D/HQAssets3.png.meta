@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f313ad0f7ea06d34c9ebbbaafba43b3f
+guid: 9b3fb37ffce4f14478d191d93257a0a6
 TextureImporter:
   fileIDToRecycleName:
     21300000: office-ball
@@ -112,6 +112,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

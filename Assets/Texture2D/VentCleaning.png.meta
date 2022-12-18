@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e4458caec79aa44459006e72cd847ce3
+guid: 7f9025152d6a56346ba178b3603a5c4d
 TextureImporter:
   fileIDToRecycleName:
     21300000: vent_opened
@@ -98,6 +98,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 218eed22f99e8a54780546634be66a96
+guid: 4aec9ba8460cd8a48af9d47862758f2a
 TextureImporter:
   fileIDToRecycleName:
     21300000: hallportrait_main
@@ -90,6 +90,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

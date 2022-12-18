@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4fd418c11b913a489b9f98bad01d8b4
+guid: 18a90743ead622e41b707dc56af814b6
 TextureImporter:
   fileIDToRecycleName:
     21300000: showers_bench3
@@ -100,6 +100,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:

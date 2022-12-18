@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b741cc5448c07544f852bf4d9c5541aa
+guid: 90a7822f9a25c2648b251eeb58e5d999
 TextureImporter:
   fileIDToRecycleName:
     21300000: engine_railing
@@ -96,6 +96,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 512
+    textureFormat: 61
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
