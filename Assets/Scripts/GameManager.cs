@@ -24,6 +24,5 @@ public class GameManager : MonoBehaviour {
     public void SetPanel(GameObject newPanel)
     {
         panel = newPanel;
-        panel.SetActive(true);
     }
 }

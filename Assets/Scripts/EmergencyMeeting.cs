@@ -6,6 +6,7 @@ public class EmergencyMeeting : MonoBehaviour {
 
 	[SerializeField] private GameManager gameManager;
 	[SerializeField] private GameObject panel;
+	[SerializeField] private AudioSource alarm;
 
 	private void Start()
 	{
@@ -31,6 +32,6 @@ public class EmergencyMeeting : MonoBehaviour {
 
 	public void CallMeeting()
 	{
-
+		alarm.enabled = true;
 	}
 }
