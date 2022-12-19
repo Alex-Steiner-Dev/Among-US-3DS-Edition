@@ -1,30 +1,69 @@
-﻿using UnityEngine;
+﻿using System;
 using System.Collections;
-using UnityEngine.Networking;
+using System.Collections.Generic;
+using UnityEngine;
+using WebSocketSharp;
 
 public class NetworkingManager : MonoBehaviour {
-    [SerializeField] private string m_url;
 
-    [SerializeField] private UnityEngine.UI.Text log;
+	[SerializeField] private UnityEngine.UI.Text infoText;
 
-    void Start()
-    {
-        StartCoroutine(GetText());
+	[SerializeField] private string url;
+	private WebSocket socket;
+
+	private void Start()
+	{
+		ConnectToServer();
+	}
+
+	private void Update()
+	{
+        if (socket == null)
+        {
+            return;
+        }
     }
 
-    IEnumerator GetText()
-    {
-        UnityWebRequest www = UnityWebRequest.Get(m_url);
-        yield return www.Send();
+	private void ConnectToServer()
+	{
+		try
+		{
+			socket = new WebSocket(url);
+			socket.Connect();
 
-        if (www.isError)
-        {
-            log.text = www.error.ToString();
-        }
-        else
-        {
-           
-            log.text = www.downloadHandler.text;
-        }
+            socket.OnMessage += (sender, e) =>
+			{
+				if (e.IsText)
+				{
+					infoText.text = (e.Data);
+				}
+			};
+		}
+
+		catch(Exception e)
+		{
+			infoText.text = e.Message;
+			ConnectToServer();
+		}
+	}
+
+	private void SendMessage(Vector3 pos)
+	{
+
+	}
+
+    private void SendMessase(string msg)
+    {
+
+    }
+
+    private void ReceiveMessage(Vector3 pos)
+    {
+
+    }
+
+    private void ReceiveMessase(string msg)
+    {
+
     }
 }

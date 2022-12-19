@@ -1,11 +1,6 @@
-const express = require("express");
+const WebSocket = require('ws');
+const server = new WebSocket.Server({ port : '8080'});
 
-const app = express();
-
-app.get("/", function(req, res){
-    res.send("Hello and welcome!");
-});
-
-app.listen(port=8080, "0.0.0.0", function(){
-    console.log("Server is running on port 8080");
+server.on('connection', socket => {
+    socket.send("Hi 1!");
 });
