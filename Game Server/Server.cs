@@ -8,15 +8,25 @@ namespace Game_Server
 {
     internal class Server
     {
+        private TcpListener server;
+
+        private List<Room> rooms = new List<Room> { };
+        private List<Client> clients = new List<Client> { };
+
         public Server(string ipString, int port)
         {
             IPAddress ip = IPAddress.Parse(ipString);
 
-            TcpListener server = new TcpListener(ip, port);
+            server = new TcpListener(ip, port);
             server.Start();
             
-            Console.WriteLine("Server started on  " + ip.MapToIPv4() + ":" + port);
+            Console.WriteLine("Server started on " + ip.MapToIPv4() + ":" + port);
 
+            AcceptClients();
+        }
+
+        private void AcceptClients()
+        {
             while (true)
             {
                 TcpClient client = server.AcceptTcpClient();
