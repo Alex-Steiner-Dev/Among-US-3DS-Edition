@@ -34,17 +34,15 @@ namespace Game_Server
 
                 NetworkStream stream = client.GetStream();
 
-                while (true)
-                {
-                    byte[] data = new byte[1024];
-                    int bytesRead = stream.Read(data, 0, data.Length);
-                    string message = Encoding.ASCII.GetString(data, 0, bytesRead);
+          
+                byte[] data = new byte[1024];
+                int bytesRead = stream.Read(data, 0, data.Length);
+                string message = Encoding.ASCII.GetString(data, 0, bytesRead);
 
-                    byte[] response = Encoding.ASCII.GetBytes(message);
-                    stream.Write(response, 0, response.Length);
+                byte[] response = Encoding.ASCII.GetBytes(message);
+                stream.Write(response, 0, response.Length);
 
-                    Console.WriteLine("Received: " + message);
-                }
+                Console.WriteLine("Received: " + message);
             }
         }
     }

@@ -10,7 +10,7 @@ namespace Game_Server
     {
         static void Main(string[] args)
         {
-            Server server = new Server("127.0.0.1", 3000);
+            Server server = new Server("2.40.58.180", 3000);
         }
     }
 }
