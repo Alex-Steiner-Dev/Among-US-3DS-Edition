@@ -8,6 +8,11 @@ public class BufferHandler : MonoBehaviour {
 	[SerializeField] private float m_distance;
 
 	private void Start (){
+		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Map").Length; i++){
+			m_objects[i] = GameObject.FindGameObjectsWithTag("Map")[i].transform;
+
+        }
+
 		StartCoroutine(CheckDistance());
 	}
 
