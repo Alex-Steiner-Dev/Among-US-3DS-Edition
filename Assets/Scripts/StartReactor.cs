@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.Events;
 
 public class StartReactor : MonoBehaviour {
-
     [SerializeField] private GameManager gameManager;
     [SerializeField] private GameObject panel;
     [SerializeField] private AudioSource press;
@@ -54,7 +53,7 @@ public class StartReactor : MonoBehaviour {
 
         for (int i = 0; i < count; i++)
         {
-            seq[i] = Random.Range(0, 9);
+            seq[i] = Random.Range(0, 8);
         }
 
         return seq;
