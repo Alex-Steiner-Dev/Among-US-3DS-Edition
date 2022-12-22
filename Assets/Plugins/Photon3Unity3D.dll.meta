@@ -23,7 +23,7 @@ PluginImporter:
           Exclude Linux: 0
           Exclude Linux64: 0
           Exclude LinuxUniversal: 0
-          Exclude N3DS: 1
+          Exclude N3DS: 0
           Exclude OSXIntel: 0
           Exclude OSXIntel64: 0
           Exclude OSXUniversal: 0
@@ -92,7 +92,7 @@ PluginImporter:
       first:
         Nintendo 3DS: N3DS
       second:
-        enabled: 0
+        enabled: 1
         settings:
           N3DS_CONFIGURATION: All
           N3DS_DEPENDENCY: 
