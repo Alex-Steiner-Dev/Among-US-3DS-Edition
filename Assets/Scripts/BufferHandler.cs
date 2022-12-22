@@ -7,6 +7,11 @@ public class BufferHandler : MonoBehaviour {
 	[SerializeField] private Transform[] m_objects;
 	[SerializeField] private float m_distance;
 
+	private void Awake()
+	{
+		m_objects = new Transform[GameObject.FindGameObjectsWithTag("Map").Length];
+    }
+
 	private void Start (){
 		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Map").Length; i++){
 			m_objects[i] = GameObject.FindGameObjectsWithTag("Map")[i].transform;
