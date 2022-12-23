@@ -17,7 +17,7 @@ public class PlayerController : Photon.MonoBehaviour {
 
 	[SerializeField] private GameTask[] tasksScripts;
 
-	private void Awake()
+	private void LoadPlayer()
 	{
 		photonView = GetComponent<PhotonView>();
 
@@ -44,7 +44,11 @@ public class PlayerController : Photon.MonoBehaviour {
             for (int j = 0; j < allTasks.Length; j++)
             {
 				if (scripts[i] != this)
+				{
 					scripts[i].enabled = false;
+					scripts[i].StopAllCoroutines();
+					scripts[i].gameObject.GetComponent<CircleCollider2D>().enabled = false;
+                }
             }
         }
 	}
