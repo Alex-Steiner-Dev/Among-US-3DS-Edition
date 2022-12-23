@@ -33,11 +33,6 @@ public class NetworkingManager : Photon.PunBehaviour {
         Debug.Log("Room joined!");
 
         InstantiatePlayer();
-
-        if (PhotonNetwork.playerList.Length == maxPlayers)
-        {
-            //StartCoroutine(LoadGame());
-        }
     }
 
     public override void OnPhotonRandomJoinFailed(object[] codeAndMsg)
@@ -48,13 +43,11 @@ public class NetworkingManager : Photon.PunBehaviour {
 
     private void InstantiatePlayer()
     {
-        PhotonNetwork.Instantiate(player.name, spawnPosition, Quaternion.identity, 0);
+        DontDestroyOnLoad(PhotonNetwork.Instantiate(player.name, spawnPosition, Quaternion.identity, 0));
     }
 
-    IEnumerator LoadGame()
+    public void LoadGameFunctiom()
     {
-        yield return new WaitForSecondsRealtime(5);
         PhotonNetwork.LoadLevel(SceneManager.GetActiveScene().buildIndex + 1);
-
     }
 }
