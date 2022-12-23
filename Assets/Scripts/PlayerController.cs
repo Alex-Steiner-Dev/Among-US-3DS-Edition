@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Callbacks;
 using UnityEngine;
 
 public class PlayerController : Photon.MonoBehaviour {
@@ -41,13 +42,13 @@ public class PlayerController : Photon.MonoBehaviour {
 			tasksScripts[i] = allTasks[i].GetComponent<GameTask>();
 
             MonoBehaviour[] scripts = allTasks[i].GetComponents<MonoBehaviour>();
+			
             for (int j = 0; j < allTasks.Length; j++)
             {
 				if (scripts[i] != this)
 				{
-					scripts[i].enabled = false;
-					scripts[i].StopAllCoroutines();
-					scripts[i].gameObject.GetComponent<CircleCollider2D>().enabled = false;
+					Destroy(scripts[i].gameObject.GetComponent<GameTask>().panel);
+                    scripts[i].enabled = false;
                 }
             }
         }

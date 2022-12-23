@@ -5,7 +5,6 @@ using UnityEngine.Events;
 
 public class StartReactor : MonoBehaviour {
     [SerializeField] private GameManager gameManager;
-    [SerializeField] private GameObject panel;
     [SerializeField] private AudioSource press;
 
     [SerializeField] private GameObject[] inputs;
@@ -23,9 +22,6 @@ public class StartReactor : MonoBehaviour {
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            gameManager.EnableUseButton();
-            gameManager.SetPanel(panel);
-
             gameManager.onUseButton.AddListener(() => StartTask());
         }
     }
@@ -34,7 +30,6 @@ public class StartReactor : MonoBehaviour {
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            gameManager.DisableUseButton();
             gameManager.onUseButton.RemoveListener(StartTask);
         }
     }
