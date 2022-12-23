@@ -60,8 +60,10 @@ public class StartReactor : MonoBehaviour {
         {
             if(sequenceCount == count - 1)
             {
-                if(count - 1 < 5)
+                if (count - 1 < 5)
                     StartTask();
+                else
+                    GameObject.Find("TaskManager").GetComponent<TaskManager>().CompletedTask(GetComponent<GameTask>().taskName);
             }
 
             else

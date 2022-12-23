@@ -21,6 +21,7 @@ public class NetworkingManager : Photon.PunBehaviour {
 
         Debug.Log("Connected using settings");
     }
+
     public override void OnConnectedToMaster()
     {
         Debug.Log("Connected to master");
@@ -35,7 +36,7 @@ public class NetworkingManager : Photon.PunBehaviour {
 
         if (PhotonNetwork.playerList.Length == maxPlayers)
         {
-            StartCoroutine(LoadGame());
+            //StartCoroutine(LoadGame());
         }
     }
 
