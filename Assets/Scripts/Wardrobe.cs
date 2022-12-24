@@ -22,4 +22,6 @@ public class Wardrobe : MonoBehaviour
             wardrobe.SetActive(false);
         }
     }
+
+
 }

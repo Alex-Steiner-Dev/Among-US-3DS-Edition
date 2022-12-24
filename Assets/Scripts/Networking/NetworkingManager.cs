@@ -11,6 +11,7 @@ public class NetworkingManager : Photon.PunBehaviour {
     [SerializeField] private GameObject player;
 
     RoomOptions roomOption;
+    public GameObject thisPlayer;
 
     private void Awake()
     {
@@ -43,11 +44,24 @@ public class NetworkingManager : Photon.PunBehaviour {
 
     private void InstantiatePlayer()
     {
-        DontDestroyOnLoad(PhotonNetwork.Instantiate(player.name, spawnPosition, Quaternion.identity, 0));
+        thisPlayer = PhotonNetwork.Instantiate(player.name, spawnPosition, Quaternion.identity, 0);
+        DontDestroyOnLoad(thisPlayer);
     }
 
     public void LoadGameFunctiom()
     {
+        if (PhotonNetwork.isMasterClient)
+        {
+            int imposter = UnityEngine.Random.Range(0, PhotonNetwork.playerList.Length);
+        }
+
         PhotonNetwork.LoadLevel(SceneManager.GetActiveScene().buildIndex + 1);
+        thisPlayer.GetComponent<PlayerController>().LoadCrewmate();
+    }
+
+    [PunRPC]
+    public void SetImposter()
+    {
+
     }
 }

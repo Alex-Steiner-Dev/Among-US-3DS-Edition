@@ -7,7 +7,7 @@ public class PlayerController : Photon.MonoBehaviour {
 	[SerializeField] protected Sprite m_hat;
 	[SerializeField] protected Sprite m_leg;
 
-	[SerializeField] protected Color m_color;
+	[SerializeField] public Color m_color;
 
 	[SerializeField] protected string[] m_tasks = new string[3];
 
@@ -17,19 +17,35 @@ public class PlayerController : Photon.MonoBehaviour {
 
 	[SerializeField] private GameTask[] tasksScripts;
 
-	private void LoadPlayer()
+	[SerializeField] public bool isImposter;
+
+	Color temp;
+	private void Awake()
 	{
-		photonView = GetComponent<PhotonView>();
+		temp = m_color;
+        photonView = GetComponent<PhotonView>();
 
-		if (!photonView.isMine)
+        if (!photonView.isMine)
+        {
+            GetComponent<PlayerMovement>().enabled = false;
+            return;
+        }
+    }
+
+	private void Update()
+	{
+		if(temp != m_color)
 		{
-			GetComponent<PlayerMovement>().enabled = false;
-			return;
+			GetComponent<SpriteRenderer>().color = m_color;
+			temp = m_color;
 		}
+	}
 
-		AssignTaskScript();
-		AssignTask();
-		EnableTask();
+	public void LoadCrewmate()
+	{
+        AssignTaskScript();
+        AssignTask();
+        EnableTask();
     }
 
 	private void AssignTaskScript()

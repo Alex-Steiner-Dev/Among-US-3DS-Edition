@@ -16,9 +16,7 @@ public class NintendoGUI : MonoBehaviour {
 
     void OnGUI()
     {
-        #if !UNITY_EDITOR
-                GUI.color = Color.clear;
-        #endif
+        //GUI.color = Color.clear;
 
         if (position)
         {
