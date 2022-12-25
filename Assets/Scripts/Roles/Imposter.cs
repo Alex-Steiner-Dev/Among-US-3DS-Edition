@@ -13,6 +13,8 @@ public class Imposter : MonoBehaviour {
 	private void Start()
 	{
 		GetComponent<CircleCollider2D>().radius = killRange;
+
+        StartCoroutine(CoolDown());
     }
 
 	IEnumerator CoolDown()

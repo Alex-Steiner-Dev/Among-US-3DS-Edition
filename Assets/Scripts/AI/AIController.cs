@@ -11,34 +11,31 @@ public class AIController : MonoBehaviour {
 	{
 		m_animator = GetComponent<Animator>();
 
-		if(!isImpostor)
-		{
-            StartCoroutine(DoCrewmate());
-		}
-		else
-		{
-            StartCoroutine(DoImpostor());
-		}
+        if (isImpostor)
+        {
+            DoImpostor();
+        }
+        else
+        {
+            DoCrewmate();
+        }
     }
 
-	private void Update()
+    private void Update()
 	{
-		AnimationHandler();
+        AnimationHandler();
 	}
 
-	IEnumerator DoCrewmate()
+	void DoCrewmate()
 	{
+
+	}
+
+
+    void DoImpostor()
+    {
 		while (true)
 		{
-			yield return new WaitForSeconds(0);
-		}
-	}
-
-
-    IEnumerator DoImpostor()
-    {
-        while (true)
-        {
 			if (GameObject.Find("Manager").GetComponent<Manager>().isPlaying) // currently playing and trying to kill others
 			{
 				// move and chase for a kill
@@ -53,9 +50,7 @@ public class AIController : MonoBehaviour {
 			{
 
 			}
-
-            yield return new WaitForSeconds(0);
-        }
+		}
     }
 
 	private void AnimationHandler()
@@ -63,7 +58,7 @@ public class AIController : MonoBehaviour {
 		// takes the magnitude of the ai if grater then 0 it means that he is moving
 		// by doing this then we will player the right animation flipped correctly on the x axis
 
-		 if(this.transform.position.magnitude > 0) // moving 
+		if(this.transform.position.normalized != Vector3.zero) // moving 
 		{
 			m_animator.SetBool("Walk", true);
 			m_animator.SetBool("Idle", false);
@@ -80,6 +75,11 @@ public class AIController : MonoBehaviour {
                 this.GetComponent<SpriteRenderer>().flipX = true;
             }
 		}
+		else
+		{
+            m_animator.SetBool("Walk", false);
+            m_animator.SetBool("Idle", true);
+        }
 	}
 
 	private GameObject NearestPlayer()
@@ -93,6 +93,15 @@ public class AIController : MonoBehaviour {
 		GameObject[] players = new GameObject[GameObject.FindGameObjectsWithTag("Player").Length - 1];
 
 		float nearestPlayerDistance = 100;
+
+		// add players to the array
+		for(int i = 0; i < players.Length; i++)
+		{
+			if (players[i] != this)
+			{
+				players[i] = GameObject.FindGameObjectsWithTag("Player")[i];
+			}
+		}
 
 		for(int i = 0; i < players.Length; i++)
 		{
