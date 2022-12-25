@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : Photon.MonoBehaviour {
+public class PlayerController : MonoBehaviour {
 
 	[SerializeField] protected Sprite m_hat;
 	[SerializeField] protected Sprite m_leg;
@@ -13,7 +13,6 @@ public class PlayerController : Photon.MonoBehaviour {
 
 	[SerializeField] private UnityEngine.UI.Text taskList;
 
-	[SerializeField] private PhotonView photonView;
 
 	[SerializeField] private GameTask[] tasksScripts;
 
@@ -23,13 +22,6 @@ public class PlayerController : Photon.MonoBehaviour {
 	private void Awake()
 	{
 		temp = m_color;
-        photonView = GetComponent<PhotonView>();
-
-        if (!photonView.isMine)
-        {
-            GetComponent<PlayerMovement>().enabled = false;
-            return;
-        }
     }
 
 	private void Update()
@@ -51,6 +43,7 @@ public class PlayerController : Photon.MonoBehaviour {
 	private void AssignTaskScript()
 	{
 		GameObject[] allTasks = GameObject.FindGameObjectsWithTag("Task");
+		tasksScripts = new GameTask[allTasks.Length];
 
 		for(int i = 0; i < allTasks.Length; i++)
 		{
@@ -71,7 +64,7 @@ public class PlayerController : Photon.MonoBehaviour {
 
 	private void AssignTask()
 	{
-        TaskManager taskManager = GameObject.Find("GameManager").GetComponent<TaskManager>();
+        TaskManager taskManager = GameObject.Find("TaskManager").GetComponent<TaskManager>();
         taskList = GameObject.Find("Task List").GetComponent<UnityEngine.UI.Text>();
 
         m_tasks[0] = taskManager.shortTasks[Random.Range(0, taskManager.shortTasks.Length)];
