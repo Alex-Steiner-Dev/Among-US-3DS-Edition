@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour {
 
 	[SerializeField] private GameTask[] tasksScripts;
 
-	[SerializeField] public bool isImposter;
+	[SerializeField] public bool isImpostor;
 
 	Color temp;
 	private void Awake()
