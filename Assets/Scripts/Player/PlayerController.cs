@@ -48,17 +48,6 @@ public class PlayerController : MonoBehaviour {
 		for(int i = 0; i < allTasks.Length; i++)
 		{
 			tasksScripts[i] = allTasks[i].GetComponent<GameTask>();
-
-            MonoBehaviour[] scripts = allTasks[i].GetComponents<MonoBehaviour>();
-			
-            for (int j = 0; j < allTasks.Length; j++)
-            {
-				if (scripts[i] != this)
-				{
-					Destroy(scripts[i].gameObject.GetComponent<GameTask>().panel);
-                    scripts[i].enabled = false;
-                }
-            }
         }
 	}
 
@@ -87,6 +76,11 @@ public class PlayerController : MonoBehaviour {
 				{
 					tasksScripts[i].enabled = true;
 				}
+				else
+				{
+                    Destroy(tasksScripts[j].gameObject.GetComponent<GameTask>().panel);
+                    tasksScripts[j].enabled = false;
+                }
             }
 		}
 	}
