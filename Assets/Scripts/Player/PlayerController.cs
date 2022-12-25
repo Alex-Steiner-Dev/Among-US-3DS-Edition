@@ -72,14 +72,11 @@ public class PlayerController : MonoBehaviour {
 		{
 			for(int j = 0; j < m_tasks.Length; j++)
 			{
-				if(tasksScripts[i].taskName == m_tasks[j])
-				{
-					tasksScripts[i].enabled = true;
-				}
-				else
-				{
-                    Destroy(tasksScripts[j].gameObject.GetComponent<GameTask>().panel);
-                    tasksScripts[j].enabled = false;
+                if (tasksScripts[i].taskName != m_tasks[j])
+                {
+                    Destroy(tasksScripts[i].gameObject.GetComponent<GameTask>().panel);
+                    tasksScripts[i].gameObject.GetComponent<Collider2D>().enabled = false;
+                    tasksScripts[i].enabled = false;
                 }
             }
 		}
