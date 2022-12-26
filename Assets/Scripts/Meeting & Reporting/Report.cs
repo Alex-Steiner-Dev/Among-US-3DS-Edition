@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Report : MonoBehaviour {
+    [SerializeField] private GameObject reportingPanel;
+    [SerializeField] private GameObject votingPanel;
 
     public void ReportBody()
     {
@@ -43,5 +45,21 @@ public class Report : MonoBehaviour {
                 GameObject.FindGameObjectsWithTag("Player")[i].AddComponent<AIVoting>();
             }
         }
+
+        StartCoroutine(ReportingPanel());
+    }
+
+    IEnumerator ReportingPanel()
+    {
+        GameObject.Find("Task List").SetActive(false);
+
+        reportingPanel.SetActive(true);
+
+        yield return new WaitForSeconds(3);
+
+        reportingPanel.SetActive(false);
+        votingPanel.SetActive(true);
+          
+        GameObject.Find("Buttons").SetActive(false);
     }
 }
