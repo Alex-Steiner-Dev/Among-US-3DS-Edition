@@ -64,6 +64,8 @@ public class Manager : MonoBehaviour {
             GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<AudioSource>();
 
             impostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
+
+            Destroy(GameObject.Find("KillButton"));
         }
 
         isPlaying = true;

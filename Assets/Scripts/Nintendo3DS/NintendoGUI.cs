@@ -18,21 +18,24 @@ public class NintendoGUI : MonoBehaviour {
     {
         //GUI.color = Color.clear;
 
-        if (position)
+        if (GetComponent<Button>().interactable)
         {
-            if (GUI.Button(new Rect(Mathf.Abs(thisButton.transform.position.x), Mathf.Abs(thisButton.transform.position.y), thisButton.rect.width, thisButton.rect.height), ""))
+
+            if (position)
             {
-                thisButton.GetComponent<Button>().onClick.Invoke();
+                if (GUI.Button(new Rect(Mathf.Abs(thisButton.transform.position.x), Mathf.Abs(thisButton.transform.position.y), thisButton.rect.width, thisButton.rect.height), ""))
+                {
+                    thisButton.GetComponent<Button>().onClick.Invoke();
+                }
+            }
+
+            else
+            {
+                if (GUI.Button(new Rect(Mathf.Abs(thisButton.transform.position.x), Mathf.Abs(thisButton.anchoredPosition.y), thisButton.rect.width, thisButton.rect.height), ""))
+                {
+                    thisButton.GetComponent<Button>().onClick.Invoke();
+                }
             }
         }
-
-        else
-        {
-            if (GUI.Button(new Rect(Mathf.Abs(thisButton.transform.position.x), Mathf.Abs(thisButton.anchoredPosition.y), thisButton.rect.width, thisButton.rect.height), ""))
-            {
-                thisButton.GetComponent<Button>().onClick.Invoke();
-            }
-        }
-
     }
 }

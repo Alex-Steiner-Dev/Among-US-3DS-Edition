@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Impostor : MonoBehaviour {
 
 	[SerializeField] public GameObject killedPlayer;
-	[SerializeField] private float killRange = 5f;
+	[SerializeField] private float killRange = 2f;
     [SerializeField] private float cooldown = 10;
 
 	[SerializeField] private AudioClip killSound;
@@ -16,6 +17,11 @@ public class Impostor : MonoBehaviour {
 	{
 		killSound = GameObject.Find("KillSound").GetComponent<AudioSource>().clip;
         GetComponent<AudioSource>().spatialBlend = 1;
+
+        if(gameObject.name == "Player")
+        {
+            killRange = 20;
+        }
     }
 
 	private void Update()
@@ -72,19 +78,10 @@ public class Impostor : MonoBehaviour {
 
     private void KillPlayerCheck()
 	{
-		// we do basically the samething as we where doing the nearest player however we just put a range
+		// we do basically the same thing as we where doing the nearest player however we just put a range
 		GameObject tempPlayer = null;
-        GameObject[] players = new GameObject[GameObject.FindGameObjectsWithTag("Player").Length - 1];
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 		float nearestPlayerDistance = 100;
-
-		// add players to the array
-        for (int i = 0; i < players.Length; i++)
-        {
-            if (players[i] != gameObject)
-            {
-                players[i] = GameObject.FindGameObjectsWithTag("Player")[i];
-            }
-        }
 
         for (int i = 0; i < players.Length; i++)
         {
@@ -93,6 +90,29 @@ public class Impostor : MonoBehaviour {
                 // nearest player found & update
                 tempPlayer = players[i];
                 nearestPlayerDistance = Vector3.Distance(this.transform.position, players[i].transform.position);
+            }
+        }
+
+        if (tempPlayer)
+        {
+            try
+            {
+                GameObject.Find("KillButton").GetComponent<Button>().interactable = true;
+            }
+            catch
+            {
+
+            }
+        }
+        else
+        {
+            try
+            {
+                GameObject.Find("KillButton").GetComponent<Button>().interactable = false;
+            }
+            catch
+            {
+
             }
         }
 
