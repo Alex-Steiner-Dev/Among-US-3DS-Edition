@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: f8b49581ea0c1994bb16788e6df86dae
-timeCreated: 1671989253
+timeCreated: 1672051691
 licenseType: Pro
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - killedPlayer: {instanceID: 0}
+  - killSound: {fileID: 8300000, guid: 44565157bfcac7949b60d093d35baa1c, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

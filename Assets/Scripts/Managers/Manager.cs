@@ -32,6 +32,8 @@ public class Manager : MonoBehaviour {
     {
         yield return new WaitForSeconds(1);
 
+        GameObject impostor = null;
+
         int playerIndex = Random.Range(0, 9);
 
         if(playerIndex == 0)
@@ -40,8 +42,10 @@ public class Manager : MonoBehaviour {
             Debug.Log("You are the impostor!");
 
             GameObject.Find("Player").GetComponent<PlayerController>().isImpostor = true;
-            GameObject.Find("Player").AddComponent<Imposter>();
-            GameObject.Find("Player").AddComponent<CircleCollider2D>().isTrigger = true;
+            GameObject.Find("Player").AddComponent<Impostor>();
+            GameObject.Find("Player").AddComponent<AudioSource>();
+
+            impostor = GameObject.Find("Player");
         }
 
         else if(playerIndex != 0)
@@ -55,8 +59,10 @@ public class Manager : MonoBehaviour {
             Debug.Log("AI Player (" + (playerIndex - 1) + ") is the imposotr!");
 
             GameObject.Find("AI Player (" + (playerIndex - 1) + ")").GetComponent<AIController>().isImpostor = true;
-            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<Imposter>();
-            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<CircleCollider2D>().isTrigger = true;
+            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<Impostor>();
+            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<AudioSource>();
+
+            impostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
         }
 
         isPlaying = true;
