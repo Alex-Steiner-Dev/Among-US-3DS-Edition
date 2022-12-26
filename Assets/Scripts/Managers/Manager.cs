@@ -55,6 +55,7 @@ public class Manager : MonoBehaviour {
             Debug.Log("You are a crewmate!");
 
             player.GetComponent<PlayerController>().LoadCrewmate();
+            player.AddComponent<Crewmate>();
 
             Debug.Log("AI Player (" + (playerIndex - 1) + ") is the imposotr!");
 

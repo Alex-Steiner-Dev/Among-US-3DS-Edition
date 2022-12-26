@@ -15,6 +15,7 @@ public class Impostor : MonoBehaviour {
 	private void Start ()
 	{
 		killSound = GameObject.Find("KillSound").GetComponent<AudioSource>().clip;
+        GetComponent<AudioSource>().spatialBlend = 1;
     }
 
 	private void Update()
