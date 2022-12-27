@@ -9,6 +9,7 @@ public class Manager : MonoBehaviour {
 
     public bool isPlaying;
 
+    public int playersAlive = 10;
     private void Awake()
     {
         DontDestroyOnLoad(this);

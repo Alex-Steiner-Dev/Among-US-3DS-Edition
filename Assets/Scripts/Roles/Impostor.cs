@@ -56,6 +56,8 @@ public class Impostor : MonoBehaviour {
         GetComponent<AudioSource>().clip = killSound;
         GetComponent<AudioSource>().Play();
 
+        GameObject.Find("Manager").GetComponent<Manager>().playersAlive--;
+
         if(killedPlayer != GameObject.Find("Player")) // player is still alive and we are playing
         {
             killedPlayer.GetComponent<Animator>().SetBool("Walk", false);

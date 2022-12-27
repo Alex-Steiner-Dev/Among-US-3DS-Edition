@@ -16,12 +16,14 @@ public class Ejection : MonoBehaviour {
 
     IEnumerator EjectionPanel()
     {
-        for(int i = 0; i < msg.Length; i++)
+        infoTxt.text = "";
+
+        for (int i = 0; i < msg.Length; i++)
         {
             ejectedSound.Play();
             infoTxt.text += msg[i];
 
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(1f);
         }
     }
 }

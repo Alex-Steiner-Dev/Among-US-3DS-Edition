@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 6f986fd061177aa48823ff8cdd50733f
+timeCreated: 1672134886
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: dead_GreyedOut
@@ -8,9 +10,9 @@ TextureImporter:
     21300006: playerVoteResults
     21300008: votePlayerBase
     21300010: chatBar
-    21300012: chatBase
-    21300014: chatIcon
-    21300016: chatSend
+    21300012: check
+    21300014: skipVote
+    21300016: cancel
     21300018: chatTextBubble
   serializedVersion: 4
   mipmaps:
@@ -213,13 +215,13 @@ TextureImporter:
         - {x: 303, y: -26.999998}
       tessellationDetail: 0
     - serializedVersion: 2
-      name: chatBase
+      name: check
       rect:
         serializedVersion: 2
-        x: 1
-        y: 235
-        width: 700
-        height: 496
+        x: 658
+        y: 456
+        width: 49
+        height: 48
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,13 +238,13 @@ TextureImporter:
         - {x: -349, y: 247}
       tessellationDetail: 0
     - serializedVersion: 2
-      name: chatIcon
+      name: skipVote
       rect:
         serializedVersion: 2
-        x: 658
-        y: 550
-        width: 55
-        height: 59
+        x: 4
+        y: 25
+        width: 105
+        height: 22
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,15 +256,15 @@ TextureImporter:
         - {x: -27.5, y: -29.499998}
       tessellationDetail: 0
     - serializedVersion: 2
-      name: chatSend
+      name: cancel
       rect:
         serializedVersion: 2
-        x: 679
-        y: 117
-        width: 41
-        height: 40
+        x: 656
+        y: 355
+        width: 52
+        height: 50
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4849178, y: 0.42032263}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -20.5, y: 19.999998}

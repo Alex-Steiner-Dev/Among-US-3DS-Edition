@@ -6,9 +6,9 @@ using UnityEngine.SceneManagement;
 public class VotingManager : MonoBehaviour {
 	[SerializeField] private GameObject ejectionPanel;
 
-	[SerializeField] private int[] votes = new int[9];
+	[SerializeField] private int[] votes = new int[10];
 
-	private int voteCount;
+	[SerializeField] private int voteCount;
 
 	public void AddVoteTo(int playerIndex)
 	{
@@ -20,7 +20,7 @@ public class VotingManager : MonoBehaviour {
 
 		voteCount++;
 
-		if(voteCount == 10)
+		if (voteCount == GameObject.Find("Manager").GetComponent<Manager>().playersAlive)
 		{
 			voteCount = 0;
 			VoteEvaluation();
@@ -78,7 +78,7 @@ public class VotingManager : MonoBehaviour {
 
 					ejectionPanel.GetComponent<Ejection>().StartEjection();
 
-					ejectionPanel.SetActive(false);
+					ejectionPanel.SetActive(true);
 				}
 			}
 

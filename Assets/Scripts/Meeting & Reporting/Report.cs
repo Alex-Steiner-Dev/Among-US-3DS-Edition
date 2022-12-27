@@ -36,11 +36,7 @@ public class Report : MonoBehaviour {
             catch { }
 
             // add voting
-            if (GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerController>())
-            {
-                GameObject.FindGameObjectsWithTag("Player")[i].AddComponent<Voting>();
-            }
-            else
+            if (!(GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerController>()))
             {
                 GameObject.FindGameObjectsWithTag("Player")[i].AddComponent<AIVoting>();
             }
@@ -61,5 +57,15 @@ public class Report : MonoBehaviour {
         votingPanel.SetActive(true);
           
         GameObject.Find("Buttons").SetActive(false);
+
+        // ai vote
+        for(int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
+        {
+            if (GameObject.FindGameObjectsWithTag("Player")[i] != GameObject.Find("Player"))
+            {
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIVoting>().Vote();
+                Destroy(GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIVoting>());
+            }
+        }
     }
 }
