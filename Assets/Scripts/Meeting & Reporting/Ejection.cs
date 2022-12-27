@@ -12,6 +12,8 @@ public class Ejection : MonoBehaviour {
     public void StartEjection()
     {
         StartCoroutine(EjectionPanel());
+
+        ejectedSound.Play();
     }
 
     IEnumerator EjectionPanel()
@@ -20,10 +22,9 @@ public class Ejection : MonoBehaviour {
 
         for (int i = 0; i < msg.Length; i++)
         {
-            ejectedSound.Play();
             infoTxt.text += msg[i];
 
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForSeconds(0.1f);
         }
     }
 }

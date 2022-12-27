@@ -70,5 +70,7 @@ public class Manager : MonoBehaviour {
         }
 
         isPlaying = true;
+
+        GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
     }
 }

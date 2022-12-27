@@ -89,5 +89,24 @@ public class VotingManager : MonoBehaviour {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2); // lost
             }
 		}
-	}
+
+		ResumeGame();
+    }
+
+    private void ResumeGame()
+    {
+        // remove the canvas
+        // set player to spawn
+        // destroy all the dead bodies
+
+        GameObject.Find("Upper Canvas").SetActive(false);
+		ejectionPanel.SetActive(false);
+
+		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Dead").Length; i++)
+		{
+			Destroy(GameObject.FindGameObjectsWithTag("Dead")[i]);
+		}
+
+        GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
+    }
 }
