@@ -40,6 +40,8 @@ public class Manager : MonoBehaviour {
         if(playerIndex == 0)
         {
             // load your self as an impostor
+            GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(true);
+
             Debug.Log("You are the impostor!");
 
             GameObject.Find("Player").GetComponent<PlayerController>().isImpostor = true;
@@ -52,6 +54,7 @@ public class Manager : MonoBehaviour {
         else if(playerIndex != 0)
         {
             // assign the impostor components to the ai & load you as a crewmate
+            GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(false);
 
             Debug.Log("You are a crewmate!");
 
