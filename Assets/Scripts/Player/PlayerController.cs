@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
@@ -31,7 +32,7 @@ public class PlayerController : MonoBehaviour {
 			GetComponent<SpriteRenderer>().color = m_color;
 			temp = m_color;
 		}
-	}
+    }
 
 	public void LoadCrewmate()
 	{

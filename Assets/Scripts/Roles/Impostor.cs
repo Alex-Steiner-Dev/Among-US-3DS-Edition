@@ -11,11 +11,17 @@ public class Impostor : MonoBehaviour {
 
 	[SerializeField] private AudioClip killSound;
 
-	public bool canKill;
+    [SerializeField] private GameObject reportButton;
+
+    GameObject reportedBody;
+
+    public bool canKill;
 
 	private void Start ()
 	{
-		killSound = GameObject.Find("KillSound").GetComponent<AudioSource>().clip;
+        reportButton = GameObject.Find("ReportButton");
+
+        killSound = GameObject.Find("KillSound").GetComponent<AudioSource>().clip;
         GetComponent<AudioSource>().spatialBlend = 1;
 
         if(gameObject.name == "Player")
@@ -76,6 +82,8 @@ public class Impostor : MonoBehaviour {
         {
             // game over
         }
+
+        killedPlayer = null;
     }
 
     private void KillPlayerCheck()
@@ -119,5 +127,25 @@ public class Impostor : MonoBehaviour {
         }
 
 		killedPlayer = tempPlayer;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision2D)
+    {
+        if (collision2D.gameObject.tag == "Dead")
+        {
+            reportButton.GetComponent<Button>().interactable = true;
+
+            reportedBody = collision2D.gameObject;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision2D)
+    {
+        if (collision2D.gameObject.tag == "Dead")
+        {
+            reportButton.GetComponent<Button>().interactable = false;
+
+            reportedBody = null;
+        }
     }
 }

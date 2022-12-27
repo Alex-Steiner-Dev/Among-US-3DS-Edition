@@ -14,6 +14,16 @@ public class SpawnManager : MonoBehaviour {
 		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
 		{
 			GameObject.FindGameObjectsWithTag("Player")[i].transform.position = spawnPoints[i].transform.position;
+			
+			for(int j = 0; j < GameObject.FindGameObjectsWithTag("Player")[i].GetComponents<MonoBehaviour>().Length; j++)
+			{
+				GameObject.FindGameObjectsWithTag("Player")[i].GetComponents<MonoBehaviour>()[j].enabled = true;
+            }
+        }
+
+		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Important UI").Length; i++)
+		{
+			GameObject.FindGameObjectsWithTag("Important UI")[i].SetActive(false);
 		}
 	}
 }

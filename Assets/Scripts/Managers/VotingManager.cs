@@ -29,13 +29,15 @@ public class VotingManager : MonoBehaviour {
 
 	public void VoteEvaluation()
 	{
-		// iterate trough the array & self in a temp variable the two highest index
-		// continue with nothing if votes are the same
-		// eject ai if gets many votes
-		// if player gets vote end game
-		// check if the ai was the impostor
+        // iterate trough the array & self in a temp variable the two highest index
+        // continue with nothing if votes are the same
+        // eject ai if gets many votes
+        // if player gets vote end game
+        // check if the ai was the impostor
 
-		GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+        ejectionPanel.SetActive(true);
+
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 
 		int firstHighestValue = 0;
 		int secondHighestValue = 0;
@@ -54,17 +56,15 @@ public class VotingManager : MonoBehaviour {
 			}
 		}
 
-		if(firstHighestValue == secondHighestValue) // no one ejected same votes
+        if (firstHighestValue == secondHighestValue) // no one ejected same votes
 		{
-			ejectionPanel.SetActive(true);
-		}
+            ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + "( Tied ) no one was ejected";
+        }
 
 		else
 		{
 			if (players[highestValueCount] != GameObject.Find("Player")) // ai ejected
 			{
-				ejectionPanel.SetActive(true);
-
 				if (players[highestValueCount].GetComponent<AIController>().isImpostor)
 				{
 					ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + " was an impostor";
@@ -76,10 +76,14 @@ public class VotingManager : MonoBehaviour {
 				{
 					ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + " wasn't an impsostor";
 
+					Destroy(players[highestValueCount]);
+
 					ejectionPanel.GetComponent<Ejection>().StartEjection();
 
 					ejectionPanel.SetActive(true);
-				}
+
+                    ResumeGame();
+                }
 			}
 
 			else // player ejected
@@ -89,24 +93,32 @@ public class VotingManager : MonoBehaviour {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2); // lost
             }
 		}
-
-		ResumeGame();
     }
 
     private void ResumeGame()
     {
-        // remove the canvas
-        // set player to spawn
-        // destroy all the dead bodies
+		// remove the canvas
+		// set player to spawn
+		// destroy all the dead bodies
 
-        GameObject.Find("Upper Canvas").SetActive(false);
-		ejectionPanel.SetActive(false);
+		GameObject.Find("Voting Panel").SetActive(false);
 
-		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Dead").Length; i++)
+
+        for (int i = 0; i < GameObject.FindGameObjectsWithTag("Dead").Length; i++)
 		{
 			Destroy(GameObject.FindGameObjectsWithTag("Dead")[i]);
 		}
 
         GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
+
+        for (int i = 0; i < 15; i++)
+        {
+            for (float j = 1.5f; j > 0; j -= Time.deltaTime)
+            {
+                // wait
+            }
+        }
+
+		ejectionPanel.SetActive(false);
     }
 }

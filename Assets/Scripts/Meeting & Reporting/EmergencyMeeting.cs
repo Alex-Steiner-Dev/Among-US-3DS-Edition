@@ -9,6 +9,8 @@ public class EmergencyMeeting : MonoBehaviour {
     [SerializeField] private GameManager gameManager;
     [SerializeField] public GameObject panel;
 
+    [SerializeField] private GameObject votingPanel;
+
     private void Start()
     {
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
@@ -16,7 +18,7 @@ public class EmergencyMeeting : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.EnableUseButton();
             gameManager.SetPanel(panel);
@@ -25,7 +27,7 @@ public class EmergencyMeeting : MonoBehaviour {
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.DisableUseButton();
         }
@@ -33,6 +35,60 @@ public class EmergencyMeeting : MonoBehaviour {
 
     public void CallMeeting()
 	{
-		alarm.enabled = true;
-	}
+        alarm.Play();
+
+        GameObject.Find("Buttons").SetActive(false);
+        panel.SetActive(false);
+
+        StartCoroutine(EmergencyMeetingPanel());
+
+        GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
+
+        for (int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
+        {
+            // disable components
+            // player
+            try
+            {
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerController>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerMovement>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerAnimationHandler>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().enabled = false;
+            }
+
+            catch { }
+
+            // ai
+            try
+            {
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIController>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().enabled = false;
+            }
+
+            catch { }
+
+            // add voting
+            if (!(GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerController>()))
+            {
+                GameObject.FindGameObjectsWithTag("Player")[i].AddComponent<AIVoting>();
+            }
+        }
+    }
+
+    IEnumerator EmergencyMeetingPanel()
+    {
+        yield return new WaitForSeconds(3);
+
+        votingPanel.SetActive(true);
+
+        // ai vote
+        for (int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
+        {
+            if (GameObject.FindGameObjectsWithTag("Player")[i] != GameObject.Find("Player"))
+            {
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIVoting>().Vote();
+                Destroy(GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIVoting>());
+            }
+        }
+    }
 }

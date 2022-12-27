@@ -12,6 +12,8 @@ public class Report : MonoBehaviour {
         // set them to their spawn point
         // initialize voting
 
+        GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
+
         for (int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
         {
             // disable components

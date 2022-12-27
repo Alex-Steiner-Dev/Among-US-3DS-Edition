@@ -31,13 +31,13 @@ public class Manager : MonoBehaviour {
 
     IEnumerator ChooseRole()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(.1f);
 
         GameObject impostor = null;
 
         int playerIndex = Random.Range(0, 9);
 
-        if(playerIndex == 0)
+        if (playerIndex == 0)
         {
             // load your self as an impostor
             GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(true);
