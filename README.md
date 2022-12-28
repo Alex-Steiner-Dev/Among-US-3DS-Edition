@@ -53,8 +53,9 @@ couldn’t test my game without a work around which was jail breaking my
 3DS. <a href="https://github.com/d0k3/GodMode9">God mode 9</a> was what
 I used in order to do that.</p>
 <p>The entire game was create by self except for the AI path finding
-where, since I didn’t know how to get started, I followed this tutorial
-from Sebastian Lague which helped my out a ton.</p>
+where, since I didn’t know how to get started, I followed <a
+href="https://www.youtube.com/watch?v=-L-WgKMFuhE&amp;list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW&amp;index=1&amp;t=0s">this</a>
+tutorial from Sebastian Lague which helped my out a ton.</p>
 <h1 id="game-play">Game play</h1>
 <p>The game play is almost identical to the normal game but with less
 task and instead of multiplayer you are playing with AI, the game comes
