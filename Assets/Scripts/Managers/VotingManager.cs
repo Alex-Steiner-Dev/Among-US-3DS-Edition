@@ -4,7 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class VotingManager : MonoBehaviour {
-	[SerializeField] private GameObject ejectionPanel;
+	[SerializeField] private GameObject buttons;
+	[SerializeField] private GameObject taskList;
+
+    [SerializeField] private GameObject ejectionPanel;
 
 	[SerializeField] private int[] votes = new int[10];
 
@@ -43,7 +46,6 @@ public class VotingManager : MonoBehaviour {
 		int secondHighestValue = 0;
 
 		int highestValueCount = 0;
-		int secondtHighestValueCount = 0;
 
 		for(int i = 0; i < votes.Length; i++)
 		{
@@ -67,10 +69,8 @@ public class VotingManager : MonoBehaviour {
 			{
 				if (players[highestValueCount].GetComponent<AIController>().isImpostor)
 				{
-					ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + " was an impostor";
-
-					SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); // won
-				}
+                    StartCoroutine(WinLose((players[highestValueCount].name + " was an impostor"), 3));
+                }
 
 				else
 				{
@@ -78,30 +78,33 @@ public class VotingManager : MonoBehaviour {
 
 					Destroy(players[highestValueCount]);
 
-					ejectionPanel.GetComponent<Ejection>().StartEjection();
+                    ejectionPanel.SetActive(true);
 
-					ejectionPanel.SetActive(true);
+                    ejectionPanel.GetComponent<Ejection>().StartEjection();
 
-                    ResumeGame();
+                    StartCoroutine(ResumeGame());
                 }
 			}
 
 			else // player ejected
 			{
-                ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + " was an impostor";
-
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2); // lost
+				string msg = (players[highestValueCount].name + " was an impostor");
+                StartCoroutine(WinLose(msg, 4));
             }
 		}
     }
 
-    private void ResumeGame()
+    private IEnumerator ResumeGame()
     {
 		// remove the canvas
 		// set player to spawn
 		// destroy all the dead bodies
 
-		GameObject.Find("Voting Panel").SetActive(false);
+		yield return new WaitForSeconds(3);
+
+        ejectionPanel.SetActive(false);
+
+        GameObject.Find("Voting Panel").SetActive(false);
 
 
         for (int i = 0; i < GameObject.FindGameObjectsWithTag("Dead").Length; i++)
@@ -120,5 +123,22 @@ public class VotingManager : MonoBehaviour {
         }
 
 		ejectionPanel.SetActive(false);
+
+		try
+		{
+			buttons.SetActive(true);
+			taskList.SetActive(true);	
+		}
+		catch { }
     }
+
+	IEnumerator WinLose(string msg, int scene)
+	{
+        ejectionPanel.GetComponent<Ejection>().msg = msg;
+        ejectionPanel.GetComponent<Ejection>().StartEjection();
+
+        yield return new WaitForSeconds(3);
+
+		SceneManager.LoadScene(scene);
+	}
 }

@@ -49,7 +49,11 @@ public class Report : MonoBehaviour {
 
     IEnumerator ReportingPanel()
     {
-        GameObject.Find("Task List").SetActive(false);
+        try
+        {
+            GameObject.Find("Task List").SetActive(false);
+        }
+        catch { }
 
         reportingPanel.SetActive(true);
 

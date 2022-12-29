@@ -49,6 +49,8 @@ public class Manager : MonoBehaviour {
             GameObject.Find("Player").AddComponent<AudioSource>();
 
             impostor = GameObject.Find("Player");
+
+            Destroy(GameObject.Find("TaskManager"));
         }
 
         else if(playerIndex != 0)

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Impostor : MonoBehaviour {
@@ -64,7 +65,13 @@ public class Impostor : MonoBehaviour {
 
         GameObject.Find("Manager").GetComponent<Manager>().playersAlive--;
 
-        if(killedPlayer != GameObject.Find("Player")) // player is still alive and we are playing
+        if(GameObject.Find("Manager").GetComponent<Manager>().playersAlive == 0) // impostor wins
+        {
+            Destroy(GameObject.Find("Player"));
+            SceneManager.LoadScene(4);
+        }
+
+        else if(killedPlayer != GameObject.Find("Player")) // player is still alive and we are playing
         {
             killedPlayer.GetComponent<Animator>().SetBool("Walk", false);
             killedPlayer.GetComponent<Animator>().SetBool("Idle", false);
@@ -78,9 +85,9 @@ public class Impostor : MonoBehaviour {
             canKill = false;
         }
 
-        else
+        else // player was killed
         {
-            // game over
+            StartCoroutine(PlayerAnimation());
         }
 
         killedPlayer = null;
@@ -147,5 +154,19 @@ public class Impostor : MonoBehaviour {
 
             reportedBody = null;
         }
+    }
+
+    IEnumerator PlayerAnimation()
+    {
+        killedPlayer.GetComponent<Animator>().SetBool("Walk", false);
+        killedPlayer.GetComponent<Animator>().SetBool("Idle", false);
+
+        killedPlayer.GetComponent<Animator>().SetBool("Die", true);
+
+        yield return new WaitForSeconds(5);
+
+        Destroy(GameObject.Find("Player"));
+
+        SceneManager.LoadScene(4);
     }
 }
