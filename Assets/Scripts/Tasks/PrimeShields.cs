@@ -6,9 +6,9 @@ using UnityEngine.UI;
 public class PrimeShields : MonoBehaviour {
 
 	[SerializeField] private Button[] shields;
-	private int startShieldNumbers;
+	private int startShieldNumbers = 5;
 
-	private void Start()
+	private void StartShields()
 	{
 		AssignShields();
 	}
@@ -31,7 +31,7 @@ public class PrimeShields : MonoBehaviour {
 
 		if(startShieldNumbers == 0)
 		{
-			Debug.Log("Task Complete!");
-		}
+			GameObject.Find("TaskManager").GetComponent<TaskManager>().TaskCompleted(gameObject);
+        }
 	}
 }

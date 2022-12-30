@@ -10,7 +10,7 @@ public class AlignEngine : MonoBehaviour {
 	float valueBefore = -90;
 	readonly float OFFSET = 2.19f;
 
-	private void Update()
+	private void Check()
 	{ 
         if (slider.value == -2)
         {

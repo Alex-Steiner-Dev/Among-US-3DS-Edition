@@ -63,7 +63,7 @@ public class StartReactor : MonoBehaviour {
                 if (count - 1 < 5)
                     StartTask();
                 else
-                    GameObject.Find("TaskManager").GetComponent<TaskManager>().CompletedTask(GetComponent<GameTask>().taskName);
+                    GameObject.Find("TaskManager").GetComponent<TaskManager>().TaskCompleted(gameObject);
             }
 
             else

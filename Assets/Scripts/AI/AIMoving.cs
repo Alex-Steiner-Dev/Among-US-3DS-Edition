@@ -6,6 +6,7 @@ public class AIMoving : MonoBehaviour {
     public void Move(Vector2 pos)
     {
         float step = .1f * Time.deltaTime;
-        transform.position = Vector2.MoveTowards(transform.position, pos, step);
+
+        //transform.position = Vector2.MoveTowards(transform.position, pos, step);
     }
 }

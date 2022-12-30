@@ -15,7 +15,7 @@ public class GameTask : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.EnableUseButton();
             gameManager.SetPanel(panel);
@@ -24,7 +24,7 @@ public class GameTask : MonoBehaviour {
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.DisableUseButton();
         }

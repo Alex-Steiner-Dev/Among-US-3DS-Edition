@@ -63,18 +63,18 @@ public class AIController : MonoBehaviour {
 		// takes the magnitude of the ai if grater then 0 it means that he is moving
 		// by doing this then we will player the right animation flipped correctly on the x axis
 
-		if(this.GetComponent<Rigidbody2D>().velocity != Vector2.zero) // moving 
+		if(this.transform.position.magnitude != 0) // moving 
 		{
 			m_animator.SetBool("Walk", true);
 			m_animator.SetBool("Idle", false);
 
-			if(this.GetComponent<Rigidbody2D>().velocity.x > 0) // moving right
+			if(this.transform.position.magnitude > 0) // moving right
 			{
 				// no flip
 				this.GetComponent<SpriteRenderer>().flipX = false;
             }
 
-            else if (this.GetComponent<Rigidbody2D>().velocity.x < 0) // moving left
+            else if (this.transform.position.magnitude < 0) // moving left
             {
                 // flip
                 this.GetComponent<SpriteRenderer>().flipX = true;

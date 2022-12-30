@@ -55,7 +55,7 @@ public class PlayerController : MonoBehaviour {
 	private void AssignTask()
 	{
         TaskManager taskManager = GameObject.Find("TaskManager").GetComponent<TaskManager>();
-        taskList = GameObject.Find("Task List").GetComponent<UnityEngine.UI.Text>();
+        taskList = GameObject.Find("Task List").GetComponent<Text>();
 
         m_tasks[0] = taskManager.shortTasks[Random.Range(0, taskManager.shortTasks.Length)];
         m_tasks[1] = taskManager.commonTasks[Random.Range(0, taskManager.commonTasks.Length)];
@@ -71,18 +71,21 @@ public class PlayerController : MonoBehaviour {
 	{
 		for(int i = 0; i < tasksScripts.Length; i++)
 		{
-			for(int j = 0; j < m_tasks.Length; j++)
+			int count = 0;
+
+            for (int j = 0; j < m_tasks.Length; j++)
 			{
 				if(tasksScripts[i].taskName == m_tasks[j])
 				{
-					tasksScripts[i].enabled = true;
-				}
-				else
-				{
-                    Destroy(tasksScripts[j].gameObject.GetComponent<GameTask>().panel);
-                    tasksScripts[j].enabled = false;
+					count++;
                 }
             }
+
+			if(count == 0)
+			{
+                Destroy(tasksScripts[i].panel);
+                tasksScripts[i].enabled = false;
+			}
 		}
 	}
 }
