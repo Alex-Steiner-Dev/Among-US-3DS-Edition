@@ -9,6 +9,9 @@ public class TaskManager : MonoBehaviour {
     [SerializeField] public string[] commonTasks;
     [SerializeField] public string[] longTasks;
 
+    [SerializeField] private Text taskList;
+    [SerializeField] private GameObject buttons;
+
     public void TaskCompleted(GameObject task)
     {
         StartCoroutine(PlaySoundTaskComplete(task));
@@ -23,7 +26,10 @@ public class TaskManager : MonoBehaviour {
 
         yield return new WaitForSeconds(1);
 
-        GameObject.Find("Task List").GetComponent<Text>().text.Replace(task.GetComponent<GameTask>().taskName, "");
+        taskList.gameObject.SetActive(true);
+        taskList.text.Replace(task.GetComponent<GameTask>().taskName, "");
+
+        buttons.SetActive(true);
 
         Destroy(task.GetComponent<GameTask>().panel);
         task.GetComponent<GameTask>().enabled = false;
