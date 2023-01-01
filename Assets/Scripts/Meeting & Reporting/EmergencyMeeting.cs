@@ -37,8 +37,9 @@ public class EmergencyMeeting : MonoBehaviour {
 	{
         alarm.Play();
 
-        GameObject.Find("Buttons").SetActive(false);
         panel.SetActive(false);
+
+
 
         StartCoroutine(EmergencyMeetingPanel());
 
@@ -62,6 +63,7 @@ public class EmergencyMeeting : MonoBehaviour {
             try
             {
                 GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIController>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIMoving>().enabled = false;
                 GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().enabled = false;
             }
 

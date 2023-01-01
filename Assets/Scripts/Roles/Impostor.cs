@@ -79,6 +79,7 @@ public class Impostor : MonoBehaviour {
             killedPlayer.GetComponent<Animator>().SetBool("Die", true);
 
             killedPlayer.GetComponent<AIController>().enabled = false;
+            killedPlayer.GetComponent<AIMoving>().enabled = false;
             killedPlayer.AddComponent<DeadBody>();
 
             cooldown = 10;

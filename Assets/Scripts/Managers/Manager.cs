@@ -1,9 +1,9 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Manager : MonoBehaviour {
+public class Manager : MonoBehaviour
+{
     private GameObject player;
     private GameObject bots;
 
@@ -33,11 +33,22 @@ public class Manager : MonoBehaviour {
     {
         yield return new WaitForSeconds(.1f);
 
-        player.GetComponent<BufferHandler>().LoadBufferHandler();
-
         GameObject impostor = null;
 
         int playerIndex = Random.Range(0, 9);
+
+        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        {
+            if (player == GameObject.Find("Player"))
+            {
+                player.GetComponent<PlayerMovement>().enabled = false;
+            }
+
+            else
+            {
+                player.GetComponent<AIMoving>().enabled = false;
+            }
+        }
 
         if (playerIndex == 0)
         {
@@ -55,7 +66,7 @@ public class Manager : MonoBehaviour {
             Destroy(GameObject.Find("TaskManager"));
         }
 
-        else if(playerIndex != 0)
+        else if (playerIndex != 0)
         {
             // assign the impostor components to the ai & load you as a crewmate
             GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(false);

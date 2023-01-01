@@ -13,8 +13,6 @@ public class RoleReveal : MonoBehaviour {
 
     IEnumerator ShowRole(bool impostor)
     {
-        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = false;
-
         if (!impostor)
         {
             crewmatePanel.SetActive(true);
@@ -35,6 +33,14 @@ public class RoleReveal : MonoBehaviour {
         }
 
         GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
+
+        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        {
+            if (player != GameObject.Find("Player"))
+            {
+                player.GetComponent<AIMoving>().enabled = true;
+            }
+        }
 
         Destroy(this.gameObject);
     }
