@@ -32,7 +32,7 @@ public class Grid : MonoBehaviour {
             for (int y = 0; y < gridSizeY; y++)
             {
                 Vector3 worldPoint = worldBottomLeft + Vector3.right * (x * nodeDiameter + nodeRadius) + Vector3.forward * (y * nodeDiameter + nodeRadius);
-                bool walkable = !(Physics.CheckSphere(worldPoint, nodeRadius, unwalkableMask));
+                bool walkable = !(Physics.CheckBox(worldPoint, new Vector3(nodeRadius, nodeRadius, 100), Quaternion.identity, unwalkableMask));
                 grid[x, y] = new Node(walkable, worldPoint, x, y);
             }
         }
@@ -78,7 +78,7 @@ public class Grid : MonoBehaviour {
     public List<Node> path;
     void OnDrawGizmos()
     {
-        Gizmos.DrawWireCube(transform.position, new Vector3(gridWorldSize.x, 1, gridWorldSize.y));
+        Gizmos.DrawWireCube(transform.position, gridWorldSize);
 
         if (grid != null) 
 		{
@@ -99,5 +99,5 @@ public class Grid : MonoBehaviour {
 				}
             }
 		}
-	}
+    }
 }

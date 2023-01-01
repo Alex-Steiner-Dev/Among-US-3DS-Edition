@@ -33,6 +33,8 @@ public class Manager : MonoBehaviour {
     {
         yield return new WaitForSeconds(.1f);
 
+        player.GetComponent<BufferHandler>().LoadBufferHandler();
+
         GameObject impostor = null;
 
         int playerIndex = Random.Range(0, 9);
@@ -74,8 +76,8 @@ public class Manager : MonoBehaviour {
             Destroy(GameObject.Find("KillButton"));
         }
 
-        isPlaying = true;
-
         GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
+
+        isPlaying = true;
     }
 }

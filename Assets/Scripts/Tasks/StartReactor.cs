@@ -36,15 +36,19 @@ public class StartReactor : MonoBehaviour {
 
     public void RedoTask()
     {
+        StopAllCoroutines();
+
         sequenceCount = 0;
         count = 0;
 
-        seqList.Clear();
+        seqList = new List<int> { };
 
         for (int i = 1; i < outputs.Length; i++)
         {
             outputs[i].GetComponent<Image>().color = Color.white;
         }
+
+        StartTask();
     }
 
 
@@ -75,7 +79,6 @@ public class StartReactor : MonoBehaviour {
         else
         {
             RedoTask();
-            StartTask();
         }
     }
 
