@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class VotingManager : MonoBehaviour {
+	[SerializeField] private GameObject[] playersVoteInput;
+
 	[SerializeField] private GameObject buttons;
 	[SerializeField] private GameObject taskList;
 
@@ -14,6 +16,32 @@ public class VotingManager : MonoBehaviour {
 
 	[SerializeField] private int voteCount;
 
+	private void Update()
+	{
+		int x = 0;
+
+		foreach(GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+		{
+			int count = 0;
+
+			for(int i = 0; i < playersVoteInput.Length; i++)
+			{
+				if(playersVoteInput[i].name.Contains(player.name))
+				{
+					count++;
+				}
+			}
+
+			if (count == 0)
+			{
+				playersVoteInput[x].GetComponentInChildren<Button>().interactable = false;
+				playersVoteInput[x].GetComponentInChildren<Button>().gameObject.GetComponent<Image>().color = Color.gray;
+				playersVoteInput[x].GetComponentInChildren<Button>().enabled = false;
+            }
+
+			x++;
+		}
+	}
 	public void AddVoteTo(int playerIndex)
 	{
 		// add a vote to the indexed player

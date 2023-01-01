@@ -31,7 +31,7 @@ public class Report : MonoBehaviour {
             // ai
             try
             {
-                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIController>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIMoving>().enabled = false;
                 GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().enabled = false;
             }
 
