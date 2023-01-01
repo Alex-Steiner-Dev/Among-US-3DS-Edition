@@ -7,30 +7,27 @@ public class AIController : MonoBehaviour {
 
 	public bool isImpostor;
 
+	Vector2 old_pos;
+
+	char direction = 'x';
+
 	private void Start()
 	{
 		m_animator = GetComponent<Animator>();
+
+		old_pos= transform.position;
     }
 
     private void Update()
 	{
+		PositionHandler();
         AnimationHandler();
 
-		if(!isImpostor)
+		if(isImpostor)
 		{
-			DoCrewmate();
-		}
-		else
-		{
-			DoImpostor();
-		}
-	}
-
-	public void DoCrewmate()
-	{
-
-	}
-
+            DoImpostor();
+        }
+	} 
 
     public void DoImpostor()
     {
@@ -63,21 +60,21 @@ public class AIController : MonoBehaviour {
 		// takes the magnitude of the ai if grater then 0 it means that he is moving
 		// by doing this then we will player the right animation flipped correctly on the x axis
 
-		if(this.transform.position.magnitude != 0) // moving 
+		if(direction != 'i') // moving 
 		{
 			m_animator.SetBool("Walk", true);
 			m_animator.SetBool("Idle", false);
 
-			if(this.transform.position.magnitude > 0) // moving right
+			if(direction == 'r') // moving right
 			{
-				// no flip
-				this.GetComponent<SpriteRenderer>().flipX = false;
+				// flip
+				this.GetComponent<SpriteRenderer>().flipX = true;
             }
 
-            else if (this.transform.position.magnitude < 0) // moving left
+            else if (direction == 'l')// moving left
             {
-                // flip
-                this.GetComponent<SpriteRenderer>().flipX = true;
+                // no flip
+                this.GetComponent<SpriteRenderer>().flipX = false;
             }
 		}
 		else
@@ -86,6 +83,34 @@ public class AIController : MonoBehaviour {
             m_animator.SetBool("Idle", true);
         }
 	}
+
+	private void PositionHandler()
+	{
+        // save the prev position
+		// check which direction we are moving 
+		// evulate
+
+		if (Mathf.Abs(Mathf.Abs(old_pos.x)) < Mathf.Abs(transform.position.x)) // moving right
+		{
+            old_pos = transform.position;
+
+            direction = 'r'; // set direction to r for right
+		}
+		else if (Mathf.Abs(old_pos.x) > Mathf.Abs(transform.position.x)) // moving left
+		{
+            old_pos = transform.position;
+            direction = 'l'; // set direction to l for left
+        }
+		else if(old_pos != (Vector2)transform.position) // smth changed it means that it move
+		{
+			direction = 'm'; //  set direction to m for moved
+        }
+		else
+		{
+            old_pos = transform.position;
+            direction = 'i'; // return i for idle
+		}
+    }
 
 	private GameObject NearestPlayer()
 	{

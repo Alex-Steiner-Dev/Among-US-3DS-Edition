@@ -99,7 +99,7 @@ public class VotingManager : MonoBehaviour {
 		// remove the canvas
 		// set player to spawn
 		// destroy all the dead bodies
-
+	
 		yield return new WaitForSeconds(3);
 
         ejectionPanel.SetActive(false);
