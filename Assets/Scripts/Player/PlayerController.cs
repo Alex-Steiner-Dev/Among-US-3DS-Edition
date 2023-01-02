@@ -58,8 +58,8 @@ public class PlayerController : MonoBehaviour {
         taskList = GameObject.Find("Task List").GetComponent<Text>();
 
         m_tasks[0] = taskManager.shortTasks[Random.Range(0, taskManager.shortTasks.Length)];
-        //m_tasks[1] = taskManager.commonTasks[Random.Range(0, taskManager.commonTasks.Length)];
-        m_tasks[1] = taskManager.longTasks[Random.Range(0, taskManager.longTasks.Length)];
+        m_tasks[1] = taskManager.commonTasks[Random.Range(0, taskManager.commonTasks.Length)];
+        m_tasks[2] = taskManager.longTasks[Random.Range(0, taskManager.longTasks.Length)];
 
         foreach (string task in m_tasks)
         {
