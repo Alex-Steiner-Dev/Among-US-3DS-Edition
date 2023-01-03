@@ -9,24 +9,25 @@ public class AIAnimator : MonoBehaviour
 
     [SerializeField] private Animator m_anim_player;
 
-    [SerializeField] private Rigidbody2D rb;
+    string position = "idle";
+    Vector2 old_pos;
 
     private void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+        old_pos = transform.position;
     }
 
     private void Update()
     {
         AnimationHandler();
+        PositionCheck();
     }
 
     private void AnimationHandler()
     {
-        if (rb.position.x != 0) // moving
+        if (position != "idle") // moving
         {
             m_anim_hat.SetBool("Walk", true);
-            m_anim_hat.SetBool("Idle", false);
 
             m_anim_legs.SetBool("Walk", true);
             m_anim_legs.SetBool("Idle", false);
@@ -34,14 +35,14 @@ public class AIAnimator : MonoBehaviour
             m_anim_player.SetBool("Walk", true);
             m_anim_player.SetBool("Idle", false);
 
-            if (rb.position.x < 0) // facing left
+            if (position == "left") // facing left
             {
                 m_anim_player.gameObject.GetComponent<SpriteRenderer>().flipX = true;
                 m_anim_hat.gameObject.GetComponent<SpriteRenderer>().flipX = true;
                 m_anim_legs.gameObject.GetComponent<SpriteRenderer>().flipX = true;
             }
 
-            else if (rb.position.x > 0) // facing right && is flipped
+            else if (position == "right") // facing right && is flipped
             {
                 m_anim_player.gameObject.GetComponent<SpriteRenderer>().flipX = false;
                 m_anim_hat.gameObject.GetComponent<SpriteRenderer>().flipX = false;
@@ -49,10 +50,9 @@ public class AIAnimator : MonoBehaviour
             }
         }
 
-        else if(rb.position.x == 0) // idle
+        else  // idle
         {
             m_anim_hat.SetBool("Walk", false);
-            m_anim_hat.SetBool("Idle", true);
 
             m_anim_legs.SetBool("Walk", false);
             m_anim_legs.SetBool("Idle", true);
@@ -60,5 +60,27 @@ public class AIAnimator : MonoBehaviour
             m_anim_player.SetBool("Walk", false);
             m_anim_player.SetBool("Idle", true);
         }
+    }
+
+    private void PositionCheck()
+    {
+        if(old_pos.x != transform.position.x) // not idle
+        {
+            if (Mathf.Abs(transform.position.x) < Mathf.Abs(old_pos.x)) // right
+            {
+                position = "right";
+            }
+            else// left
+            {
+                position = "left";
+            }
+        }
+        else
+        {
+            if(old_pos.y == transform.position.y) 
+                position = "idle";
+        }
+
+        old_pos = transform.position;
     }
 }

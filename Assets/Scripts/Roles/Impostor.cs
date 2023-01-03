@@ -7,8 +7,8 @@ using UnityEngine.UI;
 public class Impostor : MonoBehaviour {
 
 	[SerializeField] public GameObject killedPlayer;
-	[SerializeField] private float killRange = 1f;
-    [SerializeField] private float cooldown = 10;
+	[SerializeField] private float killRange = 3f;
+    [SerializeField] private float cooldown = 20;
 
 	[SerializeField] private AudioClip killSound;
 
@@ -56,7 +56,8 @@ public class Impostor : MonoBehaviour {
         }
     }
 
-	public void Kill()
+    [System.Obsolete]
+    public void Kill()
 	{
         Debug.Log(gameObject.name + " killed " + killedPlayer.name);
 
@@ -73,6 +74,9 @@ public class Impostor : MonoBehaviour {
 
         else if(killedPlayer != GameObject.Find("Player")) // player is still alive and we are playing
         {
+            Destroy(killedPlayer.transform.FindChild("Hat"));
+            Destroy(killedPlayer.transform.FindChild("Legs"));
+
             killedPlayer.GetComponent<Animator>().SetBool("Walk", false);
             killedPlayer.GetComponent<Animator>().SetBool("Idle", false);
 
@@ -89,6 +93,9 @@ public class Impostor : MonoBehaviour {
 
         else // player was killed
         {
+            Destroy(killedPlayer.transform.FindChild("Hat"));
+            Destroy(killedPlayer.transform.FindChild("Legs"));
+
             StartCoroutine(PlayerAnimation());
         }
 
