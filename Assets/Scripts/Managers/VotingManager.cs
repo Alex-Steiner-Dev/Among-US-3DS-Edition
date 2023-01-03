@@ -161,16 +161,6 @@ public class VotingManager : MonoBehaviour {
 
         GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
 
-        for (int i = 0; i < 15; i++)
-        {
-            for (float j = 1.5f; j > 0; j -= Time.deltaTime)
-            {
-                // wait
-            }
-        }
-
-		ejectionPanel.SetActive(false);
-
 		try
 		{
 			buttons.SetActive(true);
@@ -183,6 +173,8 @@ public class VotingManager : MonoBehaviour {
 	{
         ejectionPanel.GetComponent<Ejection>().msg = msg;
         ejectionPanel.GetComponent<Ejection>().StartEjection();
+
+        Destroy(GameObject.Find("Player"));
 
         yield return new WaitForSeconds(3);
 

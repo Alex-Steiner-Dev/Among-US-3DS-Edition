@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Impostor : MonoBehaviour {
 
 	[SerializeField] public GameObject killedPlayer;
-	[SerializeField] private float killRange = 2f;
+	[SerializeField] private float killRange = 1f;
     [SerializeField] private float cooldown = 10;
 
 	[SerializeField] private AudioClip killSound;

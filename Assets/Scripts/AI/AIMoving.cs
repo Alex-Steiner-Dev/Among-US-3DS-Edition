@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AIMoving : MonoBehaviour {
-
-    public Transform[] wayPointList;
+    [SerializeField] private Transform[] wayPointList;
+    [SerializeField] private float speed = 3f;
 
     public int currentWayPoint = 0;
     Transform targetWayPoint;
-
-    public float speed = 3f;
 
     void Update()
     {
