@@ -13,7 +13,7 @@ public class Crewmate : MonoBehaviour {
 		reportButton = GameObject.Find("ReportButton");
     }
 
-	private void OnCollisionEnter2D(Collision2D collision2D)
+	private void OnTriggerEnter2D(Collider2D collision2D)
 	{
 		if (collision2D.gameObject.tag == "Dead")
 		{
@@ -23,7 +23,7 @@ public class Crewmate : MonoBehaviour {
 		}
 	}
 
-    private void OnCollisionExit2D(Collision2D collision2D)
+    private void OnTriggerExit2D(Collider2D collision2D)
     {
         if (collision2D.gameObject.tag == "Dead")
         {

@@ -7,6 +7,7 @@ public class PlayAgain : MonoBehaviour {
 
 	public void PlayAgainButtonPressed()
 	{
+		Destroy(GameObject.Find("Manager"));
 		SceneManager.LoadScene(1); // 1 = lobby index;
 	}
 }

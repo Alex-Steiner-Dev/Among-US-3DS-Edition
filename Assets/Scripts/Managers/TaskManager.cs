@@ -1,12 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TaskManager : MonoBehaviour {
     [SerializeField] public string[] shortTasks;
     [SerializeField] public string[] commonTasks;
     [SerializeField] public string[] longTasks;
+
+    [SerializeField] private int taskCompletedRequirement;
+    [SerializeField] private int taskCompletedCount;
 
     [SerializeField] private Text taskList;
     [SerializeField] private GameObject buttons;
@@ -32,5 +36,14 @@ public class TaskManager : MonoBehaviour {
 
         Destroy(task.GetComponent<GameTask>().panel);
         task.GetComponent<GameTask>().enabled = false;
+
+        taskCompletedCount++;
+
+        if (taskCompletedCount == taskCompletedRequirement)
+        {
+            SceneManager.LoadScene(3); // win
+        }
+
+        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
     }
 }

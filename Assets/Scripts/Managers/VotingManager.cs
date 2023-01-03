@@ -5,16 +5,50 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class VotingManager : MonoBehaviour {
-	[SerializeField] private GameObject buttons;
+    [SerializeField] private GameObject buttons;
 	[SerializeField] private GameObject taskList;
 
     [SerializeField] private GameObject ejectionPanel;
 
-	[SerializeField] private int[] votes = new int[10];
+    [SerializeField] private GameObject[] playersVoteInput;
+
+    [SerializeField] private int[] votes = new int[10];
 
 	[SerializeField] private int voteCount;
 
-	public void AddVoteTo(int playerIndex)
+    private void Update()
+    {
+        CheckInputs();
+    }
+
+    private void CheckInputs()
+    {
+        int x = 0;
+
+        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        {
+            int count = 0;
+
+            for (int i = 0; i < playersVoteInput.Length; i++)
+            {
+                if (playersVoteInput[i].name.Contains(player.name))
+                {
+                    count++;
+                }
+            }
+
+            if (count == 0)
+            {
+                playersVoteInput[x].GetComponentInChildren<Button>().interactable = false;
+                playersVoteInput[x].GetComponentInChildren<Button>().gameObject.GetComponent<Image>().color = Color.gray;
+                playersVoteInput[x].GetComponentInChildren<Button>().enabled = false;
+            }
+
+            x++;
+        }
+    }
+
+    public void AddVoteTo(int playerIndex)
 	{
 		// add a vote to the indexed player
 		// after this if the vote count is 10 which means that all players voted
@@ -89,23 +123,35 @@ public class VotingManager : MonoBehaviour {
 
 			else // player ejected
 			{
-				string msg = (players[highestValueCount].name + " was an impostor");
-                StartCoroutine(WinLose(msg, 4));
+
+                if (players[highestValueCount].GetComponent<AIController>().isImpostor)
+                {
+                    string msg = (players[highestValueCount].name + " was an impostor");
+                    StartCoroutine(WinLose(msg, 4));
+                }
+                else 
+                {
+                    string msg = (players[highestValueCount].name + " wasn't an impostor");
+                    StartCoroutine(WinLose(msg, 4));
+                }
             }
-		}
+
+            // - 1 player alive
+            GameObject.Find("Manager").GetComponent<Manager>().playersAlive--;
+        }
     }
 
     private IEnumerator ResumeGame()
     {
-		// remove the canvas
-		// set player to spawn
-		// destroy all the dead bodies
-	
-		yield return new WaitForSeconds(3);
-
-        ejectionPanel.SetActive(false);
+        // remove the canvas
+        // set player to spawn
+        // destroy all the dead bodies
 
         GameObject.Find("Voting Panel").SetActive(false);
+
+        yield return new WaitForSeconds(3);
+
+        ejectionPanel.SetActive(false);
 
 
         for (int i = 0; i < GameObject.FindGameObjectsWithTag("Dead").Length; i++)
