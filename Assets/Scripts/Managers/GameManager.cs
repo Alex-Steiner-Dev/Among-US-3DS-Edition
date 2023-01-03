@@ -30,9 +30,4 @@ public class GameManager : MonoBehaviour {
     {
         panel = newPanel;
     }
-
-    public void EnablePlayer()
-    {
-        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
-    }
 }
