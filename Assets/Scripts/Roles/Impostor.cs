@@ -74,8 +74,10 @@ public class Impostor : MonoBehaviour {
 
         else if(killedPlayer != GameObject.Find("Player")) // player is still alive and we are playing
         {
-            Destroy(killedPlayer.transform.FindChild("Hat"));
-            Destroy(killedPlayer.transform.FindChild("Legs"));
+            Destroy(killedPlayer.transform.FindChild("Hat").gameObject);
+            Destroy(killedPlayer.transform.FindChild("Legs").gameObject);
+
+            killedPlayer.GetComponent<AIAnimator>().enabled = false;
 
             killedPlayer.GetComponent<Animator>().SetBool("Walk", false);
             killedPlayer.GetComponent<Animator>().SetBool("Idle", false);
@@ -93,8 +95,8 @@ public class Impostor : MonoBehaviour {
 
         else // player was killed
         {
-            Destroy(killedPlayer.transform.FindChild("Hat"));
-            Destroy(killedPlayer.transform.FindChild("Legs"));
+            Destroy(killedPlayer.transform.FindChild("Hat").gameObject);
+            Destroy(killedPlayer.transform.FindChild("Legs").gameObject);
 
             StartCoroutine(PlayerAnimation());
         }

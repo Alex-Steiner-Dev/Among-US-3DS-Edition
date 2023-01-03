@@ -11,17 +11,22 @@ public class AIMoving : MonoBehaviour {
 
     void Update()
     {
-        if (currentWayPoint < this.wayPointList.Length)
+        try
         {
-            if (targetWayPoint == null)
-                targetWayPoint = wayPointList[currentWayPoint];
-            Walk();
+
+            if (currentWayPoint < this.wayPointList.Length)
+            {
+                if (targetWayPoint == null)
+                    targetWayPoint = wayPointList[currentWayPoint];
+                Walk();
+            }
+            else
+            {
+                currentWayPoint = 0;
+                targetWayPoint = null;
+            }
         }
-        else
-        {
-            currentWayPoint = 0;
-            targetWayPoint = null;
-        }
+        catch { }
     }
 
     void Walk()
