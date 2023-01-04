@@ -56,6 +56,16 @@ I used in order to do that.</p>
 where, since I didn’t know how to get started, I followed <a
 href="https://www.youtube.com/watch?v=-L-WgKMFuhE&amp;list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW&amp;index=1&amp;t=0s">this</a>
 tutorial from Sebastian Lague which helped my out a ton.</p>
+<p>I designed the game so that every script could be reusable and not
+specific to a single task for example every task will have a script
+"GameTask" which will contain the name of the task, how many points you
+get when you complete. Also the animations are and the crew mate /
+impostor are shared between the player and the AIs.</p>
+<p>Creating this scripts was very time consuming at the beginning but I
+knew that was necessary if I wanted to build a large game, because when
+you start writing and writing so much code you will many files and many
+components on your game objects what you actually don’t really want
+since your project must be scalable.</p>
 <h1 id="game-play">Game play</h1>
 <p>The game play is almost identical to the normal game but with less
 task and instead of multiplayer you are playing with AI, the game comes
