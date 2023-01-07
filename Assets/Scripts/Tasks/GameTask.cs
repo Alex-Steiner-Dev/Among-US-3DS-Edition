@@ -19,8 +19,6 @@ public class GameTask : MonoBehaviour {
         {
             gameManager.EnableUseButton();
             gameManager.SetPanel(panel);
-
-            GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = false;
         }
     }
 
@@ -29,13 +27,12 @@ public class GameTask : MonoBehaviour {
         if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.DisableUseButton();
-
-            GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
         }
     }
 
     public void EnableMovement()
     {
+
         GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
     }
 }

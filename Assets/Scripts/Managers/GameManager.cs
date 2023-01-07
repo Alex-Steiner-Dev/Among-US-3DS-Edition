@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour {
     {
         panel.SetActive(true);
         onUseButton.Invoke();
+
+        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = false;
     }
 
     public void EnableUseButton()
