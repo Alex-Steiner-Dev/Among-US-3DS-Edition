@@ -23,6 +23,7 @@ public class StartReactor : MonoBehaviour {
 
     public void StartTask()
     {
+
         count++;
         ReactorSequence(count);
         StartCoroutine(ExecuteInput(seqList));
@@ -37,6 +38,11 @@ public class StartReactor : MonoBehaviour {
     public void RedoTask()
     {
         StopAllCoroutines();
+
+        foreach (GameObject input in inputs)
+        {
+            input.GetComponent<Image>().enabled = false;
+        }
 
         sequenceCount = 0;
         count = 0;
@@ -104,6 +110,7 @@ public class StartReactor : MonoBehaviour {
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            StopAllCoroutines();
             gameManager.onUseButton.RemoveListener(StartTask);
         }
     }

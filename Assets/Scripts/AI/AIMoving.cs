@@ -35,7 +35,7 @@ public class AIMoving : MonoBehaviour {
 
         if(currentWayPoint == 3)
         {
-            speed = 2.5f;
+            speed = 3f;
         }
 
         if (transform.position == targetWayPoint.position)
