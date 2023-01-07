@@ -33,4 +33,9 @@ public class GameTask : MonoBehaviour {
             GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
         }
     }
+
+    public void EnableMovement()
+    {
+        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
+    }
 }
