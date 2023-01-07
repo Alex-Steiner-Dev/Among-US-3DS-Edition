@@ -93,6 +93,8 @@ public class VotingManager : MonoBehaviour {
 			}
 		}
 
+        highestValueCount--;
+
         if (firstHighestValue == secondHighestValue) // no one ejected same votes
 		{
             ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + "( Tied ) no one was ejected";

@@ -14,5 +14,14 @@ public class Ejection : MonoBehaviour {
         ejectedSound.Play();
 
         infoTxt.text = msg;
+
+        foreach(GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        {
+            if(player != GameObject.Find("Player"))
+            {
+                player.GetComponent<AIMoving>().currentWayPoint = 0;
+                player.GetComponent<AIMoving>().targetWayPoint = null;
+            }
+        }
     }
 }

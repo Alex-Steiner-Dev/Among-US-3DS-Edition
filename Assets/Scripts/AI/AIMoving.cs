@@ -7,7 +7,7 @@ public class AIMoving : MonoBehaviour {
     [SerializeField] private float speed = 3f;
 
     public int currentWayPoint = 0;
-    Transform targetWayPoint;
+    public Transform targetWayPoint;
 
     void Update()
     {
