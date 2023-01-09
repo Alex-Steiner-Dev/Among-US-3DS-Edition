@@ -77,8 +77,8 @@ public class VotingManager : MonoBehaviour {
 
         GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 
-		int firstHighestValue = 0;
-		int secondHighestValue = 0;
+		int firstHighestValue = -1;
+		int secondHighestValue = -1;
 
 		int highestValueCount = 0;
 
@@ -92,8 +92,6 @@ public class VotingManager : MonoBehaviour {
 				highestValueCount = i;
 			}
 		}
-
-        highestValueCount--;
 
         if (firstHighestValue == secondHighestValue) // no one ejected same votes
 		{
