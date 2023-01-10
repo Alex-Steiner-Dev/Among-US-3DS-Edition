@@ -11,6 +11,8 @@ public class RoleReveal : MonoBehaviour {
     private void Awake()
     {
         manager = GameObject.Find("Manager").GetComponent<Manager>();
+
+        manager.players = GameObject.FindGameObjectsWithTag("Player");
     }
 
     public void RoleRevealPanel(bool impostor)

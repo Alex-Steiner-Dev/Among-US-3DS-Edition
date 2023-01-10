@@ -81,8 +81,6 @@ public class VotingManager : MonoBehaviour {
 
         ejectionPanel.SetActive(true);
 
-        GameObject[] players = manager.players;
-
 		int firstHighestValue = -1;
 		int secondHighestValue = -1;
 
@@ -99,25 +97,27 @@ public class VotingManager : MonoBehaviour {
 			}
 		}
 
+        Debug.Log(highestValueCount.ToString());
+
         if (firstHighestValue == secondHighestValue) // no one ejected same votes
 		{
-            ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + "( Tied ) no one was ejected";
+            ejectionPanel.GetComponent<Ejection>().msg = manager.players[highestValueCount].name + "( Tied ) no one was ejected";
         }
 
 		else
 		{
-			if (players[highestValueCount] != manager.player) // ai ejected
+			if (manager.players[highestValueCount] != manager.player) // ai ejected
 			{
-				if (players[highestValueCount].GetComponent<AIController>().isImpostor)
+				if (manager.players[highestValueCount].GetComponent<AIController>().isImpostor)
 				{
-                    StartCoroutine(WinLose((players[highestValueCount].name + " was an impostor"), 3));
+                    StartCoroutine(WinLose((manager.players[highestValueCount].name + " was an impostor"), 3));
                 }
 
 				else
 				{
-					ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + " wasn't an impsostor";
+					ejectionPanel.GetComponent<Ejection>().msg = manager.players[highestValueCount].name + " wasn't an impsostor";
 
-					Destroy(players[highestValueCount]);
+					Destroy(manager.players[highestValueCount]);
 
                     ejectionPanel.SetActive(true);
 
@@ -130,21 +130,20 @@ public class VotingManager : MonoBehaviour {
 			else // player ejected
 			{
 
-                if (players[highestValueCount].GetComponent<AIController>().isImpostor)
+                if (manager.players[highestValueCount].GetComponent<AIController>().isImpostor)
                 {
-                    string msg = (players[highestValueCount].name + " was an impostor");
+                    string msg = (manager.players[highestValueCount].name + " was an impostor");
                     StartCoroutine(WinLose(msg, 4));
                 }
                 else 
                 {
-                    string msg = (players[highestValueCount].name + " wasn't an impostor");
+                    string msg = (manager.players[highestValueCount].name + " wasn't an impostor");
                     StartCoroutine(WinLose(msg, 4));
                 }
             }
 
             // - 1 player alive
             manager.playersAlive--;
-            manager.players = GameObject.FindGameObjectsWithTag("Player");
         }
     }
 

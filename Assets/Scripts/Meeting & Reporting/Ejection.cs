@@ -22,7 +22,9 @@ public class Ejection : MonoBehaviour {
 
         infoTxt.text = msg;
 
-        foreach(GameObject player in manager.players)
+        manager.players = GameObject.FindGameObjectsWithTag("Player");
+
+        foreach (GameObject player in manager.players)
         {
             if(player != manager.player)
             {

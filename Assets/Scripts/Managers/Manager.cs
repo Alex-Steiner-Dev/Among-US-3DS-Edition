@@ -19,6 +19,7 @@ public class Manager : MonoBehaviour
     private void Start()
     {
         player = GameObject.Find("Player");
+        players = GameObject.FindGameObjectsWithTag("Player");
 
         DontDestroyOnLoad(player);
     }
