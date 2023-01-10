@@ -5,11 +5,11 @@ using UnityEngine.SceneManagement;
 public class Manager : MonoBehaviour
 {
     private GameObject player;
-    private GameObject bots;
 
     public bool isPlaying;
 
     public int playersAlive = 10;
+
     private void Awake()
     {
         DontDestroyOnLoad(this);
@@ -31,22 +31,22 @@ public class Manager : MonoBehaviour
 
     IEnumerator ChooseRole()
     {
-        yield return new WaitForSeconds(.5f);
+        yield return new WaitForSeconds(.1f);
 
         GameObject impostor = null;
 
         int playerIndex = Random.Range(0, 9);
 
-        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        foreach (GameObject players in GameObject.FindGameObjectsWithTag("Player"))
         {
-            if (player == GameObject.Find("Player"))
+            if (players == GameObject.Find("Player"))
             {
-                player.GetComponent<PlayerMovement>().enabled = false;
+                players.GetComponent<PlayerMovement>().enabled = false;
             }
 
             else
             {
-                player.GetComponent<AIMoving>().enabled = false;
+                players.GetComponent<AIMoving>().enabled = false;
             }
         }
 
@@ -57,11 +57,11 @@ public class Manager : MonoBehaviour
 
             Debug.Log("You are the impostor!");
 
-            GameObject.Find("Player").GetComponent<PlayerController>().isImpostor = true;
-            GameObject.Find("Player").AddComponent<Impostor>();
-            GameObject.Find("Player").AddComponent<AudioSource>();
+            player.GetComponent<PlayerController>().isImpostor = true;
+            player.AddComponent<Impostor>();
+            player.AddComponent<AudioSource>();
 
-            impostor = GameObject.Find("Player");
+            impostor = player;
 
             Destroy(GameObject.Find("TaskManager"));
         }
@@ -78,11 +78,13 @@ public class Manager : MonoBehaviour
 
             Debug.Log("AI Player (" + (playerIndex - 1) + ") is the imposotr!");
 
-            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").GetComponent<AIController>().isImpostor = true;
-            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<Impostor>();
-            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<AudioSource>();
+            GameObject tempImpostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
 
-            impostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
+            tempImpostor.GetComponent<AIController>().isImpostor = true;
+            tempImpostor.AddComponent<Impostor>();
+            tempImpostor.AddComponent<AudioSource>();
+
+            impostor = tempImpostor;
 
             Destroy(GameObject.Find("KillButton"));
         }
