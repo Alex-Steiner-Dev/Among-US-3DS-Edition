@@ -76,8 +76,15 @@ public class VotingManager : MonoBehaviour {
 
         ejectionPanel.SetActive(true);
 
+<<<<<<< HEAD
 		int firstHighestValue = -1;
 		int secondHighestValue = -1;
+=======
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+
+		int firstHighestValue = 0;
+		int secondHighestValue = 0;
+>>>>>>> parent of 7a61365 (Bug Fix)
 
 		int highestValueCount = 0;
 
@@ -92,7 +99,11 @@ public class VotingManager : MonoBehaviour {
 			}
 		}
 
+<<<<<<< HEAD
         Debug.Log(highestValueCount.ToString());
+=======
+        highestValueCount--;
+>>>>>>> parent of 7a61365 (Bug Fix)
 
         if (firstHighestValue == secondHighestValue) // no one ejected same votes
 		{
