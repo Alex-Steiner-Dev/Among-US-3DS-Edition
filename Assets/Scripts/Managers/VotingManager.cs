@@ -17,17 +17,12 @@ public class VotingManager : MonoBehaviour {
 	[SerializeField] private int voteCount;
 
     Manager manager;
+
     private void Awake()
     {
         manager = GameObject.Find("Manager").GetComponent<Manager>();
     }
-
-    private void Update()
-    {
-        CheckInputs();
-    }
-
-    private void CheckInputs()
+    public void CheckInputs()
     {
         int x = 0;
 
