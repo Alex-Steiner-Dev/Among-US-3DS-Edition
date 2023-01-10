@@ -6,24 +6,31 @@ public class SpawnManager : MonoBehaviour {
 
 	[SerializeField] private Transform[] spawnPoints;
 
+	GameObject[] importantUI;
+
+	private void Awake()
+	{
+		importantUI = GameObject.FindGameObjectsWithTag("Important UI");
+    }
 	public void ReturnSpawnPoint()
 	{
 		// array of players alive
 		// set them to spawn position according to index
+		GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 
-		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
+        for (int i = 0; i < players.Length; i++)
 		{
-			GameObject.FindGameObjectsWithTag("Player")[i].transform.position = spawnPoints[i].transform.position;
+			players[i].transform.position = spawnPoints[i].transform.position;
 			
-			for(int j = 0; j < GameObject.FindGameObjectsWithTag("Player")[i].GetComponents<MonoBehaviour>().Length; j++)
+			for(int j = 0; j < players[i].GetComponents<MonoBehaviour>().Length; j++)
 			{
-				GameObject.FindGameObjectsWithTag("Player")[i].GetComponents<MonoBehaviour>()[j].enabled = true;
+				players[i].GetComponents<MonoBehaviour>()[j].enabled = true;
             }
         }
 
-		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Important UI").Length; i++)
+		for(int i = 0; i < importantUI.Length; i++)
 		{
-			GameObject.FindGameObjectsWithTag("Important UI")[i].SetActive(false);
+			importantUI[i].SetActive(false);
 		}
 	}
 }

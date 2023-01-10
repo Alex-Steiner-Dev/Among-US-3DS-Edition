@@ -6,6 +6,13 @@ public class RoleReveal : MonoBehaviour {
     [SerializeField] private GameObject crewmatePanel;
     [SerializeField] private GameObject impostorPanel;
 
+    Manager manager;
+
+    private void Awake()
+    {
+        manager = GameObject.Find("Manager").GetComponent<Manager>();
+    }
+
     public void RoleRevealPanel(bool impostor)
     {
         StartCoroutine(ShowRole(impostor));
@@ -32,11 +39,11 @@ public class RoleReveal : MonoBehaviour {
             impostorPanel.SetActive(false);
         }
 
-        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
+        manager.player.GetComponent<PlayerMovement>().enabled = true;
 
-        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        foreach (GameObject player in manager.players)
         {
-            if (player != GameObject.Find("Player"))
+            if (player != manager.player)
             {
                 player.GetComponent<AIMoving>().enabled = true;
             }

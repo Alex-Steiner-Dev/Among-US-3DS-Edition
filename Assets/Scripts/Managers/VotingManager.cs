@@ -16,6 +16,12 @@ public class VotingManager : MonoBehaviour {
 
 	[SerializeField] private int voteCount;
 
+    Manager manager;
+    private void Awake()
+    {
+        manager = GameObject.Find("Manager").GetComponent<Manager>();
+    }
+
     private void Update()
     {
         CheckInputs();
@@ -25,7 +31,7 @@ public class VotingManager : MonoBehaviour {
     {
         int x = 0;
 
-        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
+        foreach (GameObject player in manager.players)
         {
             int count = 0;
 
@@ -58,7 +64,7 @@ public class VotingManager : MonoBehaviour {
 
 		voteCount++;
 
-		if (voteCount == GameObject.Find("Manager").GetComponent<Manager>().playersAlive)
+		if (voteCount == manager.playersAlive)
 		{
 			voteCount = 0;
 			VoteEvaluation();
@@ -75,7 +81,7 @@ public class VotingManager : MonoBehaviour {
 
         ejectionPanel.SetActive(true);
 
-        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+        GameObject[] players = manager.players;
 
 		int firstHighestValue = -1;
 		int secondHighestValue = -1;
@@ -100,7 +106,7 @@ public class VotingManager : MonoBehaviour {
 
 		else
 		{
-			if (players[highestValueCount] != GameObject.Find("Player")) // ai ejected
+			if (players[highestValueCount] != manager.player) // ai ejected
 			{
 				if (players[highestValueCount].GetComponent<AIController>().isImpostor)
 				{
@@ -137,7 +143,8 @@ public class VotingManager : MonoBehaviour {
             }
 
             // - 1 player alive
-            GameObject.Find("Manager").GetComponent<Manager>().playersAlive--;
+            manager.playersAlive--;
+            manager.players = GameObject.FindGameObjectsWithTag("Player");
         }
     }
 
@@ -174,7 +181,7 @@ public class VotingManager : MonoBehaviour {
         ejectionPanel.GetComponent<Ejection>().msg = msg;
         ejectionPanel.GetComponent<Ejection>().StartEjection();
 
-        Destroy(GameObject.Find("Player"));
+        Destroy(manager.player);
 
         yield return new WaitForSeconds(3);
 

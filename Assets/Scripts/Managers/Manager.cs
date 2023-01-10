@@ -4,7 +4,8 @@ using UnityEngine.SceneManagement;
 
 public class Manager : MonoBehaviour
 {
-    private GameObject player;
+    public GameObject player;
+    public GameObject[] players;
 
     public bool isPlaying;
 
@@ -37,16 +38,16 @@ public class Manager : MonoBehaviour
 
         int playerIndex = Random.Range(0, 9);
 
-        foreach (GameObject players in GameObject.FindGameObjectsWithTag("Player"))
+        foreach (GameObject x in players)
         {
-            if (players == GameObject.Find("Player"))
+            if (x == GameObject.Find("Player"))
             {
-                players.GetComponent<PlayerMovement>().enabled = false;
+                x.GetComponent<PlayerMovement>().enabled = false;
             }
 
             else
             {
-                players.GetComponent<AIMoving>().enabled = false;
+                x.GetComponent<AIMoving>().enabled = false;
             }
         }
 
@@ -54,8 +55,6 @@ public class Manager : MonoBehaviour
         {
             // load your self as an impostor
             GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(true);
-
-            Debug.Log("You are the impostor!");
 
             player.GetComponent<PlayerController>().isImpostor = true;
             player.AddComponent<Impostor>();
@@ -71,12 +70,8 @@ public class Manager : MonoBehaviour
             // assign the impostor components to the ai & load you as a crewmate
             GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(false);
 
-            Debug.Log("You are a crewmate!");
-
             player.GetComponent<PlayerController>().LoadCrewmate();
             player.AddComponent<Crewmate>();
-
-            Debug.Log("AI Player (" + (playerIndex - 1) + ") is the imposotr!");
 
             GameObject tempImpostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
 
