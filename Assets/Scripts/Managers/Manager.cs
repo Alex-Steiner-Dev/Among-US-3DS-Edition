@@ -31,7 +31,7 @@ public class Manager : MonoBehaviour
 
     IEnumerator ChooseRole()
     {
-        yield return new WaitForSeconds(.1f);
+        yield return new WaitForSeconds(.5f);
 
         GameObject impostor = null;
 
