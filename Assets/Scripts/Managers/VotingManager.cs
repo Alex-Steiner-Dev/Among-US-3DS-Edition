@@ -77,13 +77,19 @@ public class VotingManager : MonoBehaviour {
         ejectionPanel.SetActive(true);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 		int firstHighestValue = -1;
 		int secondHighestValue = -1;
 =======
+=======
+>>>>>>> parent of 7a61365 (Bug Fix)
         GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 
 		int firstHighestValue = 0;
 		int secondHighestValue = 0;
+<<<<<<< HEAD
+>>>>>>> parent of 7a61365 (Bug Fix)
+=======
 >>>>>>> parent of 7a61365 (Bug Fix)
 
 		int highestValueCount = 0;
@@ -100,7 +106,11 @@ public class VotingManager : MonoBehaviour {
 		}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         Debug.Log(highestValueCount.ToString());
+=======
+        highestValueCount--;
+>>>>>>> parent of 7a61365 (Bug Fix)
 =======
         highestValueCount--;
 >>>>>>> parent of 7a61365 (Bug Fix)
