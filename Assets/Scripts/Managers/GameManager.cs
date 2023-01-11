@@ -10,18 +10,12 @@ public class GameManager : MonoBehaviour {
 
     public UnityEvent onUseButton = new UnityEvent();
 
-    Manager manager;
-    private void Awake()
-    {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-    }
-
     public void UseButton()
     {
         panel.SetActive(true);
         onUseButton.Invoke();
 
-        manager.player.GetComponent<PlayerMovement>().enabled = false;
+        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = false;
     }
 
     public void EnableUseButton()

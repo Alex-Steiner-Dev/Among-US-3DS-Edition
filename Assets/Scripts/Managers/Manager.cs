@@ -4,13 +4,12 @@ using UnityEngine.SceneManagement;
 
 public class Manager : MonoBehaviour
 {
-    public GameObject player;
-    public GameObject[] players;
+    private GameObject player;
+    private GameObject bots;
 
     public bool isPlaying;
 
     public int playersAlive = 10;
-
     private void Awake()
     {
         DontDestroyOnLoad(this);
@@ -19,7 +18,6 @@ public class Manager : MonoBehaviour
     private void Start()
     {
         player = GameObject.Find("Player");
-        players = GameObject.FindGameObjectsWithTag("Player");
 
         DontDestroyOnLoad(player);
     }
@@ -39,16 +37,16 @@ public class Manager : MonoBehaviour
 
         int playerIndex = Random.Range(0, 9);
 
-        foreach (GameObject x in players)
+        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
         {
-            if (x == GameObject.Find("Player"))
+            if (player == GameObject.Find("Player"))
             {
-                x.GetComponent<PlayerMovement>().enabled = false;
+                player.GetComponent<PlayerMovement>().enabled = false;
             }
 
             else
             {
-                x.GetComponent<AIMoving>().enabled = false;
+                player.GetComponent<AIMoving>().enabled = false;
             }
         }
 
@@ -57,11 +55,13 @@ public class Manager : MonoBehaviour
             // load your self as an impostor
             GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(true);
 
-            player.GetComponent<PlayerController>().isImpostor = true;
-            player.AddComponent<Impostor>();
-            player.AddComponent<AudioSource>();
+            Debug.Log("You are the impostor!");
 
-            impostor = player;
+            GameObject.Find("Player").GetComponent<PlayerController>().isImpostor = true;
+            GameObject.Find("Player").AddComponent<Impostor>();
+            GameObject.Find("Player").AddComponent<AudioSource>();
+
+            impostor = GameObject.Find("Player");
 
             Destroy(GameObject.Find("TaskManager"));
         }
@@ -71,16 +71,18 @@ public class Manager : MonoBehaviour
             // assign the impostor components to the ai & load you as a crewmate
             GameObject.Find("Role Reveal").GetComponent<RoleReveal>().RoleRevealPanel(false);
 
+            Debug.Log("You are a crewmate!");
+
             player.GetComponent<PlayerController>().LoadCrewmate();
             player.AddComponent<Crewmate>();
 
-            GameObject tempImpostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
+            Debug.Log("AI Player (" + (playerIndex - 1) + ") is the imposotr!");
 
-            tempImpostor.GetComponent<AIController>().isImpostor = true;
-            tempImpostor.AddComponent<Impostor>();
-            tempImpostor.AddComponent<AudioSource>();
+            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").GetComponent<AIController>().isImpostor = true;
+            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<Impostor>();
+            GameObject.Find("AI Player (" + (playerIndex - 1) + ")").AddComponent<AudioSource>();
 
-            impostor = tempImpostor;
+            impostor = GameObject.Find("AI Player (" + (playerIndex - 1) + ")");
 
             Destroy(GameObject.Find("KillButton"));
         }

@@ -5,14 +5,9 @@ using UnityEngine;
 public class AIController : MonoBehaviour {
 	public bool isImpostor;
 
-    Manager manager;
-    private void Awake()
-    {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-    }
-
     private void Update()
 	{
+
 		if(isImpostor)
 		{
             DoImpostor();
@@ -23,7 +18,7 @@ public class AIController : MonoBehaviour {
     {
         Impostor m_impostor = GetComponent<Impostor>();
 
-        if (manager.isPlaying) // currently playing and trying to kill others
+        if (GameObject.Find("Manager").GetComponent<Manager>().isPlaying) // currently playing and trying to kill others
         {
             // checking if we can kill and have a player near us
             if (m_impostor.canKill && m_impostor.killedPlayer)
@@ -46,7 +41,7 @@ public class AIController : MonoBehaviour {
 
 		GameObject nearestPlayer = null;
 
-		GameObject[] players = new GameObject[manager.players.Length - 1];
+		GameObject[] players = new GameObject[GameObject.FindGameObjectsWithTag("Player").Length - 1];
 
 		float nearestPlayerDistance = 100;
 
@@ -55,7 +50,7 @@ public class AIController : MonoBehaviour {
 		{
 			if (players[i] != gameObject)
 			{
-				players[i] = manager.players[i];
+				players[i] = GameObject.FindGameObjectsWithTag("Player")[i];
 			}
 		}
 

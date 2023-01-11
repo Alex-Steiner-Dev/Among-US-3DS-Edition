@@ -8,12 +8,6 @@ public class GameTask : MonoBehaviour {
     [SerializeField] private GameManager gameManager;
     [SerializeField] public GameObject panel;
 
-    Manager manager;
-    private void Awake()
-    {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-    }
-
     private void Start()
     {
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
@@ -21,7 +15,7 @@ public class GameTask : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") && manager.player)
+        if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.EnableUseButton();
             gameManager.SetPanel(panel);
@@ -30,7 +24,7 @@ public class GameTask : MonoBehaviour {
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") && manager.player)
+        if (collision.gameObject.CompareTag("Player") && GameObject.Find("Player"))
         {
             gameManager.DisableUseButton();
         }
@@ -39,6 +33,6 @@ public class GameTask : MonoBehaviour {
     public void EnableMovement()
     {
 
-        manager.player.GetComponent<PlayerMovement>().enabled = true;
+        GameObject.Find("Player").GetComponent<PlayerMovement>().enabled = true;
     }
 }

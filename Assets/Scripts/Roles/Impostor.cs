@@ -18,26 +18,17 @@ public class Impostor : MonoBehaviour {
 
     public bool canKill;
 
-    Manager manager;
-
-    private void Awake()
-    {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-    }
-
-    private void Start ()
+	private void Start ()
 	{
         reportButton = GameObject.Find("ReportButton");
 
         killSound = GameObject.Find("KillSound").GetComponent<AudioSource>().clip;
         GetComponent<AudioSource>().spatialBlend = 1;
 
-        /*
         if(gameObject.name == "Player")
         {
             killRange = 20;
         }
-        */
     }
 
 	private void Update()
@@ -68,20 +59,20 @@ public class Impostor : MonoBehaviour {
     [System.Obsolete]
     public void Kill()
 	{
+        Debug.Log(gameObject.name + " killed " + killedPlayer.name);
 
         GetComponent<AudioSource>().clip = killSound;
         GetComponent<AudioSource>().Play();
 
-        manager.playersAlive--;
-        manager.players = GameObject.FindGameObjectsWithTag("Player");
+        GameObject.Find("Manager").GetComponent<Manager>().playersAlive--;
 
-        if(manager.playersAlive == 0) // impostor wins
+        if(GameObject.Find("Manager").GetComponent<Manager>().playersAlive == 0) // impostor wins
         {
-            Destroy(manager.player);
+            Destroy(GameObject.Find("Player"));
             SceneManager.LoadScene(4);
         }
 
-        else if(killedPlayer != manager.player) // player is still alive and we are playing
+        else if(killedPlayer != GameObject.Find("Player")) // player is still alive and we are playing
         {
             Destroy(killedPlayer.transform.FindChild("Hat").gameObject);
             Destroy(killedPlayer.transform.FindChild("Legs").gameObject);
@@ -117,7 +108,7 @@ public class Impostor : MonoBehaviour {
 	{
 		// we do basically the same thing as we where doing the nearest player however we just put a range
 		GameObject tempPlayer = null;
-        GameObject[] players = manager.players;
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 		float nearestPlayerDistance = 100;
 
         for (int i = 0; i < players.Length; i++)
@@ -185,7 +176,7 @@ public class Impostor : MonoBehaviour {
 
         yield return new WaitForSeconds(5);
 
-        Destroy(manager.player);
+        Destroy(GameObject.Find("Player"));
 
         SceneManager.LoadScene(4);
     }

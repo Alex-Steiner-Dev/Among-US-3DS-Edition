@@ -9,24 +9,15 @@ public class Ejection : MonoBehaviour {
     [SerializeField] private Text infoTxt;
     [SerializeField] public string msg;
 
-    Manager manager;
-
-    private void Awake()
-    {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-    }
-
     public void StartEjection()
     {
         ejectedSound.Play();
 
         infoTxt.text = msg;
 
-        manager.players = GameObject.FindGameObjectsWithTag("Player");
-
-        foreach (GameObject player in manager.players)
+        foreach(GameObject player in GameObject.FindGameObjectsWithTag("Player"))
         {
-            if(player != manager.player)
+            if(player != GameObject.Find("Player"))
             {
                 player.GetComponent<AIMoving>().currentWayPoint = 0;
                 player.GetComponent<AIMoving>().targetWayPoint = null;

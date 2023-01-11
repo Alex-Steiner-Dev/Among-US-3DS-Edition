@@ -6,13 +6,6 @@ public class Report : MonoBehaviour {
     [SerializeField] private GameObject reportingPanel;
     [SerializeField] private GameObject votingPanel;
 
-    Manager manager;
-
-    private void Awake()
-    {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-    }
-
     public void ReportBody()
     {
         // disable all the players script except for the voting
@@ -21,16 +14,16 @@ public class Report : MonoBehaviour {
 
         GameObject.Find("Spawn Points").GetComponent<SpawnManager>().ReturnSpawnPoint();
 
-        for (int i = 0; i < manager.players.Length; i++)
+        for (int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
         {
             // disable components
             // player
             try
             {
-                manager.players[i].GetComponent<PlayerController>().enabled = false;
-                manager.players[i].GetComponent<PlayerMovement>().enabled = false;
-                manager.players[i].GetComponent<PlayerAnimationHandler>().enabled = false;
-                manager.players[i].GetComponent<Impostor>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerController>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerMovement>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerAnimationHandler>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().enabled = false;
             }
 
             catch { }
@@ -38,17 +31,17 @@ public class Report : MonoBehaviour {
             // ai
             try
             {
-                manager.players[i].GetComponent<AIMoving>().enabled = false;
-                manager.players[i].GetComponent<AIController>().enabled = false;
-                manager.players[i].GetComponent<Impostor>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIMoving>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIController>().enabled = false;
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().enabled = false;
             }
 
             catch { }
 
             // add voting
-            if (!(manager.players[i].GetComponent<PlayerController>()))
+            if (!(GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<PlayerController>()))
             {
-                manager.players[i].AddComponent<AIVoting>();
+                GameObject.FindGameObjectsWithTag("Player")[i].AddComponent<AIVoting>();
             }
         }
 
@@ -73,12 +66,12 @@ public class Report : MonoBehaviour {
         GameObject.Find("Buttons").SetActive(false);
 
         // ai vote
-        for(int i = 0; i < manager.players.Length; i++)
+        for(int i = 0; i < GameObject.FindGameObjectsWithTag("Player").Length; i++)
         {
-            if (manager.players[i] != manager.player)
+            if (GameObject.FindGameObjectsWithTag("Player")[i] != GameObject.Find("Player"))
             {
-                manager.players[i].GetComponent<AIVoting>().Vote();
-                Destroy(manager.players[i].GetComponent<AIVoting>());
+                GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIVoting>().Vote();
+                Destroy(GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<AIVoting>());
             }
         }
     }

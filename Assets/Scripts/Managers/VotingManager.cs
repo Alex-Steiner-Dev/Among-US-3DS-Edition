@@ -16,17 +16,16 @@ public class VotingManager : MonoBehaviour {
 
 	[SerializeField] private int voteCount;
 
-    Manager manager;
-
-    private void Awake()
+    private void Update()
     {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
+        CheckInputs();
     }
-    public void CheckInputs()
+
+    private void CheckInputs()
     {
         int x = 0;
 
-        foreach (GameObject player in manager.players)
+        foreach (GameObject player in GameObject.FindGameObjectsWithTag("Player"))
         {
             int count = 0;
 
@@ -59,7 +58,7 @@ public class VotingManager : MonoBehaviour {
 
 		voteCount++;
 
-		if (voteCount == manager.playersAlive)
+		if (voteCount == GameObject.Find("Manager").GetComponent<Manager>().playersAlive)
 		{
 			voteCount = 0;
 			VoteEvaluation();
@@ -76,21 +75,10 @@ public class VotingManager : MonoBehaviour {
 
         ejectionPanel.SetActive(true);
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-		int firstHighestValue = -1;
-		int secondHighestValue = -1;
-=======
-=======
->>>>>>> parent of 7a61365 (Bug Fix)
         GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
 
-		int firstHighestValue = 0;
-		int secondHighestValue = 0;
-<<<<<<< HEAD
->>>>>>> parent of 7a61365 (Bug Fix)
-=======
->>>>>>> parent of 7a61365 (Bug Fix)
+		int firstHighestValue = -1;
+		int secondHighestValue = -1;
 
 		int highestValueCount = 0;
 
@@ -105,35 +93,25 @@ public class VotingManager : MonoBehaviour {
 			}
 		}
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-        Debug.Log(highestValueCount.ToString());
-=======
-        highestValueCount--;
->>>>>>> parent of 7a61365 (Bug Fix)
-=======
-        highestValueCount--;
->>>>>>> parent of 7a61365 (Bug Fix)
-
         if (firstHighestValue == secondHighestValue) // no one ejected same votes
 		{
-            ejectionPanel.GetComponent<Ejection>().msg = manager.players[highestValueCount].name + "( Tied ) no one was ejected";
+            ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + "( Tied ) no one was ejected";
         }
 
 		else
 		{
-			if (manager.players[highestValueCount] != manager.player) // ai ejected
+			if (players[highestValueCount] != GameObject.Find("Player")) // ai ejected
 			{
-				if (manager.players[highestValueCount].GetComponent<AIController>().isImpostor)
+				if (players[highestValueCount].GetComponent<AIController>().isImpostor)
 				{
-                    StartCoroutine(WinLose((manager.players[highestValueCount].name + " was an impostor"), 3));
+                    StartCoroutine(WinLose((players[highestValueCount].name + " was an impostor"), 3));
                 }
 
 				else
 				{
-					ejectionPanel.GetComponent<Ejection>().msg = manager.players[highestValueCount].name + " wasn't an impsostor";
+					ejectionPanel.GetComponent<Ejection>().msg = players[highestValueCount].name + " wasn't an impsostor";
 
-					Destroy(manager.players[highestValueCount]);
+					Destroy(players[highestValueCount]);
 
                     ejectionPanel.SetActive(true);
 
@@ -146,20 +124,20 @@ public class VotingManager : MonoBehaviour {
 			else // player ejected
 			{
 
-                if (manager.players[highestValueCount].GetComponent<AIController>().isImpostor)
+                if (players[highestValueCount].GetComponent<AIController>().isImpostor)
                 {
-                    string msg = (manager.players[highestValueCount].name + " was an impostor");
+                    string msg = (players[highestValueCount].name + " was an impostor");
                     StartCoroutine(WinLose(msg, 4));
                 }
                 else 
                 {
-                    string msg = (manager.players[highestValueCount].name + " wasn't an impostor");
+                    string msg = (players[highestValueCount].name + " wasn't an impostor");
                     StartCoroutine(WinLose(msg, 4));
                 }
             }
 
             // - 1 player alive
-            manager.playersAlive--;
+            GameObject.Find("Manager").GetComponent<Manager>().playersAlive--;
         }
     }
 
@@ -196,7 +174,7 @@ public class VotingManager : MonoBehaviour {
         ejectionPanel.GetComponent<Ejection>().msg = msg;
         ejectionPanel.GetComponent<Ejection>().StartEjection();
 
-        Destroy(manager.player);
+        Destroy(GameObject.Find("Player"));
 
         yield return new WaitForSeconds(3);
 

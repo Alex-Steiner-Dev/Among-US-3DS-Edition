@@ -7,12 +7,8 @@ public class BufferHandler : MonoBehaviour {
 	[SerializeField] private SpriteRenderer[] m_objects;
 	[SerializeField] private float m_distance;
 
-    Manager manager;
-
     private void Awake()
     {
-        manager = GameObject.Find("Manager").GetComponent<Manager>();
-
         m_objects = (SpriteRenderer[])FindObjectsOfType(typeof(SpriteRenderer));
 
         foreach(SpriteRenderer sprite in m_objects) 
@@ -27,7 +23,7 @@ public class BufferHandler : MonoBehaviour {
         {
             try
             {
-                if (Vector2.Distance(manager.player.transform.position, m_objects[i].gameObject.transform.position) < m_distance)
+                if (Vector2.Distance(GameObject.Find("Player").transform.position, m_objects[i].gameObject.transform.position) < m_distance)
                 {
                     m_objects[i].gameObject.GetComponent<SpriteRenderer>().enabled = true;
                 }
