@@ -41,6 +41,12 @@ public class Impostor : MonoBehaviour {
         }
 	}
 
+    public void ResetCooldDown()
+    {
+        cooldown = 10;
+    }
+
+
 	void CoolDown()
 	{
         if (!canKill)

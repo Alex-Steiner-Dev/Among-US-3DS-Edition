@@ -19,6 +19,12 @@ public class SpawnManager : MonoBehaviour {
 			{
 				GameObject.FindGameObjectsWithTag("Player")[i].GetComponents<MonoBehaviour>()[j].enabled = true;
             }
+
+			if (GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>())
+			{
+				GameObject.FindGameObjectsWithTag("Player")[i].GetComponent<Impostor>().ResetCooldDown();
+			}
+
         }
 
 		for(int i = 0; i < GameObject.FindGameObjectsWithTag("Important UI").Length; i++)
